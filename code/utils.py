@@ -58,7 +58,7 @@ def get_min_max_region(ele, logger=None):
         max_div_tmp, child = get_max_child_ele(max_div)
         if logger:
             logger('div class: {}, {}\n\t, {}, {}'.format(max_div.get_attribute('class'), parent,
-                                              max_div_tmp.get_attribute('class'), child))
+                                                          max_div_tmp.get_attribute('class'), child))
         if max_div_tmp.tag_name == 'table':
             return max_div
         # 如果最大子区域小于父区域的1/2.则返回父区域
@@ -113,7 +113,8 @@ def get_seminars_list(ele):
 
 
 def get_seminars_table_info(ele):
-    return pd.read_html(ele.get_attribute('innerHTML'), extract_links='all')[0]
+    df = pd.read_html(ele.get_attribute('innerHTML'), extract_links='body')[0]
+    return df
 
 
 def get_seminars_url_info(ele, logger=None):
@@ -144,7 +145,7 @@ def get_seminars_url_info(ele, logger=None):
         # 判断是否是最底层的页码
         if len(title) == 1:
             continue
-        result['page_name'].append(ele.title)
+        # result['page_name'].append(ele.title)
         result['href'].append(href)
         result['title'].append(title)
         result['info'].append(li.text)
