@@ -7,6 +7,34 @@ layout: home
 
 ## 学术报告
 
+### 今日更新
+<table>
+  <tbody>
+    <tr>
+        <td><p>单位</p></td>
+		<td><p>题目</p></td>
+		<td><p>报告人</p></td>
+		<td><p>时间</p></td>
+		<td><p>地点</p></td>
+		<td><p>详细信息</p></td>
+    </tr>
+{% for member in site.data.seminars-latest-update %}
+    {% for seminars in member.page_info %}
+    <tr>
+        <td><a href="{{ member.page_url }}">{{ member.page_title }} </a></td>
+    	<td><a href="{{ seminars.href }}">{{ seminars.title }}</a></td>
+        <td><p>{{seminars.person}}</p></td>
+        <td><p>{{ seminars.time }}</p></td>
+		<td><p>{{ seminars.address }}</p></td>
+		<td><p>{{ seminars.info }}</p></td>
+    </tr>
+    {% endfor %}
+{% endfor %}
+    </tbody>
+</table>
+
+### 今日全部
+
 {% for member in site.data.seminars-latest %}
 <a href="{{ member.page_url }}">{{ member.page_title }} </a>
 <table>
