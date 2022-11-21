@@ -139,6 +139,6 @@ vendor/
 
 .obsidian/
 bk/
-_data/
+_data/*
 !_data/seminars-latest.yaml
 log/
