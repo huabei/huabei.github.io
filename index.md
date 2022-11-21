@@ -8,7 +8,7 @@ layout: home
 ## 学术报告
 
 {% for member in site.data.seminars-latest %}
-<a> {{ member.page_title }} </a>
+<a href="{{ member.page_url }}">{{ member.page_title }} </a>
 <table>
   <tbody>
     <tr>
