@@ -4,12 +4,14 @@
 
 layout: home
 ---
+
 ## 简介
 
 这个页面用于提供中国国内目前的学术报告，以方便有需求的研究者方便获取。内容由作者在网站上收集。
 
 ## 学术报告
 
+test
 {% for member in site.data.seminars-latest %}
 <a> {{ member.page_title }} </a>
 <table>
