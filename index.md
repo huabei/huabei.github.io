@@ -7,6 +7,8 @@ layout: home
 
 ## 学术报告
 
+更新时间：{{ site.time | date: '%B %d, %Y' }}
+
 ### 今日更新
 <table>
   <tbody>
@@ -18,7 +20,7 @@ layout: home
 		<td><p>地点</p></td>
 		<td><p>详细信息</p></td>
     </tr>
-{% for member in site.data.seminars-latest-update %}
+{% for member in site.data.seminars-latest-update-d %}
     {% for seminars in member.page_info %}
     <tr>
         <td><a href="{{ member.page_url }}">{{ member.page_title }} </a></td>
@@ -33,9 +35,9 @@ layout: home
     </tbody>
 </table>
 
-### 今日全部
+### 七日内更新
 
-{% for member in site.data.seminars-latest %}
+{% for member in site.data.seminars-latest-update-w %}
 <a href="{{ member.page_url }}">{{ member.page_title }} </a>
 <table>
   <tbody>
@@ -58,3 +60,5 @@ layout: home
     </tbody>
 </table>
 {% endfor %}
+
+#### [最新全部]( {{ site.url }}/latest-whole)

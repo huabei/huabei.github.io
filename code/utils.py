@@ -158,6 +158,7 @@ def get_driver(headless=True, **kwargs) -> webdriver:
     options = Options()
     if headless:
         options.add_argument("headless")
+        options.add_argument("window-size=1440x900")
     driver = webdriver.Edge(options=options, **kwargs)
     # 载入页面等待10秒
     driver.set_page_load_timeout(10)

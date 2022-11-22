@@ -1,5 +1,11 @@
 - page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11583.htm
+    info: "解景观的算法与应用\n 2022年11月22日 "
+    person: ''
+    time: ''
+    title: ' 解景观的算法与应用'
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11573.htm
     info: "Some results and problems on cross intersecting families\n 2022年11月18日 "
     person: ''
@@ -64,12 +70,6 @@
     time: ''
     title: On the convergence of deep neural network method solving inverse source
       problem for an elliptic system
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11493.htm
-    info: "分析与概率线上研讨会（III）\n 2022年11月04日 "
-    person: ''
-    time: ''
-    title: 分析与概率线上研讨会（III）
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -258,71 +258,71 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
-    href: 0
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3122.htm
     info: ''
     person: Prof.Yan Soibelman (Kansas State University)
     time: '2022-12-09'
     title: Holomorphic Floer Theory and exponential integrals
   - address: ''
-    href: 1
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/2992.htm
     info: ''
     person: Prof.Oscar Randal-Williams（University of Cambridge）
     time: '2022-11-25'
     title: Homeomorphisms of Euclidean space
   - address: ''
-    href: 2
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3120.htm
     info: ''
     person: Prof. Habib Ammari (ETH Zürich)
     time: '2022-11-18'
     title: From condensed matter theory to sub-wavelength physics
   - address: ''
-    href: 3
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3101.htm
     info: ''
     person: Prof.Thomas Y. Hou (California Institute of Technology)
     time: '2022-11-18'
     title: A constructive proof of finite time blowup of 3D incompressible Euler equations
       with smooth data
   - address: ''
-    href: 4
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3088.htm
     info: ''
     person: Prof. Vladimir Markovic (University of Oxford)
     time: '2022-11-15'
     title: Unramified correspondance and virtual homology of mapping class groups
   - address: ''
-    href: 5
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3008.htm
     info: ''
     person: Prof. Botong Wang（University of Wisconsin-Madison）
     time: '2022-11-11'
     title: Dowling-Wilson conjecture and equivariant compactification of the vector
       group
   - address: ''
-    href: 6
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3091.htm
     info: ''
     person: Prof. Ben Webster（University of Waterloo）
     time: '2022-11-11'
     title: Representation theory and a little bit of quantum field theory
   - address: ''
-    href: 7
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3096.htm
     info: ''
     person: Prof. Zuo Kang（Wuhan University）
     time: '2022-11-04'
     title: Constructing algebraic solutions of Painleve VI equation from p-adic Hodge
       theory and Langlands correspondence
   - address: ''
-    href: 8
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3067.htm
     info: ''
     person: Prof.Carola-Bibiane Schönlieb（University of Cambridge）
     time: '2022-10-28'
     title: Mathematical imaging--From geometric PDEs and variational modelling to
       deep learning for images
   - address: ''
-    href: 9
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3093.htm
     info: ''
     person: Zhang Zhiyu (MIT)
     time: '2022-10-21'
     title: Modularity of arithmetic theta series
   - address: ''
-    href: 10
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/2996.htm
     info: ''
     person: Prof. Oscar García-Prada (Instituto de Ciencias Matemáticas)
     time: '2022-10-18'
@@ -330,183 +330,217 @@
   page_title: 现代数学报告-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
+  - address: 'Tencent Meeting ID: 362-821-200'
+    href: https://iiis.tsinghua.edu.cn/seminars/
+    info: ''
+    person: Chenggang Wu
+    time: 2022-11-25 14:00-15:00
+    title: Bridging the gap between cloud infrastructure and Production Data Science
   - address: '6A117, Teaching Building 6 + Zoom Meeting ID: 849 2251 8158 Passcode:
       660254'
-    href: 0
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: Stuart Russell UC Berkeley
     time: 2022-11-24 17:00-18:35
     title: 'Artificial Intelligence: Some Thoughts?'
+  - address: 'Tencent Meeting (ID: 860-645-126, password: 123456)'
+    href: https://iiis.tsinghua.edu.cn/seminars/
+    info: ''
+    person: 孙佳音  意大利国家核物理研究院（INFN）Cagliari分部
+    time: 2022-11-24 16:00-17:00
+    title: LHCb重离子和固定靶实验新进展
   - address: 'Zoom Meeting ID: 959 7358 5346 Passcode: 202211'
-    href: 1
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: Norbert Werner  MUNI
     time: 2022-11-24 14:00-15:00
     title: Multi-phase gas, accretion, and mechanical AGN feedback in early-type galaxies
   - address: 'S727 + Zoom Meeting (ID:940 4231 0038, password: 202211)'
-    href: 2
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: Cheng Zhao  EPFL
     time: 2022-11-17 14:00-15:00
     title: Cosmology with spectroscopic surveys
   - address: New Science Building (理科楼) C302
-    href: 3
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: Hua-Jia Wang
     time: 2022-11-17 13:30-14:30
     title: Perturbative Causal Shadows in AdS/CFT
   - address: 理科楼C302
-    href: 4
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: 陈震  清华大学材料学院
     time: 2022-11-15 10:00-11:00
     title: 'Electron microscopy for physicists: From ultimate resolution to quantum
       states'
   - address: 'S727 + Zoom Meeting (ID:940 4231 0038, password: 202211)'
-    href: 5
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: Xin Wang  UCAS
     time: 2022-11-10 14:00-15:00
     title: Space-based Wide-field Slitless Spectroscopy and Near-Ultraviolet Imaging
   - address: 清华大学高等研究院（科学馆）104报告厅
-    href: 6
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: 何颂  中科院理论物理研究所
     time: 2022-11-09 16:00-17:00
     title: Recent progress on scattering amplitudes
   - address: 'Tencent Meeting (ID: 214-795-219, password: 123456)'
-    href: 7
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: 朱相雷  欧洲核子研究中心
     time: 2022-11-03 16:00-17:00
     title: CP破坏相角的精确测量及LHCb升级的实时数据分析
   - address: 理科楼郑裕彤讲堂
-    href: 8
+    href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
     person: 吴飙  北京大学
     time: 2022-11-03 16:00-17:00
     title: Quantum Chaos and Physical Distance Between Quantum States
-  - address: 'S727 + Zoom Meeting (ID: 940 4231 0038, password: 202211)'
-    href: 9
-    info: ''
-    person: Zenghua Zhang NJU
-    time: 2022-11-03 14:00-15:00
-    title: '"brown dwarfs, are we stupid or you are just different?"'
-  - address: Zoom meeting (https://mit.zoom.us/j/94079983299)
-    href: 10
-    info: ''
-    person: Heng Yang Harvard University
-    time: 2022-11-03 10:00-11:00
-    title: 'Perception with Confidence: A Conformal Prediction Perspective'
   page_title: 清华大学交叉信息研究院
   page_url: https://iiis.tsinghua.edu.cn/seminars/
 - page_info:
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4323.htm
-    info: '09
+    href: https://life.tsinghua.edu.cn/xsbg.htm
+    info: 学术报告
+    person: ''
+    time: ''
+    title: 学术报告
+  - address: ''
+    href: https://life.tsinghua.edu.cn/index.htm
+    info: '  首页 > 学术报告'
+    person: ''
+    time: ''
+    title: 首页
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4148.htm
+    info: '学术报告
+
+      09
 
       NOV
 
-      磷脂分子调控植物发育的机制'
-    person: ''
-    time: ''
-    title: 磷脂分子调控植物发育的机制
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4148.htm
-    info: '13
+      磷脂分子调控植物发育的机制
+
+      13
 
       SEP
 
       Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
 
-      Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications'
-    person: ''
-    time: ''
-    title: Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4124.htm
-    info: '05
+      Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
+
+      05
 
       SEP
 
-      Next-Generation CRISPR Technologies and Their Applications in Crop Improvement'
-    person: ''
-    time: ''
-    title: Next-Generation CRISPR Technologies and Their Applications in Crop Improvement
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3869.htm
-    info: '03
+      Next-Generation CRISPR Technologies and Their Applications in Crop Improvement
+
+      03
 
       JUN
 
-      自噬膜融合的生化调控机制'
-    person: ''
-    time: ''
-    title: 自噬膜融合的生化调控机制
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3832.htm
-    info: '16
+      自噬膜融合的生化调控机制
+
+      16
 
       MAY
 
-      Blastoids: Shaping the mammalian embryo for implantation.'
-    person: ''
-    time: ''
-    title: 'Blastoids: Shaping the mammalian embryo for implantation.'
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3810.htm
-    info: '28
+      Blastoids: Shaping the mammalian embryo for implantation.
+
+      28
 
       APR
 
       Chemogenetic and optogenetic technologies for probing molecular and cellular
-      n…'
-    person: ''
-    time: ''
-    title: Chemogenetic and optogenetic technologies for probing molecular and cellular
-      networks
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3774.htm
-    info: '17
+      n…
+
+      17
 
       APR
 
       Looking under the hood of cells: from single molecule dynamics to whole cell
-      o…'
-    person: ''
-    time: ''
-    title: 'Looking under the hood of cells: from single molecule dynamics to whole
-      cell organelle reconstructions'
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3775.htm
-    info: '17
+      o…
+
+      17
 
       APR
 
-      IL-27, a new story in obesity and metabolic disease'
-    person: ''
-    time: ''
-    title: IL-27, a new story in obesity and metabolic disease
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3773.htm
-    info: '11
+      IL-27, a new story in obesity and metabolic disease
+
+      11
 
       APR
 
-      Next Generation Vaccines'
-    person: ''
-    time: ''
-    title: Next Generation Vaccines
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3752.htm
-    info: '07
+      Next Generation Vaccines
+
+      07
 
       APR
 
-      Reprogramming single-cell aging in yeast'
+      Reprogramming single-cell aging in yeast
+
+      共49条 上页12345下页'
     person: ''
     time: ''
-    title: Reprogramming single-cell aging in yeast
+    title: Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
+  - address: ''
+    href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
+    info: '欢迎关注清华生命学院公众号
+
+      人才招聘
+
+      教师招聘
+
+      博士后招聘
+
+      其他招聘
+
+      会议室预定
+
+      清华大学
+
+      清华大学医学院
+
+      清华大学药学院
+
+      生命科学联合中心
+
+      清华-IDG/麦戈文脑科学研究院
+
+      结构生物学高精尖创新中心
+
+      清华生医药校友会
+
+      清华合成与系统生物学中心
+
+      膜生物学国家重点实验室
+
+      生物信息学教育部重点实验室
+
+      蛋白质科学教育部重点实验室
+
+      清华学堂生命科学实验班
+
+      现代生命科学实验教学中心
+
+      清华大学生物医学测试中心
+
+      清华大学蛋白质研究技术中心
+
+      清华大学实验动物中心
+
+      清华新闻
+
+      电话：+86-10-62788604传真：+86-10-62788604邮编：100084
+
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4451112
+
+      版权所有©清华大学生命科学学院'
+    person: ''
+    time: ''
+    title: 博士后招聘
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
@@ -706,136 +740,6 @@
     title: ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
-- page_info:
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5168.htm
-    info: '24
-
-      十月
-
-      清华计算机系诚邀您参加第三届全球计算机学科发展论坛
-
-      “第三届全球计算机学科发展论坛”将于2022年10月28日晚上20点至23点在清华大学召开。本次论坛主题为“新时代下计算机学科的挑战与机遇”，论坛由交叉信息研究院院长、图灵奖获得者姚期智先生和计算机系主任尹霞教授主持，伊利诺伊大学、剑桥大学、韩国科学技术院的计算机系主任、香港科技大学的教务长分别进行特邀报告，最后姚期智先生和各位特邀嘉宾一起进行题为“新时代计算机学科...'
-    person: ''
-    time: ''
-    title: 清华计算机系诚邀您参加第三届全球计算机学科发展论坛
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4903.htm
-    info: '18
-
-      四月
-
-      首届量子软件论坛即将举办
-
-      量子软件与量子硬件是量子计算不可分割的两个方面。量子硬件在过去的几年取得了令人瞩目的进步，为量子软件的发展提供了新的需求和新的契机。如何在新的研究背景下，基于软硬件的基础架构，发展量子软件的技术和方法，最大限度发挥量子器件的能力，是富有挑战的重要研究课题。为了促进量子软件学术研究和工程实践两方面的发展、推动学术界和工业界在量子软件方面的交流合作、加强量子...'
-    person: ''
-    time: ''
-    title: 首届量子软件论坛即将举办
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4816.htm
-    info: '17
-
-      九月
-
-      清华大学计算机学科顾问委员会委员特邀报告会举行
-
-      9月17日，清华大学计算机学科顾问委员会特邀报告在线举行。中国科学院院士、清华大学教授王小云和图灵奖得主、以色列威兹曼科学院教授阿迪·萨莫尔（AdiShamir）分别以“密码技术与区块链”和“一种机器学习中对抗性样本的新理论”（A
-      New Theory of Adversarial Examples in Machine Learning）为题作了精彩的线上报告。报告会分别由计算机系党委书记刘奕群教授和王小云院士主持，近三...'
-    person: ''
-    time: ''
-    title: 清华大学计算机学科顾问委员会委员特邀报告会举行
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4473.htm
-    info: '11
-
-      六月
-
-      计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
-
-      6月3日，清华大学杰出访问教授聘任仪式暨学术报告会在信息科学技术大楼举行。荷兰皇家科学院院士、阿姆斯特丹大学马腾.德.莱克教授（Maarten de Rijke）受聘为清华大学杰出访问教授。计算机系党委书记刘奕群主持会议并向Maarten
-      de Rijke颁发聘书，计算机系副主任李国良出席会议并致辞。校内外师生代表50余人参加了本次会议。刘奕群向Maarten de Rijke教授颁发聘书聘任仪式后，Maarten...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4474.htm
-    info: '21
-
-      四月
-
-      计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
-
-      4月20日，清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会在信息科学技术大楼举行。英国皇家学会会士、皇家工程院院士、南安普顿大学教授、清华大学计算机学科顾问委员会委员Wendy
-      Hall受聘为清华大学杰出访问教授。计算机系党委书记刘奕群出席仪式并向Wendy Hall颁发聘书，会议由计算机系副主任唐杰主持，校内外师生代表共70余人参加了会议。刘奕群给Wendy
-      Hall 颁发聘...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3471.htm
-    info: '21
-
-      十一月
-
-      计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
-
-      11月20日下午，由计算机系主办的“清华大学杰出访问教授聘请仪式暨学术报告会”在信息科学技术大楼举行。仪式上，澳大利亚新南威尔士大学计算机科学及工程学院教授林学民被聘为清华大学杰出访问教授。计算机系副系主...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3469.htm
-    info: '27
-
-      四月
-
-      计算机系举办校庆专场学术报告
-
-      4月27日上午，计算机系在西阶梯教室举办清华大学一百零八周年校庆专场学术报告——智能控制的系统及特征建模，报告主讲人为中国科学院院士吴宏鑫。系主任吴建平、系党委书记刘奕群、副系主任朱文武、教师代表、各年级...'
-    person: ''
-    time: ''
-    title: 计算机系举办校庆专场学术报告
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3472.htm
-    info: '15
-
-      十一月
-
-      美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
-
-      2018年11月13日，清华大学计算机科学与技术系60周年系庆系列学术报告第35场报告在东主楼10区103室举行。本次活动邀请了现任国际计算机学会设计自动化专业组(Association
-      for Computing Machinery，Special Interest ...'
-    person: ''
-    time: ''
-    title: 美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3468.htm
-    info: '08
-
-      十一月
-
-      蒙特利尔大学Yoshua Bengio教授做客计算机系
-
-      2018年11月7日晚，清华大学计算机系列学术报告第59讲在清华大学中央主楼报告厅举行。本次活动邀请到蒙特利尔大学计算机科学与运算研究系教授Yoshua
-      Bengio做主题讲座。计算机系副系主任唐杰和计算机系科研保密办主任...'
-    person: ''
-    time: ''
-    title: 蒙特利尔大学Yoshua Bengio教授做客计算机系
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3467.htm
-    info: '15
-
-      十月
-
-      ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
-
-      Diane Kelly教授做学术报告 2018年10月11日下午，清华大学计算机科学与技术系60周年系庆系列学术报告第三十四场活动在FIT楼1-415会议室举行。本次活动邀请了现任国际计算机学会信息检索专业组（Association
-      for Comp...'
-    person: ''
-    time: ''
-    title: ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/e98edf7c6bae4175b2cd71010b98fe39.htm
@@ -1937,30 +1841,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145363.htm
-    info: '21
-
-      Nov
-
-      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
-      Perspective
-
-      时间：2022-11-21 16:00-17:00
-
-      报告人: Yang Peng (PKU)'
-    person: ''
-    time: ''
-    title: '21
-
-      Nov
-
-      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
-      Perspective
-
-      时间：2022-11-21 16:00-17:00
-
-      报告人: Yang Peng (PKU)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145444.htm
     info: '23
 
@@ -2096,6 +1976,30 @@
       时间：2022-12-15 9:00-10:00
 
       报告人: Yiqiao Zhong(University of Wisconsin)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145363.htm
+    info: '21
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
+      Perspective
+
+      时间：2022-11-21 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
+    person: ''
+    time: ''
+    title: '21
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
+      Perspective
+
+      时间：2022-11-21 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/144132.htm
     info: '20
@@ -2652,7 +2556,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, in 23 days'
+      2022-12-14 14:00, in 22 days'
     person: ''
     time: ''
     title: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2660,21 +2564,21 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, in 23 days'
+      2022-12-14 14:00, in 22 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, in 9 days'
+      2022-11-30 10:00, in 8 days'
     person: ''
     time: ''
     title: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, in 9 days'
+      2022-11-30 10:00, in 8 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2682,7 +2586,7 @@
 
       代新杰 , 中国科学院数学与系统科学研究院
 
-      2022-11-17 20:00, 4 days ago'
+      2022-11-17 20:00, 5 days ago'
     person: ''
     time: ''
     title: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2690,21 +2594,21 @@
 
       代新杰 , 中国科学院数学与系统科学研究院
 
-      2022-11-17 20:00, 4 days ago'
+      2022-11-17 20:00, 5 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Weak intermittency for the stochastic heat equation and its discretizations
 
       陈楚楚 , 中国科学院数学与系统科学研究院
 
-      2022-11-16 14:00, 5 days ago'
+      2022-11-16 14:00, 6 days ago'
     person: ''
     time: ''
     title: 'Weak intermittency for the stochastic heat equation and its discretizations
 
       陈楚楚 , 中国科学院数学与系统科学研究院
 
-      2022-11-16 14:00, 5 days ago'
+      2022-11-16 14:00, 6 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Numerical solver for the Boltzmann equation with self-adaptive collision
@@ -2712,7 +2616,7 @@
 
       Yanli Wang , Beijing Computational Science Research Center
 
-      2022-11-09 14:00, 12 days ago'
+      2022-11-09 14:00, 13 days ago'
     person: ''
     time: ''
     title: 'Numerical solver for the Boltzmann equation with self-adaptive collision
@@ -2720,7 +2624,7 @@
 
       Yanli Wang , Beijing Computational Science Research Center
 
-      2022-11-09 14:00, 12 days ago'
+      2022-11-09 14:00, 13 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'An LQ differential game of stochastic large-population system with partial
@@ -2728,7 +2632,7 @@
 
       Guangchen Wang , School of Control Science and Engineering, Shandong University
 
-      2022-11-02 10:00, 19 days ago'
+      2022-11-02 10:00, 20 days ago'
     person: ''
     time: ''
     title: 'An LQ differential game of stochastic large-population system with partial
@@ -2736,7 +2640,7 @@
 
       Guangchen Wang , School of Control Science and Engineering, Shandong University
 
-      2022-11-02 10:00, 19 days ago'
+      2022-11-02 10:00, 20 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Failure-informed adaptive sampling for PINNs
@@ -3170,6 +3074,26 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemNuHpKF2
+    info: '熊涛
+
+      ASYMPTOTIC PRESERVING AND UNIFORMLY CONDITIONALLY STABLE FINITE DIFFERENCE SCHEMES
+      FOR KINETIC TRANSPORT EQUATIONS
+
+      2022-12-01
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '熊涛
+
+      ASYMPTOTIC PRESERVING AND UNIFORMLY CONDITIONALLY STABLE FINITE DIFFERENCE SCHEMES
+      FOR KINETIC TRANSPORT EQUATIONS
+
+      2022-12-01
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemNuFyqF2
     info: '程哲驰
 
@@ -3317,26 +3241,6 @@
       2022-11-24
 
       16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGelJSHtKF2
-    info: '[MINI COURSES] HENRIK SHAHGHOLIAN
-
-      (MINI-COURSE) THE REGULARITY THEORY ON A RANGE OF PROBLEMS IN FREE BOUNDARIES
-      (4)
-
-      2022-11-23
-
-      19:00 — 21:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] HENRIK SHAHGHOLIAN
-
-      (MINI-COURSE) THE REGULARITY THEORY ON A RANGE OF PROBLEMS IN FREE BOUNDARIES
-      (4)
-
-      2022-11-23
-
-      19:00 — 21:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:

@@ -7,6 +7,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.wait import WebDriverWait
 from utils import get_driver, Logger, get_url
 import time
+import datetime
 import pandas as pd
 import os
 from copy import deepcopy
@@ -25,6 +26,7 @@ def generate_absurl(url, base_url):
     elif url.startswith('/'):
         return base_url
     else:
+        # print(base_url_dir + '/' + url)
         return base_url_dir + '/' + url
 
 
@@ -82,11 +84,15 @@ def prepare_data(data: dict, head_replace: dict = None):
                 df.rename(columns=head_replace, inplace=True)
                 # 拆分链接和标题
                 df['href'] = df['title'].apply(lambda x: generate_absurl(x[1], value['page_url']))
+                # print(df['href'])
+                # raise Exception
                 df['title'] = df['title'].apply(lambda x: x[0])
                 for col, v in df.items():
                     df[col] = v.apply(lambda x: x[0] if type(x) is tuple else x)
             # 转换为字典
-            value['page_info'] = df.to_dict()
+            value['page_info'] = df.to_dict(orient='list')
+            # print(value['page_info'])
+            # raise Exception
         # 将dict转换为defaultdict
         value['page_info'] = defaultdict(list, value['page_info'])
     return data
@@ -134,7 +140,7 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     total_result = dict()
 
     logger = Logger('./log')
-    driver = get_driver(headless=False)  # 无头会出错
+    driver = get_driver(headless=True)  # 无头会出错
     for url in url_iter:
         result_tmp = dict()
         url = url.strip()
@@ -156,14 +162,24 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     logger.close()
     # 准备数据，更换表头等。
     total_result = prepare_data(total_result, head_replace)
+
+    # 写入今天的文件并计算今日更新
     latest_data_path = output_file_path.replace('.yaml', '.pkl')
     # 已存的latest数据作为昨天的数据，和今天的数据比较，得到update数据
     if os.path.exists(latest_data_path):
         yesterday_data = pickle.load(open(latest_data_path, 'rb'))
+        # 将已存的今天的数据重命名为上一天
         os.rename(latest_data_path, f'../_data/seminars-{d}.pkl')
-        update_data = compare_yesterday_and_today(yesterday_data, total_result)
+        update_day_data = compare_yesterday_and_today(yesterday_data, deepcopy(total_result))
         # 将update数据写入文件
-        write_yaml(update_data, output_file_path.replace('.yaml', '-update.yaml'))
+        write_yaml(update_day_data, output_file_path.replace('.yaml', '-update-d.yaml'))
+    # 将七天前的数据和今日对比，得到update_week_data数据
+    if os.path.exists(f'../_data/seminars-{w_l7}.pkl'):
+        week_ago_data = pickle.load(open(f'../_data/seminars-{w_l7}.pkl', 'rb'))
+        update_week_data = compare_yesterday_and_today(week_ago_data, deepcopy(total_result))
+        # 将update_week_data数据写入文件
+        write_yaml(update_week_data, output_file_path.replace('.yaml', '-update-w.yaml'))
+
     with open(latest_data_path, 'wb') as f:
         pickle.dump(total_result, f)
     # write_data(total_result, output_file_path, head_replace=head_replace)
@@ -173,10 +189,15 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
 if __name__ == '__main__':
     # import sys
     # sys.path.extend([r"E:\Huabei\huabei.github.io\code"])
+    os.chdir(r"E:\Huabei\huabei.github.io\code")
+    # 今天的时间d
     d = time.strftime('%Y-%m-%d', time.localtime())
+    # 七天前的时间
+    w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
     output_file_path = '../_data/seminars-latest.yaml'
     if os.path.exists(output_file_path):
         os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
+
     head_replace = {'报告题目': 'title',
                     '报告日期': 'time',
                     '时间': 'time',
@@ -185,7 +206,8 @@ if __name__ == '__main__':
                     '报告人': 'person',
                     '地址': 'address',
                     '地点': 'address'}
-    # main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=head_replace)
     # with open('../_data/seminars-latest.pkl', 'rb') as f:
     #     import pickle
     #     today_result = pickle.load(f)
