@@ -57,7 +57,7 @@ layout: home
 		<td><p>{{ seminars.info }}</p></td>
     </tr>
     {% endfor %}
-    </tbody>
+        </tbody>
 </table>
 {% endfor %}
 
