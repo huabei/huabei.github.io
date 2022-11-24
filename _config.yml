@@ -21,13 +21,11 @@
 title: Huabei's Blog
 email: 212311013@csu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  国内学术报告发布汇总
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huabei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  huabei
 
 # Build settings
 theme: minima

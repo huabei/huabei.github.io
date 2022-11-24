@@ -93,12 +93,12 @@ def get_a(ele):
 
 
 def get_dli(ele):
-    li_elements = ele.find_elements(By.TAG_NAME, 'dd')
+    li_elements = ele.find_elements(By.TAG_NAME, './dd')
     return li_elements
 
 
 def get_divli(ele):
-    li_elements = ele.find_elements(By.XPATH, 'div')
+    li_elements = ele.find_elements(By.XPATH, './div')
     return li_elements
 
 
@@ -141,6 +141,10 @@ def get_seminars_url_info(ele, logger=None):
         else:
             href = a.get_attribute('href')
             title = a.get_attribute('title')
+            try:
+                title = li.find_element(By.CLASS_NAME, 'title').get_attribute('title')
+            except:
+                pass
             title = a.text if title == '' else title
         # 判断是否是最底层的页码
         if len(title) == 1:
