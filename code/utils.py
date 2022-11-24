@@ -131,7 +131,7 @@ def get_seminars_url_info(ele, logger=None):
         if not a:
             href = li.parent.current_url
             try:
-                title = li.find_element(By.CLASS_NAME, 'title').text
+                title = li.find_element(By.CSS_SELECTOR, '[title]').text
             except:
                 if logger:
                     logger('no title')
@@ -142,10 +142,11 @@ def get_seminars_url_info(ele, logger=None):
             href = a.get_attribute('href')
             title = a.get_attribute('title')
             try:
-                title = li.find_element(By.CLASS_NAME, 'title').get_attribute('title')
+                title = li.find_element(By.CSS_SELECTOR, '[title]').get_attribute('title')
             except:
                 pass
-            title = a.text if title == '' else title
+            if title == '':
+                title = a.text
         # 判断是否是最底层的页码
         if len(title) == 1:
             continue

@@ -141,7 +141,7 @@ vendor/
 bk/
 _data/*
 !_data/seminars-latest.yaml
-!_data/seminars-latest-update-d.yaml
+!_data/seminars-latest-update-d_.yaml
 !_data/seminars-latest-update-w.yaml
 log/
 .idea/

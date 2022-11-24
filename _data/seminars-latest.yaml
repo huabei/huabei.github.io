@@ -1,4 +1,4 @@
-- page_info:
+﻿- page_info:
   - address: ''
     href: https://math.csu.edu.cn/info/1736/11605.htm
     info: "Combinatorics of gamma-positivity\n 2022年11月24日 "
@@ -486,7 +486,7 @@
       共49条 上页12345下页'
     person: ''
     time: ''
-    title: Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
+    title: 磷脂分子调控植物发育的机制
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -537,7 +537,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4458691
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4458702
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -557,7 +557,7 @@
       2022.11.21'
     person: ''
     time: ''
-    title: ''
+    title: 电磁能装备中的关键材料
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3207.htm
     info: '探讨分子科学研究的新方向——催组装
@@ -567,7 +567,7 @@
       2022.11.14'
     person: ''
     time: ''
-    title: ''
+    title: 探讨分子科学研究的新方向——催组装
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3195.htm
     info: 'X射线成像材料与技术
@@ -577,7 +577,7 @@
       2022.10.22'
     person: ''
     time: ''
-    title: ''
+    title: X射线成像材料与技术
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3187.htm
     info: '高分子复合非对称结构
@@ -587,7 +587,7 @@
       2022.10.16'
     person: ''
     time: ''
-    title: ''
+    title: 高分子复合非对称结构
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3186.htm
     info: '从分子论向聚集体论的研究范式转移
@@ -599,7 +599,7 @@
       2022.10.07'
     person: ''
     time: ''
-    title: ''
+    title: 从分子论向聚集体论的研究范式转移
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3174.htm
     info: '手性纳米化学与生命应答调控
@@ -609,7 +609,7 @@
       2022.10.01'
     person: ''
     time: ''
-    title: ''
+    title: 手性纳米化学与生命应答调控
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -742,6 +742,136 @@
     title: ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+- page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/5168.htm
+    info: '24
+
+      十月
+
+      清华计算机系诚邀您参加第三届全球计算机学科发展论坛
+
+      “第三届全球计算机学科发展论坛”将于2022年10月28日晚上20点至23点在清华大学召开。本次论坛主题为“新时代下计算机学科的挑战与机遇”，论坛由交叉信息研究院院长、图灵奖获得者姚期智先生和计算机系主任尹霞教授主持，伊利诺伊大学、剑桥大学、韩国科学技术院的计算机系主任、香港科技大学的教务长分别进行特邀报告，最后姚期智先生和各位特邀嘉宾一起进行题为“新时代计算机学科...'
+    person: ''
+    time: ''
+    title: 清华计算机系诚邀您参加第三届全球计算机学科发展论坛
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/4903.htm
+    info: '18
+
+      四月
+
+      首届量子软件论坛即将举办
+
+      量子软件与量子硬件是量子计算不可分割的两个方面。量子硬件在过去的几年取得了令人瞩目的进步，为量子软件的发展提供了新的需求和新的契机。如何在新的研究背景下，基于软硬件的基础架构，发展量子软件的技术和方法，最大限度发挥量子器件的能力，是富有挑战的重要研究课题。为了促进量子软件学术研究和工程实践两方面的发展、推动学术界和工业界在量子软件方面的交流合作、加强量子...'
+    person: ''
+    time: ''
+    title: 首届量子软件论坛即将举办
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/4816.htm
+    info: '17
+
+      九月
+
+      清华大学计算机学科顾问委员会委员特邀报告会举行
+
+      9月17日，清华大学计算机学科顾问委员会特邀报告在线举行。中国科学院院士、清华大学教授王小云和图灵奖得主、以色列威兹曼科学院教授阿迪·萨莫尔（AdiShamir）分别以“密码技术与区块链”和“一种机器学习中对抗性样本的新理论”（A
+      New Theory of Adversarial Examples in Machine Learning）为题作了精彩的线上报告。报告会分别由计算机系党委书记刘奕群教授和王小云院士主持，近三...'
+    person: ''
+    time: ''
+    title: 清华大学计算机学科顾问委员会委员特邀报告会举行
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/4473.htm
+    info: '11
+
+      六月
+
+      计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
+
+      6月3日，清华大学杰出访问教授聘任仪式暨学术报告会在信息科学技术大楼举行。荷兰皇家科学院院士、阿姆斯特丹大学马腾.德.莱克教授（Maarten de Rijke）受聘为清华大学杰出访问教授。计算机系党委书记刘奕群主持会议并向Maarten
+      de Rijke颁发聘书，计算机系副主任李国良出席会议并致辞。校内外师生代表50余人参加了本次会议。刘奕群向Maarten de Rijke教授颁发聘书聘任仪式后，Maarten...'
+    person: ''
+    time: ''
+    title: 计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/4474.htm
+    info: '21
+
+      四月
+
+      计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
+
+      4月20日，清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会在信息科学技术大楼举行。英国皇家学会会士、皇家工程院院士、南安普顿大学教授、清华大学计算机学科顾问委员会委员Wendy
+      Hall受聘为清华大学杰出访问教授。计算机系党委书记刘奕群出席仪式并向Wendy Hall颁发聘书，会议由计算机系副主任唐杰主持，校内外师生代表共70余人参加了会议。刘奕群给Wendy
+      Hall 颁发聘...'
+    person: ''
+    time: ''
+    title: 计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/3471.htm
+    info: '21
+
+      十一月
+
+      计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
+
+      11月20日下午，由计算机系主办的“清华大学杰出访问教授聘请仪式暨学术报告会”在信息科学技术大楼举行。仪式上，澳大利亚新南威尔士大学计算机科学及工程学院教授林学民被聘为清华大学杰出访问教授。计算机系副系主...'
+    person: ''
+    time: ''
+    title: 计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/3469.htm
+    info: '27
+
+      四月
+
+      计算机系举办校庆专场学术报告
+
+      4月27日上午，计算机系在西阶梯教室举办清华大学一百零八周年校庆专场学术报告——智能控制的系统及特征建模，报告主讲人为中国科学院院士吴宏鑫。系主任吴建平、系党委书记刘奕群、副系主任朱文武、教师代表、各年级...'
+    person: ''
+    time: ''
+    title: 计算机系举办校庆专场学术报告
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/3472.htm
+    info: '15
+
+      十一月
+
+      美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
+
+      2018年11月13日，清华大学计算机科学与技术系60周年系庆系列学术报告第35场报告在东主楼10区103室举行。本次活动邀请了现任国际计算机学会设计自动化专业组(Association
+      for Computing Machinery，Special Interest ...'
+    person: ''
+    time: ''
+    title: 美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/3468.htm
+    info: '08
+
+      十一月
+
+      蒙特利尔大学Yoshua Bengio教授做客计算机系
+
+      2018年11月7日晚，清华大学计算机系列学术报告第59讲在清华大学中央主楼报告厅举行。本次活动邀请到蒙特利尔大学计算机科学与运算研究系教授Yoshua
+      Bengio做主题讲座。计算机系副系主任唐杰和计算机系科研保密办主任...'
+    person: ''
+    time: ''
+    title: 蒙特利尔大学Yoshua Bengio教授做客计算机系
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/3467.htm
+    info: '15
+
+      十月
+
+      ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
+
+      Diane Kelly教授做学术报告 2018年10月11日下午，清华大学计算机科学与技术系60周年系庆系列学术报告第三十四场活动在FIT楼1-415会议室举行。本次活动邀请了现任国际计算机学会信息检索专业组（Association
+      for Comp...'
+    person: ''
+    time: ''
+    title: ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/ca1e3911f8974d90b8e4e5f8d4ac8191.htm
@@ -1995,104 +2125,28 @@
 - page_info:
   - address: ''
     href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
+    info: ''
     person: ''
     time: ''
-    title: 讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+    title: ''
   - address: ''
     href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
+    info: '<
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      十一月 2022年
 
-      人工智能前沿应用系列讲座'
+      >
+
+      日一二三四五六 123456789101112131415161718192021222324252627282930'
     person: ''
     time: ''
-    title: 讲座预告 | 人工智能在金融领域的应用探索
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
+    title: '<
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      十一月 2022年
 
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | 人工智能在医疗中的应用及发展前景
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
+      >
 
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | 自动驾驶技术进展与量产实践
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | 元宇宙与数字孪生
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | AI芯片的产业需求和发展
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | 大模型，小语种，会话式RPA
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: 讲座预告 | AR中的计算机视觉
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
-    person: ''
-    time: ''
-    title: 学术报告会 | 深度学习的基础理论
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-    person: ''
-    time: ''
-    title: 学术报告会 | 人体外貌特征与人类表型组研究
+      日一二三四五六 123456789101112131415161718192021222324252627282930'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:

@@ -54,7 +54,7 @@ def write_data(data: dict, output_file_path: str, head_replace: dict = None):
         df['page_url'] = value['page_url']
         data_df = pd.concat([data_df, df], axis=0)
     data_df = data_df[data_head]
-    data_df.to_csv(output_file_path, mode='a', header=True, index=False, encoding='utf_8')
+    data_df.to_csv(output_file_path, mode='a', header=True, index=False, encoding='utf-8-sig')
 
 
 def generate_yaml_seminars(page_info, filter_href: set = None):
@@ -111,7 +111,7 @@ def write_yaml(data: dict, output_file_path: str, filter_href: set = None):
         if value['page_info']:
             total_list.append(value)
     # 写入文件
-    with open(output_file_path, 'w', encoding='utf-8') as f:
+    with open(output_file_path, 'w', encoding='utf-8-sig') as f:
         yaml.dump(total_list, f, allow_unicode=True)
 
 
@@ -179,7 +179,7 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     # 合并前七天的数据
     week_update_path = output_file_path.replace('.yaml', '-update-w.yaml')
     week_update_data_total = get_week_update(output_file_path)
-    with open(week_update_path, 'w', encoding='utf-8') as f:
+    with open(week_update_path, 'w', encoding='utf-8-sig') as f:
         yaml.dump(week_update_data_total, f, allow_unicode=True)
     # write_data(total_result, output_file_path, head_replace=head_replace)
     write_yaml(total_result, output_file_path)
@@ -191,7 +191,7 @@ def get_week_update(output_file_path) -> list:
         day = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
         if os.path.exists(f'../_data/seminars-update-{day}.yaml'):
             # print(day)
-            with open(f'../_data/seminars-update-{day}.yaml', 'r', encoding='utf-8') as f:
+            with open(f'../_data/seminars-update-{day}.yaml', 'r', encoding='utf-8-sig') as f:
                 data_u = yaml.load(f, Loader=yaml.FullLoader)
                 for d in data_u:
                     week_update_data_total[d['page_url']]['page_title'] = d['page_title']

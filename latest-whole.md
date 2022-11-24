@@ -29,6 +29,7 @@ layout: home
 		<td><p>{{ seminars.address }}</p></td>
 		<td><p>{{ seminars.info }}</p></td>
     </tr>
+    
     {% endfor %}
     </tbody>
 </table>
