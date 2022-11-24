@@ -6,7 +6,7 @@ layout: home
 
 ## 学术报告
 
-更新时间：{{ site.time | date: '%B %d, %Y' }}
+更新时间：{{ site.time | date: '%H:%M，%B %d, %Y' }}
 
 ### 最新全部
 

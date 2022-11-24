@@ -144,3 +144,4 @@ _data/*
 !_data/seminars-latest-update-d.yaml
 !_data/seminars-latest-update-w.yaml
 log/
+.idea/

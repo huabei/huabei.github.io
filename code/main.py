@@ -12,6 +12,7 @@ import pandas as pd
 import os
 from copy import deepcopy
 import pickle
+import yaml
 
 
 def generate_absurl(url, base_url):
@@ -56,13 +57,16 @@ def write_data(data: dict, output_file_path: str, head_replace: dict = None):
     data_df.to_csv(output_file_path, mode='a', header=True, index=False, encoding='utf_8')
 
 
-def generate_yaml_seminars(page_info):
+def generate_yaml_seminars(page_info, filter_href: set = None):
     """generate yaml seminars
     :param page_info: dict, key is url, value is dict
+    :param filter_href: set, filter href
     :return: list, yaml seminars
     """
     yaml_seminars = list()
     for i, value in enumerate(page_info['href']):
+        if filter_href and value in filter_href:
+            continue
         yaml_seminars.append(dict(title=page_info['title'][i],
                                   href=value,
                                   person=(page_info['person'][i] if i < len(page_info['person']) else ''),
@@ -98,13 +102,14 @@ def prepare_data(data: dict, head_replace: dict = None):
     return data
 
 
-def write_yaml(data: dict, output_file_path: str):
+def write_yaml(data: dict, output_file_path: str, filter_href: set = None):
     import yaml
     total_list = list()
     # 将数据转换为yaml列表
     for key, value in data.items():
-        value['page_info'] = generate_yaml_seminars(deepcopy(value['page_info']))
-        total_list.append(value)
+        value['page_info'] = generate_yaml_seminars(deepcopy(value['page_info']), filter_href)
+        if value['page_info']:
+            total_list.append(value)
     # 写入文件
     with open(output_file_path, 'w', encoding='utf-8') as f:
         yaml.dump(total_list, f, allow_unicode=True)
@@ -135,10 +140,73 @@ def compare_yesterday_and_today(yesterday_data: dict, today_data: dict):
     return update_data
 
 
+def generate_href(result):
+    """generate href
+    :param result: dict, key is url, value is dict
+    :return: list, href
+    """
+    href = list()
+    for key, value in result.items():
+        href.extend(value['page_info']['href'])
+    return set(href)
+
+
 def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
+    total_result = get_data_from_internet(url_file_path)
+    # with open('../_data/seminars-test.pkl', 'rb') as f:
+    #     import pickle
+    #     total_result = pickle.load(f)
+    # 准备数据，更换表头等。
+    total_result = prepare_data(total_result, head_replace)
+    # 生成href集合
+    href_set_today = generate_href(total_result)
+    # 写入今天的文件并计算今日更新
+    latest_data_path = output_file_path.replace('.yaml', '.pkl')
+    day_update_path = output_file_path.replace('.yaml', '-update-d.yaml')
+    if os.path.exists(day_update_path):
+        os.rename(day_update_path, f'../_data/seminars-update-{d}.yaml')
+    # 已存的latest数据作为昨天的数据，和今天的数据比较，得到update数据
+    if os.path.exists(latest_data_path):
+        yesterday_total_href = pickle.load(open(latest_data_path, 'rb'))
+        write_yaml(deepcopy(total_result), day_update_path, yesterday_total_href)
+        # 并集覆写最新你href
+        with open(latest_data_path, 'wb') as f:
+            pickle.dump(href_set_today | yesterday_total_href, f)
+    else:
+        # 今天是第一次运行，直接写入
+        with open(latest_data_path, 'wb') as f:
+            pickle.dump(href_set_today, f)
+    # 合并前七天的数据
+    week_update_path = output_file_path.replace('.yaml', '-update-w.yaml')
+    week_update_data_total = get_week_update(output_file_path)
+    with open(week_update_path, 'w', encoding='utf-8') as f:
+        yaml.dump(week_update_data_total, f, allow_unicode=True)
+    # write_data(total_result, output_file_path, head_replace=head_replace)
+    write_yaml(total_result, output_file_path)
+
+
+def get_week_update(output_file_path) -> list:
+    week_update_data_total = defaultdict(dict)
+    for i in range(1, 7):
+        day = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
+        if os.path.exists(f'../_data/seminars-update-{day}.yaml'):
+            # print(day)
+            with open(f'../_data/seminars-update-{day}.yaml', 'r', encoding='utf-8') as f:
+                data_u = yaml.load(f, Loader=yaml.FullLoader)
+                for d in data_u:
+                    week_update_data_total[d['page_url']]['page_title'] = d['page_title']
+                    week_update_data_total[d['page_url']]['page_url'] = d['page_url']
+                    for e in d['page_info']:
+                        try:
+                            week_update_data_total[d['page_url']]['page_info'].append(e)
+                        except:
+                            week_update_data_total[d['page_url']]['page_info'] = [e]
+    return list(week_update_data_total.values())
+
+
+def get_data_from_internet(url_file_path):
     url_iter = open(url_file_path, 'r')
     total_result = dict()
-
     logger = Logger('./log')
     driver = get_driver(headless=True)  # 无头会出错
     for url in url_iter:
@@ -160,30 +228,7 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
         total_result[url] = result_tmp
     driver.quit()
     logger.close()
-    # 准备数据，更换表头等。
-    total_result = prepare_data(total_result, head_replace)
-
-    # 写入今天的文件并计算今日更新
-    latest_data_path = output_file_path.replace('.yaml', '.pkl')
-    # 已存的latest数据作为昨天的数据，和今天的数据比较，得到update数据
-    if os.path.exists(latest_data_path):
-        yesterday_data = pickle.load(open(latest_data_path, 'rb'))
-        # 将已存的今天的数据重命名为上一天
-        os.rename(latest_data_path, f'../_data/seminars-{d}.pkl')
-        update_day_data = compare_yesterday_and_today(yesterday_data, deepcopy(total_result))
-        # 将update数据写入文件
-        write_yaml(update_day_data, output_file_path.replace('.yaml', '-update-d.yaml'))
-    # 将七天前的数据和今日对比，得到update_week_data数据
-    if os.path.exists(f'../_data/seminars-{w_l7}.pkl'):
-        week_ago_data = pickle.load(open(f'../_data/seminars-{w_l7}.pkl', 'rb'))
-        update_week_data = compare_yesterday_and_today(week_ago_data, deepcopy(total_result))
-        # 将update_week_data数据写入文件
-        write_yaml(update_week_data, output_file_path.replace('.yaml', '-update-w.yaml'))
-
-    with open(latest_data_path, 'wb') as f:
-        pickle.dump(total_result, f)
-    # write_data(total_result, output_file_path, head_replace=head_replace)
-    write_yaml(total_result, output_file_path)
+    return total_result
 
 
 if __name__ == '__main__':
@@ -193,10 +238,10 @@ if __name__ == '__main__':
     # 今天的时间d
     d = time.strftime('%Y-%m-%d', time.localtime())
     # 七天前的时间
-    w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
+    # w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
     output_file_path = '../_data/seminars-latest.yaml'
-    if os.path.exists(output_file_path):
-        os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
+    # if os.path.exists(output_file_path):
+    #     os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
 
     head_replace = {'报告题目': 'title',
                     '报告日期': 'time',
@@ -206,11 +251,13 @@ if __name__ == '__main__':
                     '报告人': 'person',
                     '地址': 'address',
                     '地点': 'address'}
+
     main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
-    # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=head_replace)
-    # with open('../_data/seminars-latest.pkl', 'rb') as f:
+    # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
+    # with open('../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
     #     today_result = pickle.load(f)
+
     # with open('../_data/seminars-2022-11-21.pkl', 'rb') as f:
     #     import pickle
     #     yesterday_result = pickle.load(f)
