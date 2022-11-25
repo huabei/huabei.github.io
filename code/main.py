@@ -187,7 +187,7 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
 
 def get_week_update(output_file_path) -> list:
     week_update_data_total = defaultdict(dict)
-    for i in range(1, 7):
+    for i in range(0, 7):
         day = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
         if os.path.exists(f'../_data/seminars-update-{day}.yaml'):
             # print(day)
