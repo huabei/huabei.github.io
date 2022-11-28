@@ -537,7 +537,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4465574
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4467483
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1739,30 +1739,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145577.htm
-    info: '28
-
-      Nov
-
-      Probability and Statistics Seminar——A Polynomial Time Approximation Scheme for
-      the Maximal Overlap of Two Independent Erdos-Renyi Graphs
-
-      时间：2022-11-28 14:00-15:00
-
-      报告人: Shuyang Gong (PKU)'
-    person: ''
-    time: ''
-    title: '28
-
-      Nov
-
-      Probability and Statistics Seminar——A Polynomial Time Approximation Scheme for
-      the Maximal Overlap of Two Independent Erdos-Renyi Graphs
-
-      时间：2022-11-28 14:00-15:00
-
-      报告人: Shuyang Gong (PKU)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/145156.htm
     info: '30
 
@@ -1877,28 +1853,6 @@
 
       报告人: Weimin Wang (CNRS)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/gmjz/xbljz/145381.htm
-    info: '02
-
-      Dec
-
-      2022年北京大学许宝騄讲座——Interface motion from stochastic systems
-
-      时间：2022-12-02 15:00-16:00
-
-      报告人: Professor Tadahisa Funaki'
-    person: ''
-    time: ''
-    title: '02
-
-      Dec
-
-      2022年北京大学许宝騄讲座——Interface motion from stochastic systems
-
-      时间：2022-12-02 15:00-16:00
-
-      报告人: Professor Tadahisa Funaki'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
     info: '09
 
@@ -1990,6 +1944,54 @@
       时间：2022-11-23 09:00-10:00
 
       报告人: Yashan Zhang (Hunan University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145363.htm
+    info: '21
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
+      Perspective
+
+      时间：2022-11-21 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
+    person: ''
+    time: ''
+    title: '21
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第四十期）—— Understanding Approximate Message Passing: A Statistical
+      Perspective
+
+      时间：2022-11-21 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/144132.htm
+    info: '20
+
+      Nov
+
+      Sharp interface limit of scalar and vectorial Allen--Cahn equations—Lecture
+      5
+
+      时间：2022-11-20 14:00-16:00
+
+      报告人: Yuning Liu（NYU Shanghai）'
+    person: ''
+    time: ''
+    title: '20
+
+      Nov
+
+      Sharp interface limit of scalar and vectorial Allen--Cahn equations—Lecture
+      5
+
+      时间：2022-11-20 14:00-16:00
+
+      报告人: Yuning Liu（NYU Shanghai）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2490,6 +2492,143 @@
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
   - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Regularity structure and asymptotic behavior of conservative solutions
+      to the Hunter-Saxton equation
+
+      高瑜 , 香港理工大学
+
+      2022-12-14 14:00, in 17 days'
+    person: ''
+    time: ''
+    title: 'Regularity structure and asymptotic behavior of conservative solutions
+      to the Hunter-Saxton equation
+
+      高瑜 , 香港理工大学
+
+      2022-12-14 14:00, in 17 days'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'A stochastic analysis approach to lattice Yang--Mills
+
+      朱蓉禅 , 北京理工大学
+
+      2022-11-30 10:00, in 2 days'
+    person: ''
+    time: ''
+    title: 'A stochastic analysis approach to lattice Yang--Mills
+
+      朱蓉禅 , 北京理工大学
+
+      2022-11-30 10:00, in 2 days'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Tumor boundary instability induced by nutrient consumption and supply
+
+      Yu Feng , Peking University
+
+      2022-11-25 11:00, 3 days ago'
+    person: ''
+    time: ''
+    title: 'Tumor boundary instability induced by nutrient consumption and supply
+
+      Yu Feng , Peking University
+
+      2022-11-25 11:00, 3 days ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
+      methods
+
+      代新杰 , 中国科学院数学与系统科学研究院
+
+      2022-11-17 20:00, 10 days ago'
+    person: ''
+    time: ''
+    title: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
+      methods
+
+      代新杰 , 中国科学院数学与系统科学研究院
+
+      2022-11-17 20:00, 10 days ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Weak intermittency for the stochastic heat equation and its discretizations
+
+      陈楚楚 , 中国科学院数学与系统科学研究院
+
+      2022-11-16 14:00, 11 days ago'
+    person: ''
+    time: ''
+    title: 'Weak intermittency for the stochastic heat equation and its discretizations
+
+      陈楚楚 , 中国科学院数学与系统科学研究院
+
+      2022-11-16 14:00, 11 days ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Numerical solver for the Boltzmann equation with self-adaptive collision
+      operators
+
+      Yanli Wang , Beijing Computational Science Research Center
+
+      2022-11-09 14:00, 18 days ago'
+    person: ''
+    time: ''
+    title: 'Numerical solver for the Boltzmann equation with self-adaptive collision
+      operators
+
+      Yanli Wang , Beijing Computational Science Research Center
+
+      2022-11-09 14:00, 18 days ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'An LQ differential game of stochastic large-population system with partial
+      information
+
+      Guangchen Wang , School of Control Science and Engineering, Shandong University
+
+      2022-11-02 10:00, a month ago'
+    person: ''
+    time: ''
+    title: 'An LQ differential game of stochastic large-population system with partial
+      information
+
+      Guangchen Wang , School of Control Science and Engineering, Shandong University
+
+      2022-11-02 10:00, a month ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: 'Failure-informed adaptive sampling for PINNs
+
+      周涛 , 中国科学院数学与系统科学研究院
+
+      2022-10-26 15:00, a month ago'
+    person: ''
+    time: ''
+    title: 'Failure-informed adaptive sampling for PINNs
+
+      周涛 , 中国科学院数学与系统科学研究院
+
+      2022-10-26 15:00, a month ago'
+  - address: ''
+    href: https://shcam.sjtu.edu.cn/#/seminars
+    info: '再探增广拉格朗日法
+
+      丁超 , 中国科学院数学与系统科学研究院应用数学研究所
+
+      2022-10-19 14:00, a month ago'
+    person: ''
+    time: ''
+    title: '再探增广拉格朗日法
+
+      丁超 , 中国科学院数学与系统科学研究院应用数学研究所
+
+      2022-10-19 14:00, a month ago'
+  page_title: 上海应用数学中心(上海交通大学分中心)
+  page_url: https://shcam.sjtu.edu.cn/#/seminars
+- page_info:
+  - address: ''
     href: https://pharm.sjtu.edu.cn/report/3955.html
     info: '上海市手性药物分子工程重点实验室2022“手性化学和药物”学术研讨会
 
@@ -2971,6 +3110,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2FtKF2
+    info: '张琼
+
+      DISTRIBUTED LEARNING OF FINITE GAUSSIAN MIXTURES
+
+      2022-11-30
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '张琼
+
+      DISTRIBUTED LEARNING OF FINITE GAUSSIAN MIXTURES
+
+      2022-11-30
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGelJmHpKF2
     info: '胡盛清
 
@@ -3028,24 +3185,6 @@
       2022-11-29
 
       15:00 — 15:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2FpKF2
-    info: '程纪鹏
-
-      KP方程族的达布变换: 从费米到玻色
-
-      2022-11-29
-
-      10:00 — 12:00'
-    person: ''
-    time: ''
-    title: '程纪鹏
-
-      KP方程族的达布变换: 从费米到玻色
-
-      2022-11-29
-
-      10:00 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
