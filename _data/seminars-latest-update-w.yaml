@@ -1,83 +1,40 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
-    info: '09
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2FtKF2
+    info: '张琼
 
-      Dec
+      DISTRIBUTED LEARNING OF FINITE GAUSSIAN MIXTURES
 
-      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
-      Euler equations with smooth data and boundary
+      2022-11-30
 
-      时间：2022-12-09 09:00-10:00
-
-      报告人: Jiajie Chen (NYU)'
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: '09
+    title: '张琼
 
-      Dec
+      DISTRIBUTED LEARNING OF FINITE GAUSSIAN MIXTURES
 
-      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
-      Euler equations with smooth data and boundary
+      2022-11-30
 
-      时间：2022-12-09 09:00-10:00
-
-      报告人: Jiajie Chen (NYU)'
+      15:00 — 16:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145622.htm
-    info: '02
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2FyqF2
+    info: 'BÉLA NAGY
 
-      Dec
+      CONFORMAL MAPPINGS, VISUALIZING RIEMANN SURFACES AND SOME SPECIAL FUNCTIONS
 
-      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
-      equations
+      2022-11-29
 
-      时间：2022-12-02 10:00-11:00
-
-      报告人: Weimin Wang (CNRS)'
+      17:00 — 18:00'
     person: ''
     time: ''
-    title: '02
+    title: 'BÉLA NAGY
 
-      Dec
+      CONFORMAL MAPPINGS, VISUALIZING RIEMANN SURFACES AND SOME SPECIAL FUNCTIONS
 
-      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
-      equations
+      2022-11-29
 
-      时间：2022-12-02 10:00-11:00
-
-      报告人: Weimin Wang (CNRS)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7266.htm
-    info: '清华大学助理教授邓东灵学术报告
-
-      2022-11-25'
-    person: ''
-    time: ''
-    title: 清华大学助理教授邓东灵学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2393.htm
-    info: '人工智能经纬论坛第【27】期讲座通知
-
-      报告人：Prof. Yuhua Zhu时   间：2022/11/29   13:00 - 14:00主持人：王宇光  教授Zoom：    Zoom
-      ID: 815 4405 5767    Passcode: PSJAS1129    https://us06web.zoom.us/j/81544055767?pwd=TEZscWhySVNoS0I3QkppRUEyU1V4Zz09Tencent
-      Meeting：    Meeting ID: 145-282-815   https://meeting.tencent.com/dm/FH1PsuNcarbnLive
-      Stream：   https://www.koushare.com/lives/room/561009Title：Continuous-in-time
-      Limit for Ba...
-
-      2022-11-25'
-    person: ''
-    time: ''
-    title: 人工智能经纬论坛第【27】期讲座通知
-  page_title: 学术讲座-北京大学人工智能研究院
-  page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
-- page_info:
+      17:00 — 18:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemNyHtKF2
     info: '[吴文俊数学中心综合报告] 尹会成
@@ -192,6 +149,85 @@
       14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
+    info: '09
+
+      Dec
+
+      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
+      Euler equations with smooth data and boundary
+
+      时间：2022-12-09 09:00-10:00
+
+      报告人: Jiajie Chen (NYU)'
+    person: ''
+    time: ''
+    title: '09
+
+      Dec
+
+      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
+      Euler equations with smooth data and boundary
+
+      时间：2022-12-09 09:00-10:00
+
+      报告人: Jiajie Chen (NYU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145622.htm
+    info: '02
+
+      Dec
+
+      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
+      equations
+
+      时间：2022-12-02 10:00-11:00
+
+      报告人: Weimin Wang (CNRS)'
+    person: ''
+    time: ''
+    title: '02
+
+      Dec
+
+      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
+      equations
+
+      时间：2022-12-02 10:00-11:00
+
+      报告人: Weimin Wang (CNRS)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7266.htm
+    info: '清华大学助理教授邓东灵学术报告
+
+      2022-11-25'
+    person: ''
+    time: ''
+    title: 清华大学助理教授邓东灵学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2393.htm
+    info: '人工智能经纬论坛第【27】期讲座通知
+
+      报告人：Prof. Yuhua Zhu时   间：2022/11/29   13:00 - 14:00主持人：王宇光  教授Zoom：    Zoom
+      ID: 815 4405 5767    Passcode: PSJAS1129    https://us06web.zoom.us/j/81544055767?pwd=TEZscWhySVNoS0I3QkppRUEyU1V4Zz09Tencent
+      Meeting：    Meeting ID: 145-282-815   https://meeting.tencent.com/dm/FH1PsuNcarbnLive
+      Stream：   https://www.koushare.com/lives/room/561009Title：Continuous-in-time
+      Limit for Ba...
+
+      2022-11-25'
+    person: ''
+    time: ''
+    title: 人工智能经纬论坛第【27】期讲座通知
+  page_title: 学术讲座-北京大学人工智能研究院
+  page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
   - address: ''
     href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3142.htm
