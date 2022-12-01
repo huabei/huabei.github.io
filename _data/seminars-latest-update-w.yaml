@@ -1,5 +1,13 @@
 ﻿- page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7297.htm
+    info: '中南大学计算机学院第四届研究生学术年会
+
+      2022-11-29'
+    person: ''
+    time: ''
+    title: 中南大学计算机学院第四届研究生学术年会
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/7277.htm
     info: '“图分类和图表示学习及应用实践”学术报告简介
 
@@ -19,39 +27,154 @@
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3219.htm
-    info: '配位聚合物化学：现状与展望
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145693.htm
+    info: '05
 
-      配位聚合物（包括金属-有机框架）作为新兴无机-有机杂化材料在能源、环境、信息等领域具有广阔的应用前景，近年来受到广泛关注并呈现方兴未艾的发展趋势。本报告将结合本组的部分研究成果，简要介绍配位聚合物化学…
+      Dec
 
-      2022.11.28'
+      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
+      Architectures
+
+      时间：2022-12-05 16:00-17:00
+
+      报告人: Kun Chen (PKU)'
     person: ''
     time: ''
-    title: 配位聚合物化学：现状与展望
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+    title: '05
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
+      Architectures
+
+      时间：2022-12-05 16:00-17:00
+
+      报告人: Kun Chen (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
+    info: '09
+
+      Dec
+
+      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
+      Euler equations with smooth data and boundary
+
+      时间：2022-12-09 09:00-10:00
+
+      报告人: Jiajie Chen (NYU)'
+    person: ''
+    time: ''
+    title: '09
+
+      Dec
+
+      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
+      Euler equations with smooth data and boundary
+
+      时间：2022-12-09 09:00-10:00
+
+      报告人: Jiajie Chen (NYU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145622.htm
+    info: '02
+
+      Dec
+
+      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
+      equations
+
+      时间：2022-12-02 10:00-11:00
+
+      报告人: Weimin Wang (CNRS)'
+    person: ''
+    time: ''
+    title: '02
+
+      Dec
+
+      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
+      equations
+
+      时间：2022-12-02 10:00-11:00
+
+      报告人: Weimin Wang (CNRS)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2G2qF2
+    info: '[吴文俊数学中心综合报告] 关波
 
-      2022-11
+      PRESCRIBED VOLUME FORMS IN APELLI COHOMOLOGY GROUPS ON COMPACT HERMITIAN MANIFOLDS
 
-      张强锋研究员的学术报告
+      2022-12-02
 
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: '28
+    title: '[吴文俊数学中心综合报告] 关波
 
-      2022-11
+      PRESCRIBED VOLUME FORMS IN APELLI COHOMOLOGY GROUPS ON COMPACT HERMITIAN MANIFOLDS
 
-      张强锋研究员的学术报告
+      2022-12-02
 
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
-- page_info:
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2GpKF2
+    info: 'CHENG YU
+
+      THE ENERGY EQUALITY FOR WEAK SOLUTIONS OF EULER EQUATIONS
+
+      2022-12-01
+
+      09:30 — 10:30'
+    person: ''
+    time: ''
+    title: 'CHENG YU
+
+      THE ENERGY EQUALITY FOR WEAK SOLUTIONS OF EULER EQUATIONS
+
+      2022-12-01
+
+      09:30 — 10:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2GtKF2
+    info: 'PROFESSOR CHENG WANG
+
+      LINEARIZED NUMERICAL SCHEMES FOR NONLOCAL CAHN-HILLIARD EQUATION AND ITS CONVERGENCE
+      ANALYSIS
+
+      2022-11-30
+
+      10:00 — 12:00'
+    person: ''
+    time: ''
+    title: 'PROFESSOR CHENG WANG
+
+      LINEARIZED NUMERICAL SCHEMES FOR NONLOCAL CAHN-HILLIARD EQUATION AND ITS CONVERGENCE
+      ANALYSIS
+
+      2022-11-30
+
+      10:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2GyqF2
+    info: '徐霄乾
+
+      SUPPRESSION OF EXPLOSION BY MIXING
+
+      2022-11-28
+
+      17:30 — 19:30'
+    person: ''
+    time: ''
+    title: '徐霄乾
+
+      SUPPRESSION OF EXPLOSION BY MIXING
+
+      2022-11-28
+
+      17:30 — 19:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2F2qF2
     info: 'PIGONG HANG
@@ -224,55 +347,57 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
-    info: '09
+    href: https://www.zju.edu.cn/2022/1129/c33485a2694840/page.htm
+    info: '物理学院吴克辉学术报告的通知（School of Physics Colloqui...
 
-      Dec
-
-      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
-      Euler equations with smooth data and boundary
-
-      时间：2022-12-09 09:00-10:00
-
-      报告人: Jiajie Chen (NYU)'
+      [2022-11-29]'
     person: ''
     time: ''
-    title: '09
-
-      Dec
-
-      School Colloquium——A constructive proof of finite time blowup of 3D incompressible
-      Euler equations with smooth data and boundary
-
-      时间：2022-12-09 09:00-10:00
-
-      报告人: Jiajie Chen (NYU)'
+    title: 物理学院吴克辉学术报告的通知（School of Physics Colloquium）
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145622.htm
-    info: '02
+    href: https://www.zju.edu.cn/2022/1124/c33485a2690095/page.htm
+    info: 'CRPE双周青年学者论坛NO.375
 
-      Dec
-
-      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
-      equations
-
-      时间：2022-12-02 10:00-11:00
-
-      报告人: Weimin Wang (CNRS)'
+      [2022-11-24]'
     person: ''
     time: ''
-    title: '02
+    title: CRPE双周青年学者论坛NO.375
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3219.htm
+    info: '配位聚合物化学：现状与展望
 
-      Dec
+      配位聚合物（包括金属-有机框架）作为新兴无机-有机杂化材料在能源、环境、信息等领域具有广阔的应用前景，近年来受到广泛关注并呈现方兴未艾的发展趋势。本报告将结合本组的部分研究成果，简要介绍配位聚合物化学…
 
-      School Colloquium——Anderson localization for the nonlinear random Schr\"odinger
-      equations
+      2022.11.28'
+    person: ''
+    time: ''
+    title: 配位聚合物化学：现状与展望
+  page_title: 学术讲座-清华大学化学系
+  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
 
-      时间：2022-12-02 10:00-11:00
+      2022-11
 
-      报告人: Weimin Wang (CNRS)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2393.htm
@@ -334,14 +459,3 @@
     title: Pre
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1124/c33485a2690095/page.htm
-    info: 'CRPE双周青年学者论坛NO.375
-
-      [2022-11-24]'
-    person: ''
-    time: ''
-    title: CRPE双周青年学者论坛NO.375
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
