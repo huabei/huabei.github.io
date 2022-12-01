@@ -177,7 +177,7 @@ def get_url(driver, url, logger=None, headless=True, **kwargs):
         driver.get(url)
     except TimeoutException:
         msg += '\nget url time out'
-    driver.implicitly_wait(1)
+    driver.implicitly_wait(10)
     if driver.title in ['', url.split('//')[1].split('/')[0]]:
         msg += f'\n********* {url} could not get! **************\n'
         driver.status = False
