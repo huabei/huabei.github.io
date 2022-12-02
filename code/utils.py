@@ -152,8 +152,8 @@ def get_seminars_url_info(ele, logger=None):
             continue
         # result['page_name'].append(ele.title)
         result['href'].append(href)
-        result['title'].append(title)
-        result['info'].append(li.text)
+        result['title'].append(title.replace('>', ')').replace('<', '('))
+        result['info'].append(li.text.replace('>', ')').replace('<', '('))
 
     return result
 
