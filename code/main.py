@@ -13,6 +13,7 @@ import os
 from copy import deepcopy
 import pickle
 import yaml
+import subprocess
 
 
 def generate_absurl(url, base_url):
@@ -266,3 +267,6 @@ if __name__ == '__main__':
     #
     # # write_data(total_result, output_file_path, head_replace=head_replace)
     # write_yaml(total_result, '../_data/seminars-latest.yaml', head_replace=head_replace)
+    os.chdir(r"E:\Huabei\huabei.github.io")
+    subprocess.call([r"D:\Program Files\SmartGit\git\bin\git.exe", 'commit', '-a', '-m', '"today update"'])
+    subprocess.call([r'D:\Program Files\SmartGit\git\bin\git.exe', 'push'])
