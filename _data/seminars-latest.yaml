@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11653.htm
+    info: "Normalized solutions of Kirchhoff type equations\n 2022年12月02日 "
+    person: ''
+    time: ''
+    title: Normalized solutions of Kirchhoff type equations
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11605.htm
     info: "Combinatorics of gamma-positivity\n 2022年11月24日 "
     person: ''
@@ -64,13 +70,6 @@
     person: ''
     time: ''
     title: Killed DDSDE for Nonlinear Dirichlet Problem
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11565.htm
-    info: "Borel-Cantelli lemma and strong convergence under sub-linear expectations\n\
-      \ 2022年11月17日 "
-    person: ''
-    time: ''
-    title: Borel-Cantelli lemma and strong convergence under sub-linear expectations
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -331,6 +330,13 @@
   page_title: 现代数学报告-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
+  - address: 'Tencent Meeting ID: 918-999-658'
+    href: https://iiis.tsinghua.edu.cn/seminars/
+    info: ''
+    person: Chon Man Sou  HKUST
+    time: 2022-12-05 13:30-14:30
+    title: Revisit the Decoherence of Cosmological Perturbations with the Development
+      of Quantum Information
   - address: 'Tencent Meeting ID: 772-848-7233 (https://meeting.tencent.com/p/7728487233)'
     href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
@@ -394,12 +400,6 @@
     person: Cheng Zhao  EPFL
     time: 2022-11-17 14:00-15:00
     title: Cosmology with spectroscopic surveys
-  - address: New Science Building (理科楼) C302
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Hua-Jia Wang
-    time: 2022-11-17 13:30-14:30
-    title: Perturbative Causal Shadows in AdS/CFT
   page_title: 清华大学交叉信息研究院
   page_url: https://iiis.tsinghua.edu.cn/seminars/
 - page_info:
@@ -411,7 +411,7 @@
     title: 学术报告
   - address: ''
     href: https://life.tsinghua.edu.cn/index.htm
-    info: '  首页 ） 学术报告'
+    info: '  首页 ) 学术报告'
     person: ''
     time: ''
     title: 首页
@@ -537,7 +537,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4481437
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4484509
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1775,6 +1775,16 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/145773.htm
+    info: '2022-12-02
+
+      【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED BY
+      TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)'
+    person: ''
+    time: ''
+    title: 【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED
+      BY TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/145497.htm
     info: '2022-11-20
 
@@ -1857,83 +1867,9 @@
     person: ''
     time: ''
     title: 【金属有机化学学术报告】New Catalysts, New Reactions and New Functional Materials
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/143503.htm
-    info: '2022-09-27
-
-      【无机化学论坛】新颖无机固体材料的结构设计和性能提升'
-    person: ''
-    time: ''
-    title: 【无机化学论坛】新颖无机固体材料的结构设计和性能提升
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145425.htm
-    info: '01
-
-      Dec
-
-      A statistical approach to feature-based dynamic pricing
-
-      时间：2022-12-01 9:00 - 10:00
-
-      报告人: Yongyi Guo（Harvard University）'
-    person: ''
-    time: ''
-    title: '01
-
-      Dec
-
-      A statistical approach to feature-based dynamic pricing
-
-      时间：2022-12-01 9:00 - 10:00
-
-      报告人: Yongyi Guo（Harvard University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145727.htm
-    info: '01
-
-      Dec
-
-      大数据时代的预测科学：主流学派与公开问题
-
-      时间：2022-12-01 15:10-17:00
-
-      报告人: Lean Yu (Sichuan University)'
-    person: ''
-    time: ''
-    title: '01
-
-      Dec
-
-      大数据时代的预测科学：主流学派与公开问题
-
-      时间：2022-12-01 15:10-17:00
-
-      报告人: Lean Yu (Sichuan University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/145574.htm
-    info: '01
-
-      Dec
-
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——Deep Learning for Mortgage-Backed Securities Markets
-
-      时间：2022-12-01 9:00-11:00
-
-      报告人: Kay Giesecke (Stanford University)'
-    person: ''
-    time: ''
-    title: '01
-
-      Dec
-
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——Deep Learning for Mortgage-Backed Securities Markets
-
-      时间：2022-12-01 9:00-11:00
-
-      报告人: Kay Giesecke (Stanford University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145622.htm
     info: '02
@@ -2032,7 +1968,7 @@
 
       Dec
 
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
 
       时间：2022-12-08 10:00
 
@@ -2043,11 +1979,33 @@
 
       Dec
 
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
 
       时间：2022-12-08 10:00
 
       报告人: Xing Hao (Boston University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145757.htm
+    info: '08
+
+      Dec
+
+      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+
+      时间：2022-12-08 14:00-15:00
+
+      报告人: Yuhao Wang (Tsinghua University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Dec
+
+      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+
+      时间：2022-12-08 14:00-15:00
+
+      报告人: Yuhao Wang (Tsinghua University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/145638.htm
     info: '09
@@ -2120,6 +2078,50 @@
       时间：2022-12-15 10:00-11:00
 
       报告人: Wenguang Sun (Zhejiang University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145425.htm
+    info: '01
+
+      Dec
+
+      A statistical approach to feature-based dynamic pricing
+
+      时间：2022-12-01 9:00 - 10:00
+
+      报告人: Yongyi Guo（Harvard University）'
+    person: ''
+    time: ''
+    title: '01
+
+      Dec
+
+      A statistical approach to feature-based dynamic pricing
+
+      时间：2022-12-01 9:00 - 10:00
+
+      报告人: Yongyi Guo（Harvard University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145727.htm
+    info: '01
+
+      Dec
+
+      大数据时代的预测科学：主流学派与公开问题
+
+      时间：2022-12-01 15:10-17:00
+
+      报告人: Lean Yu (Sichuan University)'
+    person: ''
+    time: ''
+    title: '01
+
+      Dec
+
+      大数据时代的预测科学：主流学派与公开问题
+
+      时间：2022-12-01 15:10-17:00
+
+      报告人: Lean Yu (Sichuan University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2135,7 +2137,7 @@
 
       十二月 2022年
 
-      ）
+      )
 
       日一二三四五六 12345678910111213141516171819202122232425262728293031'
     person: ''
@@ -2144,153 +2146,219 @@
 
       十二月 2022年
 
-      ）
+      )
 
       日一二三四五六 12345678910111213141516171819202122232425262728293031'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
 
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+      2022-11
 
-      人工智能前沿应用系列讲座'
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
     person: ''
     time: ''
-    title: '2021年12月9日
+    title: '28
 
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+      2022-11
 
-      人工智能前沿应用系列讲座'
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      2022-09
 
-      人工智能前沿应用系列讲座'
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
     person: ''
     time: ''
-    title: '2021年11月30日
+    title: '28
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      2022-09
 
-      人工智能前沿应用系列讲座'
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      2022-07
 
-      人工智能前沿应用系列讲座'
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
     person: ''
     time: ''
-    title: '2021年11月23日
+    title: '04
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      2022-07
 
-      人工智能前沿应用系列讲座'
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
 
-      讲座预告 | 自动驾驶技术进展与量产实践
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
     person: ''
     time: ''
-    title: '2021年11月15日
+    title: '20
 
-      讲座预告 | 自动驾驶技术进展与量产实践
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
 
-      讲座预告 | 元宇宙与数字孪生
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
     person: ''
     time: ''
-    title: '2021年11月9日
+    title: '09
 
-      讲座预告 | 元宇宙与数字孪生
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
 
-      讲座预告 | AI芯片的产业需求和发展
+      2021-10
 
-      人工智能前沿应用系列讲座'
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
     person: ''
     time: ''
-    title: '2021年11月2日
+    title: '25
 
-      讲座预告 | AI芯片的产业需求和发展
+      2021-10
 
-      人工智能前沿应用系列讲座'
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
 
-      讲座预告 | 大模型，小语种，会话式RPA
+      2021-09
 
-      人工智能前沿应用系列讲座'
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
     person: ''
     time: ''
-    title: '2021年10月26日
+    title: '22
 
-      讲座预告 | 大模型，小语种，会话式RPA
+      2021-09
 
-      人工智能前沿应用系列讲座'
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
 
-      讲座预告 | AR中的计算机视觉
+      2020-01
 
-      人工智能前沿应用系列讲座'
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
     person: ''
     time: ''
-    title: '2021年10月12日
+    title: '06
 
-      讲座预告 | AR中的计算机视觉
+      2020-01
 
-      人工智能前沿应用系列讲座'
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
+    href: http://www.bio-x.cn/Web/Show/1424
+    info: '23
 
-      学术报告会 | 深度学习的基础理论
+      2019-12
 
-      报告人：陶大程'
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
     person: ''
     time: ''
-    title: '2021年9月2日
+    title: '23
 
-      学术报告会 | 深度学习的基础理论
+      2019-12
 
-      报告人：陶大程'
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
+    href: http://www.bio-x.cn/Web/Show/1423
+    info: '18
 
-      学术报告会 | 人体外貌特征与人类表型组研究
+      2019-12
 
-      报告人：汪思佳'
+      赵玉珑博士的读书报告
+
+      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
+      factors to optimize the translational value of the rat fear-potentiated startle
+      paradigm'
     person: ''
     time: ''
-    title: '2021年1月6日
+    title: '18
 
-      学术报告会 | 人体外貌特征与人类表型组研究
+      2019-12
 
-      报告人：汪思佳'
-  page_title: 上海交通大学人工智能研究院
+      赵玉珑博士的读书报告
+
+      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
+      factors to optimize the translational value of the rat fear-potentiated startle
+      paradigm'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1421
+    info: '17
+
+      2019-12
+
+      边杉特聘研究员的读书报告
+
+      主讲人:边杉 特聘研究员 （同济大学）时间:2019年12月18日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:应用人脑类器官研究人脑发育和神经系统疾病'
+    person: ''
+    time: ''
+    title: '17
+
+      2019-12
+
+      边杉特聘研究员的读书报告
+
+      主讲人:边杉 特聘研究员 （同济大学）时间:2019年12月18日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:应用人脑类器官研究人脑发育和神经系统疾病'
+  page_title: 上海交通大学BIO-X研究院
   page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
@@ -2442,7 +2510,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, in 13 days'
+      2022-12-14 14:00, in 12 days'
     person: ''
     time: ''
     title: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2450,49 +2518,49 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, in 13 days'
+      2022-12-14 14:00, in 12 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, in 5 days'
+      2022-12-07 10:00, in 4 days'
     person: ''
     time: ''
     title: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, in 5 days'
+      2022-12-07 10:00, in 4 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 2 days ago'
+      2022-11-30 10:00, 3 days ago'
     person: ''
     time: ''
     title: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 2 days ago'
+      2022-11-30 10:00, 3 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 7 days ago'
+      2022-11-25 11:00, 8 days ago'
     person: ''
     time: ''
     title: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 7 days ago'
+      2022-11-25 11:00, 8 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2500,7 +2568,7 @@
 
       代新杰 , 中国科学院数学与系统科学研究院
 
-      2022-11-17 20:00, 14 days ago'
+      2022-11-17 20:00, 15 days ago'
     person: ''
     time: ''
     title: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2508,21 +2576,21 @@
 
       代新杰 , 中国科学院数学与系统科学研究院
 
-      2022-11-17 20:00, 14 days ago'
+      2022-11-17 20:00, 15 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Weak intermittency for the stochastic heat equation and its discretizations
 
       陈楚楚 , 中国科学院数学与系统科学研究院
 
-      2022-11-16 14:00, 15 days ago'
+      2022-11-16 14:00, 16 days ago'
     person: ''
     time: ''
     title: 'Weak intermittency for the stochastic heat equation and its discretizations
 
       陈楚楚 , 中国科学院数学与系统科学研究院
 
-      2022-11-16 14:00, 15 days ago'
+      2022-11-16 14:00, 16 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Numerical solver for the Boltzmann equation with self-adaptive collision
@@ -2530,7 +2598,7 @@
 
       Yanli Wang , Beijing Computational Science Research Center
 
-      2022-11-09 14:00, 22 days ago'
+      2022-11-09 14:00, 23 days ago'
     person: ''
     time: ''
     title: 'Numerical solver for the Boltzmann equation with self-adaptive collision
@@ -2538,7 +2606,7 @@
 
       Yanli Wang , Beijing Computational Science Research Center
 
-      2022-11-09 14:00, 22 days ago'
+      2022-11-09 14:00, 23 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'An LQ differential game of stochastic large-population system with partial
@@ -2922,6 +2990,24 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FtKF2
+    info: '[DISTINGUISHED LECTURE] PROF. YANYAN LI
+
+      ON THE $\SIGMA_K$-LOEWNER–NIRENBERG PROBLEM
+
+      2022-12-16
+
+      09:00 — 10:00'
+    person: ''
+    time: ''
+    title: '[DISTINGUISHED LECTURE] PROF. YANYAN LI
+
+      ON THE $\SIGMA_K$-LOEWNER–NIRENBERG PROBLEM
+
+      2022-12-16
+
+      09:00 — 10:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FpKF2
     info: '高瑜
 
@@ -2942,6 +3028,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FyqF2
+    info: '[文俊讲坛] 周向宇 院士
+
+      多复变：简介与进展
+
+      2022-12-14
+
+      15:30 — 16:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] 周向宇 院士
+
+      多复变：简介与进展
+
+      2022-12-14
+
+      15:30 — 16:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2HtKF2
     info: '[吴文俊数学中心综合报告] 郗平
 
@@ -2959,6 +3063,24 @@
       2022-12-09
 
       16:30 — 17:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6F2qF2
+    info: '汪波
+
+      CONVERGENCE ANALYSIS OF THE MULTI-SCALE DEEP NEURAL NETWORK (MSCALEDNN)
+
+      2022-12-07
+
+      09:30 — 11:30'
+    person: ''
+    time: ''
+    title: '汪波
+
+      CONVERGENCE ANALYSIS OF THE MULTI-SCALE DEEP NEURAL NETWORK (MSCALEDNN)
+
+      2022-12-07
+
+      09:30 — 11:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGelJmGpKF2
     info: '[COLLOQUIUM] 倪好
@@ -3073,62 +3195,6 @@
       2022-12-01
 
       16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemNuHtKF2
-    info: 'ELENA PRILEPKINA
-
-      ON THE RELATIONSHIP BETWEEN THE GENERALIZED HYPERGEOMETRIC FUNCTION AND MEIJER''S
-      G-FUNCTION
-
-      2022-12-01
-
-      17:00 — 18:00'
-    person: ''
-    time: ''
-    title: 'ELENA PRILEPKINA
-
-      ON THE RELATIONSHIP BETWEEN THE GENERALIZED HYPERGEOMETRIC FUNCTION AND MEIJER''S
-      G-FUNCTION
-
-      2022-12-01
-
-      17:00 — 18:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemNyHtKF2
-    info: '[吴文俊数学中心综合报告] 尹会成
-
-      ON THE NONLINEAR WAVE EQUATIONS WITH THE SHORT PULSE INITIAL DATA
-
-      2022-12-01
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[吴文俊数学中心综合报告] 尹会成
-
-      ON THE NONLINEAR WAVE EQUATIONS WITH THE SHORT PULSE INITIAL DATA
-
-      2022-12-01
-
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN2GpKF2
-    info: 'CHENG YU
-
-      THE ENERGY EQUALITY FOR WEAK SOLUTIONS OF EULER EQUATIONS
-
-      2022-12-01
-
-      09:30 — 10:30'
-    person: ''
-    time: ''
-    title: 'CHENG YU
-
-      THE ENERGY EQUALITY FOR WEAK SOLUTIONS OF EULER EQUATIONS
-
-      2022-12-01
-
-      09:30 — 10:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
