@@ -233,27 +233,27 @@ def get_data_from_internet(url_file_path):
 
 
 if __name__ == '__main__':
-    # import sys
-    # sys.path.extend([r"E:\Huabei\huabei.github.io\code"])
-    os.chdir(r"E:\Huabei\huabei.github.io\code")
-    # 今天的时间d
-    d = time.strftime('%Y-%m-%d', time.localtime())
-    # 七天前的时间
-    # w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
-    output_file_path = '../_data/seminars-latest.yaml'
-    # if os.path.exists(output_file_path):
-    #     os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
-
-    head_replace = {'报告题目': 'title',
-                    '报告日期': 'time',
-                    '时间': 'time',
-                    '讲座题目': 'title',
-                    '主讲人': 'person',
-                    '报告人': 'person',
-                    '地址': 'address',
-                    '地点': 'address'}
-
-    main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    # # import sys
+    # # sys.path.extend([r"E:\Huabei\huabei.github.io\code"])
+    # os.chdir(r"E:\Huabei\huabei.github.io\code")
+    # # 今天的时间d
+    # d = time.strftime('%Y-%m-%d', time.localtime())
+    # # 七天前的时间
+    # # w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
+    # output_file_path = '../_data/seminars-latest.yaml'
+    # # if os.path.exists(output_file_path):
+    # #     os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
+    #
+    # head_replace = {'报告题目': 'title',
+    #                 '报告日期': 'time',
+    #                 '时间': 'time',
+    #                 '讲座题目': 'title',
+    #                 '主讲人': 'person',
+    #                 '报告人': 'person',
+    #                 '地址': 'address',
+    #                 '地点': 'address'}
+    #
+    # main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
