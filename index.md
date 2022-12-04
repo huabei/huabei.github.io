@@ -10,7 +10,7 @@ title: 国内学术报告汇总主页
 
 ## 学术报告
 
-更新时间：{{ site.time | date: '%H:%M，%B %d, %Y' }}
+更新时间：{{ site.time | date: '%R，%B %d, %Y' }}
 
 ### 今日更新
 <table>
