@@ -168,6 +168,7 @@ def get_driver(headless=True, **kwargs) -> webdriver:
     # 载入页面等待10秒
     driver.set_page_load_timeout(10)
     driver.maximize_window()
+    driver.implicitly_wait(1)
     return driver
 
 
@@ -177,7 +178,7 @@ def get_url(driver, url, logger=None, headless=True, **kwargs):
         driver.get(url)
     except TimeoutException:
         msg += '\nget url time out'
-    driver.implicitly_wait(10)
+    time.sleep(3)
     if driver.title in ['', url.split('//')[1].split('/')[0]]:
         msg += f'\n********* {url} could not get! **************\n'
         driver.status = False
