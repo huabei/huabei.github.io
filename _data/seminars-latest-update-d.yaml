@@ -1,22 +1,283 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3164.htm
+    href: https://math.csu.edu.cn/info/1736/11664.htm
+    info: "一类非单调蚊媒疾病的空间传播动力学\n 2022年12月05日 "
+    person: ''
+    time: ''
+    title: 一类非单调蚊媒疾病的空间传播动力学
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11663.htm
+    info: "强竞争系统行波解波速符号与入侵方向\n 2022年12月05日 "
+    person: ''
+    time: ''
+    title: 强竞争系统行波解波速符号与入侵方向
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3165.htm
     info: ''
-    person: Mikhail Khovanov (Columbia University)
-    time: '2022-12-16'
-    title: Link homology and foams
+    person: Alex Eskin (The University of Chicago)
+    time: '2022-12-23'
+    title: On stationary measure rigidity and orbit closures for actions of non-abelian
+      groups
   page_title: 现代数学报告-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
   - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3229.htm
-    info: '探索分子世界的奥秘——单分子科学简介
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GpKF2
+    info: 'YU HONGJUN（喻洪俊）
 
-      早在量子力学建立的初期，理查德·费曼就梦想着能在原子、分子尺度上观察和操纵物质世界，然而多年以来，人们对微观世界的观测和研究都是建立在大量原子或分子的系综平均行为的基础上。直到上个世纪八十年代扫描隧…
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
 
-      2022.12.03'
+      2022-12-09
+
+      17:00 — 18:30'
     person: ''
     time: ''
-    title: 探索分子世界的奥秘——单分子科学简介
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+    title: 'YU HONGJUN（喻洪俊）
+
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
+
+      2022-12-09
+
+      17:00 — 18:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFpKF2
+    info: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFtKF2
+    info: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFyqF2
+    info: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSF2qF2
+    info: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GtKF2
+    info: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+    person: ''
+    time: ''
+    title: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GyqF2
+    info: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GpKF2
+    info: 'YU HONGJUN（喻洪俊）
+
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
+
+      2022-12-09
+
+      17:00 — 18:30'
+    person: ''
+    time: ''
+    title: 'YU HONGJUN（喻洪俊）
+
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
+
+      2022-12-09
+
+      17:00 — 18:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFpKF2
+    info: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFtKF2
+    info: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFyqF2
+    info: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSF2qF2
+    info: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GtKF2
+    info: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+    person: ''
+    time: ''
+    title: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GyqF2
+    info: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.zju.edu.cn/xs/list.htm

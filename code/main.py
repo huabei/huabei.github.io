@@ -209,7 +209,7 @@ def get_data_from_internet(url_file_path):
     url_iter = open(url_file_path, 'r')
     total_result = dict()
     logger = Logger('./log')
-    driver = get_driver(headless=True)  # 无头会出错
+    driver = get_driver(headless=True)
     for url in url_iter:
         result_tmp = dict()
         url = url.strip()
