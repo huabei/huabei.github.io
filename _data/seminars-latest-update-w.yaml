@@ -1,26 +1,16 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3164.htm
-    info: ''
-    person: Mikhail Khovanov (Columbia University)
-    time: '2022-12-16'
-    title: Link homology and foams
-  page_title: 现代数学报告-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3229.htm
-    info: '探索分子世界的奥秘——单分子科学简介
-
-      早在量子力学建立的初期，理查德·费曼就梦想着能在原子、分子尺度上观察和操纵物质世界，然而多年以来，人们对微观世界的观测和研究都是建立在大量原子或分子的系综平均行为的基础上。直到上个世纪八十年代扫描隧…
-
-      2022.12.03'
+    href: https://math.csu.edu.cn/info/1736/11664.htm
+    info: "一类非单调蚊媒疾病的空间传播动力学\n 2022年12月05日 "
     person: ''
     time: ''
-    title: 探索分子世界的奥秘——单分子科学简介
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
-- page_info:
+    title: 一类非单调蚊媒疾病的空间传播动力学
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11663.htm
+    info: "强竞争系统行波解波速符号与入侵方向\n 2022年12月05日 "
+    person: ''
+    time: ''
+    title: 强竞争系统行波解波速符号与入侵方向
   - address: ''
     href: https://math.csu.edu.cn/info/1736/11653.htm
     info: "Normalized solutions of Kirchhoff type equations\n 2022年12月02日 "
@@ -31,179 +21,147 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/145773.htm
-    info: '2022-12-02
-
-      【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED BY
-      TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)'
-    person: ''
-    time: ''
-    title: 【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED
-      BY TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3165.htm
+    info: ''
+    person: Alex Eskin (The University of Chicago)
+    time: '2022-12-23'
+    title: On stationary measure rigidity and orbit closures for actions of non-abelian
+      groups
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3164.htm
+    info: ''
+    person: Mikhail Khovanov (Columbia University)
+    time: '2022-12-16'
+    title: Link homology and foams
+  page_title: 现代数学报告-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145757.htm
-    info: '08
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GpKF2
+    info: 'YU HONGJUN（喻洪俊）
 
-      Dec
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
 
-      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+      2022-12-09
 
-      时间：2022-12-08 14:00-15:00
-
-      报告人: Yuhao Wang (Tsinghua University)'
+      17:00 — 18:30'
     person: ''
     time: ''
-    title: '08
+    title: 'YU HONGJUN（喻洪俊）
 
-      Dec
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
 
-      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+      2022-12-09
 
-      时间：2022-12-08 14:00-15:00
-
-      报告人: Yuhao Wang (Tsinghua University)'
+      17:00 — 18:30'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145744.htm
-    info: '06
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFpKF2
+    info: 'SHIBING CHEN
 
-      Dec
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
 
-      Soliton resolution for wave type equations
+      2022-12-09
 
-      时间：2022-12-06 13:50-14:50
-
-      报告人: Lifeng Zhao (USTC)'
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: '06
+    title: 'SHIBING CHEN
 
-      Dec
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
 
-      Soliton resolution for wave type equations
+      2022-12-09
 
-      时间：2022-12-06 13:50-14:50
-
-      报告人: Lifeng Zhao (USTC)'
+      14:00 — 15:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/145735.htm
-    info: '08
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFtKF2
+    info: '周岭
 
-      Dec
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
 
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+      2022-12-09
 
-      时间：2022-12-08 10:00
-
-      报告人: Xing Hao (Boston University)'
+      10:00 — 11:00'
     person: ''
     time: ''
-    title: '08
+    title: '周岭
 
-      Dec
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
 
-      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+      2022-12-09
 
-      时间：2022-12-08 10:00
-
-      报告人: Xing Hao (Boston University)'
+      10:00 — 11:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145727.htm
-    info: '01
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFyqF2
+    info: '吴端
 
-      Dec
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
 
-      大数据时代的预测科学：主流学派与公开问题
+      2022-12-09
 
-      时间：2022-12-01 15:10-17:00
-
-      报告人: Lean Yu (Sichuan University)'
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: '01
+    title: '吴端
 
-      Dec
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
 
-      大数据时代的预测科学：主流学派与公开问题
+      2022-12-09
 
-      时间：2022-12-01 15:10-17:00
-
-      报告人: Lean Yu (Sichuan University)'
+      16:00 — 17:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145711.htm
-    info: '07
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSF2qF2
+    info: '董伟松
 
-      Dec
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
 
-      Sharp Bounds on the Height of K-Semistable Fano Varieties
+      2022-12-09
 
-      时间：2022-12-07 16:00-17:00
-
-      报告人: Robert Berman (Chalmers University of Technology)'
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: '07
+    title: '董伟松
 
-      Dec
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
 
-      Sharp Bounds on the Height of K-Semistable Fano Varieties
+      2022-12-09
 
-      时间：2022-12-07 16:00-17:00
-
-      报告人: Robert Berman (Chalmers University of Technology)'
+      15:00 — 16:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145719.htm
-    info: '15
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GtKF2
+    info: 'VLADIMIR LYSOV
 
-      Dec
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
 
-      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
-      and Invidious Comparisons
+      2022-12-08
 
-      时间：2022-12-15 10:00-11:00
-
-      报告人: Wenguang Sun (Zhejiang University)'
+      17:00 — 18:00'
     person: ''
     time: ''
-    title: '15
+    title: 'VLADIMIR LYSOV
 
-      Dec
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
 
-      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
-      and Invidious Comparisons
+      2022-12-08
 
-      时间：2022-12-15 10:00-11:00
-
-      报告人: Wenguang Sun (Zhejiang University)'
+      17:00 — 18:00'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145693.htm
-    info: '05
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GyqF2
+    info: '徐礼虎
 
-      Dec
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
 
-      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
-      Architectures
+      2022-12-08
 
-      时间：2022-12-05 16:00-17:00
-
-      报告人: Kun Chen (PKU)'
+      10:00 — 11:00'
     person: ''
     time: ''
-    title: '05
+    title: '徐礼虎
 
-      Dec
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
 
-      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
-      Architectures
+      2022-12-08
 
-      时间：2022-12-05 16:00-17:00
-
-      报告人: Kun Chen (PKU)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FtKF2
     info: '[DISTINGUISHED LECTURE] PROF. YANYAN LI
@@ -392,6 +350,132 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GpKF2
+    info: 'YU HONGJUN（喻洪俊）
+
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
+
+      2022-12-09
+
+      17:00 — 18:30'
+    person: ''
+    time: ''
+    title: 'YU HONGJUN（喻洪俊）
+
+      SPECTRUM STRUCTURE OF THE RELATIVISTIC BOLTZMANN EQUATION WITH SOFT POTENTIALS
+
+      2022-12-09
+
+      17:00 — 18:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFpKF2
+    info: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'SHIBING CHEN
+
+      FREE DISCONTINUITIES IN OPTIMAL TRANSPORT
+
+      2022-12-09
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFtKF2
+    info: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '周岭
+
+      INTEGRATIVE LEARNING AND INFERENCE FOR DISTRIBUTED AND STREAMING DATA
+
+      2022-12-09
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSFyqF2
+    info: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '吴端
+
+      INTERIOR POINTWISE $C^{2,\ALPHA}$ REGULARITY FOR FULLY NONLINEAR ELLIPTIC EQUATIONS
+
+      2022-12-09
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSF2qF2
+    info: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '董伟松
+
+      CURVATURE ESTIMATES FOR P-CONVEX HYPERSURFACES OF PRESCRIBED CURVATURE
+
+      2022-12-09
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GtKF2
+    info: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+    person: ''
+    time: ''
+    title: 'VLADIMIR LYSOV
+
+      MULTILEVEL HERMITE--PADÉ APPROXIMATIONS
+
+      2022-12-08
+
+      17:00 — 18:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6GyqF2
+    info: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '徐礼虎
+
+      A PROBABILITY APPROXIMATION FRAMEWORK AND ITS APPLICATIONS
+
+      2022-12-08
+
+      10:00 — 11:00'
+  - address: ''
     href: https://www.zju.edu.cn/2022/1201/c33485a2698534/page.htm
     info: '【基础医学】DNA-protein crosslinks proteolysis repair: f...
 
@@ -454,6 +538,193 @@
     title: 物理学院吴克辉学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3229.htm
+    info: '探索分子世界的奥秘——单分子科学简介
+
+      早在量子力学建立的初期，理查德·费曼就梦想着能在原子、分子尺度上观察和操纵物质世界，然而多年以来，人们对微观世界的观测和研究都是建立在大量原子或分子的系综平均行为的基础上。直到上个世纪八十年代扫描隧…
+
+      2022.12.03'
+    person: ''
+    time: ''
+    title: 探索分子世界的奥秘——单分子科学简介
+  page_title: 学术讲座-清华大学化学系
+  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/145773.htm
+    info: '2022-12-02
+
+      【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED BY
+      TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)'
+    person: ''
+    time: ''
+    title: 【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED
+      BY TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145757.htm
+    info: '08
+
+      Dec
+
+      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+
+      时间：2022-12-08 14:00-15:00
+
+      报告人: Yuhao Wang (Tsinghua University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Dec
+
+      Residual Permutation Test for High-Dimensional Regression Coefficient Testing
+
+      时间：2022-12-08 14:00-15:00
+
+      报告人: Yuhao Wang (Tsinghua University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145744.htm
+    info: '06
+
+      Dec
+
+      Soliton resolution for wave type equations
+
+      时间：2022-12-06 13:50-14:50
+
+      报告人: Lifeng Zhao (USTC)'
+    person: ''
+    time: ''
+    title: '06
+
+      Dec
+
+      Soliton resolution for wave type equations
+
+      时间：2022-12-06 13:50-14:50
+
+      报告人: Lifeng Zhao (USTC)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/145735.htm
+    info: '08
+
+      Dec
+
+      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+
+      时间：2022-12-08 10:00
+
+      报告人: Xing Hao (Boston University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Dec
+
+      (北京大学数量经济与数理金融教育部重点实验室）学术报告——The Cash-Cap Model: a Two-State Model of Firm Dynamics
+
+      时间：2022-12-08 10:00
+
+      报告人: Xing Hao (Boston University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145727.htm
+    info: '01
+
+      Dec
+
+      大数据时代的预测科学：主流学派与公开问题
+
+      时间：2022-12-01 15:10-17:00
+
+      报告人: Lean Yu (Sichuan University)'
+    person: ''
+    time: ''
+    title: '01
+
+      Dec
+
+      大数据时代的预测科学：主流学派与公开问题
+
+      时间：2022-12-01 15:10-17:00
+
+      报告人: Lean Yu (Sichuan University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145711.htm
+    info: '07
+
+      Dec
+
+      Sharp Bounds on the Height of K-Semistable Fano Varieties
+
+      时间：2022-12-07 16:00-17:00
+
+      报告人: Robert Berman (Chalmers University of Technology)'
+    person: ''
+    time: ''
+    title: '07
+
+      Dec
+
+      Sharp Bounds on the Height of K-Semistable Fano Varieties
+
+      时间：2022-12-07 16:00-17:00
+
+      报告人: Robert Berman (Chalmers University of Technology)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145719.htm
+    info: '15
+
+      Dec
+
+      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
+      and Invidious Comparisons
+
+      时间：2022-12-15 10:00-11:00
+
+      报告人: Wenguang Sun (Zhejiang University)'
+    person: ''
+    time: ''
+    title: '15
+
+      Dec
+
+      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
+      and Invidious Comparisons
+
+      时间：2022-12-15 10:00-11:00
+
+      报告人: Wenguang Sun (Zhejiang University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145693.htm
+    info: '05
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
+      Architectures
+
+      时间：2022-12-05 16:00-17:00
+
+      报告人: Kun Chen (PKU)'
+    person: ''
+    time: ''
+    title: '05
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第四十一期）—— To Understand Neural Networks with Scale Invariant
+      Architectures
+
+      时间：2022-12-05 16:00-17:00
+
+      报告人: Kun Chen (PKU)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
     href: https://cse.csu.edu.cn/info/1041/7297.htm
