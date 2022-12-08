@@ -270,12 +270,6 @@
     time: '2022-12-16'
     title: Link homology and foams
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3142.htm
-    info: ''
-    person: Shi Zhan (CAS)
-    time: Cancelled
-    title: Some random recursive systems in probability theory
-  - address: ''
     href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3122.htm
     info: ''
     person: Prof.Yan Soibelman (Kansas State University)
@@ -326,6 +320,13 @@
     time: '2022-11-04'
     title: Constructing algebraic solutions of Painleve VI equation from p-adic Hodge
       theory and Langlands correspondence
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3067.htm
+    info: ''
+    person: Prof.Carola-Bibiane Schönlieb（University of Cambridge）
+    time: '2022-10-28'
+    title: Mathematical imaging--From geometric PDEs and variational modelling to
+      deep learning for images
   page_title: 现代数学报告-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
@@ -536,7 +537,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4500358
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4503056
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -741,227 +742,6 @@
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5168.htm
-    info: '24
-
-      十月
-
-      清华计算机系诚邀您参加第三届全球计算机学科发展论坛
-
-      “第三届全球计算机学科发展论坛”将于2022年10月28日晚上20点至23点在清华大学召开。本次论坛主题为“新时代下计算机学科的挑战与机遇”，论坛由交叉信息研究院院长、图灵奖获得者姚期智先生和计算机系主任尹霞教授主持，伊利诺伊大学、剑桥大学、韩国科学技术院的计算机系主任、香港科技大学的教务长分别进行特邀报告，最后姚期智先生和各位特邀嘉宾一起进行题为“新时代计算机学科...'
-    person: ''
-    time: ''
-    title: 清华计算机系诚邀您参加第三届全球计算机学科发展论坛
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4903.htm
-    info: '18
-
-      四月
-
-      首届量子软件论坛即将举办
-
-      量子软件与量子硬件是量子计算不可分割的两个方面。量子硬件在过去的几年取得了令人瞩目的进步，为量子软件的发展提供了新的需求和新的契机。如何在新的研究背景下，基于软硬件的基础架构，发展量子软件的技术和方法，最大限度发挥量子器件的能力，是富有挑战的重要研究课题。为了促进量子软件学术研究和工程实践两方面的发展、推动学术界和工业界在量子软件方面的交流合作、加强量子...'
-    person: ''
-    time: ''
-    title: 首届量子软件论坛即将举办
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4816.htm
-    info: '17
-
-      九月
-
-      清华大学计算机学科顾问委员会委员特邀报告会举行
-
-      9月17日，清华大学计算机学科顾问委员会特邀报告在线举行。中国科学院院士、清华大学教授王小云和图灵奖得主、以色列威兹曼科学院教授阿迪·萨莫尔（AdiShamir）分别以“密码技术与区块链”和“一种机器学习中对抗性样本的新理论”（A
-      New Theory of Adversarial Examples in Machine Learning）为题作了精彩的线上报告。报告会分别由计算机系党委书记刘奕群教授和王小云院士主持，近三...'
-    person: ''
-    time: ''
-    title: 清华大学计算机学科顾问委员会委员特邀报告会举行
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4473.htm
-    info: '11
-
-      六月
-
-      计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
-
-      6月3日，清华大学杰出访问教授聘任仪式暨学术报告会在信息科学技术大楼举行。荷兰皇家科学院院士、阿姆斯特丹大学马腾.德.莱克教授（Maarten de Rijke）受聘为清华大学杰出访问教授。计算机系党委书记刘奕群主持会议并向Maarten
-      de Rijke颁发聘书，计算机系副主任李国良出席会议并致辞。校内外师生代表50余人参加了本次会议。刘奕群向Maarten de Rijke教授颁发聘书聘任仪式后，Maarten...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘任仪式暨学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/4474.htm
-    info: '21
-
-      四月
-
-      计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
-
-      4月20日，清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会在信息科学技术大楼举行。英国皇家学会会士、皇家工程院院士、南安普顿大学教授、清华大学计算机学科顾问委员会委员Wendy
-      Hall受聘为清华大学杰出访问教授。计算机系党委书记刘奕群出席仪式并向Wendy Hall颁发聘书，会议由计算机系副主任唐杰主持，校内外师生代表共70余人参加了会议。刘奕群给Wendy
-      Hall 颁发聘...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘任仪式暨计算机学科顾问委员学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3471.htm
-    info: '21
-
-      十一月
-
-      计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
-
-      11月20日下午，由计算机系主办的“清华大学杰出访问教授聘请仪式暨学术报告会”在信息科学技术大楼举行。仪式上，澳大利亚新南威尔士大学计算机科学及工程学院教授林学民被聘为清华大学杰出访问教授。计算机系副系主...'
-    person: ''
-    time: ''
-    title: 计算机系举行清华大学杰出访问教授聘请仪式暨学术报告会
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3469.htm
-    info: '27
-
-      四月
-
-      计算机系举办校庆专场学术报告
-
-      4月27日上午，计算机系在西阶梯教室举办清华大学一百零八周年校庆专场学术报告——智能控制的系统及特征建模，报告主讲人为中国科学院院士吴宏鑫。系主任吴建平、系党委书记刘奕群、副系主任朱文武、教师代表、各年级...'
-    person: ''
-    time: ''
-    title: 计算机系举办校庆专场学术报告
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3472.htm
-    info: '15
-
-      十一月
-
-      美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
-
-      2018年11月13日，清华大学计算机科学与技术系60周年系庆系列学术报告第35场报告在东主楼10区103室举行。本次活动邀请了现任国际计算机学会设计自动化专业组(Association
-      for Computing Machinery，Special Interest ...'
-    person: ''
-    time: ''
-    title: 美国圣母大学胡晓波教授做客计算机系60周年系庆系列学术报告
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3468.htm
-    info: '08
-
-      十一月
-
-      蒙特利尔大学Yoshua Bengio教授做客计算机系
-
-      2018年11月7日晚，清华大学计算机系列学术报告第59讲在清华大学中央主楼报告厅举行。本次活动邀请到蒙特利尔大学计算机科学与运算研究系教授Yoshua
-      Bengio做主题讲座。计算机系副系主任唐杰和计算机系科研保密办主任...'
-    person: ''
-    time: ''
-    title: 蒙特利尔大学Yoshua Bengio教授做客计算机系
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/3467.htm
-    info: '15
-
-      十月
-
-      ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
-
-      Diane Kelly教授做学术报告 2018年10月11日下午，清华大学计算机科学与技术系60周年系庆系列学术报告第三十四场活动在FIT楼1-415会议室举行。本次活动邀请了现任国际计算机学会信息检索专业组（Association
-      for Comp...'
-    person: ''
-    time: ''
-    title: ACM SIGIR主席Diane Kelly教授做客计算机系60周年系庆系列学术报告
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/16dbd362f4164a4599ce641993f6be66.htm
-    info: '2022.12.06
-
-      手性光谱学（高等天然药物化学邀请讲座）'
-    person: ''
-    time: ''
-    title: 手性光谱学（高等天然药物化学邀请讲座）
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/ca1e3911f8974d90b8e4e5f8d4ac8191.htm
-    info: '2022.11.23
-
-      天然产物的发现和生物合成研究'
-    person: ''
-    time: ''
-    title: 天然产物的发现和生物合成研究
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/966b9635bb1a4b729c35e3bef3b7219b.htm
-    info: '2022.11.23
-
-      SYNTHIA TM 逆合成软件的详细使用'
-    person: ''
-    time: ''
-    title: SYNTHIA TM 逆合成软件的详细使用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/e98edf7c6bae4175b2cd71010b98fe39.htm
-    info: '2022.11.18
-
-      人体微生物的活性代谢产物研究'
-    person: ''
-    time: ''
-    title: 人体微生物的活性代谢产物研究
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b5342124c6314501bf94f0ead41c4935.htm
-    info: '2022.11.17
-
-      代谢组学新方法及其在医学研究中的应用'
-    person: ''
-    time: ''
-    title: 代谢组学新方法及其在医学研究中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/1813226ee56d41ffb8197bce1512d6cf.htm
-    info: '2022.11.10
-
-      自动化合成的发展现状及在药化合成中的应用'
-    person: ''
-    time: ''
-    title: 自动化合成的发展现状及在药化合成中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/534c629ce6a64429b586080e15ad8d5e.htm
-    info: '2022.11.07
-
-      前沿质谱技术及其在生物医药中的应用'
-    person: ''
-    time: ''
-    title: 前沿质谱技术及其在生物医药中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/10520dfd3b9f403cb7c9e489bbde6f22.htm
-    info: '2022.11.04
-
-      生物分子相互作用技术在医学和药学领域的应用'
-    person: ''
-    time: ''
-    title: 生物分子相互作用技术在医学和药学领域的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/afd3123987c746dbb7acfb6b14d01828.htm
-    info: '2022.11.03
-
-      分子相互作用技术在新药研发中的应用'
-    person: ''
-    time: ''
-    title: 分子相互作用技术在新药研发中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/5c1519964eff4057b6c6ba00440297b2.htm
-    info: '2022.10.31
-
-      利用质谱成像和合成生物学技术发现和合成新型生物活性分子'
-    person: ''
-    time: ''
-    title: 利用质谱成像和合成生物学技术发现和合成新型生物活性分子
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/1042558c057546f2a49b6ea6d22c78ef.htm
-    info: '2022.09.15
-
-      RNA技术及应用的新进展'
-    person: ''
-    time: ''
-    title: RNA技术及应用的新进展
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2406.htm
     info: '人工智能经纬论坛第【28】期讲座通知
 
@@ -1043,108 +823,12 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1549
-    info: '11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
-      of the Repli..
-
-      2022-11-09'
+    href: javascript:;
+    info: Pre12345678910Next
     person: ''
     time: ''
-    title: 11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
-      of the Repli..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1547
-    info: '定量中心
-
-      11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in complex
-      commu..
-
-      2022-11-02
-
-      10:00-11:00'
-    person: ''
-    time: ''
-    title: 11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in
-      complex commu..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1544
-    info: '定量中心
-
-      10月24日CQB seminar：''Next generation'' single-molecule studies of DNA processing
-      molecul..
-
-      2022-10-17
-
-      9:00-10:00'
-    person: ''
-    time: ''
-    title: 10月24日CQB seminar：'Next generation' single-molecule studies of DNA processing
-      molecul..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1541
-    info: '学院讲座
-
-      10月27日周三茶座：张锦主讲纳米碳材料-主导未来高科技产业的战略新型材料
-
-      2022-10-11
-
-      16:00-18:00'
-    person: ''
-    time: ''
-    title: 10月27日周三茶座：张锦主讲纳米碳材料-主导未来高科技产业的战略新型材料
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1542
-    info: '生命中心
-
-      10月12日生命中心研究生“1+X”论坛
-
-      2022-10-10
-
-      18:30-20:30'
-    person: ''
-    time: ''
-    title: 10月12日生命中心研究生“1+X”论坛
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1535
-    info: '生命中心
-
-      10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins: Targeting
-      tumo..
-
-      2022-10-04
-
-      13:00-14:00'
-    person: ''
-    time: ''
-    title: '10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins:
-      Targeting tumo..'
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1536
-    info: '生命中心
-
-      10月6日生命科学遍及全球讲座: Brain-Body Physiology
-
-      2022-10-04
-
-      21:00-22:30'
-    person: ''
-    time: ''
-    title: '10月6日生命科学遍及全球讲座: Brain-Body Physiology'
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1529
-    info: '定量中心
-
-      9月23日CQB seminar：Hydrodynamically-mediated collective responses of active matter
-      ---..
-
-      2022-09-19
-
-      10:00-11:00'
-    person: ''
-    time: ''
-    title: 9月23日CQB seminar：Hydrodynamically-mediated collective responses of active
-      matter  ---..
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
+    title: Pre
+  page_title: 北京国际数学研究中心
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
@@ -2638,42 +2322,42 @@
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, a day ago'
+      2022-12-07 10:00, 2 days ago'
     person: ''
     time: ''
     title: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, a day ago'
+      2022-12-07 10:00, 2 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 8 days ago'
+      2022-11-30 10:00, 9 days ago'
     person: ''
     time: ''
     title: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 8 days ago'
+      2022-11-30 10:00, 9 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 13 days ago'
+      2022-11-25 11:00, 14 days ago'
     person: ''
     time: ''
     title: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 13 days ago'
+      2022-11-25 11:00, 14 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
