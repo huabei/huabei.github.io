@@ -145,3 +145,4 @@ _data/*
 !_data/seminars-latest-update-w.yaml
 log/
 .idea/
+.idea/workspace.xml
