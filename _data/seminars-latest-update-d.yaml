@@ -1,179 +1,30 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145951.htm
-    info: '15
-
-      Dec
-
-      Computations of the stochastic control problems from finance and insurance
-
-      时间：2022-12-15 14:00-16:00
-
-      报告人: Jingtang Ma (Southwestern University of Finance and Economics)'
+    href: http://cs.pku.edu.cn/info/1020/3731.htm
+    info: 大师讲堂 | Sky Computing-Prof. Ion Stoica 22-12-13
     person: ''
     time: ''
-    title: '15
-
-      Dec
-
-      Computations of the stochastic control problems from finance and insurance
-
-      时间：2022-12-15 14:00-16:00
-
-      报告人: Jingtang Ma (Southwestern University of Finance and Economics)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145956.htm
-    info: '19
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
-      in Saddle-Point Optimization
-
-      时间：2022-12-19 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-    person: ''
-    time: ''
-    title: '19
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
-      in Saddle-Point Optimization
-
-      时间：2022-12-19 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+    title: 大师讲堂 | Sky Computing-Prof. Ion Stoica
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWFtKF2
-    info: '李若楠
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWHpKF2
+    info: '[COLLOQUIUM] 张希承
 
-      A REVISIT TO BANG-JENSEN-GUTIN CONJECTURE AND YEO''S THEOREM
+      SINGULAR STOCHASTIC DIFFERENTIAL EQUATIONS
 
-      2022-12-20
+      2022-12-16
 
-      14:00 — 15:00'
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: '李若楠
+    title: '[COLLOQUIUM] 张希承
 
-      A REVISIT TO BANG-JENSEN-GUTIN CONJECTURE AND YEO''S THEOREM
+      SINGULAR STOCHASTIC DIFFERENTIAL EQUATIONS
 
-      2022-12-20
+      2022-12-16
 
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWFyqF2
-    info: '李骥
-
-      ORBITAL STABILITY OF SOLITONS FOR A CLASS OF QUASILINEAR SHALLOW WATER EQUATIONS
-
-      2022-12-15
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '李骥
-
-      ORBITAL STABILITY OF SOLITONS FOR A CLASS OF QUASILINEAR SHALLOW WATER EQUATIONS
-
-      2022-12-15
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWF2qF2
-    info: '陈楚楚
-
-      CENTRAL LIMIT THEOREMS FOR APPROXIMATING ERGODIC LIMIT OF SPDES VIA A FULL DISCRETIZATION
-
-      2022-12-14
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '陈楚楚
-
-      CENTRAL LIMIT THEOREMS FOR APPROXIMATING ERGODIC LIMIT OF SPDES VIA A FULL DISCRETIZATION
-
-      2022-12-14
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWGpKF2
-    info: '刘妍岩
-
-      DISTRIBUTED INFERENCE FOR TWO-SAMPLE U-STATISTICS IN MASSIVE DATA ANALYSIS
-
-      2022-12-14
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '刘妍岩
-
-      DISTRIBUTED INFERENCE FOR TWO-SAMPLE U-STATISTICS IN MASSIVE DATA ANALYSIS
-
-      2022-12-14
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWGtKF2
-    info: 'WEN HUANYAO (温焕尧)
-
-      VANISHING SHEAR VISCOSITY LIMIT FOR COMPRESSIBLE NAVIER-STOKES-FOURIER EQUATIONS
-
-      2022-12-13
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: 'WEN HUANYAO (温焕尧)
-
-      VANISHING SHEAR VISCOSITY LIMIT FOR COMPRESSIBLE NAVIER-STOKES-FOURIER EQUATIONS
-
-      2022-12-13
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWGyqF2
-    info: '于志勇
-
-      INFINITE HORIZON FBSDES AND LQ OPTIMAL CONTROL PROBLEMS
-
-      2022-12-13
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '于志勇
-
-      INFINITE HORIZON FBSDES AND LQ OPTIMAL CONTROL PROBLEMS
-
-      2022-12-13
-
-      14:00 — 15:00'
+      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1212/c33485a2701526/page.htm
-    info: '求是海洋学术论坛2022年16期——自适应模型预测控制
-
-      [2022-12-12]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2022年16期——自适应模型预测控制
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1212/c33485a2701460/page.htm
-    info: '物理学院罗洪刚学术报告的通知（School of Physics Colloqui...
-
-      [2022-12-12]'
-    person: ''
-    time: ''
-    title: 物理学院罗洪刚学术报告的通知（School of Physics Colloquium）
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
