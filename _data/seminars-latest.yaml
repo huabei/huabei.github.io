@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11693.htm
+    info: "2022年微分方程和动力系统研讨会\n 2022年12月15日 "
+    person: ''
+    time: ''
+    title: 2022年微分方程和动力系统研讨会
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11664.htm
     info: "一类非单调蚊媒疾病的空间传播动力学\n 2022年12月05日 "
     person: ''
@@ -63,12 +69,6 @@
     person: ''
     time: ''
     title: ' 解景观的算法与应用'
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11573.htm
-    info: "Some results and problems on cross intersecting families\n 2022年11月18日 "
-    person: ''
-    time: ''
-    title: Some results and problems on cross intersecting families
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -330,12 +330,6 @@
   page_title: 现代数学报告-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
 - page_info:
-  - address: 'Tencent Meeting ID: 814-2523-8667'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Ligong Bian  重庆大学
-    time: 2022-12-15 16:00-17:00
-    title: New Physics of Spontaneous Symmetry Breaking in the Early Universe
   - address: 'Zoom Meeting ID: 987 9360 1531 Passcode: 202212'
     href: https://iiis.tsinghua.edu.cn/seminars/
     info: ''
@@ -400,6 +394,12 @@
     person: Stuart Russell UC Berkeley
     time: 2022-11-24 17:00-18:35
     title: 'Artificial Intelligence: Some Thoughts?'
+  - address: 'Tencent Meeting (ID: 860-645-126, password: 123456)'
+    href: https://iiis.tsinghua.edu.cn/seminars/
+    info: ''
+    person: 孙佳音  意大利国家核物理研究院（INFN）Cagliari分部
+    time: 2022-11-24 16:00-17:00
+    title: LHCb重离子和固定靶实验新进展
   page_title: 清华大学交叉信息研究院
   page_url: https://iiis.tsinghua.edu.cn/seminars/
 - page_info:
@@ -541,7 +541,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4519905
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4522646
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1031,12 +1031,108 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: javascript:;
-    info: Pre12345678910Next
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1549
+    info: '11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
+      of the Repli..
+
+      2022-11-09'
     person: ''
     time: ''
-    title: Pre
-  page_title: 北京国际数学研究中心
+    title: 11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
+      of the Repli..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1547
+    info: '定量中心
+
+      11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in complex
+      commu..
+
+      2022-11-02
+
+      10:00-11:00'
+    person: ''
+    time: ''
+    title: 11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in
+      complex commu..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1544
+    info: '定量中心
+
+      10月24日CQB seminar：''Next generation'' single-molecule studies of DNA processing
+      molecul..
+
+      2022-10-17
+
+      9:00-10:00'
+    person: ''
+    time: ''
+    title: 10月24日CQB seminar：'Next generation' single-molecule studies of DNA processing
+      molecul..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1541
+    info: '学院讲座
+
+      10月27日周三茶座：张锦主讲纳米碳材料-主导未来高科技产业的战略新型材料
+
+      2022-10-11
+
+      16:00-18:00'
+    person: ''
+    time: ''
+    title: 10月27日周三茶座：张锦主讲纳米碳材料-主导未来高科技产业的战略新型材料
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1542
+    info: '生命中心
+
+      10月12日生命中心研究生“1+X”论坛
+
+      2022-10-10
+
+      18:30-20:30'
+    person: ''
+    time: ''
+    title: 10月12日生命中心研究生“1+X”论坛
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1535
+    info: '生命中心
+
+      10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins: Targeting
+      tumo..
+
+      2022-10-04
+
+      13:00-14:00'
+    person: ''
+    time: ''
+    title: '10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins:
+      Targeting tumo..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1536
+    info: '生命中心
+
+      10月6日生命科学遍及全球讲座: Brain-Body Physiology
+
+      2022-10-04
+
+      21:00-22:30'
+    person: ''
+    time: ''
+    title: '10月6日生命科学遍及全球讲座: Brain-Body Physiology'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1529
+    info: '定量中心
+
+      9月23日CQB seminar：Hydrodynamically-mediated collective responses of active matter
+      ---..
+
+      2022-09-19
+
+      10:00-11:00'
+    person: ''
+    time: ''
+    title: 9月23日CQB seminar：Hydrodynamically-mediated collective responses of active
+      matter  ---..
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
@@ -1392,160 +1488,66 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5333.htm
-    info: '10
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第五期）'
+    href: http://cs.pku.edu.cn/info/1020/3731.htm
+    info: 大师讲堂 | Sky Computing-Prof. Ion Stoica 22-12-13
     person: ''
     time: ''
-    title: '10
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第五期）'
+    title: 大师讲堂 | Sky Computing-Prof. Ion Stoica
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5311.htm
-    info: '03
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第四期）'
+    href: http://cs.pku.edu.cn/info/1020/3671.htm
+    info: 大师讲堂 | Software Engineering Education, What And Why 22-10-22
     person: ''
     time: ''
-    title: '03
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第四期）'
+    title: 大师讲堂 | Software Engineering Education, What And Why
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5291.htm
-    info: '25
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第四期）'
+    href: http://cs.pku.edu.cn/info/1020/3511.htm
+    info: '计算机学院名家讲堂丨Sensor-less Energy-free Sensing: Past, Present, and Future 22-06-26'
     person: ''
     time: ''
-    title: '25
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第四期）'
+    title: '计算机学院名家讲堂丨Sensor-less Energy-free Sensing: Past, Present, and Future'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5274.htm
-    info: '18
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第三期）'
+    href: http://cs.pku.edu.cn/info/1020/3472.htm
+    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第五期讲座 22-06-10
     person: ''
     time: ''
-    title: '18
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第三期）'
+    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第五期讲座
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5261.htm
-    info: '12
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第三期）'
+    href: http://cs.pku.edu.cn/info/1020/3441.htm
+    info: 计算圆桌丨与“区块链”专家零距离 22-05-26
     person: ''
     time: ''
-    title: '12
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第三期）'
+    title: 计算圆桌丨与“区块链”专家零距离
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5254.htm
-    info: '06
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第二期）'
+    href: http://cs.pku.edu.cn/info/1020/3440.htm
+    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第四期讲座 22-05-25
     person: ''
     time: ''
-    title: '06
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第二期）'
+    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第四期讲座
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5244.htm
-    info: '27
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第二期）'
+    href: http://cs.pku.edu.cn/info/1020/3439.htm
+    info: 讲座预告丨黄罡教授：面向人机物融合的系统软件新技术 22-05-24
     person: ''
     time: ''
-    title: '27
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第二期）'
+    title: 讲座预告丨黄罡教授：面向人机物融合的系统软件新技术
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5253.htm
-    info: '20
-
-      2022-09
-
-      信科“E席谈”青年学术沙龙（第一期）'
+    href: http://cs.pku.edu.cn/info/1020/3417.htm
+    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第三期讲座 22-05-19
     person: ''
     time: ''
-    title: '20
-
-      2022-09
-
-      信科“E席谈”青年学术沙龙（第一期）'
+    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第三期讲座
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5231.htm
-    info: '09
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第一期）'
+    href: http://cs.pku.edu.cn/info/1020/3401.htm
+    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座 22-05-12
     person: ''
     time: ''
-    title: '09
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第一期）'
+    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/2197.htm
-    info: '15
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第19期'
+    href: http://cs.pku.edu.cn/info/1020/3394.htm
+    info: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月” 22-04-28
     person: ''
     time: ''
-    title: '15
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第19期'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/2196.htm
-    info: '09
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第18期'
-    person: ''
-    time: ''
-    title: '09
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第18期'
-  page_title: 讲座信息-北京大学信息科学技术学院
+    title: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”
+  page_title: 讲座信息-北京大学计算机学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
@@ -1758,50 +1760,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145849.htm
-    info: '14
-
-      Dec
-
-      Ricci Curvature Meets Sub-Riemannian Geometry
-
-      时间：2022-12-14 09:00-10:00
-
-      报告人: Jiayin Pan (University of California, Santa Cruz)'
-    person: ''
-    time: ''
-    title: '14
-
-      Dec
-
-      Ricci Curvature Meets Sub-Riemannian Geometry
-
-      时间：2022-12-14 09:00-10:00
-
-      报告人: Jiayin Pan (University of California, Santa Cruz)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145911.htm
-    info: '14
-
-      Dec
-
-      Well/ill-posedness bifurcation for the Boltzmann equation
-
-      时间：2022-12-14 09:30-10:30
-
-      报告人: Prof. Xuwen Chen (University of Rochester)'
-    person: ''
-    time: ''
-    title: '14
-
-      Dec
-
-      Well/ill-posedness bifurcation for the Boltzmann equation
-
-      时间：2022-12-14 09:30-10:30
-
-      报告人: Prof. Xuwen Chen (University of Rochester)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145428.htm
     info: '15
 
@@ -1895,6 +1853,50 @@
       时间：2022-12-19 16:00-17:00
 
       报告人: Yuze Han (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145911.htm
+    info: '14
+
+      Dec
+
+      Well/ill-posedness bifurcation for the Boltzmann equation
+
+      时间：2022-12-14 09:30-10:30
+
+      报告人: Prof. Xuwen Chen (University of Rochester)'
+    person: ''
+    time: ''
+    title: '14
+
+      Dec
+
+      Well/ill-posedness bifurcation for the Boltzmann equation
+
+      时间：2022-12-14 09:30-10:30
+
+      报告人: Prof. Xuwen Chen (University of Rochester)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145849.htm
+    info: '14
+
+      Dec
+
+      Ricci Curvature Meets Sub-Riemannian Geometry
+
+      时间：2022-12-14 09:00-10:00
+
+      报告人: Jiayin Pan (University of California, Santa Cruz)'
+    person: ''
+    time: ''
+    title: '14
+
+      Dec
+
+      Ricci Curvature Meets Sub-Riemannian Geometry
+
+      时间：2022-12-14 09:00-10:00
+
+      报告人: Jiayin Pan (University of California, Santa Cruz)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/other/145901.htm
     info: '10
@@ -2512,28 +2514,28 @@
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, in 7 days'
+      2022-12-21 16:00, in 6 days'
     person: ''
     time: ''
     title: 'A Mean-Field Optimal Control Approach to the Training of NeurODEs
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, in 7 days'
+      2022-12-21 16:00, in 6 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, in 20 hours'
+      2022-12-15 20:00, 4 hours ago'
     person: ''
     time: ''
     title: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, in 20 hours'
+      2022-12-15 20:00, 4 hours ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2541,7 +2543,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, 10 hours ago'
+      2022-12-14 14:00, a day ago'
     person: ''
     time: ''
     title: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2549,49 +2551,49 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, 10 hours ago'
+      2022-12-14 14:00, a day ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, 8 days ago'
+      2022-12-07 10:00, 9 days ago'
     person: ''
     time: ''
     title: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, 8 days ago'
+      2022-12-07 10:00, 9 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 15 days ago'
+      2022-11-30 10:00, 16 days ago'
     person: ''
     time: ''
     title: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 15 days ago'
+      2022-11-30 10:00, 16 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 20 days ago'
+      2022-11-25 11:00, 21 days ago'
     person: ''
     time: ''
     title: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 20 days ago'
+      2022-11-25 11:00, 21 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2991,6 +2993,42 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWHtKF2
+    info: '颜娟
+
+      COMBINATORIAL DISCREPANCY AND GRAPH BIPARTITION
+
+      2022-12-26
+
+      14:00 — 15:30'
+    person: ''
+    time: ''
+    title: '颜娟
+
+      COMBINATORIAL DISCREPANCY AND GRAPH BIPARTITION
+
+      2022-12-26
+
+      14:00 — 15:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaFpKF2
+    info: '[吴文俊数学中心综合报告] 程晋
+
+      数学物理反问题与逆向思维
+
+      2022-12-23
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[吴文俊数学中心综合报告] 程晋
+
+      数学物理反问题与逆向思维
+
+      2022-12-23
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWFtKF2
     info: '李若楠
 
@@ -3154,42 +3192,6 @@
       CENTRAL LIMIT THEOREMS FOR APPROXIMATING ERGODIC LIMIT OF SPDES VIA A FULL DISCRETIZATION
 
       2022-12-14
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWGpKF2
-    info: '刘妍岩
-
-      DISTRIBUTED INFERENCE FOR TWO-SAMPLE U-STATISTICS IN MASSIVE DATA ANALYSIS
-
-      2022-12-14
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '刘妍岩
-
-      DISTRIBUTED INFERENCE FOR TWO-SAMPLE U-STATISTICS IN MASSIVE DATA ANALYSIS
-
-      2022-12-14
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWGtKF2
-    info: 'WEN HUANYAO (温焕尧)
-
-      VANISHING SHEAR VISCOSITY LIMIT FOR COMPRESSIBLE NAVIER-STOKES-FOURIER EQUATIONS
-
-      2022-12-13
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: 'WEN HUANYAO (温焕尧)
-
-      VANISHING SHEAR VISCOSITY LIMIT FOR COMPRESSIBLE NAVIER-STOKES-FOURIER EQUATIONS
-
-      2022-12-13
 
       14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
