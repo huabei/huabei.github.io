@@ -235,7 +235,7 @@ def get_data_from_internet(url_file_path):
 if __name__ == '__main__':
     # import sys
     # sys.path.extend([r"E:\Huabei\huabei.github.io\code"])
-    os.chdir(r"E:\Huabei\huabei.github.io\code")
+    os.chdir(r"D:\Huabei\huabei.github.io\code")
     # 今天的时间d
     d = time.strftime('%Y-%m-%d', time.localtime())
     # 七天前的时间
@@ -253,7 +253,7 @@ if __name__ == '__main__':
                     '地址': 'address',
                     '地点': 'address'}
 
-    main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    main(r"D:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
@@ -267,6 +267,6 @@ if __name__ == '__main__':
     #
     # # write_data(total_result, output_file_path, head_replace=head_replace)
     # write_yaml(total_result, '../_data/seminars-latest.yaml', head_replace=head_replace)
-    os.chdir(r"E:\Huabei\huabei.github.io")
+    os.chdir(r"D:\Huabei\huabei.github.io")
     subprocess.call(["git", 'commit', '-am', '"today update"'])
     subprocess.call(['git', 'push'])

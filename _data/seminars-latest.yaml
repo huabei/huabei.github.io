@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11703.htm
+    info: "Series and Congruences involving Harmonic Numbers\n 2022年12月18日 "
+    person: ''
+    time: ''
+    title: Series and Congruences involving Harmonic Numbers
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11693.htm
     info: "2022年微分方程和动力系统研讨会\n 2022年12月15日 "
     person: ''
@@ -63,12 +69,6 @@
     time: ''
     title: The asymptotic analysis of a vector-host epidemic model with finite growing
       domain
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11583.htm
-    info: "解景观的算法与应用\n 2022年11月22日 "
-    person: ''
-    time: ''
-    title: ' 解景观的算法与应用'
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -257,153 +257,6 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3165.htm
-    info: ''
-    person: Alex Eskin (The University of Chicago)
-    time: '2022-12-23'
-    title: On stationary measure rigidity and orbit closures for actions of non-abelian
-      groups
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3164.htm
-    info: ''
-    person: Mikhail Khovanov (Columbia University)
-    time: '2022-12-16'
-    title: Link homology and foams
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3122.htm
-    info: ''
-    person: Prof.Yan Soibelman (Kansas State University)
-    time: '2022-12-09'
-    title: Holomorphic Floer Theory and exponential integrals
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/2992.htm
-    info: ''
-    person: Prof.Oscar Randal-Williams（University of Cambridge）
-    time: '2022-11-25'
-    title: Homeomorphisms of Euclidean space
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3120.htm
-    info: ''
-    person: Prof. Habib Ammari (ETH Zürich)
-    time: '2022-11-18'
-    title: From condensed matter theory to sub-wavelength physics
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3101.htm
-    info: ''
-    person: Prof.Thomas Y. Hou (California Institute of Technology)
-    time: '2022-11-18'
-    title: A constructive proof of finite time blowup of 3D incompressible Euler equations
-      with smooth data
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3088.htm
-    info: ''
-    person: Prof. Vladimir Markovic (University of Oxford)
-    time: '2022-11-15'
-    title: Unramified correspondance and virtual homology of mapping class groups
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3008.htm
-    info: ''
-    person: Prof. Botong Wang（University of Wisconsin-Madison）
-    time: '2022-11-11'
-    title: Dowling-Wilson conjecture and equivariant compactification of the vector
-      group
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3091.htm
-    info: ''
-    person: Prof. Ben Webster（University of Waterloo）
-    time: '2022-11-11'
-    title: Representation theory and a little bit of quantum field theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3096.htm
-    info: ''
-    person: Prof. Zuo Kang（Wuhan University）
-    time: '2022-11-04'
-    title: Constructing algebraic solutions of Painleve VI equation from p-adic Hodge
-      theory and Langlands correspondence
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/xshd/xsbg/../../info/1056/3067.htm
-    info: ''
-    person: Prof.Carola-Bibiane Schönlieb（University of Cambridge）
-    time: '2022-10-28'
-    title: Mathematical imaging--From geometric PDEs and variational modelling to
-      deep learning for images
-  page_title: 现代数学报告-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/xsbg/xdsxbg.htm
-- page_info:
-  - address: 'Zoom Meeting ID: 987 9360 1531 Passcode: 202212'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Pengfei Chen  NJU
-    time: 2022-12-15 14:00-15:00
-    title: 'Solar coronal waves: A debate for two decades'
-  - address: 'Tencent Meeting ID: 814-2523-8667'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Lijing Shao
-    time: 2022-12-08 13:30-14:30
-    title: Testing Gravity with Pulsars
-  - address: Tencent Meeting (ID:288-499-963, password:123456)
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: 李夏卿  麻省理工学院
-    time: 2022-12-08 10:00-11:00
-    title: Probing the subatomic world using photon and electron scattering
-  - address: 'Tencent Meeting ID: 918-999-658'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Chon Man Sou  HKUST
-    time: 2022-12-05 13:30-14:30
-    title: Revisit the Decoherence of Cosmological Perturbations with the Development
-      of Quantum Information
-  - address: 'Tencent Meeting ID: 772-848-7233 (https://meeting.tencent.com/p/7728487233)'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Lin Shao  NUS
-    time: 2022-12-01 14:00-15:00
-    title: Model-based Reinforcement Learning for Robotic Manipulation via Differentiable
-      Physics-based Simulation and Rendering
-  - address: 'Zoom Meeting ID: 987 9360 1531 Passcode: 202212'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Paulo Montero-Camacho  PengCheng Lab
-    time: 2022-12-01 14:00-15:00
-    title: Unveiling the astrophysics of cosmic reionization in the post-reionization
-      era
-  - address: 'Tencent Meeting ID: 814-2523-8667'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Qiang Yuan
-    time: 2022-12-01 13:30-14:30
-    title: Search for Particle Dark Matter with Radio Astronomical Observations
-  - address: 'Tencent Meeting (ID: 610-528-527, password: 123456)'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: 张志财  美国劳伦斯伯克利国家实验室
-    time: 2022-12-01 10:00-11:00
-    title: 新物理寻找对径迹探测器的要求及其现状和未来
-  - address: 'Tencent Meeting ID: 362-821-200'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Chenggang Wu
-    time: 2022-11-25 14:00-15:00
-    title: Bridging the gap between cloud infrastructure and Production Data Science
-  - address: '6A117, Teaching Building 6 + Zoom Meeting ID: 849 2251 8158 Passcode:
-      660254'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: Stuart Russell UC Berkeley
-    time: 2022-11-24 17:00-18:35
-    title: 'Artificial Intelligence: Some Thoughts?'
-  - address: 'Tencent Meeting (ID: 860-645-126, password: 123456)'
-    href: https://iiis.tsinghua.edu.cn/seminars/
-    info: ''
-    person: 孙佳音  意大利国家核物理研究院（INFN）Cagliari分部
-    time: 2022-11-24 16:00-17:00
-    title: LHCb重离子和固定靶实验新进展
-  page_title: 清华大学交叉信息研究院
-  page_url: https://iiis.tsinghua.edu.cn/seminars/
-- page_info:
-  - address: ''
     href: https://life.tsinghua.edu.cn/xsbg.htm
     info: 学术报告
     person: ''
@@ -541,7 +394,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4522646
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4541186
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1488,66 +1341,160 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3731.htm
-    info: 大师讲堂 | Sky Computing-Prof. Ion Stoica 22-12-13
+    href: https://eecs.pku.edu.cn/info/1050/5333.htm
+    info: '10
+
+      2022-11
+
+      信科“E席谈”青年学术沙龙（第五期）'
     person: ''
     time: ''
-    title: 大师讲堂 | Sky Computing-Prof. Ion Stoica
+    title: '10
+
+      2022-11
+
+      信科“E席谈”青年学术沙龙（第五期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3671.htm
-    info: 大师讲堂 | Software Engineering Education, What And Why 22-10-22
+    href: https://eecs.pku.edu.cn/info/1050/5311.htm
+    info: '03
+
+      2022-11
+
+      信科“E席谈”青年学术沙龙（第四期）'
     person: ''
     time: ''
-    title: 大师讲堂 | Software Engineering Education, What And Why
+    title: '03
+
+      2022-11
+
+      信科“E席谈”青年学术沙龙（第四期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3511.htm
-    info: '计算机学院名家讲堂丨Sensor-less Energy-free Sensing: Past, Present, and Future 22-06-26'
+    href: https://eecs.pku.edu.cn/info/1050/5291.htm
+    info: '25
+
+      2022-10
+
+      信息科学技术学院“知存讲座”（第四期）'
     person: ''
     time: ''
-    title: '计算机学院名家讲堂丨Sensor-less Energy-free Sensing: Past, Present, and Future'
+    title: '25
+
+      2022-10
+
+      信息科学技术学院“知存讲座”（第四期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3472.htm
-    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第五期讲座 22-06-10
+    href: https://eecs.pku.edu.cn/info/1050/5274.htm
+    info: '18
+
+      2022-10
+
+      信息科学技术学院“知存讲座”（第三期）'
     person: ''
     time: ''
-    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第五期讲座
+    title: '18
+
+      2022-10
+
+      信息科学技术学院“知存讲座”（第三期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3441.htm
-    info: 计算圆桌丨与“区块链”专家零距离 22-05-26
+    href: https://eecs.pku.edu.cn/info/1050/5261.htm
+    info: '12
+
+      2022-10
+
+      信科“E席谈”青年学术沙龙（第三期）'
     person: ''
     time: ''
-    title: 计算圆桌丨与“区块链”专家零距离
+    title: '12
+
+      2022-10
+
+      信科“E席谈”青年学术沙龙（第三期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3440.htm
-    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第四期讲座 22-05-25
+    href: https://eecs.pku.edu.cn/info/1050/5254.htm
+    info: '06
+
+      2022-10
+
+      信科“E席谈”青年学术沙龙（第二期）'
     person: ''
     time: ''
-    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第四期讲座
+    title: '06
+
+      2022-10
+
+      信科“E席谈”青年学术沙龙（第二期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3439.htm
-    info: 讲座预告丨黄罡教授：面向人机物融合的系统软件新技术 22-05-24
+    href: https://eecs.pku.edu.cn/info/1050/5244.htm
+    info: '27
+
+      2022-09
+
+      信息科学技术学院“知存讲座”（第二期）'
     person: ''
     time: ''
-    title: 讲座预告丨黄罡教授：面向人机物融合的系统软件新技术
+    title: '27
+
+      2022-09
+
+      信息科学技术学院“知存讲座”（第二期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3417.htm
-    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第三期讲座 22-05-19
+    href: https://eecs.pku.edu.cn/info/1050/5253.htm
+    info: '20
+
+      2022-09
+
+      信科“E席谈”青年学术沙龙（第一期）'
     person: ''
     time: ''
-    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第三期讲座
+    title: '20
+
+      2022-09
+
+      信科“E席谈”青年学术沙龙（第一期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3401.htm
-    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座 22-05-12
+    href: https://eecs.pku.edu.cn/info/1050/5231.htm
+    info: '09
+
+      2022-09
+
+      信息科学技术学院“知存讲座”（第一期）'
     person: ''
     time: ''
-    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座
+    title: '09
+
+      2022-09
+
+      信息科学技术学院“知存讲座”（第一期）'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3394.htm
-    info: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月” 22-04-28
+    href: https://eecs.pku.edu.cn/info/1050/2197.htm
+    info: '15
+
+      2021-11
+
+      北京大学电子学系前沿学术论坛 第19期'
     person: ''
     time: ''
-    title: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”
-  page_title: 讲座信息-北京大学计算机学院
+    title: '15
+
+      2021-11
+
+      北京大学电子学系前沿学术论坛 第19期'
+  - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/2196.htm
+    info: '09
+
+      2021-11
+
+      北京大学电子学系前沿学术论坛 第18期'
+    person: ''
+    time: ''
+    title: '09
+
+      2021-11
+
+      北京大学电子学系前沿学术论坛 第18期'
+  page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
@@ -1760,6 +1707,30 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145956.htm
+    info: '19
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
+      in Saddle-Point Optimization
+
+      时间：2022-12-19 16:00-17:00
+
+      报告人: Yuze Han (PKU)'
+    person: ''
+    time: ''
+    title: '19
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
+      in Saddle-Point Optimization
+
+      时间：2022-12-19 16:00-17:00
+
+      报告人: Yuze Han (PKU)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145428.htm
     info: '15
 
@@ -1829,30 +1800,6 @@
       时间：2022-12-15 10:00-11:00
 
       报告人: Wenguang Sun (Zhejiang University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145956.htm
-    info: '19
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
-      in Saddle-Point Optimization
-
-      时间：2022-12-19 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-    person: ''
-    time: ''
-    title: '19
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第四十二期）—— Last-Iterate Convergence of Optimistic Gradient Method
-      in Saddle-Point Optimization
-
-      时间：2022-12-19 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145911.htm
     info: '14
@@ -2514,28 +2461,28 @@
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, in 6 days'
+      2022-12-21 16:00, 2 days ago'
     person: ''
     time: ''
     title: 'A Mean-Field Optimal Control Approach to the Training of NeurODEs
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, in 6 days'
+      2022-12-21 16:00, 2 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, 4 hours ago'
+      2022-12-15 20:00, 8 days ago'
     person: ''
     time: ''
     title: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, 4 hours ago'
+      2022-12-15 20:00, 8 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2543,7 +2490,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, a day ago'
+      2022-12-14 14:00, 9 days ago'
     person: ''
     time: ''
     title: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2551,49 +2498,49 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, a day ago'
+      2022-12-14 14:00, 9 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, 9 days ago'
+      2022-12-07 10:00, 16 days ago'
     person: ''
     time: ''
     title: 'Orthogonalization-free Eigensolvers for FCI excited states
 
       李颖洲 , 复旦大学
 
-      2022-12-07 10:00, 9 days ago'
+      2022-12-07 10:00, 16 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 16 days ago'
+      2022-11-30 10:00, 23 days ago'
     person: ''
     time: ''
     title: 'A stochastic analysis approach to lattice Yang--Mills
 
       朱蓉禅 , 北京理工大学
 
-      2022-11-30 10:00, 16 days ago'
+      2022-11-30 10:00, 23 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 21 days ago'
+      2022-11-25 11:00, a month ago'
     person: ''
     time: ''
     title: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, 21 days ago'
+      2022-11-25 11:00, a month ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2993,6 +2940,24 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaFtKF2
+    info: '段仁军
+
+      KINETIC SHEAR FLOW GOVERNED BY THE BOLTZMANN EQUATION
+
+      2022-12-27
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '段仁军
+
+      KINETIC SHEAR FLOW GOVERNED BY THE BOLTZMANN EQUATION
+
+      2022-12-27
+
+      14:00 — 15:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWHtKF2
     info: '颜娟
 
@@ -3029,174 +2994,178 @@
 
       16:00 — 17:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWFtKF2
-    info: '李若楠
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaGtKF2
+    info: '李志夙
 
-      A REVISIT TO BANG-JENSEN-GUTIN CONJECTURE AND YEO''S THEOREM
+      AN INTEGRAL GEOMETRY FORMULA AND ITS APPLICATIONS
 
-      2022-12-20
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '李若楠
-
-      A REVISIT TO BANG-JENSEN-GUTIN CONJECTURE AND YEO''S THEOREM
-
-      2022-12-20
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FtKF2
-    info: '[DISTINGUISHED LECTURE] PROF. YANYAN LI
-
-      ON THE $\SIGMA_K$-LOEWNER–NIRENBERG PROBLEM
-
-      2022-12-16
-
-      09:00 — 10:00'
-    person: ''
-    time: ''
-    title: '[DISTINGUISHED LECTURE] PROF. YANYAN LI
-
-      ON THE $\SIGMA_K$-LOEWNER–NIRENBERG PROBLEM
-
-      2022-12-16
-
-      09:00 — 10:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWHpKF2
-    info: '[COLLOQUIUM] 张希承
-
-      SINGULAR STOCHASTIC DIFFERENTIAL EQUATIONS
-
-      2022-12-16
+      2022-12-23
 
       15:00 — 16:00'
     person: ''
     time: ''
-    title: '[COLLOQUIUM] 张希承
+    title: '李志夙
 
-      SINGULAR STOCHASTIC DIFFERENTIAL EQUATIONS
+      AN INTEGRAL GEOMETRY FORMULA AND ITS APPLICATIONS
 
-      2022-12-16
+      2022-12-23
 
       15:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSGtKF2
-    info: 'BO GUAN
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaHpKF2
+    info: '余斌
 
-      PRESCRIBED VOLUME FORMS IN APELLI COHOMOLOGY GROUPS ON COMPACT HERMITIAN MANIFOLDS
-      II
+      A SURVEY OF ANOSOV FLOWS ON 3-MANIFOLDS
 
-      2022-12-15
+      2022-12-22
 
-      16:00 — 17:00'
+      10:00 — 11:30'
     person: ''
     time: ''
-    title: 'BO GUAN
+    title: '余斌
 
-      PRESCRIBED VOLUME FORMS IN APELLI COHOMOLOGY GROUPS ON COMPACT HERMITIAN MANIFOLDS
-      II
+      A SURVEY OF ANOSOV FLOWS ON 3-MANIFOLDS
 
-      2022-12-15
+      2022-12-22
 
-      16:00 — 17:00'
+      10:00 — 11:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJSHtKF2
-    info: 'YI ZHANG
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaHtKF2
+    info: '常向科
 
-      MAHLER DISCRETE RESIDUES AND SUMMABILITY FOR RATIONAL FUNCTIONS
+      ON SPECTRAL AND INVERSE SPECTRAL PROBLEMS RELATED TO NON-SMOOTH SOLITONS OF
+      NOVIKOV EQUATION
 
-      2022-12-15
+      2022-12-22
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '常向科
+
+      ON SPECTRAL AND INVERSE SPECTRAL PROBLEMS RELATED TO NON-SMOOTH SOLITONS OF
+      NOVIKOV EQUATION
+
+      2022-12-22
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeFtKF2
+    info: 'GERGŐ NEMES
+
+      DINGLE''S FINAL MAIN RULE, BERRY''S TRANSITION, AND HOWLS'' CONJECTURE
+
+      2022-12-22
 
       17:00 — 18:00'
     person: ''
     time: ''
-    title: 'YI ZHANG
+    title: 'GERGŐ NEMES
 
-      MAHLER DISCRETE RESIDUES AND SUMMABILITY FOR RATIONAL FUNCTIONS
+      DINGLE''S FINAL MAIN RULE, BERRY''S TRANSITION, AND HOWLS'' CONJECTURE
 
-      2022-12-15
+      2022-12-22
 
       17:00 — 18:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWFyqF2
-    info: '李骥
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeFyqF2
+    info: 'YANXIANG ZHAO
 
-      ORBITAL STABILITY OF SOLITONS FOR A CLASS OF QUASILINEAR SHALLOW WATER EQUATIONS
+      NONLOCAL EFFECTS ON A GENERALIZED OHTA-KAWASAKI MODEL
 
-      2022-12-15
+      2022-12-22
 
-      14:00 — 15:00'
+      09:30 — 11:30'
     person: ''
     time: ''
-    title: '李骥
+    title: 'YANXIANG ZHAO
 
-      ORBITAL STABILITY OF SOLITONS FOR A CLASS OF QUASILINEAR SHALLOW WATER EQUATIONS
+      NONLOCAL EFFECTS ON A GENERALIZED OHTA-KAWASAKI MODEL
 
-      2022-12-15
+      2022-12-22
 
-      14:00 — 15:00'
+      09:30 — 11:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FpKF2
-    info: '高瑜
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeF2qF2
+    info: '张华
 
-      REGULARITY STRUCTURE AND ASYMPTOTIC BEHAVIOR OF CONSERVATIVE SOLUTIONS TO THE
-      HUNTER-SAXTON EQUATION
+      LENT PARTICLE METHOD AND SOME APPLICATIONS
 
-      2022-12-14
+      2022-12-22
 
-      14:00 — 15:00'
+      10:30 — 11:30'
     person: ''
     time: ''
-    title: '高瑜
+    title: '张华
 
-      REGULARITY STRUCTURE AND ASYMPTOTIC BEHAVIOR OF CONSERVATIVE SOLUTIONS TO THE
-      HUNTER-SAXTON EQUATION
+      LENT PARTICLE METHOD AND SOME APPLICATIONS
 
-      2022-12-14
+      2022-12-22
 
-      14:00 — 15:00'
+      10:30 — 11:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemN6FyqF2
-    info: '[文俊讲坛] 周向宇 院士
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaFyqF2
+    info: '盛长滔
 
-      多复变：简介与进展
+      EFFICIENT MONTE CARLO METHODS FOR FRACTIONAL PDES IN HIGH DIMENSIONS
 
-      2022-12-14
+      2022-12-21
 
-      15:30 — 16:30'
+      14:00 — 14:45'
     person: ''
     time: ''
-    title: '[文俊讲坛] 周向宇 院士
+    title: '盛长滔
 
-      多复变：简介与进展
+      EFFICIENT MONTE CARLO METHODS FOR FRACTIONAL PDES IN HIGH DIMENSIONS
 
-      2022-12-14
+      2022-12-21
 
-      15:30 — 16:30'
+      14:00 — 14:45'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWF2qF2
-    info: '陈楚楚
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaF2qF2
+    info: '顾亦奇
 
-      CENTRAL LIMIT THEOREMS FOR APPROXIMATING ERGODIC LIMIT OF SPDES VIA A FULL DISCRETIZATION
+      DEEP ADAPTIVE BASIS GALERKIN METHOD FOR EVOLUTION EQUATIONS
 
-      2022-12-14
+      2022-12-21
 
-      14:00 — 15:00'
+      14:45 — 15:30'
     person: ''
     time: ''
-    title: '陈楚楚
+    title: '顾亦奇
 
-      CENTRAL LIMIT THEOREMS FOR APPROXIMATING ERGODIC LIMIT OF SPDES VIA A FULL DISCRETIZATION
+      DEEP ADAPTIVE BASIS GALERKIN METHOD FOR EVOLUTION EQUATIONS
 
-      2022-12-14
+      2022-12-21
 
-      14:00 — 15:00'
+      14:45 — 15:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2022/1223/c33485a2704235/page.htm
+    info: '求是海洋学术沙龙——深海深渊科学专题
+
+      [2022-12-23]'
+    person: ''
+    time: ''
+    title: 求是海洋学术沙龙——深海深渊科学专题
+  - address: ''
+    href: https://www.zju.edu.cn/2022/1220/c33485a2703672/page.htm
+    info: '物理学院岑人岳学术报告的通知（School of Physics Colloqui...
+
+      [2022-12-20]'
+    person: ''
+    time: ''
+    title: 物理学院岑人岳学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2022/1219/c33485a2703432/page.htm
+    info: '物理学院程金光学术报告的通知（School of Physics Colloqui...
+
+      [2022-12-19]'
+    person: ''
+    time: ''
+    title: 物理学院程金光学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: https://www.zju.edu.cn/2022/1214/c33485a2702410/page.htm
     info: '海外名师大讲堂（124）——High Pressure Processing Overview...
@@ -3263,30 +3232,6 @@
     person: ''
     time: ''
     title: 物理学院吴克辉学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1124/c33485a2690095/page.htm
-    info: 'CRPE双周青年学者论坛NO.375
-
-      [2022-11-24]'
-    person: ''
-    time: ''
-    title: CRPE双周青年学者论坛NO.375
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1123/c33485a2686988/page.htm
-    info: '物理学院田明亮学术报告的通知（School of Physics Colloqui...
-
-      [2022-11-23]'
-    person: ''
-    time: ''
-    title: 物理学院田明亮学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1122/c33485a2686764/page.htm
-    info: '求是海洋学术论坛2022年13期——水波动力学及波浪能应用
-
-      [2022-11-22]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2022年13期——水波动力学及波浪能应用
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
