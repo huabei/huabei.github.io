@@ -1,19 +1,40 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/11703.htm
-    info: "Series and Congruences involving Harmonic Numbers\n 2022年12月18日 "
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeGpKF2
+    info: '[DISTINGUISHED LECTURE] GUANRONG CHEN
+
+      CONTROLLING BIFURCATIONS
+
+      2023-01-13
+
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: Series and Congruences involving Harmonic Numbers
+    title: '[DISTINGUISHED LECTURE] GUANRONG CHEN
+
+      CONTROLLING BIFURCATIONS
+
+      2023-01-13
+
+      16:00 — 17:00'
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/11693.htm
-    info: "2022年微分方程和动力系统研讨会\n 2022年12月15日 "
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeGtKF2
+    info: '[吴文俊数学中心综合报告] 恽之玮
+
+      AN IRREGULAR DELIGNE-SIMPSON PROBLEM
+
+      2022-12-27
+
+      10:30 — 11:30'
     person: ''
     time: ''
-    title: 2022年微分方程和动力系统研讨会
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
+    title: '[吴文俊数学中心综合报告] 恽之玮
+
+      AN IRREGULAR DELIGNE-SIMPSON PROBLEM
+
+      2022-12-27
+
+      10:30 — 11:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaFtKF2
     info: '段仁军
@@ -216,6 +237,21 @@
       16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11703.htm
+    info: "Series and Congruences involving Harmonic Numbers\n 2022年12月18日 "
+    person: ''
+    time: ''
+    title: Series and Congruences involving Harmonic Numbers
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11693.htm
+    info: "2022年微分方程和动力系统研讨会\n 2022年12月15日 "
+    person: ''
+    time: ''
+    title: 2022年微分方程和动力系统研讨会
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
     href: https://www.zju.edu.cn/2022/1223/c33485a2704235/page.htm
