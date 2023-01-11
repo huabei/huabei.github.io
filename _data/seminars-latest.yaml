@@ -389,7 +389,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4573790
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4587640
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1702,28 +1702,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146295.htm
-    info: '06
-
-      Jan
-
-      可微向量场流盒与庞加莱映射的重整
-
-      时间：2023-01-06 15:00-16:00
-
-      报告人: 文晓教授（北京航空航天大学）'
-    person: ''
-    time: ''
-    title: '06
-
-      Jan
-
-      可微向量场流盒与庞加莱映射的重整
-
-      时间：2023-01-06 15:00-16:00
-
-      报告人: 文晓教授（北京航空航天大学）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/146321.htm
     info: '11
 
@@ -1745,6 +1723,28 @@
       时间：2023-01-11 16:00-17:00
 
       报告人: Massimo Pippi (Universität Regensburg)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146295.htm
+    info: '06
+
+      Jan
+
+      可微向量场流盒与庞加莱映射的重整
+
+      时间：2023-01-06 15:00-16:00
+
+      报告人: 文晓教授（北京航空航天大学）'
+    person: ''
+    time: ''
+    title: '06
+
+      Jan
+
+      可微向量场流盒与庞加莱映射的重整
+
+      时间：2023-01-06 15:00-16:00
+
+      报告人: 文晓教授（北京航空航天大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/145956.htm
     info: '19
@@ -2454,28 +2454,28 @@
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, 16 days ago'
+      2022-12-21 16:00, 21 days ago'
     person: ''
     time: ''
     title: 'A Mean-Field Optimal Control Approach to the Training of NeurODEs
 
       黄辉 , Karl-Franzens-Universität Graz
 
-      2022-12-21 16:00, 16 days ago'
+      2022-12-21 16:00, 21 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, 22 days ago'
+      2022-12-15 20:00, a month ago'
     person: ''
     time: ''
     title: 'Deep learning methods for data-driven uncertainty quantification
 
       郭玲 , 上海师范大学
 
-      2022-12-15 20:00, 22 days ago'
+      2022-12-15 20:00, a month ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2483,7 +2483,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, 23 days ago'
+      2022-12-14 14:00, a month ago'
     person: ''
     time: ''
     title: 'Regularity structure and asymptotic behavior of conservative solutions
@@ -2491,7 +2491,7 @@
 
       高瑜 , 香港理工大学
 
-      2022-12-14 14:00, 23 days ago'
+      2022-12-14 14:00, a month ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Orthogonalization-free Eigensolvers for FCI excited states
@@ -2526,14 +2526,14 @@
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, a month ago'
+      2022-11-25 11:00, 2 months ago'
     person: ''
     time: ''
     title: 'Tumor boundary instability induced by nutrient consumption and supply
 
       Yu Feng , Peking University
 
-      2022-11-25 11:00, a month ago'
+      2022-11-25 11:00, 2 months ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
@@ -2969,6 +2969,62 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiGpKF2
+    info: '金海洋
+
+      GLOBAL DYNAMICS OF A THREE-SPECIES LOTKA-VOLTERRA FOOD CHAIN MODEL WITH INTRAGUILD
+      PREDATION AND TAXIS MECHANISMS
+
+      2023-01-12
+
+      19:00 — 20:00'
+    person: ''
+    time: ''
+    title: '金海洋
+
+      GLOBAL DYNAMICS OF A THREE-SPECIES LOTKA-VOLTERRA FOOD CHAIN MODEL WITH INTRAGUILD
+      PREDATION AND TAXIS MECHANISMS
+
+      2023-01-12
+
+      19:00 — 20:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiGtKF2
+    info: '朱茂春
+
+      SECOND ORDER TRACE ADAMS TYPE INEQUALITIES AND THE EXISTENCE OF THE EXTREMALS
+
+      2023-01-12
+
+      20:00 — 21:00'
+    person: ''
+    time: ''
+    title: '朱茂春
+
+      SECOND ORDER TRACE ADAMS TYPE INEQUALITIES AND THE EXISTENCE OF THE EXTREMALS
+
+      2023-01-12
+
+      20:00 — 21:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiGyqF2
+    info: 'BERNHARD KELLER
+
+      ON THE GRASSMANNIAN ROOT CONJECTURE
+
+      2023-01-12
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'BERNHARD KELLER
+
+      ON THE GRASSMANNIAN ROOT CONJECTURE
+
+      2023-01-12
+
+      14:00 — 15:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiFpKF2
     info: '蒋继发
 
@@ -2988,6 +3044,26 @@
       2023-01-11
 
       10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiF2qF2
+    info: '向妮
+
+      THE DIRICHLET PROBLEM FOR A CLASS OF HESSIAN QUOTIENT EQUATIONS ON RIEMANNIAN
+      MANIFOLDS
+
+      2023-01-11
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '向妮
+
+      THE DIRICHLET PROBLEM FOR A CLASS OF HESSIAN QUOTIENT EQUATIONS ON RIEMANNIAN
+      MANIFOLDS
+
+      2023-01-11
+
+      15:00 — 16:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiFtKF2
     info: '张玲玲
@@ -3060,78 +3136,6 @@
       2023-01-03
 
       10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeG2qF2
-    info: '巫静
-
-      ON AVERAGING PRINCIPLES FOR STOCHASTIC VARIATIONAL INEQUALITIES
-
-      2022-12-29
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '巫静
-
-      ON AVERAGING PRINCIPLES FOR STOCHASTIC VARIATIONAL INEQUALITIES
-
-      2022-12-29
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJaFtKF2
-    info: '段仁军
-
-      KINETIC SHEAR FLOW GOVERNED BY THE BOLTZMANN EQUATION
-
-      2022-12-27
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '段仁军
-
-      KINETIC SHEAR FLOW GOVERNED BY THE BOLTZMANN EQUATION
-
-      2022-12-27
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJeGtKF2
-    info: '[吴文俊数学中心综合报告] 恽之玮
-
-      AN IRREGULAR DELIGNE-SIMPSON PROBLEM
-
-      2022-12-27
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[吴文俊数学中心综合报告] 恽之玮
-
-      AN IRREGULAR DELIGNE-SIMPSON PROBLEM
-
-      2022-12-27
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJWHtKF2
-    info: '颜娟
-
-      COMBINATORIAL DISCREPANCY AND GRAPH BIPARTITION
-
-      2022-12-26
-
-      14:00 — 15:30'
-    person: ''
-    time: ''
-    title: '颜娟
-
-      COMBINATORIAL DISCREPANCY AND GRAPH BIPARTITION
-
-      2022-12-26
-
-      14:00 — 15:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
