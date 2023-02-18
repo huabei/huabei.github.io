@@ -259,147 +259,123 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
-    href: https://life.tsinghua.edu.cn/xsbg.htm
-    info: 学术报告
-    person: ''
-    time: ''
-    title: 学术报告
-  - address: ''
-    href: https://life.tsinghua.edu.cn/index.htm
-    info: '  首页 ) 学术报告'
-    person: ''
-    time: ''
-    title: 首页
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4323.htm
-    info: '学术报告
-
-      14
+    href: https://life.tsinghua.edu.cn/info/1132/4393.htm
+    info: '14
 
       DEC
 
-      Nodule energy state determines nitrogen fixation by regulating phosphoenolpyru…
-
-      09
-
-      NOV
-
-      磷脂分子调控植物发育的机制
-
-      13
-
-      SEP
-
-      Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
-
-      05
-
-      SEP
-
-      Next-Generation CRISPR Technologies and Their Applications in Crop Improvement
-
-      03
-
-      JUN
-
-      自噬膜融合的生化调控机制
-
-      16
-
-      MAY
-
-      Blastoids: Shaping the mammalian embryo for implantation.
-
-      28
-
-      APR
-
-      Chemogenetic and optogenetic technologies for probing molecular and cellular
-      n…
-
-      17
-
-      APR
-
-      Looking under the hood of cells: from single molecule dynamics to whole cell
-      o…
-
-      17
-
-      APR
-
-      IL-27, a new story in obesity and metabolic disease
-
-      11
-
-      APR
-
-      Next Generation Vaccines
-
-      共50条 上页12345下页'
+      Nodule energy state determines nitrogen fixation by regulating phosphoenolpyru…'
     person: ''
     time: ''
     title: Nodule energy state determines nitrogen fixation by regulating phosphoenolpyruvate
       reallocation in soybean
   - address: ''
-    href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
-    info: '欢迎关注清华生命学院公众号
+    href: https://life.tsinghua.edu.cn/info/1132/4323.htm
+    info: '09
 
-      人才招聘
+      NOV
 
-      教师招聘
-
-      博士后招聘
-
-      其他招聘
-
-      会议室预定
-
-      清华大学
-
-      清华大学医学院
-
-      清华大学药学院
-
-      生命科学联合中心
-
-      清华-IDG/麦戈文脑科学研究院
-
-      结构生物学高精尖创新中心
-
-      清华生医药校友会
-
-      清华合成与系统生物学中心
-
-      膜生物学国家重点实验室
-
-      生物信息学教育部重点实验室
-
-      蛋白质科学教育部重点实验室
-
-      清华学堂生命科学实验班
-
-      现代生命科学实验教学中心
-
-      清华大学生物医学测试中心
-
-      清华大学蛋白质研究技术中心
-
-      清华大学实验动物中心
-
-      清华新闻
-
-      电话：+86-10-62788604传真：+86-10-62788604邮编：100084
-
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 4652775
-
-      版权所有©清华大学生命科学学院'
+      磷脂分子调控植物发育的机制'
     person: ''
     time: ''
-    title: 博士后招聘
+    title: 磷脂分子调控植物发育的机制
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4148.htm
+    info: '13
+
+      SEP
+
+      Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications'
+    person: ''
+    time: ''
+    title: Molecular Basis of Rice-Magnaporthe Oryzae Interaction and Its Applications
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4124.htm
+    info: '05
+
+      SEP
+
+      Next-Generation CRISPR Technologies and Their Applications in Crop Improvement'
+    person: ''
+    time: ''
+    title: Next-Generation CRISPR Technologies and Their Applications in Crop Improvement
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3869.htm
+    info: '03
+
+      JUN
+
+      自噬膜融合的生化调控机制'
+    person: ''
+    time: ''
+    title: 自噬膜融合的生化调控机制
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3832.htm
+    info: '16
+
+      MAY
+
+      Blastoids: Shaping the mammalian embryo for implantation.'
+    person: ''
+    time: ''
+    title: 'Blastoids: Shaping the mammalian embryo for implantation.'
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3810.htm
+    info: '28
+
+      APR
+
+      Chemogenetic and optogenetic technologies for probing molecular and cellular
+      n…'
+    person: ''
+    time: ''
+    title: Chemogenetic and optogenetic technologies for probing molecular and cellular
+      networks
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3774.htm
+    info: '17
+
+      APR
+
+      Looking under the hood of cells: from single molecule dynamics to whole cell
+      o…'
+    person: ''
+    time: ''
+    title: 'Looking under the hood of cells: from single molecule dynamics to whole
+      cell organelle reconstructions'
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3775.htm
+    info: '17
+
+      APR
+
+      IL-27, a new story in obesity and metabolic disease'
+    person: ''
+    time: ''
+    title: IL-27, a new story in obesity and metabolic disease
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/3773.htm
+    info: '11
+
+      APR
+
+      Next Generation Vaccines'
+    person: ''
+    time: ''
+    title: Next Generation Vaccines
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3264.htm
+    info: '电化学工程及应用
+
+      电化学是研究电能与化学能以及电能与物质之间相互转化及其规律的学科，在先进制造、储能、新能源汽车和氢能源等领域发挥重要作用，是实现碳达峰碳中和的重要支撑学科。电化学物质转化使用电子作为氧化剂或还原剂，…
+
+      2023.02.17'
+    person: ''
+    time: ''
+    title: 电化学工程及应用
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3229.htm
     info: '探索分子世界的奥秘——单分子科学简介
@@ -452,16 +428,6 @@
     person: ''
     time: ''
     title: X射线成像材料与技术
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3187.htm
-    info: '高分子复合非对称结构
-
-      高分子复合非对称结构具有组成及功能分区特征（包括内外分区的微胶囊及表面分区的Janus材料），是一类重要的材料。本报告将介绍多尺度非对称结构的构造方法学、特征及工程应用，尤其讨论近期开展的高分子单链与…
-
-      2022.10.16'
-    person: ''
-    time: ''
-    title: 高分子复合非对称结构
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -709,116 +675,94 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3176.htm
-    info: '2021-12-09
+    href: https://sps.bjmu.edu.cn/xsbg/16dbd362f4164a4599ce641993f6be66.htm
+    info: '2022.12.06
 
-      催化化学前沿讲座：新型手性催化剂和高效不对称催化反应研究（Dec.16，2021, 9:30-11:00，F东101）-张万斌教授（上海交通大学化学'
+      手性光谱学（高等天然药物化学邀请讲座）'
     person: ''
     time: ''
-    title: '2021-12-09
-
-      催化化学前沿讲座：新型手性催化剂和高效不对称催化反应研究（Dec.16，2021, 9:30-11:00，F东101）-张万斌教授（上海交通大学化学'
+    title: 手性光谱学（高等天然药物化学邀请讲座）
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3150.htm
-    info: '2021-10-26
+    href: https://sps.bjmu.edu.cn/xsbg/ca1e3911f8974d90b8e4e5f8d4ac8191.htm
+    info: '2022.11.23
 
-      合成化学前沿讲座：Special Seminar on Oct. 29, 2021(10:00-11:00，E104)--高栓虎教授（华东师范大学）'
+      天然产物的发现和生物合成研究'
     person: ''
     time: ''
-    title: '2021-10-26
-
-      合成化学前沿讲座：Special Seminar on Oct. 29, 2021(10:00-11:00，E104)--高栓虎教授（华东师范大学）'
+    title: 天然产物的发现和生物合成研究
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3149.htm
-    info: '2021-10-26
+    href: https://sps.bjmu.edu.cn/xsbg/966b9635bb1a4b729c35e3bef3b7219b.htm
+    info: '2022.11.23
 
-      Special Seminar on Nov. 1st, 2021(15:00-16:30，E104)--田瑞军教授（南方科技大学）'
+      SYNTHIA TM 逆合成软件的详细使用'
     person: ''
     time: ''
-    title: '2021-10-26
-
-      Special Seminar on Nov. 1st, 2021(15:00-16:30，E104)--田瑞军教授（南方科技大学）'
+    title: SYNTHIA TM 逆合成软件的详细使用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3141.htm
-    info: '2021-10-19
+    href: https://sps.bjmu.edu.cn/xsbg/e98edf7c6bae4175b2cd71010b98fe39.htm
+    info: '2022.11.18
 
-      药物化学前沿讲座：Special Seminar on Oct. 26, 2021(19:00-21:00，E104)--常俊标校长（河南师范大学）'
+      人体微生物的活性代谢产物研究'
     person: ''
     time: ''
-    title: '2021-10-19
-
-      药物化学前沿讲座：Special Seminar on Oct. 26, 2021(19:00-21:00，E104)--常俊标校长（河南师范大学）'
+    title: 人体微生物的活性代谢产物研究
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3144.htm
-    info: '2021-10-19
+    href: https://sps.bjmu.edu.cn/xsbg/b5342124c6314501bf94f0ead41c4935.htm
+    info: '2022.11.17
 
-      合成化学前沿讲座：桥环天然产物全合成 （ Oct. 22, 2021，10:00-11:00，E104)--李闯创教授（南方科技大学化学系）'
+      代谢组学新方法及其在医学研究中的应用'
     person: ''
     time: ''
-    title: '2021-10-19
-
-      合成化学前沿讲座：桥环天然产物全合成 （ Oct. 22, 2021，10:00-11:00，E104)--李闯创教授（南方科技大学化学系）'
+    title: 代谢组学新方法及其在医学研究中的应用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3143.htm
-    info: '2021-10-19
+    href: https://sps.bjmu.edu.cn/xsbg/1813226ee56d41ffb8197bce1512d6cf.htm
+    info: '2022.11.10
 
-      Special Seminar on Oct. 19, 2021(10:30-11:30，F(E)101)--Dr. Tatsuhisa Tsuboi（清华大学深圳国际研究生院）'
+      自动化合成的发展现状及在药化合成中的应用'
     person: ''
     time: ''
-    title: '2021-10-19
-
-      Special Seminar on Oct. 19, 2021(10:30-11:30，F(E)101)--Dr. Tatsuhisa Tsuboi（清华大学深圳国际研究生院）'
+    title: 自动化合成的发展现状及在药化合成中的应用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3142.htm
-    info: '2021-10-19
+    href: https://sps.bjmu.edu.cn/xsbg/534c629ce6a64429b586080e15ad8d5e.htm
+    info: '2022.11.07
 
-      Special Seminar on Oct. 13, 2021(14:00-16:00，F(E)101)--张林峰（北京深势科技有限公司创始人）'
+      前沿质谱技术及其在生物医药中的应用'
     person: ''
     time: ''
-    title: '2021-10-19
-
-      Special Seminar on Oct. 13, 2021(14:00-16:00，F(E)101)--张林峰（北京深势科技有限公司创始人）'
+    title: 前沿质谱技术及其在生物医药中的应用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3065.htm
-    info: '2021-06-03
+    href: https://sps.bjmu.edu.cn/xsbg/10520dfd3b9f403cb7c9e489bbde6f22.htm
+    info: '2022.11.04
 
-      邀请报告：天然药物工业合成 ，2021年6月4日（星期五）16：00-17：30 ，秦勇 教授，四川大学华西药学院院长'
+      生物分子相互作用技术在医学和药学领域的应用'
     person: ''
     time: ''
-    title: '2021-06-03
-
-      邀请报告：天然药物工业合成 ，2021年6月4日（星期五）16：00-17：30 ，秦勇 教授，四川大学华西药学院院长'
+    title: 生物分子相互作用技术在医学和药学领域的应用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3056.htm
-    info: '2021-04-30
+    href: https://sps.bjmu.edu.cn/xsbg/afd3123987c746dbb7acfb6b14d01828.htm
+    info: '2022.11.03
 
-      催化化学前沿讲座：special seminar on May 7th, 2021（11AM, E104)—汤文军研究员 （ 中国科学院上海有机化学研究所)'
+      分子相互作用技术在新药研发中的应用'
     person: ''
     time: ''
-    title: '2021-04-30
-
-      催化化学前沿讲座：special seminar on May 7th, 2021（11AM, E104)—汤文军研究员 （ 中国科学院上海有机化学研究所)'
+    title: 分子相互作用技术在新药研发中的应用
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3055.htm
-    info: '2021-04-30
+    href: https://sps.bjmu.edu.cn/xsbg/5c1519964eff4057b6c6ba00440297b2.htm
+    info: '2022.10.31
 
-      南燕讲座：special seminar on May 7th, 2021（10AM, E104)—马大为院士 （ 中国科学院上海有机化学研究所)'
+      利用质谱成像和合成生物学技术发现和合成新型生物活性分子'
     person: ''
     time: ''
-    title: '2021-04-30
-
-      南燕讲座：special seminar on May 7th, 2021（10AM, E104)—马大为院士 （ 中国科学院上海有机化学研究所)'
+    title: 利用质谱成像和合成生物学技术发现和合成新型生物活性分子
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3050.htm
-    info: '2021-04-24
+    href: https://sps.bjmu.edu.cn/xsbg/1042558c057546f2a49b6ea6d22c78ef.htm
+    info: '2022.09.15
 
-      清华园区学科相关讲座邀请： 健康工程系列论坛(第六讲）通知 Notice of The Health Engineering Forum (6th Talk)'
+      RNA技术及应用的新进展'
     person: ''
     time: ''
-    title: '2021-04-24
-
-      清华园区学科相关讲座邀请： 健康工程系列论坛(第六讲）通知 Notice of The Health Engineering Forum (6th Talk)'
-  page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
+    title: RNA技术及应用的新进展
+  page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
@@ -999,6 +943,32 @@
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/0965d3d059774440abb1a5cdf7c4a612.htm
+    info: '讲座主题
+
+      Flexible Optoelectronic Devices for Biomedical Tre...
+
+      Lizhu Li 李丽珠
+
+      主讲人
+
+      2023年2月21日（星期二）9:00
+
+      设备2号楼B117'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Flexible Optoelectronic Devices for Biomedical Tre...
+
+      Lizhu Li 李丽珠
+
+      主讲人
+
+      2023年2月21日（星期二）9:00
+
+      设备2号楼B117'
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/d981298bb75045148b4ce2209cf86160.htm
     info: '讲座主题
@@ -1259,32 +1229,6 @@
       2022年9月27日（星期二）下午4:00-5:00
 
       北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/e4b51133f4bb454ea09d69742b44e2ca.htm
-    info: '讲座主题
-
-      Regulation of macrophage-mediated inflammatory res...
-
-      胡小玉
-
-      主讲人教授
-
-      2022年9月20日（星期二） 下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Regulation of macrophage-mediated inflammatory res...
-
-      胡小玉
-
-      主讲人教授
-
-      2022年9月20日（星期二） 下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
@@ -1350,163 +1294,6 @@
     title: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5333.htm
-    info: '10
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第五期）'
-    person: ''
-    time: ''
-    title: '10
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第五期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5311.htm
-    info: '03
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第四期）'
-    person: ''
-    time: ''
-    title: '03
-
-      2022-11
-
-      信科“E席谈”青年学术沙龙（第四期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5291.htm
-    info: '25
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第四期）'
-    person: ''
-    time: ''
-    title: '25
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第四期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5274.htm
-    info: '18
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第三期）'
-    person: ''
-    time: ''
-    title: '18
-
-      2022-10
-
-      信息科学技术学院“知存讲座”（第三期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5261.htm
-    info: '12
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第三期）'
-    person: ''
-    time: ''
-    title: '12
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第三期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5254.htm
-    info: '06
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第二期）'
-    person: ''
-    time: ''
-    title: '06
-
-      2022-10
-
-      信科“E席谈”青年学术沙龙（第二期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5244.htm
-    info: '27
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第二期）'
-    person: ''
-    time: ''
-    title: '27
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第二期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5253.htm
-    info: '20
-
-      2022-09
-
-      信科“E席谈”青年学术沙龙（第一期）'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-09
-
-      信科“E席谈”青年学术沙龙（第一期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5231.htm
-    info: '09
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第一期）'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-09
-
-      信息科学技术学院“知存讲座”（第一期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/2197.htm
-    info: '15
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第19期'
-    person: ''
-    time: ''
-    title: '15
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第19期'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/2196.htm
-    info: '09
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第18期'
-    person: ''
-    time: ''
-    title: '09
-
-      2021-11
-
-      北京大学电子学系前沿学术论坛 第18期'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
     href: http://www.bio.pku.edu.cn/homes/Index/news_cont/29/16341.html
@@ -1622,6 +1409,22 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/146803.htm
+    info: '2023-02-17
+
+      【兴大报告627】表界面分子科学'
+    person: ''
+    time: ''
+    title: 【兴大报告627】表界面分子科学
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/146743.htm
+    info: '2023-02-16
+
+      【北京大学物理化学长葛未名创新工场讲座】低维功能材料新物性与界面调控'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】低维功能材料新物性与界面调控
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/145844.htm
     info: '2022-12-06
 
@@ -1698,25 +1501,123 @@
     person: ''
     time: ''
     title: '【兴大报告623】Uncharted waters: catalytic active sites at solid-liquid interfaces'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/144314.htm
-    info: '2022-10-18
-
-      【无机化学论坛】How to publish a paper'
-    person: ''
-    time: ''
-    title: 【无机化学论坛】How to publish a paper
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/144010.htm
-    info: '2022-10-10
-
-      【兴大报告622】Excitation energy transfer using real-time path integral methods'
-    person: ''
-    time: ''
-    title: 【兴大报告622】Excitation energy transfer using real-time path integral methods
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146701.htm
+    info: '20
+
+      Feb
+
+      Probability and Statistics Seminar—— Shotgun threshold for sparse Erdős-Rényi
+      graphs
+
+      时间：2023-02-20 14:00-15:00
+
+      报告人: Heng Ma (PKU)'
+    person: ''
+    time: ''
+    title: '20
+
+      Feb
+
+      Probability and Statistics Seminar—— Shotgun threshold for sparse Erdős-Rényi
+      graphs
+
+      时间：2023-02-20 14:00-15:00
+
+      报告人: Heng Ma (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/146690.htm
+    info: '22
+
+      Feb
+
+      Asymptotic Analysis of Harmonic Maps With Prescribed Singularities
+
+      时间：2023-02-22 09:00-10:00
+
+      报告人: Jingang Xiong (Beijing Normal University)'
+    person: ''
+    time: ''
+    title: '22
+
+      Feb
+
+      Asymptotic Analysis of Harmonic Maps With Prescribed Singularities
+
+      时间：2023-02-22 09:00-10:00
+
+      报告人: Jingang Xiong (Beijing Normal University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/146709.htm
+    info: '23
+
+      Feb
+
+      Purity on schemes over Prüfer bases
+
+      时间：2023-02-23 09:00-10:00
+
+      报告人: Ning Guo (V.A. Steklov Mathematical Institute)'
+    person: ''
+    time: ''
+    title: '23
+
+      Feb
+
+      Purity on schemes over Prüfer bases
+
+      时间：2023-02-23 09:00-10:00
+
+      报告人: Ning Guo (V.A. Steklov Mathematical Institute)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/146713.htm
+    info: '23
+
+      Feb
+
+      The Grothendieck–Serre conjecture for constant reductive group schemes
+
+      时间：2023-02-23 10:00-11:00
+
+      报告人: Fei Liu (South University of Science and Technology of China)'
+    person: ''
+    time: ''
+    title: '23
+
+      Feb
+
+      The Grothendieck–Serre conjecture for constant reductive group schemes
+
+      时间：2023-02-23 10:00-11:00
+
+      报告人: Fei Liu (South University of Science and Technology of China)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/146740.htm
+    info: '24
+
+      Feb
+
+      School Colloquium——Two Approaches towards elliptic cohomology
+
+      时间：2023-02-24 15:00-16:00
+
+      报告人: Zhen Huan (Center for Mathematical Sciences, Huazhong University of Science
+      and Technology)'
+    person: ''
+    time: ''
+    title: '24
+
+      Feb
+
+      School Colloquium——Two Approaches towards elliptic cohomology
+
+      时间：2023-02-24 15:00-16:00
+
+      报告人: Zhen Huan (Center for Mathematical Sciences, Huazhong University of Science
+      and Technology)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/146670.htm
     info: '16
@@ -1741,6 +1642,30 @@
       时间：2023-2-16 16:00-17:00
 
       报告人: Shiyun Lin (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/146685.htm
+    info: '16
+
+      Feb
+
+      Nonlinear analysis and mathematical physcis seminar——Quasilinear elliptic problem
+      in anisotropic Orlicz-Sobolev space on unbounded domain
+
+      时间：2023-02-16 17:00-18:00
+
+      报告人: Karol Wroński'
+    person: ''
+    time: ''
+    title: '16
+
+      Feb
+
+      Nonlinear analysis and mathematical physcis seminar——Quasilinear elliptic problem
+      in anisotropic Orlicz-Sobolev space on unbounded domain
+
+      时间：2023-02-16 17:00-18:00
+
+      报告人: Karol Wroński'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/146541.htm
     info: '02
@@ -1833,710 +1758,150 @@
       时间：2022-12-19 16:00-17:00
 
       报告人: Yuze Han (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145428.htm
-    info: '15
-
-      Dec
-
-      Why interpolating neural nets generalize well: recent insights from neural tangent
-      model
-
-      时间：2022-12-15 9:00-10:00
-
-      报告人: Yiqiao Zhong(University of Wisconsin)'
-    person: ''
-    time: ''
-    title: '15
-
-      Dec
-
-      Why interpolating neural nets generalize well: recent insights from neural tangent
-      model
-
-      时间：2022-12-15 9:00-10:00
-
-      报告人: Yiqiao Zhong(University of Wisconsin)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145951.htm
-    info: '15
-
-      Dec
-
-      Computations of the stochastic control problems from finance and insurance
-
-      时间：2022-12-15 14:00-16:00
-
-      报告人: Jingtang Ma (Southwestern University of Finance and Economics)'
-    person: ''
-    time: ''
-    title: '15
-
-      Dec
-
-      Computations of the stochastic control problems from finance and insurance
-
-      时间：2022-12-15 14:00-16:00
-
-      报告人: Jingtang Ma (Southwestern University of Finance and Economics)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/145719.htm
-    info: '15
-
-      Dec
-
-      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
-      and Invidious Comparisons
-
-      时间：2022-12-15 10:00-11:00
-
-      报告人: Wenguang Sun (Zhejiang University)'
-    person: ''
-    time: ''
-    title: '15
-
-      Dec
-
-      Large-Scale Inference On Heterogeneous Data: Selection Bias, Multiple Testing,
-      and Invidious Comparisons
-
-      时间：2022-12-15 10:00-11:00
-
-      报告人: Wenguang Sun (Zhejiang University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/145911.htm
-    info: '14
-
-      Dec
-
-      Well/ill-posedness bifurcation for the Boltzmann equation
-
-      时间：2022-12-14 09:30-10:30
-
-      报告人: Prof. Xuwen Chen (University of Rochester)'
-    person: ''
-    time: ''
-    title: '14
-
-      Dec
-
-      Well/ill-posedness bifurcation for the Boltzmann equation
-
-      时间：2022-12-14 09:30-10:30
-
-      报告人: Prof. Xuwen Chen (University of Rochester)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/145849.htm
-    info: '14
-
-      Dec
-
-      Ricci Curvature Meets Sub-Riemannian Geometry
-
-      时间：2022-12-14 09:00-10:00
-
-      报告人: Jiayin Pan (University of California, Santa Cruz)'
-    person: ''
-    time: ''
-    title: '14
-
-      Dec
-
-      Ricci Curvature Meets Sub-Riemannian Geometry
-
-      时间：2022-12-14 09:00-10:00
-
-      报告人: Jiayin Pan (University of California, Santa Cruz)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/other/145901.htm
-    info: '10
-
-      Dec
-
-      “数学及其应用”重点实验室年会特邀报告——Castelnuovo Bound and Higher Genus Gromov-Witten Invariants
-      of Quintic 3-fold
-
-      时间：2022-12-10 14:00-15:00
-
-      报告人: 阮勇斌 院士'
-    person: ''
-    time: ''
-    title: '10
-
-      Dec
-
-      “数学及其应用”重点实验室年会特邀报告——Castelnuovo Bound and Higher Genus Gromov-Witten Invariants
-      of Quintic 3-fold
-
-      时间：2022-12-10 14:00-15:00
-
-      报告人: 阮勇斌 院士'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1625.htm
+    info: '21
 
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+      Feb
 
-      人工智能前沿应用系列讲座'
+      踢好临门一脚——论文返修
+
+      报告人：刘田宇 博士，Wiley出版社上海编辑部时 间：2023年2月21日（星期二）15:00-17:00地点：霞光楼200会议室邀请人：孙浩 长聘教轨副教授报告人简介：       刘田宇，2017年博士毕业于美国加州大学-圣克鲁兹（University
+      of California, Santa Cruz），研究方向为电化学能源收集、转化和存储（超级电容器、微生物燃料电池、光电催化、电池）。2017年至2020年在美国弗吉尼亚理工（Virginia
+      Tech）从事博士后工作。2020年起任...'
     person: ''
     time: ''
-    title: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
+    title: 踢好临门一脚——论文返修
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1513.htm
+    info: '13
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      Jul
 
-      人工智能前沿应用系列讲座'
+      无机离子交换反应及其应用
+
+      报告人：汤卫平 研究员主持人：贺益君 教授时 间：2022年7月13日（周三）14:00腾讯会议：会议号：812649781 参会密码：202207会议链接：https://meeting.tencent.com/dm/JWQJ7ItfXbnn
+      汤卫平，国家特聘专家，上海前沿新能源电源技术研究院院长，研究员，礼思（上海）科技首席科学家，国家863、重点研发计划课题负责人。主要从事锂资源回收、固态电池领域研究。主要研究内容包括锰系锂离子筛吸附剂的制备、吸脱附过程基础研究...'
     person: ''
     time: ''
-    title: '2021年11月30日
-
-      讲座预告 | 人工智能在金融领域的应用探索
-
-      人工智能前沿应用系列讲座'
+    title: 无机离子交换反应及其应用
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1457.htm
+    info: '4
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      Mar
 
-      人工智能前沿应用系列讲座'
+      【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
+
+      报告人：李丹 长聘教轨副教授，上海交通大学Bio-X研究院
+
+      时 间：2022年3月4日15:00-17:00'
     person: ''
     time: ''
-    title: '2021年11月23日
-
-      讲座预告 | 人工智能在医疗中的应用及发展前景
-
-      人工智能前沿应用系列讲座'
+    title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1415.htm
+    info: '6
 
-      讲座预告 | 自动驾驶技术进展与量产实践
+      Dec
 
-      人工智能前沿应用系列讲座'
+      SJTU and OU Joint Workshop in Chemistry
+
+      Zoom Meeting ID：862 9945 6713
+
+      时 间：2021年12月06日,14:00-17:45'
     person: ''
     time: ''
-    title: '2021年11月15日
-
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
+    title: SJTU and OU Joint Workshop in Chemistry
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1402.htm
+    info: '25
 
-      讲座预告 | 元宇宙与数字孪生
+      Nov
 
-      人工智能前沿应用系列讲座'
+      三维等离激元纳米阵列的精准构筑及性能研究
+
+      报告人：聂志鸿教授，复旦大学
+
+      时 间：2021年11月25日,15:00-16:00'
     person: ''
     time: ''
-    title: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
+    title: 三维等离激元纳米阵列的精准构筑及性能研究
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1401.htm
+    info: '24
 
-      讲座预告 | AI芯片的产业需求和发展
+      Nov
 
-      人工智能前沿应用系列讲座'
+      基于微纳结构的光热调控
+
+      报告人：朱嘉 教授, 南京大学
+
+      时 间：2021年11月24日,15:30-17:30'
     person: ''
     time: ''
-    title: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
+    title: 基于微纳结构的光热调控
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1394.htm
+    info: '20
 
-      讲座预告 | 大模型，小语种，会话式RPA
+      Nov
 
-      人工智能前沿应用系列讲座'
+      2021年秋季学期第三次有机化学Seminar学术论坛
+
+      主讲人：刘家旺、董轶
+
+      时间：2021年11月20日（周六）15：00-17：00'
     person: ''
     time: ''
-    title: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
+    title: 2021年秋季学期第三次有机化学Seminar学术论坛
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1396.htm
+    info: '19
 
-      讲座预告 | AR中的计算机视觉
+      Nov
 
-      人工智能前沿应用系列讲座'
+      有机高分子储能材料
+
+      报告人：王成亮教授, 华中科技大学光学与电子信息学院、武汉光电国家研究中心
+
+      时 间：2021年11月19日,15:00-16:00'
     person: ''
     time: ''
-    title: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
+    title: 有机高分子储能材料
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1397.htm
+    info: '19
 
-      学术报告会 | 深度学习的基础理论
+      Nov
 
-      报告人：陶大程'
+      有机半导体材料与晶体管器件的稳定性
+
+      报告人：李立强教授，天津大学分子聚集态科学研究院
+
+      时 间：2021年11月19日（星期五）,14:00-15:00'
     person: ''
     time: ''
-    title: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
+    title: 有机半导体材料与晶体管器件的稳定性
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
+    href: https://fsctm.sjtu.edu.cn/info/1046/1382.htm
+    info: '16
 
-      学术报告会 | 人体外貌特征与人类表型组研究
+      Nov
 
-      报告人：汪思佳'
+      智能纤维材料与器件
+
+      演讲人：彭慧胜 教授 复旦大学
+
+      时间：2021年11月16日(星期二)15:30'
     person: ''
     time: ''
-    title: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-  page_title: 上海交通大学人工智能研究院
-  page_url: https://ai.sjtu.edu.cn/info/academic
-- page_info:
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
-
-      讲座预告 | 人工智能在金融领域的应用探索
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月30日
-
-      讲座预告 | 人工智能在金融领域的应用探索
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
-
-      讲座预告 | 人工智能在医疗中的应用及发展前景
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月23日
-
-      讲座预告 | 人工智能在医疗中的应用及发展前景
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
-
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月15日
-
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
-    person: ''
-    time: ''
-    title: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-    person: ''
-    time: ''
-    title: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-  page_title: 上海交通大学人工智能研究院
-  page_url: http://www.bio-x.cn/Web/List/10
-- page_info:
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年12月9日
-
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
-
-      讲座预告 | 人工智能在金融领域的应用探索
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月30日
-
-      讲座预告 | 人工智能在金融领域的应用探索
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
-
-      讲座预告 | 人工智能在医疗中的应用及发展前景
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月23日
-
-      讲座预告 | 人工智能在医疗中的应用及发展前景
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
-
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月15日
-
-      讲座预告 | 自动驾驶技术进展与量产实践
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月9日
-
-      讲座预告 | 元宇宙与数字孪生
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年11月2日
-
-      讲座预告 | AI芯片的产业需求和发展
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年10月26日
-
-      讲座预告 | 大模型，小语种，会话式RPA
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
-    person: ''
-    time: ''
-    title: '2021年10月12日
-
-      讲座预告 | AR中的计算机视觉
-
-      人工智能前沿应用系列讲座'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
-    person: ''
-    time: ''
-    title: '2021年9月2日
-
-      学术报告会 | 深度学习的基础理论
-
-      报告人：陶大程'
-  - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-    person: ''
-    time: ''
-    title: '2021年1月6日
-
-      学术报告会 | 人体外貌特征与人类表型组研究
-
-      报告人：汪思佳'
-  page_title: 上海交通大学人工智能研究院
+    title: 智能纤维材料与器件
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'A Mean-Field Optimal Control Approach to the Training of NeurODEs
-
-      黄辉 , Karl-Franzens-Universität Graz
-
-      2022-12-21 16:00, 2 months ago'
-    person: ''
-    time: ''
-    title: 'A Mean-Field Optimal Control Approach to the Training of NeurODEs
-
-      黄辉 , Karl-Franzens-Universität Graz
-
-      2022-12-21 16:00, 2 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Deep learning methods for data-driven uncertainty quantification
-
-      郭玲 , 上海师范大学
-
-      2022-12-15 20:00, 2 months ago'
-    person: ''
-    time: ''
-    title: 'Deep learning methods for data-driven uncertainty quantification
-
-      郭玲 , 上海师范大学
-
-      2022-12-15 20:00, 2 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Regularity structure and asymptotic behavior of conservative solutions
-      to the Hunter-Saxton equation
-
-      高瑜 , 香港理工大学
-
-      2022-12-14 14:00, 2 months ago'
-    person: ''
-    time: ''
-    title: 'Regularity structure and asymptotic behavior of conservative solutions
-      to the Hunter-Saxton equation
-
-      高瑜 , 香港理工大学
-
-      2022-12-14 14:00, 2 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Orthogonalization-free Eigensolvers for FCI excited states
-
-      李颖洲 , 复旦大学
-
-      2022-12-07 10:00, 2 months ago'
-    person: ''
-    time: ''
-    title: 'Orthogonalization-free Eigensolvers for FCI excited states
-
-      李颖洲 , 复旦大学
-
-      2022-12-07 10:00, 2 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'A stochastic analysis approach to lattice Yang--Mills
-
-      朱蓉禅 , 北京理工大学
-
-      2022-11-30 10:00, 2 months ago'
-    person: ''
-    time: ''
-    title: 'A stochastic analysis approach to lattice Yang--Mills
-
-      朱蓉禅 , 北京理工大学
-
-      2022-11-30 10:00, 2 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Tumor boundary instability induced by nutrient consumption and supply
-
-      Yu Feng , Peking University
-
-      2022-11-25 11:00, 3 months ago'
-    person: ''
-    time: ''
-    title: 'Tumor boundary instability induced by nutrient consumption and supply
-
-      Yu Feng , Peking University
-
-      2022-11-25 11:00, 3 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
-      methods
-
-      代新杰 , 中国科学院数学与系统科学研究院
-
-      2022-11-17 20:00, 3 months ago'
-    person: ''
-    time: ''
-    title: 'Overdamped generalized Langevin equations with fractional noise: Euler-type
-      methods
-
-      代新杰 , 中国科学院数学与系统科学研究院
-
-      2022-11-17 20:00, 3 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Weak intermittency for the stochastic heat equation and its discretizations
-
-      陈楚楚 , 中国科学院数学与系统科学研究院
-
-      2022-11-16 14:00, 3 months ago'
-    person: ''
-    time: ''
-    title: 'Weak intermittency for the stochastic heat equation and its discretizations
-
-      陈楚楚 , 中国科学院数学与系统科学研究院
-
-      2022-11-16 14:00, 3 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Numerical solver for the Boltzmann equation with self-adaptive collision
-      operators
-
-      Yanli Wang , Beijing Computational Science Research Center
-
-      2022-11-09 14:00, 3 months ago'
-    person: ''
-    time: ''
-    title: 'Numerical solver for the Boltzmann equation with self-adaptive collision
-      operators
-
-      Yanli Wang , Beijing Computational Science Research Center
-
-      2022-11-09 14:00, 3 months ago'
-  page_title: 上海应用数学中心(上海交通大学分中心)
-  page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/4288.html
@@ -2908,6 +2273,78 @@
 
       17:00 — 18:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFyqF2
+    info: '[MINI COURSES] 蒋辉宏
+
+      AN INTRODUCTION TO METRIC GEOMETRY
+
+      2023-02-23
+
+      10:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 蒋辉宏
+
+      AN INTRODUCTION TO METRIC GEOMETRY
+
+      2023-02-23
+
+      10:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFpKF2
+    info: '俞晖
+
+      GRAPHICAL SOLUTIONS TO ONE-PHASE PROBLEMS
+
+      2023-02-21
+
+      19:00 — 20:00'
+    person: ''
+    time: ''
+    title: '俞晖
+
+      GRAPHICAL SOLUTIONS TO ONE-PHASE PROBLEMS
+
+      2023-02-21
+
+      19:00 — 20:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFtKF2
+    info: '吴瑞佳
+
+      TOPIC MODELING: OPTIMAL ESTIMATION AND STATISTICAL INFERENCE
+
+      2023-02-20
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '吴瑞佳
+
+      TOPIC MODELING: OPTIMAL ESTIMATION AND STATISTICAL INFERENCE
+
+      2023-02-20
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmF2qF2
+    info: '熊彦禛
+
+      A CONJECTURE ON A SPARSITY MEASURE OF (0,1) ARRAYS
+
+      2023-02-17
+
+      09:30 — 11:00'
+    person: ''
+    time: ''
+    title: '熊彦禛
+
+      A CONJECTURE ON A SPARSITY MEASURE OF (0,1) ARRAYS
+
+      2023-02-17
+
+      09:30 — 11:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiHtKF2
     info: '[吴文俊数学中心综合报告] PEDRO ANTONIO SANTORO SALOMÃO
 
@@ -3017,82 +2454,6 @@
       2023-01-12
 
       14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiG2qF2
-    info: '[COLLOQUIUM] 陈振庆
-
-      STOCHASTIC OPTIMAL CONTROL FOR SUB-DIFFUSIONS
-
-      2023-01-12
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 陈振庆
-
-      STOCHASTIC OPTIMAL CONTROL FOR SUB-DIFFUSIONS
-
-      2023-01-12
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiFpKF2
-    info: '蒋继发
-
-      ON ASYMPTOTIC MEASURE OF QUASI-POTENTIAL SYSTEMS WITH APPLICATIONS TO STOCHASTIC
-      BIFURCATIONS
-
-      2023-01-11
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '蒋继发
-
-      ON ASYMPTOTIC MEASURE OF QUASI-POTENTIAL SYSTEMS WITH APPLICATIONS TO STOCHASTIC
-      BIFURCATIONS
-
-      2023-01-11
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiF2qF2
-    info: '向妮
-
-      THE DIRICHLET PROBLEM FOR A CLASS OF HESSIAN QUOTIENT EQUATIONS ON RIEMANNIAN
-      MANIFOLDS
-
-      2023-01-11
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '向妮
-
-      THE DIRICHLET PROBLEM FOR A CLASS OF HESSIAN QUOTIENT EQUATIONS ON RIEMANNIAN
-      MANIFOLDS
-
-      2023-01-11
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJiFtKF2
-    info: '张玲玲
-
-      非线性分数阶微分方程
-
-      2023-01-09
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '张玲玲
-
-      非线性分数阶微分方程
-
-      2023-01-09
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -3279,94 +2640,3 @@
     title: 生命科学学院系列学术讲座--王文卿教授学术报告
   page_title: 活动预告
   page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
-- page_info:
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/1013/c51065a2645946/page.htm
-    info: '关于上海交通大学钱彦旻教授学术报告的通知
-
-      2022-10-13'
-    person: ''
-    time: ''
-    title: 关于上海交通大学钱彦旻教授学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/1005/c51065a2643624/page.htm
-    info: '关于第七届浙江大学“智能信号处理”研究生国际工作坊的通知
-
-      2022-10-05'
-    person: ''
-    time: ''
-    title: 关于第七届浙江大学“智能信号处理”研究生国际工作坊的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0914/c51065a2631729/page.htm
-    info: '关于肯特大学王江舟教授学术报告的通知
-
-      2022-09-14'
-    person: ''
-    time: ''
-    title: 关于肯特大学王江舟教授学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0815/c51065a2609148/page.htm
-    info: '关于虞志益教授学术报告的通知
-
-      2022-08-15'
-    person: ''
-    time: ''
-    title: 关于虞志益教授学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0624/c51065a2596937/page.htm
-    info: '关于沉浸式视觉媒体感知、编码及传输学术研讨会的通知
-
-      2022-06-24'
-    person: ''
-    time: ''
-    title: 关于沉浸式视觉媒体感知、编码及传输学术研讨会的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0616/c51065a2594571/page.htm
-    info: '关于上海科技大学文鼎柱博士学术报告的通知
-
-      2022-06-16'
-    person: ''
-    time: ''
-    title: 关于上海科技大学文鼎柱博士学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0613/c51065a2591381/page.htm
-    info: '关于于全院士学术报告的通知
-
-      2022-06-13'
-    person: ''
-    time: ''
-    title: 关于于全院士学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0601/c51065a2582122/page.htm
-    info: '关于拉曼大学Prof. Chang Yoong Choon学术报告的通知
-
-      2022-06-01'
-    person: ''
-    time: ''
-    title: 关于拉曼大学Prof. Chang Yoong Choon学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2022/0428/c51065a2524899/page.htm
-    info: '关于卡内基梅隆大学Dr.Peng YIN学术报告的通知
-
-      2022-04-27'
-    person: ''
-    time: ''
-    title: 关于卡内基梅隆大学Dr.Peng YIN学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2021/1215/c51065a2451814/page.htm
-    info: '关于伦敦玛丽女王大学 Prof. Arumugam Nallanathan 学术报告的通知
-
-      2021-12-15'
-    person: ''
-    time: ''
-    title: 关于伦敦玛丽女王大学 Prof. Arumugam Nallanathan 学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2021/1130/c51065a2446771/page.htm
-    info: '关于伦敦玛丽女王大学 Prof. Yuanwei Liu 学术报告的通知
-
-      2021-11-30'
-    person: ''
-    time: ''
-    title: 关于伦敦玛丽女王大学 Prof. Yuanwei Liu 学术报告的通知
-  page_title: 学术报告
-  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm

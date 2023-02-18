@@ -1,6 +1,5 @@
 import pandas as pd
 from bs4 import BeautifulSoup
-import requests
 from selenium.webdriver.common.by import By
 from collections import defaultdict
 from selenium import webdriver
@@ -11,6 +10,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.wait import WebDriverWait
 import time
 import os
+import logging
 
 
 def find_max_div(ele):
@@ -25,11 +25,17 @@ def find_max_div(ele):
 
 
 def get_max_child_ele(ele):
+    """找到最大的子元素"""
+    # 找到所有的子元素
     child = ele.find_elements(By.XPATH, './*')
+    # 如果没有子元素，则报错
     assert len(child) > 0, 'no child'
+    # 计算所有子元素的大小
     all_child_size = [i.size['height'] * i.size['width'] for i in child]
+    # 如果所有子元素的大小都是0，则返回第一个元素
     if all_child_size == [0] * len(all_child_size):
-        print('all child size is 0')
+        logging.warning('all child size is 0')
+        raise Exception('all child size is 0')
         all_child_size = [len(ele.find_elements(By.XPATH, './*')) for i in child]
     highest_child_index = all_child_size.index(max(all_child_size))
     return child[highest_child_index], all_child_size[highest_child_index]
@@ -51,22 +57,33 @@ def compare_elements_size(ele1, ele2):
         return ele2
 
 
-def get_min_max_region(ele, logger=None):
+def get_min_max_region(ele):
+    """使用迭代的方式，获取网页的最大区域，其中包含多个小区域，用以提取主要内容"""
+    
+    # 首先找到最大的div区域
     max_div, max_div_size = find_max_div(ele)
     parent = max_div_size
+    
+    # 进行迭代，找到最大的子区域，并判断是否小于父区域的1/2，如果是，则返回父区域
     while True:
+        # 找到最大的子区域
         max_div_tmp, child = get_max_child_ele(max_div)
-        if logger:
-            logger('div class: {}, {}\n\t, {}, {}'.format(max_div.get_attribute('class'), parent,
+        
+        logging.info('div class: {}, {}\n\t, {}, {}'.format(max_div.get_attribute('class'), parent,
                                                           max_div_tmp.get_attribute('class'), child))
+        # 如果最大子区域是table，则返回父区域
         if max_div_tmp.tag_name == 'table':
             return max_div
-        # 如果最大子区域小于父区域的1/2.则返回父区域
+        
+        # 如果最大子区域小于10000
         if child < 10000:
             pass
+        
+        # 如果最大子区域小于父区域的1/2.则返回父区域
         elif parent / child > 2:
             # print(parent, child)
             return max_div
+        # 否则，继续迭代
         max_div = max_div_tmp
         parent = child
 
@@ -117,10 +134,13 @@ def get_seminars_table_info(ele):
     return df
 
 
-def get_seminars_url_info(ele, logger=None):
+def get_seminars_url_info(ele):
+    """解析网页内容"""
     # if ele.find_elements(By.TAG_NAME, 'main'):
     #     ele = ele.find_element(By.TAG_NAME, 'main')
-    min_max_div = get_min_max_region(ele, logger=logger)
+    
+    # 获取网页的最大区域
+    min_max_div = get_min_max_region(ele)
     if min_max_div.find_elements(By.TAG_NAME, 'table'):
         return get_seminars_table_info(min_max_div)
     seminars_list = get_seminars_list(min_max_div)
@@ -172,29 +192,23 @@ def get_driver(headless=True, **kwargs) -> webdriver:
     return driver
 
 
-def get_url(driver, url, logger=None, headless=True, **kwargs):
-    msg = 'get url: {}'.format(url)
+def get_url(driver, url, headless=True, **kwargs):
+    """get url并返回打开网页的driver"""
+    logging.info('get url: {}'.format(url))
     try:
         driver.get(url)
     except TimeoutException:
-        msg += '\nget url time out'
-    time.sleep(3)
+        logging.warning('get url time out')
+    # time.sleep(3)
+    # 判断是否无法打开网址
     if driver.title in ['', url.split('//')[1].split('/')[0]]:
-        msg += f'\n********* {url} could not get! **************\n'
+        logging.warning(f'\n********* {url} could not get! **************\n')
         driver.status = False
-        if logger:
-            logger(msg)
-        else:
-            print(msg)
         return driver
     try:
         WebDriverWait(driver, timeout=3).until(lambda d: d.find_element(By.TAG_NAME, "div"))
     except TimeoutException:
-        msg += f'{url} time out'
-    if logger:
-        logger(msg)
-    else:
-        print(msg)
+        logging.warning(f'{url} time out')
     return driver
 
 

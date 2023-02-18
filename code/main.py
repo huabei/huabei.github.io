@@ -14,6 +14,7 @@ from copy import deepcopy
 import pickle
 import yaml
 import subprocess
+import logging
 
 
 def generate_absurl(url, base_url):
@@ -152,39 +153,6 @@ def generate_href(result):
     return set(href)
 
 
-def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
-    total_result = get_data_from_internet(url_file_path)
-    # with open('../_data/seminars-test.pkl', 'rb') as f:
-    #     import pickle
-    #     total_result = pickle.load(f)
-    # 准备数据，更换表头等。
-    total_result = prepare_data(total_result, head_replace)
-    # 生成href集合
-    href_set_today = generate_href(total_result)
-    # 写入今天的文件并计算今日更新
-    latest_data_path = output_file_path.replace('.yaml', '.pkl')
-    day_update_path = output_file_path.replace('.yaml', '-update-d.yaml')
-    if os.path.exists(day_update_path):
-        os.rename(day_update_path, f'../_data/seminars-update-{d}.yaml')
-    # 已存的latest数据作为昨天的数据，和今天的数据比较，得到update数据
-    if os.path.exists(latest_data_path):
-        yesterday_total_href = pickle.load(open(latest_data_path, 'rb'))
-        write_yaml(deepcopy(total_result), day_update_path, yesterday_total_href)
-        # 并集覆写最新你href
-        with open(latest_data_path, 'wb') as f:
-            pickle.dump(href_set_today | yesterday_total_href, f)
-    else:
-        # 今天是第一次运行，直接写入
-        with open(latest_data_path, 'wb') as f:
-            pickle.dump(href_set_today, f)
-    # 合并前七天的数据
-    week_update_path = output_file_path.replace('.yaml', '-update-w.yaml')
-    week_update_data_total = get_week_update(output_file_path)
-    with open(week_update_path, 'w', encoding='utf-8-sig') as f:
-        yaml.dump(week_update_data_total, f, allow_unicode=True)
-    # write_data(total_result, output_file_path, head_replace=head_replace)
-    write_yaml(total_result, output_file_path)
-
 
 def get_week_update(output_file_path) -> list:
     week_update_data_total = defaultdict(dict)
@@ -206,44 +174,107 @@ def get_week_update(output_file_path) -> list:
 
 
 def get_data_from_internet(url_file_path):
+    '''从互联网上获取数据，并经过初步的处理'''
+    # 读取url文件
     url_iter = open(url_file_path, 'r')
+    
     total_result = dict()
-    logger = Logger('./log')
-    driver = get_driver(headless=True)
+    # logger = Logger('./log')
+    
+    # 启动浏览器
+    driver = get_driver(headless=False)
+    
+    # 同一个窗口打开所有的url
     for url in url_iter:
+        # 创建一个临时字典，用于存储每个url的数据
         result_tmp = dict()
-        url = url.strip()
+        
+        url = url.strip() # 去除换行符
+        
+        # 打开url, 如果打开失败，跳过
         driver.status = True
-        driver = get_url(driver, url, logger)
+        
+        # 获取打开网页的状态
+        driver = get_url(driver, url)
         if not driver.status:
             continue
-        print(f'start analyze {url}')
+        
+        logging.info(f'start analyze {url}')
+        # 获取网页的标题和url
         result_tmp['page_title'] = driver.title
         result_tmp['page_url'] = url
+        
+        # 尝试对网页进行解析，如果解析失败，跳过
         try:
-            result_tmp['page_info'] = get_seminars_url_info(driver, logger)
+            # 解析结果存入临时字典
+            result_tmp['page_info'] = get_seminars_url_info(driver)
         except:
             # print(url)
-            logger(f'******************{url} wrong! **********************')
+            logging.warning(f'******************{url} analyze wrong! **********************')
             continue
         total_result[url] = result_tmp
     driver.quit()
-    logger.close()
     return total_result
 
 
+def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
+    total_result = get_data_from_internet(url_file_path) # 从网页获取数据
+    
+    # with open('../_data/seminars-test.pkl', 'rb') as f:
+    #     import pickle
+    #     total_result = pickle.load(f)
+    
+    # 格式化数据，更换表头等。
+    total_result = prepare_data(total_result, head_replace)
+    
+    # 生成今天的网址（href）集合
+    href_set_today = generate_href(total_result)
+    
+    # 写入今天的文件并计算今日更新
+    latest_data_path = output_file_path.replace('.yaml', '.pkl') # 构造pkl文件名
+    day_update_path = output_file_path.replace('.yaml', '-update-d.yaml') # 构造今日更新文件名
+    
+    # 将昨天的数据加入日期文件名，作为昨天的数据
+    if os.path.exists(day_update_path):
+        os.rename(day_update_path, f'../_data/seminars-update-{d}.yaml')
+    
+    # 已存的latest所有数据作为昨天的数据，和今天的数据比较，得到update数据
+    if os.path.exists(latest_data_path):
+        yesterday_total_href = pickle.load(open(latest_data_path, 'rb'))
+        write_yaml(deepcopy(total_result), day_update_path, yesterday_total_href)
+        # 并集覆写最新你href
+        with open(latest_data_path, 'wb') as f:
+            pickle.dump(href_set_today | yesterday_total_href, f)
+    else:
+        # 今天是第一次运行，直接写入
+        with open(latest_data_path, 'wb') as f:
+            pickle.dump(href_set_today, f)
+            
+    # 合并前七天的数据，作为week_update
+    week_update_path = output_file_path.replace('.yaml', '-update-w.yaml')
+    week_update_data_total = get_week_update(output_file_path)
+    with open(week_update_path, 'w', encoding='utf-8-sig') as f:
+        yaml.dump(week_update_data_total, f, allow_unicode=True)
+    # write_data(total_result, output_file_path, head_replace=head_replace)
+    write_yaml(total_result, output_file_path)
+
+
 if __name__ == '__main__':
-    # import sys
-    # sys.path.extend([r"E:\Huabei\huabei.github.io\code"])
-    os.chdir(r"D:\Huabei\huabei.github.io\code")
+    # 更改工作目录
+    os.chdir(r"E:\Huabei\huabei.github.io\code")
+    
     # 今天的时间d
     d = time.strftime('%Y-%m-%d', time.localtime())
-    # 七天前的时间
-    # w_l7 = (datetime.datetime.now() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
+    
+    # 日志文件配置
+    if False:
+        logging.basicConfig(filename=f'log/{d}.log', encoding='utf-8', level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
+    else:
+        logging.basicConfig(level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
+    # 最新的数据文件路径
     output_file_path = '../_data/seminars-latest.yaml'
-    # if os.path.exists(output_file_path):
-    #     os.rename(output_file_path, f'../_data/seminars-{d}.yaml')
 
+    # 表头替换
     head_replace = {'报告题目': 'title',
                     '报告日期': 'time',
                     '时间': 'time',
@@ -253,7 +284,8 @@ if __name__ == '__main__':
                     '地址': 'address',
                     '地点': 'address'}
 
-    main(r"D:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    # 从网站获取数据
+    main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
@@ -267,6 +299,7 @@ if __name__ == '__main__':
     #
     # # write_data(total_result, output_file_path, head_replace=head_replace)
     # write_yaml(total_result, '../_data/seminars-latest.yaml', head_replace=head_replace)
-    os.chdir(r"D:\Huabei\huabei.github.io")
+    # 推送到github
+    os.chdir(r"E:\Huabei\huabei.github.io")
     subprocess.call(["git", 'commit', '-am', '"today update"'])
     subprocess.call(['git', 'push'])
