@@ -198,16 +198,16 @@ def get_data_from_internet(url_file_path):
         driver = get_url(driver, url)
         if not driver.status:
             continue
-        
         logging.info(f'start analyze {url}')
+        
         # 获取网页的标题和url
         result_tmp['page_title'] = driver.title
         result_tmp['page_url'] = url
+        logging.debug(f'page_title: {result_tmp["page_title"]}')
         
         # 尝试对网页进行解析，如果解析失败，跳过
         try:
-            # 解析结果存入临时字典
-            result_tmp['page_info'] = get_seminars_url_info(driver)
+            result_tmp['page_info'] = get_seminars_url_info(driver) # 解析结果存入临时字典
         except:
             # print(url)
             logging.warning(f'******************{url} analyze wrong! **********************')
@@ -267,7 +267,8 @@ if __name__ == '__main__':
     d = time.strftime('%Y-%m-%d', time.localtime())
     
     # 日志文件配置
-    if False:
+    log2file = True
+    if log2file:
         logging.basicConfig(filename=f'log/{d}.log', encoding='utf-8', level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
     else:
         logging.basicConfig(level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')

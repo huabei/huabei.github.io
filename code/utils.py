@@ -198,7 +198,7 @@ def get_url(driver, url, headless=True, **kwargs):
     try:
         driver.get(url)
     except TimeoutException:
-        logging.warning('get url time out')
+        logging.warning(f'get {url} time out')
     # time.sleep(3)
     # 判断是否无法打开网址
     if driver.title in ['', url.split('//')[1].split('/')[0]]:
@@ -206,9 +206,9 @@ def get_url(driver, url, headless=True, **kwargs):
         driver.status = False
         return driver
     try:
-        WebDriverWait(driver, timeout=3).until(lambda d: d.find_element(By.TAG_NAME, "div"))
+        WebDriverWait(driver, timeout=10).until(lambda d: d.find_element(By.TAG_NAME, "div"))
     except TimeoutException:
-        logging.warning(f'{url} time out')
+        logging.warning(f'{url} wait time out')
     return driver
 
 
