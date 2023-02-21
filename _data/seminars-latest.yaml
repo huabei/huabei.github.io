@@ -847,6 +847,14 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1591
+    info: '2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
+
+      2023-02-21'
+    person: ''
+    time: ''
+    title: 2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
+  - address: ''
     href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1561
     info: '2月14日CQBseminar： Inferring collective dynamics in groups of social mice
 
@@ -926,20 +934,6 @@
     person: ''
     time: ''
     title: 10月12日生命中心研究生“1+X”论坛
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1535
-    info: '生命中心
-
-      10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins: Targeting
-      tumo..
-
-      2022-10-04
-
-      13:00-14:00'
-    person: ''
-    time: ''
-    title: '10月6日CLS seminar：New mechanisms for proper bispecific fusion proteins:
-      Targeting tumo..'
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
@@ -1505,52 +1499,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146815.htm
-    info: '20
-
-      Feb
-
-      RIGIDITY AND ABSOLUTE CONTINUITY OF FOLIATIONS OF SPECIAL ANOSOV ENDOMORPHISMS
-
-      时间：2023-02-20 15:00-17:00
-
-      报告人: Fernando Micena (IMC-UNIFEI)'
-    person: ''
-    time: ''
-    title: '20
-
-      Feb
-
-      RIGIDITY AND ABSOLUTE CONTINUITY OF FOLIATIONS OF SPECIAL ANOSOV ENDOMORPHISMS
-
-      时间：2023-02-20 15:00-17:00
-
-      报告人: Fernando Micena (IMC-UNIFEI)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146701.htm
-    info: '20
-
-      Feb
-
-      Probability and Statistics Seminar—— Shotgun threshold for sparse Erdős-Rényi
-      graphs
-
-      时间：2023-02-20 14:00-15:00
-
-      报告人: Heng Ma (PKU)'
-    person: ''
-    time: ''
-    title: '20
-
-      Feb
-
-      Probability and Statistics Seminar—— Shotgun threshold for sparse Erdős-Rényi
-      graphs
-
-      时间：2023-02-20 14:00-15:00
-
-      报告人: Heng Ma (PKU)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/146690.htm
     info: '22
 
@@ -1663,6 +1611,76 @@
 
       报告人: Yifan Chen (Caltech)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146844.htm
+    info: '27
+
+      Feb
+
+      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
+      heat equation
+
+      时间：2023-02-27 13:30-14:30
+
+      报告人: Alejandro Ramírez (NYU Shanghai)'
+    person: ''
+    time: ''
+    title: '27
+
+      Feb
+
+      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
+      heat equation
+
+      时间：2023-02-27 13:30-14:30
+
+      报告人: Alejandro Ramírez (NYU Shanghai)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146847.htm
+    info: '27
+
+      Feb
+
+      Probability and Statistics Seminar——Long-range Ising model: a contour argument
+      and the random field
+
+      时间：2023-02-27 14:40-15:40
+
+      报告人: João Maia (University of São Paulo)'
+    person: ''
+    time: ''
+    title: '27
+
+      Feb
+
+      Probability and Statistics Seminar——Long-range Ising model: a contour argument
+      and the random field
+
+      时间：2023-02-27 14:40-15:40
+
+      报告人: João Maia (University of São Paulo)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/146869.htm
+    info: '27
+
+      Feb
+
+      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
+
+      时间：2023-02-27 16:00-17:00
+
+      报告人: Xuecheng WANG(Tsinghua University)'
+    person: ''
+    time: ''
+    title: '27
+
+      Feb
+
+      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
+
+      时间：2023-02-27 16:00-17:00
+
+      报告人: Xuecheng WANG(Tsinghua University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146829.htm
     info: '28
 
@@ -1707,53 +1725,27 @@
 
       报告人: Tao Wang (Hunan Normal University)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/146670.htm
-    info: '16
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/146874.htm
+    info: '01
 
-      Feb
+      Mar
 
-      机器学习与数据科学博士生系列论坛（第四十三期）—— Two-sided Matching Markets with Stochastic Multi-armed
-      Bandits
+      Biharmonic Heat Equation on Complete Manifolds
 
-      时间：2023-2-16 16:00-17:00
+      时间：2023-03-01 09:00-10:00
 
-      报告人: Shiyun Lin (PKU)'
+      报告人: Fei He (Xiamen University)'
     person: ''
     time: ''
-    title: '16
+    title: '01
 
-      Feb
+      Mar
 
-      机器学习与数据科学博士生系列论坛（第四十三期）—— Two-sided Matching Markets with Stochastic Multi-armed
-      Bandits
+      Biharmonic Heat Equation on Complete Manifolds
 
-      时间：2023-2-16 16:00-17:00
+      时间：2023-03-01 09:00-10:00
 
-      报告人: Shiyun Lin (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/146685.htm
-    info: '16
-
-      Feb
-
-      Nonlinear analysis and mathematical physcis seminar——Quasilinear elliptic problem
-      in anisotropic Orlicz-Sobolev space on unbounded domain
-
-      时间：2023-02-16 17:00-18:00
-
-      报告人: Karol Wroński'
-    person: ''
-    time: ''
-    title: '16
-
-      Feb
-
-      Nonlinear analysis and mathematical physcis seminar——Quasilinear elliptic problem
-      in anisotropic Orlicz-Sobolev space on unbounded domain
-
-      时间：2023-02-16 17:00-18:00
-
-      报告人: Karol Wroński'
+      报告人: Fei He (Xiamen University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
