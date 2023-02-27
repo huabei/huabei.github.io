@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11803.htm
+    info: "High-dimensional robust inference for censored linear models\n 2023年02月27日 "
+    person: ''
+    time: ''
+    title: High-dimensional robust inference for censored linear models
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11773.htm
     info: "随机微分方程的保正算法\n 2023年02月23日 "
     person: ''
@@ -61,15 +67,17 @@
     person: ''
     time: ''
     title: Geometric two-scale integrators for highly oscillatory system
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11594.htm
-    info: "空间记忆扩散系统的时空动力学及新进展\n 2022年11月22日 "
-    person: ''
-    time: ''
-    title: 空间记忆扩散系统的时空动力学及新进展
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7658.htm
+    info: '计算机学院李博、王磊磊博士学术报告
+
+      2023-02-27'
+    person: ''
+    time: ''
+    title: 计算机学院李博、王磊磊博士学术报告
   - address: ''
     href: https://cse.csu.edu.cn/info/1041/7628.htm
     info: '中科院软件所詹乃军研究员学术报告通知
@@ -150,16 +158,6 @@
     person: ''
     time: ''
     title: 浙江大学林峰教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7137.htm
-    info: '于东晓、肖梦白、Weihua Zhuang、Shiwen Mao、Nei Kato、Junshan Zhang、Yingying Chen、Shiwen
-      Mao、成秀珍、崔曙光、Song Guo等教授学术报告
-
-      2022-11-14'
-    person: ''
-    time: ''
-    title: 于东晓、肖梦白、Weihua Zhuang、Shiwen Mao、Nei Kato、Junshan Zhang、Yingying Chen、Shiwen
-      Mao、成秀珍、崔曙光、Song Guo等教授学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -1226,6 +1224,14 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: http://cs.pku.edu.cn/info/1020/3821.htm
+    info: 菁英论坛丨Towards High-Performance and Power-Efficient Network Infrastructure
+      for Cloud Computing-Prof. Yiting Xia(Max Planck Institute for Informa... 23-02-27
+    person: ''
+    time: ''
+    title: 菁英论坛丨Towards High-Performance and Power-Efficient Network Infrastructure
+      for Cloud Computing-Prof. Yiting Xia(Max Planck Institute for Informa...
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/3731.htm
     info: 大师讲堂 | Sky Computing-Prof. Ion Stoica 22-12-13
     person: ''
@@ -1279,12 +1285,6 @@
     person: ''
     time: ''
     title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3394.htm
-    info: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月” 22-04-28
-    person: ''
-    time: ''
-    title: 北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -1402,6 +1402,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147021.htm
+    info: '2023-02-27
+
+      【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/146952.htm
     info: '2023-02-23
 
@@ -1485,40 +1493,9 @@
     person: ''
     time: ''
     title: 【Soft Matter Lecture 120】基于DNA纳米模板的蛋白功能调控及结构生物学为基础的免疫反应分析
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/144783.htm
-    info: '2022-10-25
-
-      【无机化学论坛】 Molecular prodrug engineering towards precision drug delivery system'
-    person: ''
-    time: ''
-    title: 【无机化学论坛】 Molecular prodrug engineering towards precision drug delivery
-      system
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/146819.htm
-    info: '26
-
-      Feb
-
-      Developments of multiscale and probabilistic methods for PDEs and inverse problems
-
-      时间：2023-02-26 10:00
-
-      报告人: Yifan Chen (Caltech)'
-    person: ''
-    time: ''
-    title: '26
-
-      Feb
-
-      Developments of multiscale and probabilistic methods for PDEs and inverse problems
-
-      时间：2023-02-26 10:00
-
-      报告人: Yifan Chen (Caltech)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146844.htm
     info: '27
@@ -1749,6 +1726,28 @@
       时间：2023-3-3 16:00-17:00
 
       报告人: Yang Xu (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147032.htm
+    info: '06
+
+      Mar
+
+      Probability and Statistics Seminar——Phase Transitions in Quantum Many-body system
+
+      时间：2023-03-06 14:00-15:00
+
+      报告人: Zhituo Wang (HIT)'
+    person: ''
+    time: ''
+    title: '06
+
+      Mar
+
+      Probability and Statistics Seminar——Phase Transitions in Quantum Many-body system
+
+      时间：2023-03-06 14:00-15:00
+
+      报告人: Zhituo Wang (HIT)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2453,6 +2452,60 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGpKF2
+    info: 'JIANRONG LI
+
+      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
+
+      2023-03-13
+
+      15:00 — 17:00'
+    person: ''
+    time: ''
+    title: 'JIANRONG LI
+
+      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
+
+      2023-03-13
+
+      15:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGtKF2
+    info: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS
+
+      2023-03-12
+
+      09:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS
+
+      2023-03-12
+
+      09:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGyqF2
+    info: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS (III)
+
+      2023-03-11
+
+      09:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS (III)
+
+      2023-03-11
+
+      09:00 — 12:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmGtKF2
     info: '杨佳刚
 
@@ -2492,6 +2545,62 @@
       2023-03-07
 
       17:00 — 18:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuG2qF2
+    info: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS(II)
+
+      2023-03-05
+
+      09:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS(II)
+
+      2023-03-05
+
+      09:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuFpKF2
+    info: '丁剑教授
+
+      LONG RANGE ORDER FOR THREE-DIMENSIONAL RANDOM FIELD ISING MODEL THROUGHOUT THE
+      ENTIRE LOW TEMPERATURE REGIME
+
+      2023-03-04
+
+      10:30 — 11:30'
+    person: ''
+    time: ''
+    title: '丁剑教授
+
+      LONG RANGE ORDER FOR THREE-DIMENSIONAL RANDOM FIELD ISING MODEL THROUGHOUT THE
+      ENTIRE LOW TEMPERATURE REGIME
+
+      2023-03-04
+
+      10:30 — 11:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuHpKF2
+    info: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS （I）
+
+      2023-03-04
+
+      09:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HAISHENG LI
+
+      REGULAR REPRESENTATIONS AND APPLICATIONS （I）
+
+      2023-03-04
+
+      09:00 — 12:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmHtKF2
     info: '杜式忠
@@ -2548,114 +2657,6 @@
       2023-02-28
 
       15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmGpKF2
-    info: '葛化彬
-
-      ON THURSTON''S "GEOMETRIC IDEAL TRIANGULATION" CONJECTURE
-
-      2023-02-24
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '葛化彬
-
-      ON THURSTON''S "GEOMETRIC IDEAL TRIANGULATION" CONJECTURE
-
-      2023-02-24
-
-      16:00 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFyqF2
-    info: '[MINI COURSES] 蒋辉宏
-
-      AN INTRODUCTION TO METRIC GEOMETRY
-
-      2023-02-23
-
-      10:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 蒋辉宏
-
-      AN INTRODUCTION TO METRIC GEOMETRY
-
-      2023-02-23
-
-      10:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmGyqF2
-    info: '李志夙
-
-      AN INTEGRAL GEOMETRY FORMULA AND ITS APPLICATIONS
-
-      2023-02-23
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '李志夙
-
-      AN INTEGRAL GEOMETRY FORMULA AND ITS APPLICATIONS
-
-      2023-02-23
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFpKF2
-    info: '俞晖
-
-      GRAPHICAL SOLUTIONS TO ONE-PHASE PROBLEMS
-
-      2023-02-21
-
-      19:00 — 20:00'
-    person: ''
-    time: ''
-    title: '俞晖
-
-      GRAPHICAL SOLUTIONS TO ONE-PHASE PROBLEMS
-
-      2023-02-21
-
-      19:00 — 20:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmFtKF2
-    info: '吴瑞佳
-
-      TOPIC MODELING: OPTIMAL ESTIMATION AND STATISTICAL INFERENCE
-
-      2023-02-20
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '吴瑞佳
-
-      TOPIC MODELING: OPTIMAL ESTIMATION AND STATISTICAL INFERENCE
-
-      2023-02-20
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmF2qF2
-    info: '熊彦禛
-
-      A CONJECTURE ON A SPARSITY MEASURE OF (0,1) ARRAYS
-
-      2023-02-17
-
-      09:30 — 11:00'
-    person: ''
-    time: ''
-    title: '熊彦禛
-
-      A CONJECTURE ON A SPARSITY MEASURE OF (0,1) ARRAYS
-
-      2023-02-17
-
-      09:30 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
