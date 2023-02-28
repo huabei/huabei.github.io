@@ -1224,6 +1224,12 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: http://cs.pku.edu.cn/info/1020/3831.htm
+    info: 菁英论坛丨Reasoning about Network Property at Producation Scale-翟恩南 23-02-28
+    person: ''
+    time: ''
+    title: 菁英论坛丨Reasoning about Network Property at Producation Scale-翟恩南
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/3821.htm
     info: 菁英论坛丨Towards High-Performance and Power-Efficient Network Infrastructure
       for Cloud Computing-Prof. Yiting Xia(Max Planck Institute for Informa... 23-02-27
@@ -1279,12 +1285,6 @@
     person: ''
     time: ''
     title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第三期讲座
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3401.htm
-    info: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座 22-05-12
-    person: ''
-    time: ''
-    title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第二期讲座
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -1497,100 +1497,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146844.htm
-    info: '27
-
-      Feb
-
-      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
-      heat equation
-
-      时间：2023-02-27 13:30-14:30
-
-      报告人: Alejandro Ramírez (NYU Shanghai)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
-      heat equation
-
-      时间：2023-02-27 13:30-14:30
-
-      报告人: Alejandro Ramírez (NYU Shanghai)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146847.htm
-    info: '27
-
-      Feb
-
-      Probability and Statistics Seminar——Long-range Ising model: a contour argument
-      and the random field
-
-      时间：2023-02-27 14:40-15:40
-
-      报告人: João Maia (University of São Paulo)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Probability and Statistics Seminar——Long-range Ising model: a contour argument
-      and the random field
-
-      时间：2023-02-27 14:40-15:40
-
-      报告人: João Maia (University of São Paulo)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/146869.htm
-    info: '27
-
-      Feb
-
-      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
-
-      时间：2023-02-27 16:00-17:00
-
-      报告人: Xuecheng WANG(Tsinghua University)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
-
-      时间：2023-02-27 16:00-17:00
-
-      报告人: Xuecheng WANG(Tsinghua University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146930.htm
-    info: '27
-
-      Feb
-
-      EQUILIBRIUM STATES FOR THE CLASSICAL LORENZ ATTRACTOR AND SECTIONAL-HYPERBOLIC
-      ATTRACTORS IN HIGHER DIMENSIONS
-
-      时间：2023-02-27 15:10-17:00
-
-      报告人: Jiagang Yang (Universidade Federal Fluminense, Brazil)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      EQUILIBRIUM STATES FOR THE CLASSICAL LORENZ ATTRACTOR AND SECTIONAL-HYPERBOLIC
-      ATTRACTORS IN HIGHER DIMENSIONS
-
-      时间：2023-02-27 15:10-17:00
-
-      报告人: Jiagang Yang (Universidade Federal Fluminense, Brazil)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146829.htm
     info: '28
 
@@ -1727,6 +1633,28 @@
 
       报告人: Yang Xu (PKU)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/147041.htm
+    info: '03
+
+      Mar
+
+      Distinguished Colloquium——拓扑和数论间的一些联系
+
+      时间：2023-03-03 15:00-16:00
+
+      报告人: 王诗宬（北京大学数学科学学院）'
+    person: ''
+    time: ''
+    title: '03
+
+      Mar
+
+      Distinguished Colloquium——拓扑和数论间的一些联系
+
+      时间：2023-03-03 15:00-16:00
+
+      报告人: 王诗宬（北京大学数学科学学院）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147032.htm
     info: '06
 
@@ -1748,6 +1676,72 @@
       时间：2023-03-06 14:00-15:00
 
       报告人: Zhituo Wang (HIT)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147037.htm
+    info: '06
+
+      Mar
+
+      Analysis and PDE Seminar——Quantitative rapid stabilization of some PDE models
+
+      时间：2023-03-06 16:00-17:00
+
+      报告人: Shengquan Xiang(PKU)'
+    person: ''
+    time: ''
+    title: '06
+
+      Mar
+
+      Analysis and PDE Seminar——Quantitative rapid stabilization of some PDE models
+
+      时间：2023-03-06 16:00-17:00
+
+      报告人: Shengquan Xiang(PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147075.htm
+    info: '07
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-07
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+    person: ''
+    time: ''
+    title: '07
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-07
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147051.htm
+    info: '08
+
+      Mar
+
+      Deformation Invariance of Plurigenera of Moishezon Varieties
+
+      时间：2023-03-08 09:00-10:00
+
+      报告人: Sheng Rao (Wuhan University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Mar
+
+      Deformation Invariance of Plurigenera of Moishezon Varieties
+
+      时间：2023-03-08 09:00-10:00
+
+      报告人: Sheng Rao (Wuhan University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2602,6 +2596,24 @@
 
       09:00 — 12:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuHtKF2
+    info: '[吴文俊数学中心综合报告] 麻希南 教授
+
+      椭圆偏微分方程的一类积分恒等式以及应用
+
+      2023-03-03
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[吴文俊数学中心综合报告] 麻希南 教授
+
+      椭圆偏微分方程的一类积分恒等式以及应用
+
+      2023-03-03
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmHtKF2
     info: '杜式忠
 
@@ -2635,26 +2647,6 @@
       EFFECTS OF THE DENSITY-DEPENDENT DISPERSAL ON POPULATION DYNAMICS
 
       2023-03-01
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGemJmG2qF2
-    info: 'ZHIWEN ZHANG
-
-      DEEPPARTICLE: LEARNING INVARIANT MEASURE BY A DEEP NEURAL NETWORK MINIMIZING
-      WASSERSTEIN DISTANCE ON DATA GENERATED FROM AN INTERACTING PARTICLE METHOD
-
-      2023-02-28
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: 'ZHIWEN ZHANG
-
-      DEEPPARTICLE: LEARNING INVARIANT MEASURE BY A DEEP NEURAL NETWORK MINIMIZING
-      WASSERSTEIN DISTANCE ON DATA GENERATED FROM AN INTERACTING PARTICLE METHOD
-
-      2023-02-28
 
       15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
