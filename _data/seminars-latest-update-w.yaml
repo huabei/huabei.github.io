@@ -1,46 +1,10 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/11803.htm
-    info: "High-dimensional robust inference for censored linear models\n 2023年02月27日 "
+    href: http://cs.pku.edu.cn/info/1020/3831.htm
+    info: 菁英论坛丨Reasoning about Network Property at Producation Scale-翟恩南 23-02-28
     person: ''
     time: ''
-    title: High-dimensional robust inference for censored linear models
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11773.htm
-    info: "随机微分方程的保正算法\n 2023年02月23日 "
-    person: ''
-    time: ''
-    title: 随机微分方程的保正算法
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7658.htm
-    info: '计算机学院李博、王磊磊博士学术报告
-
-      2023-02-27'
-    person: ''
-    time: ''
-    title: 计算机学院李博、王磊磊博士学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7628.htm
-    info: '中科院软件所詹乃军研究员学术报告通知
-
-      2023-02-22'
-    person: ''
-    time: ''
-    title: 中科院软件所詹乃军研究员学术报告通知
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7626.htm
-    info: '北京航空航天大学马帅教授
-
-      2023-02-22'
-    person: ''
-    time: ''
-    title: 北京航空航天大学马帅教授
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
+    title: 菁英论坛丨Reasoning about Network Property at Producation Scale-翟恩南
   - address: ''
     href: http://cs.pku.edu.cn/info/1020/3821.htm
     info: 菁英论坛丨Towards High-Performance and Power-Efficient Network Infrastructure
@@ -53,23 +17,71 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147021.htm
-    info: '2023-02-27
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/147041.htm
+    info: '03
 
-      【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测'
+      Mar
+
+      Distinguished Colloquium——拓扑和数论间的一些联系
+
+      时间：2023-03-03 15:00-16:00
+
+      报告人: 王诗宬（北京大学数学科学学院）'
     person: ''
     time: ''
-    title: 【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测
+    title: '03
+
+      Mar
+
+      Distinguished Colloquium——拓扑和数论间的一些联系
+
+      时间：2023-03-03 15:00-16:00
+
+      报告人: 王诗宬（北京大学数学科学学院）'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/146952.htm
-    info: 2023-02-23【应化系学术报告】Application of small animal PET in preclinical AD drug
-      development
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147075.htm
+    info: '07
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-07
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
     person: ''
     time: ''
-    title: 【应化系学术报告】Application of small animal PET in preclinical AD drug development
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+    title: '07
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-07
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147051.htm
+    info: '08
+
+      Mar
+
+      Deformation Invariance of Plurigenera of Moishezon Varieties
+
+      时间：2023-03-08 09:00-10:00
+
+      报告人: Sheng Rao (Wuhan University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Mar
+
+      Deformation Invariance of Plurigenera of Moishezon Varieties
+
+      时间：2023-03-08 09:00-10:00
+
+      报告人: Sheng Rao (Wuhan University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147032.htm
     info: '06
@@ -162,101 +174,27 @@
       时间：2023-02-27 15:10-17:00
 
       报告人: Jiagang Yang (Universidade Federal Fluminense, Brazil)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146844.htm
-    info: '27
-
-      Feb
-
-      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
-      heat equation
-
-      时间：2023-02-27 13:30-14:30
-
-      报告人: Alejandro Ramírez (NYU Shanghai)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Probability and Statistics Seminar——KPZ fluctuations in the planar stochastic
-      heat equation
-
-      时间：2023-02-27 13:30-14:30
-
-      报告人: Alejandro Ramírez (NYU Shanghai)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/146847.htm
-    info: '27
-
-      Feb
-
-      Probability and Statistics Seminar——Long-range Ising model: a contour argument
-      and the random field
-
-      时间：2023-02-27 14:40-15:40
-
-      报告人: João Maia (University of São Paulo)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Probability and Statistics Seminar——Long-range Ising model: a contour argument
-      and the random field
-
-      时间：2023-02-27 14:40-15:40
-
-      报告人: João Maia (University of São Paulo)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/146869.htm
-    info: '27
-
-      Feb
-
-      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
-
-      时间：2023-02-27 16:00-17:00
-
-      报告人: Xuecheng WANG(Tsinghua University)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      Global stability of the Minkowski spacetime for the Einstein-Vlasov system
-
-      时间：2023-02-27 16:00-17:00
-
-      报告人: Xuecheng WANG(Tsinghua University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/146874.htm
-    info: '01
-
-      Mar
-
-      Biharmonic Heat Equation on Complete Manifolds
-
-      时间：2023-03-01 09:00-10:00
-
-      报告人: Fei He (Xiamen University)'
-    person: ''
-    time: ''
-    title: '01
-
-      Mar
-
-      Biharmonic Heat Equation on Complete Manifolds
-
-      时间：2023-03-01 09:00-10:00
-
-      报告人: Fei He (Xiamen University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuHtKF2
+    info: '[吴文俊数学中心综合报告] 麻希南 教授
+
+      椭圆偏微分方程的一类积分恒等式以及应用
+
+      2023-03-03
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[吴文俊数学中心综合报告] 麻希南 教授
+
+      椭圆偏微分方程的一类积分恒等式以及应用
+
+      2023-03-03
+
+      16:00 — 17:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGpKF2
     info: 'JIANRONG LI
@@ -463,6 +401,66 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11803.htm
+    info: "High-dimensional robust inference for censored linear models\n 2023年02月27日 "
+    person: ''
+    time: ''
+    title: High-dimensional robust inference for censored linear models
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11773.htm
+    info: "随机微分方程的保正算法\n 2023年02月23日 "
+    person: ''
+    time: ''
+    title: 随机微分方程的保正算法
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7658.htm
+    info: '计算机学院李博、王磊磊博士学术报告
+
+      2023-02-27'
+    person: ''
+    time: ''
+    title: 计算机学院李博、王磊磊博士学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7628.htm
+    info: '中科院软件所詹乃军研究员学术报告通知
+
+      2023-02-22'
+    person: ''
+    time: ''
+    title: 中科院软件所詹乃军研究员学术报告通知
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7626.htm
+    info: '北京航空航天大学马帅教授
+
+      2023-02-22'
+    person: ''
+    time: ''
+    title: 北京航空航天大学马帅教授
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147021.htm
+    info: '2023-02-27
+
+      【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/146952.htm
+    info: 2023-02-23【应化系学术报告】Application of small animal PET in preclinical AD drug
+      development
+    person: ''
+    time: ''
+    title: 【应化系学术报告】Application of small animal PET in preclinical AD drug development
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3267.htm
     info: '异构体分辨质谱及其在脂质组学的应用
 
@@ -504,14 +502,3 @@
       北京大学综合科研二号楼B117会议室'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1591
-    info: '2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
-
-      2023-02-21'
-    person: ''
-    time: ''
-    title: 2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
