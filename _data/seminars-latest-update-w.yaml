@@ -1,33 +1,26 @@
 ﻿- page_info:
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/add86c327d284d48b6b2c98b15bd8bf0.htm
-    info: '讲座主题
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147130.htm
+    info: '04
 
-      Target Fat Where You Want
+      Mar
 
-      强力
+      Skew mean curvature flow
 
-      主讲人教授
+      时间：2023-03-04 14:00-15:00
 
-      2023年3月1日16:00-17:30
-
-      科研二号楼B117会议室'
+      报告人: Jiaxi Huang(BIT)'
     person: ''
     time: ''
-    title: '讲座主题
+    title: '04
 
-      Target Fat Where You Want
+      Mar
 
-      强力
+      Skew mean curvature flow
 
-      主讲人教授
+      时间：2023-03-04 14:00-15:00
 
-      2023年3月1日16:00-17:30
-
-      科研二号楼B117会议室'
-  page_title: 北京大学未来技术学院
-  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
+      报告人: Jiaxi Huang(BIT)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147095.htm
     info: '11
@@ -184,32 +177,80 @@
       时间：2023-3-3 16:00-17:00
 
       报告人: Yang Xu (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/146930.htm
-    info: '27
-
-      Feb
-
-      EQUILIBRIUM STATES FOR THE CLASSICAL LORENZ ATTRACTOR AND SECTIONAL-HYPERBOLIC
-      ATTRACTORS IN HIGHER DIMENSIONS
-
-      时间：2023-02-27 15:10-17:00
-
-      报告人: Jiagang Yang (Universidade Federal Fluminense, Brazil)'
-    person: ''
-    time: ''
-    title: '27
-
-      Feb
-
-      EQUILIBRIUM STATES FOR THE CLASSICAL LORENZ ATTRACTOR AND SECTIONAL-HYPERBOLIC
-      ATTRACTORS IN HIGHER DIMENSIONS
-
-      时间：2023-02-27 15:10-17:00
-
-      报告人: Jiagang Yang (Universidade Federal Fluminense, Brazil)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3320.html
+    info: '02
+
+      2023-03
+
+      【学术报告】《中国科学：化学》（中英文刊）投稿与评审'
+    person: ''
+    time: ''
+    title: '02
+
+      2023-03
+
+      【学术报告】《中国科学：化学》（中英文刊）投稿与评审'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3312.html
+    info: '01
+
+      2023-03
+
+      【学术报告】氧化-还原分子结人工光合作用催化剂'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      【学术报告】氧化-还原分子结人工光合作用催化剂'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0302/c33485a2722838/page.htm
+    info: '【双脑中心系列学术报告】Several animal behavioral analys...
+
+      [2023-03-02]'
+    person: ''
+    time: ''
+    title: 【双脑中心系列学术报告】Several animal behavioral analysis systems with advanced features
+      ——Dr. Fangyi Chen
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/add86c327d284d48b6b2c98b15bd8bf0.htm
+    info: '讲座主题
+
+      Target Fat Where You Want
+
+      强力
+
+      主讲人教授
+
+      2023年3月1日16:00-17:30
+
+      科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Target Fat Where You Want
+
+      强力
+
+      主讲人教授
+
+      2023年3月1日16:00-17:30
+
+      科研二号楼B117会议室'
+  page_title: 北京大学未来技术学院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
     href: http://www.bio-x.cn/Web/Show/2325
@@ -261,23 +302,6 @@
       From gene identification to pathways of a neurological disorder, ataxia'
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3312.html
-    info: '01
-
-      2023-03
-
-      【学术报告】氧化-还原分子结人工光合作用催化剂'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      【学术报告】氧化-还原分子结人工光合作用催化剂'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyFpKF2
@@ -525,12 +549,6 @@
     person: ''
     time: ''
     title: High-dimensional robust inference for censored linear models
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11773.htm
-    info: "随机微分方程的保正算法\n 2023年02月23日 "
-    person: ''
-    time: ''
-    title: 随机微分方程的保正算法
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -553,13 +571,6 @@
     person: ''
     time: ''
     title: 【北京大学物理化学长葛未名创新工场讲座】聚合物材料老化早期荧光检测及其使用寿命预测
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/146952.htm
-    info: 2023-02-23【应化系学术报告】Application of small animal PET in preclinical AD drug
-      development
-    person: ''
-    time: ''
-    title: 【应化系学术报告】Application of small animal PET in preclinical AD drug development
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
