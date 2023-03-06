@@ -1,83 +1,100 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3269.htm
-    info: '有机光电功能材料：分子基础与生物应用
-
-      目前集识别、成像与治疗功能于一体的多功能生物医药体系有望成为重大疾病诊断与治疗的新策略。我们课题组的主要研究内容是设计合成新型有机共轭分子材料，并探索其在生物识别、细胞成像以及疾病治疗领域的新应用…
-
-      2023.03.05'
+    href: https://math.csu.edu.cn/info/1736/11843.htm
+    info: "Bayesian Nonparametric Learning for Spatial Point Process\n 2023年03月06日 "
     person: ''
     time: ''
-    title: 有机光电功能材料：分子基础与生物应用
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+    title: Bayesian Nonparametric Learning for Spatial Point Process
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147195.htm
-    info: '2023-03-05
+    href: https://life.tsinghua.edu.cn/info/1132/4541.htm
+    info: '06
 
-      【“化学生物学”系列学术报告】Protein O-GlcNAcylation and Intellectual Disability'
+      MAR
+
+      创新助力脑胶质瘤精准诊疗'
     person: ''
     time: ''
-    title: 【“化学生物学”系列学术报告】Protein O-GlcNAcylation and Intellectual Disability
+    title: 创新助力脑胶质瘤精准诊疗
+  page_title: 学术报告-清华大学生命科学学院
+  page_url: https://life.tsinghua.edu.cn/xsbg.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/53d00d4f9cc64b4bb1d9684646cad49f.htm
+    info: '2023.03.06
+
+      蛋白质O-GalNAc 糖基化的精准调控及其意义'
+    person: ''
+    time: ''
+    title: 蛋白质O-GalNAc 糖基化的精准调控及其意义
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/64d453f4d64e41108c639477a1ca88da.htm
+    info: '2023.03.06
+
+      基于组学的肿瘤糖生物学'
+    person: ''
+    time: ''
+    title: 基于组学的肿瘤糖生物学
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147235.htm
+    info: '2023-03-06
+
+      【兴大报告627】过程耦合强化创新实践'
+    person: ''
+    time: ''
+    title: 【兴大报告627】过程耦合强化创新实践
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyFtKF2
-    info: '衣凤岐
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147252.htm
+    info: '08
 
-      SOME RECENT RESULTS ON TURING INSTABILITY OF THE PERIODIC SOLUTIONS FOR THE
-      DIFFUSIVE SYSTEM
+      Mar
 
-      2023-03-15
+      Geometry and Topology Seminar——A Morse model for symmetric product spaces
 
-      08:00 — 09:45'
+      时间：2023-03-08 13:00-15:00
+
+      报告人: Tianyu Yuan (Peking University)'
     person: ''
     time: ''
-    title: '衣凤岐
+    title: '08
 
-      SOME RECENT RESULTS ON TURING INSTABILITY OF THE PERIODIC SOLUTIONS FOR THE
-      DIFFUSIVE SYSTEM
+      Mar
 
-      2023-03-15
+      Geometry and Topology Seminar——A Morse model for symmetric product spaces
 
-      08:00 — 09:45'
+      时间：2023-03-08 13:00-15:00
+
+      报告人: Tianyu Yuan (Peking University)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyFyqF2
-    info: 'FANG LI
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyGpKF2
+    info: '刘爽
 
-      PERIODICITIES IN CLUSTER ALGEBRAS AND CLUSTER AUTOMORPHISM GROUPS
+      ASYMPTOTIC ANALYSIS OF THE PRINCIPAL EIGENVALUE FOR A SPATIALLY DISCRETE AND
+      TIME-PERIODIC PROBLEM
 
-      2023-03-15
+      2023-03-07
 
-      15:30 — 17:00'
+      08:00 — 10:00'
     person: ''
     time: ''
-    title: 'FANG LI
+    title: '刘爽
 
-      PERIODICITIES IN CLUSTER ALGEBRAS AND CLUSTER AUTOMORPHISM GROUPS
+      ASYMPTOTIC ANALYSIS OF THE PRINCIPAL EIGENVALUE FOR A SPATIALLY DISCRETE AND
+      TIME-PERIODIC PROBLEM
 
-      2023-03-15
+      2023-03-07
 
-      15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyF2qF2
-    info: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-14
-
-      15:30 — 17:30'
-    person: ''
-    time: ''
-    title: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-14
-
-      15:30 — 17:30'
+      08:00 — 10:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/

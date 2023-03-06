@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11843.htm
+    info: "Bayesian Nonparametric Learning for Spatial Point Process\n 2023年03月06日 "
+    person: ''
+    time: ''
+    title: Bayesian Nonparametric Learning for Spatial Point Process
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11803.htm
     info: "High-dimensional robust inference for censored linear models\n 2023年02月27日 "
     person: ''
@@ -61,12 +67,6 @@
     time: ''
     title: Efficient stability-preserving numerical methods for nonlinear coercive
       problems in vector space
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11595.htm
-    info: "Geometric two-scale integrators for highly oscillatory system\n 2022年11月22日 "
-    person: ''
-    time: ''
-    title: Geometric two-scale integrators for highly oscillatory system
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -255,6 +255,16 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4541.htm
+    info: '06
+
+      MAR
+
+      创新助力脑胶质瘤精准诊疗'
+    person: ''
+    time: ''
+    title: 创新助力脑胶质瘤精准诊疗
+  - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/4393.htm
     info: '14
 
@@ -349,16 +359,6 @@
     person: ''
     time: ''
     title: IL-27, a new story in obesity and metabolic disease
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3773.htm
-    info: '11
-
-      APR
-
-      Next Generation Vaccines'
-    person: ''
-    time: ''
-    title: Next Generation Vaccines
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
@@ -672,6 +672,22 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/53d00d4f9cc64b4bb1d9684646cad49f.htm
+    info: '2023.03.06
+
+      蛋白质O-GalNAc 糖基化的精准调控及其意义'
+    person: ''
+    time: ''
+    title: 蛋白质O-GalNAc 糖基化的精准调控及其意义
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/64d453f4d64e41108c639477a1ca88da.htm
+    info: '2023.03.06
+
+      基于组学的肿瘤糖生物学'
+    person: ''
+    time: ''
+    title: 基于组学的肿瘤糖生物学
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/16dbd362f4164a4599ce641993f6be66.htm
     info: '2022.12.06
 
@@ -743,22 +759,6 @@
     person: ''
     time: ''
     title: 分子相互作用技术在新药研发中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/5c1519964eff4057b6c6ba00440297b2.htm
-    info: '2022.10.31
-
-      利用质谱成像和合成生物学技术发现和合成新型生物活性分子'
-    person: ''
-    time: ''
-    title: 利用质谱成像和合成生物学技术发现和合成新型生物活性分子
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/1042558c057546f2a49b6ea6d22c78ef.htm
-    info: '2022.09.15
-
-      RNA技术及应用的新进展'
-    person: ''
-    time: ''
-    title: RNA技术及应用的新进展
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1320,6 +1320,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147235.htm
+    info: '2023-03-06
+
+      【兴大报告627】过程耦合强化创新实践'
+    person: ''
+    time: ''
+    title: 【兴大报告627】过程耦合强化创新实践
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/147195.htm
     info: '2023-03-05
 
@@ -1401,16 +1409,6 @@
     person: ''
     time: ''
     title: 【兴大报告625】量子计算化学进展
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/145219.htm
-    info: '2022-11-08
-
-      【表面物理化学系列讲座】How does the surface of an operating catalyst look like? Approaches
-      by high-pressure scanning tunneling microscopy'
-    person: ''
-    time: ''
-    title: 【表面物理化学系列讲座】How does the surface of an operating catalyst look like? Approaches
-      by high-pressure scanning tunneling microscopy
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -1480,6 +1478,28 @@
       时间：2023-03-07 13:00-15:00
 
       报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147252.htm
+    info: '08
+
+      Mar
+
+      Geometry and Topology Seminar——A Morse model for symmetric product spaces
+
+      时间：2023-03-08 13:00-15:00
+
+      报告人: Tianyu Yuan (Peking University)'
+    person: ''
+    time: ''
+    title: '08
+
+      Mar
+
+      Geometry and Topology Seminar——A Morse model for symmetric product spaces
+
+      时间：2023-03-08 13:00-15:00
+
+      报告人: Tianyu Yuan (Peking University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147051.htm
     info: '08
@@ -1638,28 +1658,6 @@
       时间：2023-03-13 16:00-17:00
 
       报告人: Zehua Zhao (Beijing Institute of Technology)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147079.htm
-    info: '14
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-14 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-14 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2421,24 +2419,6 @@
 
       15:30 — 17:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGpKF2
-    info: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-13
-
-      15:00 — 17:00'
-    person: ''
-    time: ''
-    title: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-13
-
-      15:00 — 17:00'
-  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGtKF2
     info: '[MINI COURSES] HAISHENG LI
 
@@ -2514,6 +2494,26 @@
       2023-03-07
 
       17:00 — 18:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyGpKF2
+    info: '刘爽
+
+      ASYMPTOTIC ANALYSIS OF THE PRINCIPAL EIGENVALUE FOR A SPATIALLY DISCRETE AND
+      TIME-PERIODIC PROBLEM
+
+      2023-03-07
+
+      08:00 — 10:00'
+    person: ''
+    time: ''
+    title: '刘爽
+
+      ASYMPTOTIC ANALYSIS OF THE PRINCIPAL EIGENVALUE FOR A SPATIALLY DISCRETE AND
+      TIME-PERIODIC PROBLEM
+
+      2023-03-07
+
+      08:00 — 10:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuG2qF2
     info: '[MINI COURSES] HAISHENG LI
