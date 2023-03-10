@@ -1,107 +1,129 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147358.htm
-    info: '2023-03-09
+    href: https://future.pku.edu.cn/xwyjz/jz/5f69e1afe0ec40ad8c0eddbdc85c8b81.htm
+    info: '讲座主题
 
-      【Soft Matter Lecture 122】Engineer Biology for New Materials'
+      海森结构光与稀疏解卷积：新技术发展历程
+
+      陈良怡
+
+      主讲人教授
+
+      2023年3月10日 15:00-16:30
+
+      科研二号楼B117会议室'
     person: ''
     time: ''
-    title: 【Soft Matter Lecture 122】Engineer Biology for New Materials
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+    title: '讲座主题
+
+      海森结构光与稀疏解卷积：新技术发展历程
+
+      陈良怡
+
+      主讲人教授
+
+      2023年3月10日 15:00-16:30
+
+      科研二号楼B117会议室'
+  page_title: 北京大学未来技术学院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147360.htm
-    info: '15
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147395.htm
+    info: '17
 
       Mar
 
-      Interior W^{2,p} Estimates for Complex Monge-Ampere Equations
+      机器学习与数据科学博士生系列论坛（第四十五期）—— On the Optimization for High-Dimensional Statistics
 
-      时间：2023-03-15 09:00-10:00
+      时间：2023-3-17 16:00-17:00
 
-      报告人: Jingrui Cheng (Stony Brook University)'
+      报告人: Jiadong Liang (PKU)'
     person: ''
     time: ''
-    title: '15
+    title: '17
 
       Mar
 
-      Interior W^{2,p} Estimates for Complex Monge-Ampere Equations
+      机器学习与数据科学博士生系列论坛（第四十五期）—— On the Optimization for High-Dimensional Statistics
 
-      时间：2023-03-15 09:00-10:00
+      时间：2023-3-17 16:00-17:00
 
-      报告人: Jingrui Cheng (Stony Brook University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147365.htm
-    info: '20
-
-      Mar
-
-      Probability and Statistics Seminar——Sequential propagation of chaos
-
-      时间：2023-03-20 14:00-15:00
-
-      报告人: Kai Du (Fudan University)'
-    person: ''
-    time: ''
-    title: '20
-
-      Mar
-
-      Probability and Statistics Seminar——Sequential propagation of chaos
-
-      时间：2023-03-20 14:00-15:00
-
-      报告人: Kai Du (Fudan University)'
+      报告人: Jiadong Liang (PKU)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7589
-    info: '3月23日（周四）9:30-11:00 生物药学楼树华多功能厅
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyHpKF2
+    info: '周正一
 
-      细菌耐药新机制解析'
+      CONTACT STRUCTURES ON SPHERES AND APPLICATIONS
+
+      2023-04-10
+
+      10:00 — 11:00'
     person: ''
     time: ''
-    title: '3月23日（周四）9:30-11:00 生物药学楼树华多功能厅
+    title: '周正一
 
-      细菌耐药新机制解析'
-  page_title: 学术报告 - 上海交通大学生命科学技术学院
-  page_url: https://life.sjtu.edu.cn/Data/List/bg
-- page_info:
+      CONTACT STRUCTURES ON SPHERES AND APPLICATIONS
+
+      2023-04-10
+
+      10:00 — 11:00'
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3330.html
-    info: '14
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyGyqF2
+    info: 'XIN LIU
 
-      2023-03
+      CONSTRAINT DISSOLVING APPROACHES FOR A CLASS OF RIEMANNIAN OPTIMIZATION PROBLEMS
 
-      【学术报告】Spatial, Temporal and Quantitative Cryo-EM of Soft Colloids'
+      2023-03-20
+
+      13:30 — 15:30'
     person: ''
     time: ''
-    title: '14
+    title: 'XIN LIU
 
-      2023-03
+      CONSTRAINT DISSOLVING APPROACHES FOR A CLASS OF RIEMANNIAN OPTIMIZATION PROBLEMS
 
-      【学术报告】Spatial, Temporal and Quantitative Cryo-EM of Soft Colloids'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
+      2023-03-20
+
+      13:30 — 15:30'
   - address: ''
-    href: https://www.zju.edu.cn/2023/0309/c33485a2726251/page.htm
-    info: '科创汇论坛——余沛霖：青年教师教学成长初体验
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyHtKF2
+    info: '[吴文俊数学中心综合报告] 李若 教授
 
-      [2023-03-09]'
+      脚踏实地，逆数而行 -北太天元数值计算通用软件介绍
+
+      2023-03-17
+
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: 科创汇论坛——余沛霖：青年教师教学成长初体验
+    title: '[吴文俊数学中心综合报告] 李若 教授
+
+      脚踏实地，逆数而行 -北太天元数值计算通用软件介绍
+
+      2023-03-17
+
+      16:00 — 17:00'
   - address: ''
-    href: https://www.zju.edu.cn/2023/0309/c33485a2726245/page.htm
-    info: '杏林名师名家论坛——季维智 院士报告会
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyG2qF2
+    info: '秦厚荣
 
-      [2023-03-09]'
+      CM情形的LANG-TROTTER猜想
+
+      2023-03-16
+
+      16:30 — 17:45'
     person: ''
     time: ''
-    title: 杏林名师名家论坛——季维智 院士报告会
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
+    title: '秦厚荣
+
+      CM情形的LANG-TROTTER猜想
+
+      2023-03-16
+
+      16:30 — 17:45'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
