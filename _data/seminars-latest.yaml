@@ -363,6 +363,16 @@
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
   - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3270.htm
+    info: '光响应智能分子材料与仪器研发
+
+      围绕光响应智能分子材料与仪器研发开展系统研究，聚焦金属离子的自旋转变与配合物功能调控，基于研究需要开发了光响应红外、紫外、穆斯堡尔谱、单晶、介电等附件。利用多氰合铁构筑单元及N杂环配体，构筑具有N6配…
+
+      2023.03.11'
+    person: ''
+    time: ''
+    title: 光响应智能分子材料与仪器研发
+  - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3269.htm
     info: '有机光电功能材料：分子基础与生物应用
 
@@ -413,18 +423,6 @@
     person: ''
     time: ''
     title: 配位聚合物化学：现状与展望
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3209.htm
-    info: '电磁能装备中的关键材料
-
-      Polymer nanocomposites, which combines high dielectric permittivity (er) of
-      ceramics and high breakdown strength (Eb) of polymers, are promising dielectrics
-      for high power electrostatic capacitor…
-
-      2022.11.21'
-    person: ''
-    time: ''
-    title: 电磁能装备中的关键材料
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -1413,50 +1411,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/146856.htm
-    info: '10
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-10 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '10
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-10 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/gmjz/xbljz/146882.htm
-    info: '10
-
-      Mar
-
-      2022年北京大学许宝騄讲座——Interface motion from stochastic systems
-
-      时间：2023-03-10 15:00-16:00
-
-      报告人: Professor Tadahisa Funaki'
-    person: ''
-    time: ''
-    title: '10
-
-      Mar
-
-      2022年北京大学许宝騄讲座——Interface motion from stochastic systems
-
-      时间：2023-03-10 15:00-16:00
-
-      报告人: Professor Tadahisa Funaki'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147024.htm
     info: '13
 
@@ -1656,6 +1610,50 @@
       短期课程——Introduction to log geometry
 
       时间：2023-03-24 19:00-21:30
+
+      报告人: 赵和耳 (University of Duisburg-Essen)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147087.htm
+    info: '28
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-28 13:00-15:00
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-28 13:00-15:00
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/147150.htm
+    info: '31
+
+      Mar
+
+      短期课程——Introduction to log geometry
+
+      时间：2023-03-31 19:00-21:30
+
+      报告人: 赵和耳 (University of Duisburg-Essen)'
+    person: ''
+    time: ''
+    title: '31
+
+      Mar
+
+      短期课程——Introduction to log geometry
+
+      时间：2023-03-31 19:00-21:30
 
       报告人: 赵和耳 (University of Duisburg-Essen)'
   page_title: 北京大学数学学院
