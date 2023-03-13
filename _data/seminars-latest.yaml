@@ -71,6 +71,22 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7747.htm
+    info: '香港科技大学 Kai Chen教授
+
+      2023-03-13'
+    person: ''
+    time: ''
+    title: 香港科技大学 Kai Chen教授
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7746.htm
+    info: '王凯丽博士学术报告
+
+      2023-03-13'
+    person: ''
+    time: ''
+    title: 王凯丽博士学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/7719.htm
     info: '金融科技在金融领域的实际应用和未来发展
 
@@ -142,22 +158,6 @@
     person: ''
     time: ''
     title: 澳大利亚悉尼科技大学余水教授的学术报告通知
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7166.htm
-    info: '实用专利保护与撰写技术报告通知
-
-      2022-11-17'
-    person: ''
-    time: ''
-    title: 实用专利保护与撰写技术报告通知
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7161.htm
-    info: '云边端智能专题系列报告
-
-      2022-11-16'
-    person: ''
-    time: ''
-    title: 云边端智能专题系列报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -255,6 +255,16 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4566.htm
+    info: '13
+
+      MAR
+
+      Morphogenetic control of cellular differentiation during gastrulation'
+    person: ''
+    time: ''
+    title: Morphogenetic control of cellular differentiation during gastrulation
+  - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/4541.htm
     info: '06
 
@@ -349,16 +359,6 @@
     time: ''
     title: 'Looking under the hood of cells: from single molecule dynamics to whole
       cell organelle reconstructions'
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3775.htm
-    info: '17
-
-      APR
-
-      IL-27, a new story in obesity and metabolic disease'
-    person: ''
-    time: ''
-    title: IL-27, a new story in obesity and metabolic disease
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
@@ -1318,6 +1318,15 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147516.htm
+    info: '2023-03-13
+
+      【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and Chemicals'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and
+      Chemicals
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/147358.htm
     info: '2023-03-09
 
@@ -1397,16 +1406,6 @@
     person: ''
     time: ''
     title: 【应化系学术报告】锕系金属与氮族元素分子配合物的结构与构筑策略
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/145773.htm
-    info: '2022-12-02
-
-      【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED BY
-      TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)'
-    person: ''
-    time: ''
-    title: 【兴大报告626】MICROSECOND STRUCTURAL DYNAMICS OF PROTEIN, DNA AND RNA REVEALED
-      BY TWO-DIMENSIONAL FLUORESCENCE LIFETIME CORRELATION SPECTROSCOPY (2D FLCS)
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -1435,6 +1434,30 @@
 
       报告人: Zehua Zhao (Beijing Institute of Technology)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/147460.htm
+    info: '14
+
+      Mar
+
+      PINAMICS 2023——Spectral rigidity and joint integrability for Anosov systems
+      on tori
+
+      时间：2023-03-14 15:00-16:00
+
+      报告人: Yi Shi (Sichuan University)'
+    person: ''
+    time: ''
+    title: '14
+
+      Mar
+
+      PINAMICS 2023——Spectral rigidity and joint integrability for Anosov systems
+      on tori
+
+      时间：2023-03-14 15:00-16:00
+
+      报告人: Yi Shi (Sichuan University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147079.htm
     info: '14
 
@@ -1457,6 +1480,28 @@
 
       报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147456.htm
+    info: '15
+
+      Mar
+
+      Geometry and Topology Seminar——A deformation of Borel equivariant homotopy
+
+      时间：2023-03-15 13:00-15:00
+
+      报告人: Jia Kong (IAS/Princeton University)'
+    person: ''
+    time: ''
+    title: '15
+
+      Mar
+
+      Geometry and Topology Seminar——A deformation of Borel equivariant homotopy
+
+      时间：2023-03-15 13:00-15:00
+
+      报告人: Jia Kong (IAS/Princeton University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147360.htm
     info: '15
 
@@ -1478,6 +1523,28 @@
       时间：2023-03-15 09:00-10:00
 
       报告人: Jingrui Cheng (Stony Brook University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/147464.htm
+    info: '17
+
+      Mar
+
+      School Colloquium——无监督深度学习
+
+      时间：2023-03-17 15:00-16:00
+
+      报告人: Zhenyue Zhang (Zhejiang University)'
+    person: ''
+    time: ''
+    title: '17
+
+      Mar
+
+      School Colloquium——无监督深度学习
+
+      时间：2023-03-17 15:00-16:00
+
+      报告人: Zhenyue Zhang (Zhejiang University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/146981.htm
     info: '17
@@ -1590,72 +1657,6 @@
       时间：2023-03-21 13:00-15:00
 
       报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/147146.htm
-    info: '24
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-24 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '24
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-24 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147087.htm
-    info: '28
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-28 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-    person: ''
-    time: ''
-    title: '28
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-28 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/147150.htm
-    info: '31
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-31 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '31
-
-      Mar
-
-      短期课程——Introduction to log geometry
-
-      时间：2023-03-31 19:00-21:30
-
-      报告人: 赵和耳 (University of Duisburg-Essen)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2103,6 +2104,16 @@
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
   - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7596
+    info: '3月16日（周四）10:00-12:00 闵行校区生物药学楼树华多功能厅
+
+      体外合成生物学（多酶分子机器）：生物制造 新平台'
+    person: ''
+    time: ''
+    title: '3月16日（周四）10:00-12:00 闵行校区生物药学楼树华多功能厅
+
+      体外合成生物学（多酶分子机器）：生物制造 新平台'
+  - address: ''
     href: https://life.sjtu.edu.cn/Data/View/7589
     info: '3月23日（周四）9:30-11:00 生物药学楼树华多功能厅
 
@@ -2204,16 +2215,6 @@
     title: '12月29日（周三）13:15-14:15 树华多功能厅
 
       RNA聚合酶的工作机理和调控机制'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/6003
-    info: '12月2日（周四）9：00-10：00 闵行校区生物药学楼2-116
-
-      结合工程细菌与智能材料实现生物智造'
-    person: ''
-    time: ''
-    title: '12月2日（周四）9：00-10：00 闵行校区生物药学楼2-116
-
-      结合工程细菌与智能材料实现生物智造'
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
@@ -2435,6 +2436,24 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2FtKF2
+    info: '[COLLOQUIUM] 秦厚荣
+
+      同余数问题研究
+
+      2023-03-17
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[COLLOQUIUM] 秦厚荣
+
+      同余数问题研究
+
+      2023-03-17
+
+      14:00 — 15:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyG2qF2
     info: '秦厚荣
 
@@ -2491,10 +2510,10 @@
 
       08:00 — 09:45'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyFyqF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2FyqF2
     info: 'FANG LI
 
-      PERIODICITIES IN CLUSTER ALGEBRAS AND CLUSTER AUTOMORPHISM GROUPS
+      ON GALOIS THEORY OF CLUSTER ALGEBRAS: GENERAL AND THAT FROM SURFACES
 
       2023-03-15
 
@@ -2503,7 +2522,7 @@
     time: ''
     title: 'FANG LI
 
-      PERIODICITIES IN CLUSTER ALGEBRAS AND CLUSTER AUTOMORPHISM GROUPS
+      ON GALOIS THEORY OF CLUSTER ALGEBRAS: GENERAL AND THAT FROM SURFACES
 
       2023-03-15
 
@@ -2527,44 +2546,34 @@
 
       15:30 — 17:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGtKF2
-    info: '[MINI COURSES] HAISHENG LI
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2F2qF2
+    info: '王彪
 
-      REGULAR REPRESENTATIONS AND APPLICATIONS
+      DYNAMICS OF A DIFFUSIVE PREDATOR–PREY MODEL IN SPATIALLY HETEROGENEOUS ENVIRONMENTS
 
-      2023-03-12
+      2023-03-14
 
-      09:00 — 12:00'
+      19:30 — 20:30'
     person: ''
     time: ''
-    title: '[MINI COURSES] HAISHENG LI
+    title: '王彪
 
-      REGULAR REPRESENTATIONS AND APPLICATIONS
+      DYNAMICS OF A DIFFUSIVE PREDATOR–PREY MODEL IN SPATIALLY HETEROGENEOUS ENVIRONMENTS
 
-      2023-03-12
+      2023-03-14
 
-      09:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNuGyqF2
-    info: '[MINI COURSES] HAISHENG LI
-
-      REGULAR REPRESENTATIONS AND APPLICATIONS (III)
-
-      2023-03-11
-
-      09:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] HAISHENG LI
-
-      REGULAR REPRESENTATIONS AND APPLICATIONS (III)
-
-      2023-03-11
-
-      09:00 — 12:00'
+      19:30 — 20:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0313/c33485a2727354/page.htm
+    info: '求是高等研究院：陶虎研究员学术报告——科技创新，点丝成金
+
+      [2023-03-13]'
+    person: ''
+    time: ''
+    title: 求是高等研究院：陶虎研究员学术报告——科技创新，点丝成金
   - address: ''
     href: https://www.zju.edu.cn/2023/0309/c33485a2726251/page.htm
     info: '科创汇论坛——余沛霖：青年教师教学成长初体验
@@ -2646,14 +2655,6 @@
     person: ''
     time: ''
     title: 求是海洋学术论坛2022年16期——自适应模型预测控制
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1212/c33485a2701199/page.htm
-    info: '物理学院罗洪刚学术报告的通知（School of Physics Colloqui...
-
-      [2022-12-12]'
-    person: ''
-    time: ''
-    title: 物理学院罗洪刚学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
