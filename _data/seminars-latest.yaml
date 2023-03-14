@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11885.htm
+    info: "双样本检测的最新进展及其在AI安全领域内的应用\n 2023年03月14日 "
+    person: ''
+    time: ''
+    title: 双样本检测的最新进展及其在AI安全领域内的应用
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11843.htm
     info: "Bayesian Nonparametric Learning for Spatial Point Process\n 2023年03月06日 "
     person: ''
@@ -59,14 +65,6 @@
     person: ''
     time: ''
     title: Homogenization and two types of boundary layers
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11596.htm
-    info: "Efficient stability-preserving numerical methods for nonlinear coercive\
-      \ probl...\n 2022年11月22日 "
-    person: ''
-    time: ''
-    title: Efficient stability-preserving numerical methods for nonlinear coercive
-      problems in vector space
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -842,12 +840,86 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: javascript:;
-    info: Pre12345678910Next
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1595
+    info: '3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
+
+      2023-03-13'
     person: ''
     time: ''
-    title: Pre
-  page_title: 北京国际数学研究中心
+    title: 3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1592
+    info: '3月6日CQBseminar：Dynamics-based data science in biology and medicine (
+
+      2023-03-01'
+    person: ''
+    time: ''
+    title: 3月6日CQBseminar：Dynamics-based data science in biology and medicine (
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1591
+    info: '2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
+
+      2023-02-21'
+    person: ''
+    time: ''
+    title: 2月22日CQBseminar：Building Nuclear Pore Mimics with DNA Origami
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1561
+    info: '2月14日CQBseminar： Inferring collective dynamics in groups of social mice
+
+      2023-02-10'
+    person: ''
+    time: ''
+    title: 2月14日CQBseminar： Inferring collective dynamics in groups of social mice
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1560
+    info: '2月13日CQBseminar：Identifying Mechanisms of Beta Cell Dysfunction in Diabetes
+      by Combin..
+
+      2023-02-10'
+    person: ''
+    time: ''
+    title: 2月13日CQBseminar：Identifying Mechanisms of Beta Cell Dysfunction in Diabetes
+      by Combin..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1549
+    info: '11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
+      of the Repli..
+
+      2022-11-09'
+    person: ''
+    time: ''
+    title: 11月14日CQBseminar：Replicate, repair or recombine? Conformational dynamics
+      of the Repli..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1547
+    info: '定量中心
+
+      11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in complex
+      commu..
+
+      2022-11-02
+
+      10:00-11:00'
+    person: ''
+    time: ''
+    title: 11月7日CQBseminar：Emergent phases of ecological diversity and dynamics in
+      complex commu..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1544
+    info: '定量中心
+
+      10月24日CQB seminar：''Next generation'' single-molecule studies of DNA processing
+      molecul..
+
+      2022-10-17
+
+      9:00-10:00'
+    person: ''
+    time: ''
+    title: 10月24日CQB seminar：'Next generation' single-molecule studies of DNA processing
+      molecul..
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
@@ -1318,6 +1390,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147575.htm
+    info: '2023-03-14
+
+      【兴大报告629】锂离子电池与电化学储能新技术'
+    person: ''
+    time: ''
+    title: 【兴大报告629】锂离子电池与电化学储能新技术
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/147516.htm
     info: '2023-03-13
 
@@ -1342,14 +1422,6 @@
     person: ''
     time: ''
     title: 【无机化学学术报告】面向环境能源需求的金属有机骨架材料(MOFs) 控制合成
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147235.htm
-    info: '2023-03-06
-
-      【兴大报告627】过程耦合强化创新实践'
-    person: ''
-    time: ''
-    title: 【兴大报告627】过程耦合强化创新实践
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/147195.htm
     info: '2023-03-05
@@ -1409,30 +1481,6 @@
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147024.htm
-    info: '13
-
-      Mar
-
-      Analysis and PDE Seminar——Long time behavior for NLS on waveguide manifolds:
-      a survey
-
-      时间：2023-03-13 15:30-16:30
-
-      报告人: Zehua Zhao (Beijing Institute of Technology)'
-    person: ''
-    time: ''
-    title: '13
-
-      Mar
-
-      Analysis and PDE Seminar——Long time behavior for NLS on waveguide manifolds:
-      a survey
-
-      时间：2023-03-13 15:30-16:30
-
-      报告人: Zehua Zhao (Beijing Institute of Technology)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/147460.htm
     info: '14
@@ -1657,217 +1705,30 @@
       时间：2023-03-21 13:00-15:00
 
       报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
   - address: ''
-    href: http://www.bio-x.cn/Web/Show/2325
-    info: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2275
-    info: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2268
-    info: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-    person: ''
-    time: ''
-    title: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2267
-    info: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2253
-    info: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2211
-    info: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-    person: ''
-    time: ''
-    title: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2199
-    info: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/1425
-    info: '06
-
-      2020-01
-
-      解码讲坛第三十六期讲座通知
-
-      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
-    person: ''
-    time: ''
-    title: '06
-
-      2020-01
-
-      解码讲坛第三十六期讲座通知
-
-      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/1424
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/147588.htm
     info: '23
 
-      2019-12
+      Mar
 
-      魏之昀博士的读书报告
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Less is More
 
-      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
-      RNAs serve as communication mediators and biomarkers in glioblastoma'
+      时间：2023-03-23 14:00-15:00
+
+      报告人: Bart Zhou Yueshen (INSEAD)'
     person: ''
     time: ''
     title: '23
 
-      2019-12
+      Mar
 
-      魏之昀博士的读书报告
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Less is More
 
-      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
-      RNAs serve as communication mediators and biomarkers in glioblastoma'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/1423
-    info: '18
+      时间：2023-03-23 14:00-15:00
 
-      2019-12
-
-      赵玉珑博士的读书报告
-
-      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
-      factors to optimize the translational value of the rat fear-potentiated startle
-      paradigm'
-    person: ''
-    time: ''
-    title: '18
-
-      2019-12
-
-      赵玉珑博士的读书报告
-
-      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
-      factors to optimize the translational value of the rat fear-potentiated startle
-      paradigm'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
+      报告人: Bart Zhou Yueshen (INSEAD)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1626.htm
@@ -2380,6 +2241,42 @@
 
       10:00 — 11:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GyqF2
+    info: '马诗洋
+
+      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
+
+      2023-03-31
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '马诗洋
+
+      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
+
+      2023-03-31
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2G2qF2
+    info: '[COLLOQUIUM] 郭晋云教授
+
+      代数表示论与中国古代哲学思想
+
+      2023-03-24
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[COLLOQUIUM] 郭晋云教授
+
+      代数表示论与中国古代哲学思想
+
+      2023-03-24
+
+      14:00 — 15:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyGyqF2
     info: 'XIN LIU
 
@@ -2397,6 +2294,26 @@
       2023-03-20
 
       13:30 — 15:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GpKF2
+    info: '张正策
+
+      ASYMPTOTIC BEHAVIOR FOR A VISCOUS HAMILTON-JACOBI EQUATION WITH DEGENERATE GRADIENT
+      NONLINEARITY
+
+      2023-03-17
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '张正策
+
+      ASYMPTOTIC BEHAVIOR FOR A VISCOUS HAMILTON-JACOBI EQUATION WITH DEGENERATE GRADIENT
+      NONLINEARITY
+
+      2023-03-17
+
+      15:00 — 16:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyGtKF2
     info: '[COLLOQUIUM] PROF. LILI JU
@@ -2418,7 +2335,7 @@
 
       10:00 — 11:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyHtKF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2HpKF2
     info: '[吴文俊数学中心综合报告] 李若 教授
 
       脚踏实地，逆数而行 -北太天元数值计算通用软件介绍
@@ -2453,6 +2370,24 @@
       2023-03-17
 
       14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GtKF2
+    info: '姚若飞
+
+      MONOTONICITY OF THE SECOND NEUMANN EIGENFUNCTION IN SYMMETRY DOMAIN
+
+      2023-03-17
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '姚若飞
+
+      MONOTONICITY OF THE SECOND NEUMANN EIGENFUNCTION IN SYMMETRY DOMAIN
+
+      2023-03-17
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyG2qF2
     info: '秦厚荣
@@ -2489,83 +2424,41 @@
       2023-03-16
 
       10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyFtKF2
-    info: '衣凤岐
-
-      SOME RECENT RESULTS ON TURING INSTABILITY OF THE PERIODIC SOLUTIONS FOR THE
-      DIFFUSIVE SYSTEM
-
-      2023-03-15
-
-      08:00 — 09:45'
-    person: ''
-    time: ''
-    title: '衣凤岐
-
-      SOME RECENT RESULTS ON TURING INSTABILITY OF THE PERIODIC SOLUTIONS FOR THE
-      DIFFUSIVE SYSTEM
-
-      2023-03-15
-
-      08:00 — 09:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2FyqF2
-    info: 'FANG LI
-
-      ON GALOIS THEORY OF CLUSTER ALGEBRAS: GENERAL AND THAT FROM SURFACES
-
-      2023-03-15
-
-      15:30 — 17:00'
-    person: ''
-    time: ''
-    title: 'FANG LI
-
-      ON GALOIS THEORY OF CLUSTER ALGEBRAS: GENERAL AND THAT FROM SURFACES
-
-      2023-03-15
-
-      15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyF2qF2
-    info: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-14
-
-      15:30 — 17:30'
-    person: ''
-    time: ''
-    title: 'JIANRONG LI
-
-      QUANTUM AFFINE ALGEBRAS AND KLR ALGEBRAS
-
-      2023-03-14
-
-      15:30 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2F2qF2
-    info: '王彪
-
-      DYNAMICS OF A DIFFUSIVE PREDATOR–PREY MODEL IN SPATIALLY HETEROGENEOUS ENVIRONMENTS
-
-      2023-03-14
-
-      19:30 — 20:30'
-    person: ''
-    time: ''
-    title: '王彪
-
-      DYNAMICS OF A DIFFUSIVE PREDATOR–PREY MODEL IN SPATIALLY HETEROGENEOUS ENVIRONMENTS
-
-      2023-03-14
-
-      19:30 — 20:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0313/c33485a2727675/page.htm
+    info: '“实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望...
+
+      [2023-03-13]'
+    person: ''
+    time: ''
+    title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0314/c33485a2728277/page.htm
+    info: '【教育学院】学术预告：关于教育数字化转型的新见解
+
+      [2023-03-14]'
+    person: ''
+    time: ''
+    title: 【教育学院】学术预告：关于教育数字化转型的新见解
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0314/c33485a2728233/page.htm
+    info: '【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈...
+
+      [2023-03-14]'
+    person: ''
+    time: ''
+    title: ' 【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈改革开放  '
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0314/c33485a2728035/page.htm
+    info: '物理学院翟荟学术报告的通知（School of Physics Colloquium...
+
+      [2023-03-14]'
+    person: ''
+    time: ''
+    title: 物理学院翟荟学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: https://www.zju.edu.cn/2023/0313/c33485a2727354/page.htm
     info: '求是高等研究院：陶虎研究员学术报告——科技创新，点丝成金
@@ -2623,38 +2516,6 @@
     person: ''
     time: ''
     title: 求是海洋学术沙龙——深海深渊科学专题
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1220/c33485a2703884/page.htm
-    info: '物理学院岑人岳学术报告的通知（School of Physics Colloqui...
-
-      [2022-12-20]'
-    person: ''
-    time: ''
-    title: 物理学院岑人岳学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1219/c33485a2703637/page.htm
-    info: '物理学院程金光学术报告的通知（School of Physics Colloqui...
-
-      [2022-12-19]'
-    person: ''
-    time: ''
-    title: 物理学院程金光学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1215/c33485a2702621/page.htm
-    info: '海外名师大讲堂（124）——High Pressure Processing Overview...
-
-      [2022-12-14]'
-    person: ''
-    time: ''
-    title: 海外名师大讲堂（124）——High Pressure Processing Overview - Principles and Applications
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1216/c33485a2702711/page.htm
-    info: '求是海洋学术论坛2022年16期——自适应模型预测控制
-
-      [2022-12-12]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2022年16期——自适应模型预测控制
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
