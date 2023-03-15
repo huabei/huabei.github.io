@@ -253,6 +253,16 @@
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4588.htm
+    info: '15
+
+      MAR
+
+      DNA mismatch repair: from mechanisms to diseases and treatments'
+    person: ''
+    time: ''
+    title: 'DNA mismatch repair: from mechanisms to diseases and treatments'
+  - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/4566.htm
     info: '13
 
@@ -345,18 +355,6 @@
     time: ''
     title: Chemogenetic and optogenetic technologies for probing molecular and cellular
       networks
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/3774.htm
-    info: '17
-
-      APR
-
-      Looking under the hood of cells: from single molecule dynamics to whole cell
-      o…'
-    person: ''
-    time: ''
-    title: 'Looking under the hood of cells: from single molecule dynamics to whole
-      cell organelle reconstructions'
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
@@ -555,6 +553,18 @@
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
+    href: https://scbb.pkusz.edu.cn/info/1027/3323.htm
+    info: '2023-03-15
+
+      Special Seminar on Mar. 20, 2023(14:00-15:30，F(E)101)—Dr. Hang Shi（Westlake
+      University）'
+    person: ''
+    time: ''
+    title: '2023-03-15
+
+      Special Seminar on Mar. 20, 2023(14:00-15:30，F(E)101)—Dr. Hang Shi（Westlake
+      University）'
+  - address: ''
     href: https://scbb.pkusz.edu.cn/info/1027/3176.htm
     info: '2021-12-09
 
@@ -654,16 +664,6 @@
     title: '2021-04-30
 
       南燕讲座：special seminar on May 7th, 2021（10AM, E104)—马大为院士 （ 中国科学院上海有机化学研究所)'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3050.htm
-    info: '2021-04-24
-
-      清华园区学科相关讲座邀请： 健康工程系列论坛(第六讲）通知 Notice of The Health Engineering Forum (6th Talk)'
-    person: ''
-    time: ''
-    title: '2021-04-24
-
-      清华园区学科相关讲座邀请： 健康工程系列论坛(第六讲）通知 Notice of The Health Engineering Forum (6th Talk)'
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
@@ -1482,52 +1482,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/147460.htm
-    info: '14
-
-      Mar
-
-      PINAMICS 2023——Spectral rigidity and joint integrability for Anosov systems
-      on tori
-
-      时间：2023-03-14 15:00-16:00
-
-      报告人: Yi Shi (Sichuan University)'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      PINAMICS 2023——Spectral rigidity and joint integrability for Anosov systems
-      on tori
-
-      时间：2023-03-14 15:00-16:00
-
-      报告人: Yi Shi (Sichuan University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147079.htm
-    info: '14
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-14 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      《边界层理论》短期课程(II)
-
-      时间：2023-03-14 13:00-15:00
-
-      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147456.htm
     info: '15
 
@@ -1684,6 +1638,28 @@
 
       报告人: Kai Du (Fudan University)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147619.htm
+    info: '20
+
+      Mar
+
+      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
+
+      时间：2020-03-20 15:30-16:30
+
+      报告人: Xuwen CHEN (University of Rochester)'
+    person: ''
+    time: ''
+    title: '20
+
+      Mar
+
+      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
+
+      时间：2020-03-20 15:30-16:30
+
+      报告人: Xuwen CHEN (University of Rochester)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147083.htm
     info: '21
 
@@ -1705,6 +1681,30 @@
       时间：2023-03-21 13:00-15:00
 
       报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/147616.htm
+    info: '22
+
+      Mar
+
+      Distinguished Colloquium——Can you hear the shape of a drum? and deformational
+      spectral rigidity
+
+      时间：2023-03-22 16:00-17:00
+
+      报告人: Prof. Vadim Kaloshin (Institute of Science and Technology Austria)'
+    person: ''
+    time: ''
+    title: '22
+
+      Mar
+
+      Distinguished Colloquium——Can you hear the shape of a drum? and deformational
+      spectral rigidity
+
+      时间：2023-03-22 16:00-17:00
+
+      报告人: Prof. Vadim Kaloshin (Institute of Science and Technology Austria)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/147588.htm
     info: '23
@@ -1729,6 +1729,215 @@
       报告人: Bart Zhou Yueshen (INSEAD)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1424
+    info: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+    person: ''
+    time: ''
+    title: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1423
+    info: '18
+
+      2019-12
+
+      赵玉珑博士的读书报告
+
+      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
+      factors to optimize the translational value of the rat fear-potentiated startle
+      paradigm'
+    person: ''
+    time: ''
+    title: '18
+
+      2019-12
+
+      赵玉珑博士的读书报告
+
+      主讲人:赵玉珑时间:2019年12月23日（周一）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Studying experimental
+      factors to optimize the translational value of the rat fear-potentiated startle
+      paradigm'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1626.htm
@@ -2389,41 +2598,41 @@
 
       10:00 — 11:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyG2qF2
-    info: '秦厚荣
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2HtKF2
+    info: '朱旭鼎教授
 
-      CM情形的LANG-TROTTER猜想
+      ALON-TARSI NUMBER OF GRAPHS
 
-      2023-03-16
+      2023-03-17
 
-      16:30 — 17:45'
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: '秦厚荣
+    title: '朱旭鼎教授
 
-      CM情形的LANG-TROTTER猜想
+      ALON-TARSI NUMBER OF GRAPHS
 
-      2023-03-16
+      2023-03-17
 
-      16:30 — 17:45'
+      15:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2FpKF2
-    info: 'JINGCHEN MA
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN6FpKF2
+    info: '许宝刚
 
-      EYES AND BRAIN: CANCER DIAGNOSIS APPLICATIONS ON CT IMAGES WITH AI
+      THE CHROMATIC NUMBER OF HEPTAGRAPHS
 
-      2023-03-16
+      2023-03-17
 
-      10:30 — 11:30'
+      16:00 — 17:30'
     person: ''
     time: ''
-    title: 'JINGCHEN MA
+    title: '许宝刚
 
-      EYES AND BRAIN: CANCER DIAGNOSIS APPLICATIONS ON CT IMAGES WITH AI
+      THE CHROMATIC NUMBER OF HEPTAGRAPHS
 
-      2023-03-16
+      2023-03-17
 
-      10:30 — 11:30'
+      16:00 — 17:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2435,6 +2644,14 @@
     person: ''
     time: ''
     title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0315/c33485a2728818/page.htm
+    info: '物理学院王雪华学术报告的通知（School of Physics Colloqui...
+
+      [2023-03-15]'
+    person: ''
+    time: ''
+    title: 物理学院王雪华学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: https://www.zju.edu.cn/2023/0314/c33485a2728277/page.htm
     info: '【教育学院】学术预告：关于教育数字化转型的新见解
@@ -2508,14 +2725,6 @@
     time: ''
     title: 【双脑中心系列学术报告】Several animal behavioral analysis systems with advanced features
       ——Dr. Fangyi Chen
-  - address: ''
-    href: https://www.zju.edu.cn/2022/1223/c33485a2704471/page.htm
-    info: '求是海洋学术沙龙——深海深渊科学专题
-
-      [2022-12-23]'
-    person: ''
-    time: ''
-    title: 求是海洋学术沙龙——深海深渊科学专题
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
