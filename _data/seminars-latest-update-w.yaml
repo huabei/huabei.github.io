@@ -1,68 +1,88 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/11885.htm
-    info: "双样本检测的最新进展及其在AI安全领域内的应用\n 2023年03月14日 "
+    href: https://life.tsinghua.edu.cn/info/1132/4588.htm
+    info: '15
+
+      MAR
+
+      DNA mismatch repair: from mechanisms to diseases and treatments'
     person: ''
     time: ''
-    title: 双样本检测的最新进展及其在AI安全领域内的应用
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+    title: 'DNA mismatch repair: from mechanisms to diseases and treatments'
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4566.htm
+    info: '13
+
+      MAR
+
+      Morphogenetic control of cellular differentiation during gastrulation'
+    person: ''
+    time: ''
+    title: Morphogenetic control of cellular differentiation during gastrulation
+  page_title: 学术报告-清华大学生命科学学院
+  page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
   - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1595
-    info: '3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
+    href: https://scbb.pkusz.edu.cn/info/1027/3323.htm
+    info: '2023-03-15
 
-      2023-03-13'
+      Special Seminar on Mar. 20, 2023(14:00-15:30，F(E)101)—Dr. Hang Shi（Westlake
+      University）'
     person: ''
     time: ''
-    title: 3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1592
-    info: '3月6日CQBseminar：Dynamics-based data science in biology and medicine (
+    title: '2023-03-15
 
-      2023-03-01'
-    person: ''
-    time: ''
-    title: 3月6日CQBseminar：Dynamics-based data science in biology and medicine (
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+      Special Seminar on Mar. 20, 2023(14:00-15:30，F(E)101)—Dr. Hang Shi（Westlake
+      University）'
+  page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
+  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147575.htm
-    info: '2023-03-14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147619.htm
+    info: '20
 
-      【兴大报告629】锂离子电池与电化学储能新技术'
+      Mar
+
+      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
+
+      时间：2020-03-20 15:30-16:30
+
+      报告人: Xuwen CHEN (University of Rochester)'
     person: ''
     time: ''
-    title: 【兴大报告629】锂离子电池与电化学储能新技术
+    title: '20
+
+      Mar
+
+      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
+
+      时间：2020-03-20 15:30-16:30
+
+      报告人: Xuwen CHEN (University of Rochester)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147516.htm
-    info: '2023-03-13
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/147616.htm
+    info: '22
 
-      【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and Chemicals'
+      Mar
+
+      Distinguished Colloquium——Can you hear the shape of a drum? and deformational
+      spectral rigidity
+
+      时间：2023-03-22 16:00-17:00
+
+      报告人: Prof. Vadim Kaloshin (Institute of Science and Technology Austria)'
     person: ''
     time: ''
-    title: 【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and
-      Chemicals
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147358.htm
-    info: '2023-03-09
+    title: '22
 
-      【Soft Matter Lecture 122】Engineer Biology for New Materials'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture 122】Engineer Biology for New Materials
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147322.htm
-    info: '2023-03-08
+      Mar
 
-      【无机化学学术报告】面向环境能源需求的金属有机骨架材料(MOFs) 控制合成'
-    person: ''
-    time: ''
-    title: 【无机化学学术报告】面向环境能源需求的金属有机骨架材料(MOFs) 控制合成
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      Distinguished Colloquium——Can you hear the shape of a drum? and deformational
+      spectral rigidity
+
+      时间：2023-03-22 16:00-17:00
+
+      报告人: Prof. Vadim Kaloshin (Institute of Science and Technology Austria)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/147588.htm
     info: '23
@@ -222,6 +242,42 @@
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2HtKF2
+    info: '朱旭鼎教授
+
+      ALON-TARSI NUMBER OF GRAPHS
+
+      2023-03-17
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '朱旭鼎教授
+
+      ALON-TARSI NUMBER OF GRAPHS
+
+      2023-03-17
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN6FpKF2
+    info: '许宝刚
+
+      THE CHROMATIC NUMBER OF HEPTAGRAPHS
+
+      2023-03-17
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '许宝刚
+
+      THE CHROMATIC NUMBER OF HEPTAGRAPHS
+
+      2023-03-17
+
+      16:00 — 17:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GyqF2
     info: '马诗洋
@@ -462,6 +518,14 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
+    href: https://www.zju.edu.cn/2023/0315/c33485a2728818/page.htm
+    info: '物理学院王雪华学术报告的通知（School of Physics Colloqui...
+
+      [2023-03-15]'
+    person: ''
+    time: ''
+    title: 物理学院王雪华学术报告的通知（School of Physics Colloquium）
+  - address: ''
     href: https://www.zju.edu.cn/2023/0313/c33485a2727675/page.htm
     info: '“实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望...
 
@@ -521,6 +585,62 @@
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11885.htm
+    info: "双样本检测的最新进展及其在AI安全领域内的应用\n 2023年03月14日 "
+    person: ''
+    time: ''
+    title: 双样本检测的最新进展及其在AI安全领域内的应用
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1595
+    info: '3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
+
+      2023-03-13'
+    person: ''
+    time: ''
+    title: 3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1592
+    info: '3月6日CQBseminar：Dynamics-based data science in biology and medicine (
+
+      2023-03-01'
+    person: ''
+    time: ''
+    title: 3月6日CQBseminar：Dynamics-based data science in biology and medicine (
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147575.htm
+    info: '2023-03-14
+
+      【兴大报告629】锂离子电池与电化学储能新技术'
+    person: ''
+    time: ''
+    title: 【兴大报告629】锂离子电池与电化学储能新技术
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147516.htm
+    info: '2023-03-13
+
+      【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and Chemicals'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】Electrochemical Approaches to Decarbonizing Fuels and
+      Chemicals
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147358.htm
+    info: '2023-03-09
+
+      【Soft Matter Lecture 122】Engineer Biology for New Materials'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 122】Engineer Biology for New Materials
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/7747.htm
     info: '香港科技大学 Kai Chen教授
 
@@ -536,29 +656,8 @@
     person: ''
     time: ''
     title: 王凯丽博士学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7719.htm
-    info: '金融科技在金融领域的实际应用和未来发展
-
-      2023-03-08'
-    person: ''
-    time: ''
-    title: 金融科技在金融领域的实际应用和未来发展
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4566.htm
-    info: '13
-
-      MAR
-
-      Morphogenetic control of cellular differentiation during gastrulation'
-    person: ''
-    time: ''
-    title: Morphogenetic control of cellular differentiation during gastrulation
-  page_title: 学术报告-清华大学生命科学学院
-  page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
   - address: ''
     href: https://life.sjtu.edu.cn/Data/View/7596
@@ -641,127 +740,3 @@
       【学术报告】Spatial, Temporal and Quantitative Cryo-EM of Soft Colloids'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c7888ffebf214c5bbccb6fce60d4abd7.htm
-    info: '2023.03.08
-
-      靶向离子通道的药物再利用'
-    person: ''
-    time: ''
-    title: 靶向离子通道的药物再利用
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16341.html
-    info: '2022.11.18
-
-      野生动物演化与保护：基因组学与大数据视角'
-    person: ''
-    time: ''
-    title: '2022.11.18
-
-      野生动物演化与保护：基因组学与大数据视角'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16325.html
-    info: '2022.11.04
-
-      Phase Separation in gene expression repression'
-    person: ''
-    time: ''
-    title: '2022.11.04
-
-      Phase Separation in gene expression repression'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16301.html
-    info: '2022.10.21
-
-      肤浅的认知，略懂皮毛'
-    person: ''
-    time: ''
-    title: '2022.10.21
-
-      肤浅的认知，略懂皮毛'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16274.html
-    info: '2022.10.14
-
-      Decoding transcription regulation when life begins'
-    person: ''
-    time: ''
-    title: '2022.10.14
-
-      Decoding transcription regulation when life begins'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16251.html
-    info: '2022.09.16
-
-      The role of RNA in DNA damage repair and mitosis'
-    person: ''
-    time: ''
-    title: '2022.09.16
-
-      The role of RNA in DNA damage repair and mitosis'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16106.html
-    info: '2022.04.30
-
-      炎症小体和细胞焦亡研究历程与思考'
-    person: ''
-    time: ''
-    title: '2022.04.30
-
-      炎症小体和细胞焦亡研究历程与思考'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16105.html
-    info: '2022.04.29
-
-      囊膜病毒入侵机制与治疗药物研发'
-    person: ''
-    time: ''
-    title: '2022.04.29
-
-      囊膜病毒入侵机制与治疗药物研发'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16089.html
-    info: '2022.04.22
-
-      The driving force of alveolar development, regeneration, and fibrosis'
-    person: ''
-    time: ''
-    title: '2022.04.22
-
-      The driving force of alveolar development, regeneration, and fibrosis'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16086.html
-    info: '2022.04.15
-
-      生物多样性基因组学与生物奥秘的解析'
-    person: ''
-    time: ''
-    title: '2022.04.15
-
-      生物多样性基因组学与生物奥秘的解析'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16057.html
-    info: '2022.03.25
-
-      染色质高级结构与人类疾病'
-    person: ''
-    time: ''
-    title: '2022.03.25
-
-      染色质高级结构与人类疾病'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16051.html
-    info: '2022.03.18
-
-      Epigenetic regulation of future expression'
-    person: ''
-    time: ''
-    title: '2022.03.18
-
-      Epigenetic regulation of future expression'
-  page_title: 北京大学生命科学学院
-  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
