@@ -69,6 +69,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/7826.htm
+    info: '莫尼尔博士学术报告
+
+      2023-03-21'
+    person: ''
+    time: ''
+    title: 莫尼尔博士学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/7806.htm
     info: '王堃博士学术报告
 
@@ -148,14 +156,6 @@
     person: ''
     time: ''
     title: “图分类和图表示学习及应用实践”学术报告简介
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7266.htm
-    info: '清华大学助理教授邓东灵学术报告
-
-      2022-11-25'
-    person: ''
-    time: ''
-    title: 清华大学助理教授邓东灵学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -1378,74 +1378,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147675.htm
-    info: '29
-
-      Mar
-
-      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
-      Neural Networks
-
-      时间：2023-03-29 10:00—11:00
-
-      报告人: Wenchao Li（Boston University）'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
-      Neural Networks
-
-      时间：2023-03-29 10:00—11:00
-
-      报告人: Wenchao Li（Boston University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147365.htm
-    info: '20
-
-      Mar
-
-      Probability and Statistics Seminar——Sequential propagation of chaos
-
-      时间：2023-03-20 14:00-15:00
-
-      报告人: Kai Du (Fudan University)'
-    person: ''
-    time: ''
-    title: '20
-
-      Mar
-
-      Probability and Statistics Seminar——Sequential propagation of chaos
-
-      时间：2023-03-20 14:00-15:00
-
-      报告人: Kai Du (Fudan University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147619.htm
-    info: '20
-
-      Mar
-
-      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
-
-      时间：2020-03-20 15:30-16:30
-
-      报告人: Xuwen CHEN (University of Rochester)'
-    person: ''
-    time: ''
-    title: '20
-
-      Mar
-
-      Analysis and PDE Seminar——From Quantum Particles to Compressible Inviscid Fluid
-
-      时间：2020-03-20 15:30-16:30
-
-      报告人: Xuwen CHEN (University of Rochester)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147083.htm
     info: '21
 
@@ -1625,6 +1557,76 @@
       时间：2023-03-24 19:00-21:30
 
       报告人: 赵和耳 (University of Duisburg-Essen)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147763.htm
+    info: '27
+
+      Mar
+
+      Probability and Statistics Seminar——The Conformal Dimension and Minimality of
+      Stochastic Objects
+
+      时间：2023-03-27 14:00-15:00
+
+      报告人: Wenbo Li (BICMR)'
+    person: ''
+    time: ''
+    title: '27
+
+      Mar
+
+      Probability and Statistics Seminar——The Conformal Dimension and Minimality of
+      Stochastic Objects
+
+      时间：2023-03-27 14:00-15:00
+
+      报告人: Wenbo Li (BICMR)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147087.htm
+    info: '28
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-28 13:00-15:00
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      《边界层理论》短期课程(II)
+
+      时间：2023-03-28 13:00-15:00
+
+      报告人: Ming Dong(Institute of Mechanics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147675.htm
+    info: '29
+
+      Mar
+
+      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
+      Neural Networks
+
+      时间：2023-03-29 10:00—11:00
+
+      报告人: Wenchao Li（Boston University）'
+    person: ''
+    time: ''
+    title: '29
+
+      Mar
+
+      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
+      Neural Networks
+
+      时间：2023-03-29 10:00—11:00
+
+      报告人: Wenchao Li（Boston University）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2553,6 +2555,22 @@
     time: ''
     title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
   - address: ''
+    href: https://www.zju.edu.cn/2023/0321/c33485a2731154/page.htm
+    info: '启真化学论坛：邓力教授（西湖大学）
+
+      [2023-03-21]'
+    person: ''
+    time: ''
+    title: 启真化学论坛：邓力教授（西湖大学）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0321/c33485a2731104/page.htm
+    info: '【基础医学】“求是青年人才提升计划”——糖脂代谢的激素调控
+
+      [2023-03-21]'
+    person: ''
+    time: ''
+    title: 【基础医学】“求是青年人才提升计划”——糖脂代谢的激素调控
+  - address: ''
     href: https://www.zju.edu.cn/2023/0320/c33485a2730566/page.htm
     info: '物理学院汤雷翰学术报告的通知（School of Physics Colloqui...
 
@@ -2616,22 +2634,6 @@
     person: ''
     time: ''
     title: 【教育学院】学术预告：关于教育数字化转型的新见解
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0314/c33485a2728233/page.htm
-    info: '【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈...
-
-      [2023-03-14]'
-    person: ''
-    time: ''
-    title: ' 【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈改革开放  '
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0314/c33485a2728035/page.htm
-    info: '物理学院翟荟学术报告的通知（School of Physics Colloquium...
-
-      [2023-03-14]'
-    person: ''
-    time: ''
-    title: 物理学院翟荟学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
