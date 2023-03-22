@@ -1,19 +1,12 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/11913.htm
-    info: "Cyclic multiplicity of a direct sum of forward and backward shifts\n 2023年03月20日 "
+    href: https://cse.csu.edu.cn/info/1041/7826.htm
+    info: '莫尼尔博士学术报告
+
+      2023-03-21'
     person: ''
     time: ''
-    title: Cyclic multiplicity of a direct sum of forward and backward shifts
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11885.htm
-    info: "双样本检测的最新进展及其在AI安全领域内的应用\n 2023年03月14日 "
-    person: ''
-    time: ''
-    title: 双样本检测的最新进展及其在AI安全领域内的应用
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
+    title: 莫尼尔博士学术报告
   - address: ''
     href: https://cse.csu.edu.cn/info/1041/7806.htm
     info: '王堃博士学术报告
@@ -26,24 +19,29 @@
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147731.htm
-    info: '2023-03-20
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/147763.htm
+    info: '27
 
-      【Soft Matter Lecture 123】人造黑色素材料'
+      Mar
+
+      Probability and Statistics Seminar——The Conformal Dimension and Minimality of
+      Stochastic Objects
+
+      时间：2023-03-27 14:00-15:00
+
+      报告人: Wenbo Li (BICMR)'
     person: ''
     time: ''
-    title: 【Soft Matter Lecture 123】人造黑色素材料
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147575.htm
-    info: '2023-03-14
+    title: '27
 
-      【兴大报告629】锂离子电池与电化学储能新技术'
-    person: ''
-    time: ''
-    title: 【兴大报告629】锂离子电池与电化学储能新技术
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      Mar
+
+      Probability and Statistics Seminar——The Conformal Dimension and Minimality of
+      Stochastic Objects
+
+      时间：2023-03-27 14:00-15:00
+
+      报告人: Wenbo Li (BICMR)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147675.htm
     info: '29
@@ -226,31 +224,29 @@
       时间：2023-03-22 16:00-17:00
 
       报告人: Prof. Vadim Kaloshin (Institute of Science and Technology Austria)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/147588.htm
-    info: '23
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Less is More
-
-      时间：2023-03-23 14:00-15:00
-
-      报告人: Bart Zhou Yueshen (INSEAD)'
-    person: ''
-    time: ''
-    title: '23
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Less is More
-
-      时间：2023-03-23 14:00-15:00
-
-      报告人: Bart Zhou Yueshen (INSEAD)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJWGpKF2
+    info: '雷远杰
+
+      THE INCOMPRESSIBLE NAVIER-STOKES-FOURIER-MAXWELL SYSTEM LIMITS OF THE CUTOFF
+      AND NON-CUTOFF VLASOV-MAXWELL-BOLTZMANN SYSTEM FOR THE SOFT POTENTIALS
+
+      2023-03-24
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '雷远杰
+
+      THE INCOMPRESSIBLE NAVIER-STOKES-FOURIER-MAXWELL SYSTEM LIMITS OF THE CUTOFF
+      AND NON-CUTOFF VLASOV-MAXWELL-BOLTZMANN SYSTEM FOR THE SOFT POTENTIALS
+
+      2023-03-24
+
+      16:00 — 17:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJWFpKF2
     info: '王国庆 教授
@@ -643,101 +639,25 @@
       2023-03-17
 
       16:00 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GyqF2
-    info: '马诗洋
-
-      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
-
-      2023-03-31
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '马诗洋
-
-      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
-
-      2023-03-31
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2G2qF2
-    info: '[COLLOQUIUM] 郭晋云教授
-
-      代数表示论与中国古代哲学思想
-
-      2023-03-24
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 郭晋云教授
-
-      代数表示论与中国古代哲学思想
-
-      2023-03-24
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GpKF2
-    info: '张正策
-
-      ASYMPTOTIC BEHAVIOR FOR A VISCOUS HAMILTON-JACOBI EQUATION WITH DEGENERATE GRADIENT
-      NONLINEARITY
-
-      2023-03-17
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '张正策
-
-      ASYMPTOTIC BEHAVIOR FOR A VISCOUS HAMILTON-JACOBI EQUATION WITH DEGENERATE GRADIENT
-      NONLINEARITY
-
-      2023-03-17
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2HpKF2
-    info: '[吴文俊数学中心综合报告] 李若 教授
-
-      脚踏实地，逆数而行 -北太天元数值计算通用软件介绍
-
-      2023-03-17
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[吴文俊数学中心综合报告] 李若 教授
-
-      脚踏实地，逆数而行 -北太天元数值计算通用软件介绍
-
-      2023-03-17
-
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GtKF2
-    info: '姚若飞
-
-      MONOTONICITY OF THE SECOND NEUMANN EIGENFUNCTION IN SYMMETRY DOMAIN
-
-      2023-03-17
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '姚若飞
-
-      MONOTONICITY OF THE SECOND NEUMANN EIGENFUNCTION IN SYMMETRY DOMAIN
-
-      2023-03-17
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0321/c33485a2731154/page.htm
+    info: '启真化学论坛：邓力教授（西湖大学）
+
+      [2023-03-21]'
+    person: ''
+    time: ''
+    title: 启真化学论坛：邓力教授（西湖大学）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0321/c33485a2731104/page.htm
+    info: '【基础医学】“求是青年人才提升计划”——糖脂代谢的激素调控
+
+      [2023-03-21]'
+    person: ''
+    time: ''
+    title: 【基础医学】“求是青年人才提升计划”——糖脂代谢的激素调控
   - address: ''
     href: https://www.zju.edu.cn/2023/0320/c33485a2730566/page.htm
     info: '物理学院汤雷翰学术报告的通知（School of Physics Colloqui...
@@ -802,40 +722,28 @@
     person: ''
     time: ''
     title: 物理学院王雪华学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0313/c33485a2727675/page.htm
-    info: '“实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望...
-
-      [2023-03-13]'
-    person: ''
-    time: ''
-    title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0314/c33485a2728277/page.htm
-    info: '【教育学院】学术预告：关于教育数字化转型的新见解
-
-      [2023-03-14]'
-    person: ''
-    time: ''
-    title: 【教育学院】学术预告：关于教育数字化转型的新见解
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0314/c33485a2728233/page.htm
-    info: '【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈...
-
-      [2023-03-14]'
-    person: ''
-    time: ''
-    title: ' 【浙大东方论坛第245讲】迟福林：中国的历史选择——与青年谈改革开放  '
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0314/c33485a2728035/page.htm
-    info: '物理学院翟荟学术报告的通知（School of Physics Colloquium...
-
-      [2023-03-14]'
-    person: ''
-    time: ''
-    title: 物理学院翟荟学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/11913.htm
+    info: "Cyclic multiplicity of a direct sum of forward and backward shifts\n 2023年03月20日 "
+    person: ''
+    time: ''
+    title: Cyclic multiplicity of a direct sum of forward and backward shifts
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147731.htm
+    info: '2023-03-20
+
+      【Soft Matter Lecture 123】人造黑色素材料'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 123】人造黑色素材料
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3271.htm
@@ -932,22 +840,3 @@
       University）'
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1595
-    info: '3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
-
-      2023-03-13'
-    person: ''
-    time: ''
-    title: 3月20日CQBseminar：Structure and mechanism of type V CRISPR-Cas12 effectors
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1592
-    info: '3月6日CQBseminar：Dynamics-based data science in biology and medicine (
-
-      2023-03-01'
-    person: ''
-    time: ''
-    title: 3月6日CQBseminar：Dynamics-based data science in biology and medicine (
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149

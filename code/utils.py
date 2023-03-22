@@ -153,8 +153,7 @@ def get_seminars_url_info(ele):
             try:
                 title = li.find_element(By.CSS_SELECTOR, '[title]').text
             except:
-                if logger:
-                    logger('no title')
+                logging.info('no title')
                 if li.find_elements(By.TAG_NAME, 'ul'):
                     continue
                 title = li.text
