@@ -1,60 +1,50 @@
 ﻿- page_info:
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/9447767def874c0aa044d236ebecaa93.htm
-    info: '讲座主题
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147928.htm
+    info: '29
 
-      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
+      Mar
 
-      贾大
+      Geometry and Topology Seminar——Random 3-manifolds are hyperbolic
 
-      主讲人教授
+      时间：2023-03-29 13:00-15:00
 
-      2023年3月28日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+      报告人: Wenyuan Yang (BICMR)'
     person: ''
     time: ''
-    title: '讲座主题
+    title: '29
 
-      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
+      Mar
 
-      贾大
+      Geometry and Topology Seminar——Random 3-manifolds are hyperbolic
 
-      主讲人教授
+      时间：2023-03-29 13:00-15:00
 
-      2023年3月28日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-  page_title: 北京大学未来技术学院
-  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
+      报告人: Wenyuan Yang (BICMR)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147887.htm
-    info: '2023-03-24
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/147925.htm
+    info: '31
 
-      【无机化学论坛】能源小分子活化的反应机制'
+      Mar
+
+      School Colloquium——Asymptotic limit of phase transition models with high dimensional
+      energy wells
+
+      时间：2023-03-31 15:00-16:00
+
+      报告人: Wei Wang (Zhejiang University)'
     person: ''
     time: ''
-    title: 【无机化学论坛】能源小分子活化的反应机制
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147803.htm
-    info: '2023-03-22
+    title: '31
 
-      【北京大学物理化学长葛未名创新工场讲座】光合作用捕光天线蛋白的激发态猝灭过程'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学长葛未名创新工场讲座】光合作用捕光天线蛋白的激发态猝灭过程
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/147731.htm
-    info: '2023-03-20
+      Mar
 
-      【Soft Matter Lecture 123】人造黑色素材料'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture 123】人造黑色素材料
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      School Colloquium——Asymptotic limit of phase transition models with high dimensional
+      energy wells
+
+      时间：2023-03-31 15:00-16:00
+
+      报告人: Wei Wang (Zhejiang University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147897.htm
     info: '25
@@ -355,6 +345,26 @@
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJaFyqF2
+    info: 'SERGIO ALMARAZ
+
+      RIGIDITY OF NON-COMPACT STATIC DOMAINS IN HYPERBOLIC SPACE VIA POSITIVE MASS
+      THEOREMS
+
+      2023-03-30
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: 'SERGIO ALMARAZ
+
+      RIGIDITY OF NON-COMPACT STATIC DOMAINS IN HYPERBOLIC SPACE VIA POSITIVE MASS
+      THEOREMS
+
+      2023-03-30
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJaFtKF2
     info: '田守富
 
@@ -472,6 +482,62 @@
       15:45 — 17:45'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/9447767def874c0aa044d236ebecaa93.htm
+    info: '讲座主题
+
+      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
+
+      贾大
+
+      主讲人教授
+
+      2023年3月28日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
+
+      贾大
+
+      主讲人教授
+
+      2023年3月28日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117室'
+  page_title: 北京大学未来技术学院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147887.htm
+    info: '2023-03-24
+
+      【无机化学论坛】能源小分子活化的反应机制'
+    person: ''
+    time: ''
+    title: 【无机化学论坛】能源小分子活化的反应机制
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147803.htm
+    info: '2023-03-22
+
+      【北京大学物理化学长葛未名创新工场讲座】光合作用捕光天线蛋白的激发态猝灭过程'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学长葛未名创新工场讲座】光合作用捕光天线蛋白的激发态猝灭过程
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/147731.htm
+    info: '2023-03-20
+
+      【Soft Matter Lecture 123】人造黑色素材料'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 123】人造黑色素材料
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.zju.edu.cn/2023/0324/c33485a2732256/page.htm
