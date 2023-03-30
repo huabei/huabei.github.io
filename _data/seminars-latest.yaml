@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/11954.htm
+    info: "Modeling, Solution and Applications Based on the Brinkman Equation\n 2023年03月30日 "
+    person: ''
+    time: ''
+    title: Modeling, Solution and Applications Based on the Brinkman Equation
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/11913.htm
     info: "Cyclic multiplicity of a direct sum of forward and backward shifts\n 2023年03月20日 "
     person: ''
@@ -59,12 +65,6 @@
     person: ''
     time: ''
     title: Normalized solutions of Kirchhoff type equations
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11605.htm
-    info: "Combinatorics of gamma-positivity\n 2022年11月24日 "
-    person: ''
-    time: ''
-    title: Combinatorics of gamma-positivity
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -1473,74 +1473,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/147928.htm
-    info: '29
-
-      Mar
-
-      Geometry and Topology Seminar——Random 3-manifolds are hyperbolic
-
-      时间：2023-03-29 13:00-15:00
-
-      报告人: Wenyuan Yang (BICMR)'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      Geometry and Topology Seminar——Random 3-manifolds are hyperbolic
-
-      时间：2023-03-29 13:00-15:00
-
-      报告人: Wenyuan Yang (BICMR)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147675.htm
-    info: '29
-
-      Mar
-
-      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
-      Neural Networks
-
-      时间：2023-03-29 10:00—11:00
-
-      报告人: Wenchao Li（Boston University）'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      Applied Mathematics Seminar——Specification-Driven Post-Deployment Repair of
-      Neural Networks
-
-      时间：2023-03-29 10:00—11:00
-
-      报告人: Wenchao Li（Boston University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/147856.htm
-    info: '29
-
-      Mar
-
-      A Liouville-Type Theorem for Cylindrical Cones
-
-      时间：2023-03-29 09:00-10:00
-
-      报告人: Nick Edelen (University of Notre Dame)'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      A Liouville-Type Theorem for Cylindrical Cones
-
-      时间：2023-03-29 09:00-10:00
-
-      报告人: Nick Edelen (University of Notre Dame)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147893.htm
     info: '31
 
@@ -1633,6 +1565,50 @@
 
       报告人: Michael Winkler'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/148175.htm
+    info: '03
+
+      Apr
+
+      Analysis and PDE Seminar——Universality for free fermions
+
+      时间：2023-04-03 16:00-17:00
+
+      报告人: Gaultier Lambert (KTH Royal Institute of Technology)'
+    person: ''
+    time: ''
+    title: '03
+
+      Apr
+
+      Analysis and PDE Seminar——Universality for free fermions
+
+      时间：2023-04-03 16:00-17:00
+
+      报告人: Gaultier Lambert (KTH Royal Institute of Technology)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/148179.htm
+    info: '03
+
+      Apr
+
+      Critical blow-up exponents in a chemotaxis system with indirect signal production
+
+      时间：2023-04-03 14:00-15:00
+
+      报告人: 陶有山教授（上海交通大学）'
+    person: ''
+    time: ''
+    title: '03
+
+      Apr
+
+      Critical blow-up exponents in a chemotaxis system with indirect signal production
+
+      时间：2023-04-03 14:00-15:00
+
+      报告人: 陶有山教授（上海交通大学）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147091.htm
     info: '04
 
@@ -1700,6 +1676,28 @@
       时间：2023-04-08 17:00-!8:00
 
       报告人: Michael Winkler'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/148170.htm
+    info: '10
+
+      Apr
+
+      Probability and Statistics Seminar——CLT for SPDEs
+
+      时间：2023-04-10 14:00-15:00
+
+      报告人: Fei Pu (BNU)'
+    person: ''
+    time: ''
+    title: '10
+
+      Apr
+
+      Probability and Statistics Seminar——CLT for SPDEs
+
+      时间：2023-04-10 14:00-15:00
+
+      报告人: Fei Pu (BNU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147095.htm
     info: '11
@@ -2226,42 +2224,42 @@
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, in 14 days'
+      2023-04-12 15:00, in 13 days'
     person: ''
     time: ''
     title: 'Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, in 14 days'
+      2023-04-12 15:00, in 13 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Machine Learning Meets PDEs
 
       路玉龙 , 马萨诸塞大学阿默斯特分校
 
-      2023-03-30 10:00, in 10 hours'
+      2023-03-30 10:00, 14 hours ago'
     person: ''
     time: ''
     title: 'Machine Learning Meets PDEs
 
       路玉龙 , 马萨诸塞大学阿默斯特分校
 
-      2023-03-30 10:00, in 10 hours'
+      2023-03-30 10:00, 14 hours ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Some aspects of minimizers of interaction energies
 
       Ruiwen Shu , University of Georgia
 
-      2023-03-09 09:30, 21 days ago'
+      2023-03-09 09:30, 22 days ago'
     person: ''
     time: ''
     title: 'Some aspects of minimizers of interaction energies
 
       Ruiwen Shu , University of Georgia
 
-      2023-03-09 09:30, 21 days ago'
+      2023-03-09 09:30, 22 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'On convergence analysis of an IEQ-based numerical scheme for hydrodynamical
@@ -2269,7 +2267,7 @@
 
       岳钰堃 , 卡内基梅隆大学
 
-      2023-03-07 10:00, 23 days ago'
+      2023-03-07 10:00, 24 days ago'
     person: ''
     time: ''
     title: 'On convergence analysis of an IEQ-based numerical scheme for hydrodynamical
@@ -2277,7 +2275,7 @@
 
       岳钰堃 , 卡内基梅隆大学
 
-      2023-03-07 10:00, 23 days ago'
+      2023-03-07 10:00, 24 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Mathematical modeling of shear-activated targeted nanoparticle drug delivery
@@ -2285,7 +2283,7 @@
 
       乔永辉 , 浙江大学能源工程学院
 
-      2023-03-06 14:00, 23 days ago'
+      2023-03-06 14:00, 24 days ago'
     person: ''
     time: ''
     title: 'Mathematical modeling of shear-activated targeted nanoparticle drug delivery
@@ -2293,7 +2291,7 @@
 
       乔永辉 , 浙江大学能源工程学院
 
-      2023-03-06 14:00, 23 days ago'
+      2023-03-06 14:00, 24 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'DeepParticle: learning invariant measure by a deep neural network minimizing
@@ -2449,6 +2447,18 @@
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
   - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7632
+    info: '3月31日（周五）14:30-16:00 闵行校区生物药学楼树华多功能厅
+
+      启智讲坛第二十九讲 Handcrafted metabolic pathways for the orthogonal biomanufacturing
+      of small organ...'
+    person: ''
+    time: ''
+    title: '3月31日（周五）14:30-16:00 闵行校区生物药学楼树华多功能厅
+
+      启智讲坛第二十九讲 Handcrafted metabolic pathways for the orthogonal biomanufacturing
+      of small organ...'
+  - address: ''
     href: https://life.sjtu.edu.cn/Data/View/7626
     info: '04月06日（周四）9:30 闵行校区生物药学楼树华多功能厅
 
@@ -2550,16 +2560,6 @@
 
       Integrating Informatics, Metabolic Engineering and SynBio for the discovery
       of specialized metabolit...'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/6120
-    info: '12月27日（周一）14:00-15:00 闵行校区叶杰全楼400会议室
-
-      肝癌靶向治疗新策略研究'
-    person: ''
-    time: ''
-    title: '12月27日（周一）14:00-15:00 闵行校区叶杰全楼400会议室
-
-      肝癌靶向治疗新策略研究'
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
@@ -2807,6 +2807,24 @@
 
       16:30 — 18:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeFtKF2
+    info: 'RENJUN DUAN
+
+      QUASINEUTRAL EULER LIMIT FOR THE VLASOV-POISSON-LANDAU SYSTEM
+
+      2023-04-14
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: 'RENJUN DUAN
+
+      QUASINEUTRAL EULER LIMIT FOR THE VLASOV-POISSON-LANDAU SYSTEM
+
+      2023-04-14
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenNyHpKF2
     info: '周正一
 
@@ -2861,61 +2879,43 @@
 
       16:00 — 17:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenN2GyqF2
-    info: '马诗洋
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeFyqF2
+    info: '曾鹏程
 
-      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
+      SIMULTANEOUS REGISTRATION AND MODELING FOR MULTI-DIMENSIONAL FUNCTIONAL DATA
+      AND ITS APPLICATION TO MODELING THE RECOVERY LEVEL OF STROKE PATIENTS
 
-      2023-03-31
+      2023-04-07
 
-      10:00 — 11:00'
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: '马诗洋
+    title: '曾鹏程
 
-      MODEL-X KNOCKOFF STATISTICS FOR CAUSAL GENE DISCOVERY IN COMPLEX DISEASES
+      SIMULTANEOUS REGISTRATION AND MODELING FOR MULTI-DIMENSIONAL FUNCTIONAL DATA
+      AND ITS APPLICATION TO MODELING THE RECOVERY LEVEL OF STROKE PATIENTS
 
-      2023-03-31
+      2023-04-07
 
-      10:00 — 11:00'
+      16:00 — 17:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJSGyqF2
-    info: '张强
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeF2qF2
+    info: '石权
 
-      EXPLICIT BOUNDS FOR FIXED SUBGROUPS OF ENDOMORPHISMS OF FREE PRODUCTS
+      THE DERIVATIVE MARTINGALE IN A BRANCHING LÉVY PROCESS
 
-      2023-03-31
+      2023-04-04
 
-      11:00 — 12:00'
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: '张强
+    title: '石权
 
-      EXPLICIT BOUNDS FOR FIXED SUBGROUPS OF ENDOMORPHISMS OF FREE PRODUCTS
+      THE DERIVATIVE MARTINGALE IN A BRANCHING LÉVY PROCESS
 
-      2023-03-31
+      2023-04-04
 
-      11:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJWFtKF2
-    info: '[MINI COURSES] MICHAEL WINKLER
-
-      [MINI COURSES] THE ROLE OF DEGENERACIES IN THE ANALYSIS OF CHEMOTAXIS SYSTEMS.
-      LECTURES #5 AND #6
-
-      2023-03-31
-
-      15:45 — 17:45'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] MICHAEL WINKLER
-
-      [MINI COURSES] THE ROLE OF DEGENERACIES IN THE ANALYSIS OF CHEMOTAXIS SYSTEMS.
-      LECTURES #5 AND #6
-
-      2023-03-31
-
-      15:45 — 17:45'
+      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2927,6 +2927,14 @@
     person: ''
     time: ''
     title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0330/c33485a2734487/page.htm
+    info: '物理学院徐磊学术报告的通知（School of Physics Colloquium...
+
+      [2023-03-30]'
+    person: ''
+    time: ''
+    title: 物理学院徐磊学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: https://www.zju.edu.cn/2023/0329/c33485a2733956/page.htm
     info: 'CRPE双周青年学者论坛NO.377
@@ -2999,14 +3007,6 @@
     person: ''
     time: ''
     title: 【基础医学】学术报告——病原菌防控的纳米新技术研究
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0322/c33485a2731505/page.htm
-    info: '“杏林·学者论坛”—周荣斌 教授报告会
-
-      [2023-03-22]'
-    person: ''
-    time: ''
-    title: “杏林·学者论坛”—周荣斌 教授报告会
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:

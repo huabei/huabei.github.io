@@ -1,82 +1,163 @@
 ﻿- page_info:
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/b3ec9f7ddd804450a0d724accdfefd45.htm
-    info: '讲座主题
-
-      Liquid–liquid phase separation in autophagy
-
-      张宏
-
-      主讲人研究员
-
-      2023年4月4日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+    href: https://math.csu.edu.cn/info/1736/11954.htm
+    info: "Modeling, Solution and Applications Based on the Brinkman Equation\n 2023年03月30日 "
     person: ''
     time: ''
-    title: '讲座主题
-
-      Liquid–liquid phase separation in autophagy
-
-      张宏
-
-      主讲人研究员
-
-      2023年4月4日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-  page_title: 北京大学未来技术学院
-  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
+    title: Modeling, Solution and Applications Based on the Brinkman Equation
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7626
-    info: '04月06日（周四）9:30 闵行校区生物药学楼树华多功能厅
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/148175.htm
+    info: '03
 
-      求真讲坛第26期 原位代谢功能靶向性的单细胞多组学：从拉曼组原理到流式拉曼分选仪器'
+      Apr
+
+      Analysis and PDE Seminar——Universality for free fermions
+
+      时间：2023-04-03 16:00-17:00
+
+      报告人: Gaultier Lambert (KTH Royal Institute of Technology)'
     person: ''
     time: ''
-    title: '04月06日（周四）9:30 闵行校区生物药学楼树华多功能厅
+    title: '03
 
-      求真讲坛第26期 原位代谢功能靶向性的单细胞多组学：从拉曼组原理到流式拉曼分选仪器'
+      Apr
+
+      Analysis and PDE Seminar——Universality for free fermions
+
+      时间：2023-04-03 16:00-17:00
+
+      报告人: Gaultier Lambert (KTH Royal Institute of Technology)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/148179.htm
+    info: '03
+
+      Apr
+
+      Critical blow-up exponents in a chemotaxis system with indirect signal production
+
+      时间：2023-04-03 14:00-15:00
+
+      报告人: 陶有山教授（上海交通大学）'
+    person: ''
+    time: ''
+    title: '03
+
+      Apr
+
+      Critical blow-up exponents in a chemotaxis system with indirect signal production
+
+      时间：2023-04-03 14:00-15:00
+
+      报告人: 陶有山教授（上海交通大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/148170.htm
+    info: '10
+
+      Apr
+
+      Probability and Statistics Seminar——CLT for SPDEs
+
+      时间：2023-04-10 14:00-15:00
+
+      报告人: Fei Pu (BNU)'
+    person: ''
+    time: ''
+    title: '10
+
+      Apr
+
+      Probability and Statistics Seminar——CLT for SPDEs
+
+      时间：2023-04-10 14:00-15:00
+
+      报告人: Fei Pu (BNU)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7632
+    info: '3月31日（周五）14:30-16:00 闵行校区生物药学楼树华多功能厅
+
+      启智讲坛第二十九讲 Handcrafted metabolic pathways for the orthogonal biomanufacturing
+      of small organ...'
+    person: ''
+    time: ''
+    title: '3月31日（周五）14:30-16:00 闵行校区生物药学楼树华多功能厅
+
+      启智讲坛第二十九讲 Handcrafted metabolic pathways for the orthogonal biomanufacturing
+      of small organ...'
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeFpKF2
-    info: '刘爽
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeFtKF2
+    info: 'RENJUN DUAN
 
-      一类时间周期空间离散问题的主特征值研究：II
+      QUASINEUTRAL EULER LIMIT FOR THE VLASOV-POISSON-LANDAU SYSTEM
 
-      2023-03-29
+      2023-04-14
 
-      20:00 — 23:00'
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: '刘爽
+    title: 'RENJUN DUAN
 
-      一类时间周期空间离散问题的主特征值研究：II
+      QUASINEUTRAL EULER LIMIT FOR THE VLASOV-POISSON-LANDAU SYSTEM
 
-      2023-03-29
+      2023-04-14
 
-      20:00 — 23:00'
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeFyqF2
+    info: '曾鹏程
+
+      SIMULTANEOUS REGISTRATION AND MODELING FOR MULTI-DIMENSIONAL FUNCTIONAL DATA
+      AND ITS APPLICATION TO MODELING THE RECOVERY LEVEL OF STROKE PATIENTS
+
+      2023-04-07
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '曾鹏程
+
+      SIMULTANEOUS REGISTRATION AND MODELING FOR MULTI-DIMENSIONAL FUNCTIONAL DATA
+      AND ITS APPLICATION TO MODELING THE RECOVERY LEVEL OF STROKE PATIENTS
+
+      2023-04-07
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGenJeF2qF2
+    info: '石权
+
+      THE DERIVATIVE MARTINGALE IN A BRANCHING LÉVY PROCESS
+
+      2023-04-04
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '石权
+
+      THE DERIVATIVE MARTINGALE IN A BRANCHING LÉVY PROCESS
+
+      2023-04-04
+
+      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/2023/0329/c33485a2733956/page.htm
-    info: 'CRPE双周青年学者论坛NO.377
+    href: https://www.zju.edu.cn/2023/0330/c33485a2734487/page.htm
+    info: '物理学院徐磊学术报告的通知（School of Physics Colloquium...
 
-      [2023-03-29]'
+      [2023-03-30]'
     person: ''
     time: ''
-    title: CRPE双周青年学者论坛NO.377
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0329/c33485a2733870/page.htm
-    info: '求是海洋学术论坛2023年02期（总18期）——Cross Shelf Exchan...
-
-      [2023-03-29]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年02期（总18期）——Cross Shelf Exchange in the East China Sea
+    title: 物理学院徐磊学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
