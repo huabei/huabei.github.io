@@ -1471,28 +1471,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147901.htm
-    info: '01
-
-      Apr
-
-      Blow-up pohenomena in chemotaxis systems
-
-      时间：2023-04-01 17:00-18:00
-
-      报告人: Michael Winkler'
-    person: ''
-    time: ''
-    title: '01
-
-      Apr
-
-      Blow-up pohenomena in chemotaxis systems
-
-      时间：2023-04-01 17:00-18:00
-
-      报告人: Michael Winkler'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/148175.htm
     info: '03
 
@@ -1672,6 +1650,28 @@
       时间：2023-04-27 14:00-15:00
 
       报告人: Dr. Wei Zhang (Zuse Institute Berlin)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/147901.htm
+    info: '01
+
+      Apr
+
+      Blow-up pohenomena in chemotaxis systems
+
+      时间：2023-04-01 17:00-18:00
+
+      报告人: Michael Winkler'
+    person: ''
+    time: ''
+    title: '01
+
+      Apr
+
+      Blow-up pohenomena in chemotaxis systems
+
+      时间：2023-04-01 17:00-18:00
+
+      报告人: Michael Winkler'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/147893.htm
     info: '31
@@ -2222,42 +2222,42 @@
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, in 11 days'
+      2023-04-12 15:00, in 10 days'
     person: ''
     time: ''
     title: 'Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, in 11 days'
+      2023-04-12 15:00, in 10 days'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Machine Learning Meets PDEs
 
       路玉龙 , 马萨诸塞大学阿默斯特分校
 
-      2023-03-30 10:00, 3 days ago'
+      2023-03-30 10:00, 4 days ago'
     person: ''
     time: ''
     title: 'Machine Learning Meets PDEs
 
       路玉龙 , 马萨诸塞大学阿默斯特分校
 
-      2023-03-30 10:00, 3 days ago'
+      2023-03-30 10:00, 4 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Some aspects of minimizers of interaction energies
 
       Ruiwen Shu , University of Georgia
 
-      2023-03-09 09:30, 24 days ago'
+      2023-03-09 09:30, 25 days ago'
     person: ''
     time: ''
     title: 'Some aspects of minimizers of interaction energies
 
       Ruiwen Shu , University of Georgia
 
-      2023-03-09 09:30, 24 days ago'
+      2023-03-09 09:30, 25 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'On convergence analysis of an IEQ-based numerical scheme for hydrodynamical
