@@ -21,7 +21,7 @@
 title: Huabei's Blog
 email: 212311013@csu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  国内学术报告发布汇总
+  Huabei's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://huabei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
