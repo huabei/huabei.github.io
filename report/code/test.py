@@ -41,10 +41,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     # 设置日志文件，如果没有设置则输出到控制台
-    logging.basicConfig(filename=args.log, level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logging.basicConfig(filename=args.log, level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     
     # 打开浏览器
-    driver = get_driver(headless=False)
+    driver = get_driver(headless=True)
     
     # 收集测试网址
     test_url = list()
@@ -62,4 +62,5 @@ if __name__ == "__main__":
     # 根据测试级别测试网址
     for url in test_url:
         test_f_dict[args.level](driver, url)
+    driver.quit()
 

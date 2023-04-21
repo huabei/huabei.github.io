@@ -158,9 +158,9 @@ def get_week_update(output_file_path) -> list:
     week_update_data_total = defaultdict(dict)
     for i in range(0, 7):
         day = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime('%Y-%m-%d')
-        if os.path.exists(f'../_data/seminars-update-{day}.yaml'):
+        if os.path.exists(f'../../_data/seminars-update-{day}.yaml'):
             # print(day)
-            with open(f'../_data/seminars-update-{day}.yaml', 'r', encoding='utf-8-sig') as f:
+            with open(f'../../_data/seminars-update-{day}.yaml', 'r', encoding='utf-8-sig') as f:
                 data_u = yaml.load(f, Loader=yaml.FullLoader)
                 for d in data_u:
                     week_update_data_total[d['page_url']]['page_title'] = d['page_title']
@@ -182,7 +182,7 @@ def get_data_from_internet(url_file_path):
     # logger = Logger('./log')
     
     # 启动浏览器
-    driver = get_driver(headless=False)
+    driver = get_driver(headless=True)
     
     # 同一个窗口打开所有的url
     for url in url_iter:
@@ -220,7 +220,7 @@ def get_data_from_internet(url_file_path):
 def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     total_result = get_data_from_internet(url_file_path) # 从网页获取数据
     
-    # with open('../_data/seminars-test.pkl', 'rb') as f:
+    # with open('../../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
     #     total_result = pickle.load(f)
     
@@ -236,7 +236,7 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     
     # 将昨天的数据加入日期文件名，作为昨天的数据
     if os.path.exists(day_update_path):
-        os.rename(day_update_path, f'../_data/seminars-update-{d}.yaml')
+        os.rename(day_update_path, f'../../_data/seminars-update-{d}.yaml')
     
     # 已存的latest所有数据作为昨天的数据，和今天的数据比较，得到update数据
     if os.path.exists(latest_data_path):
@@ -261,19 +261,19 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
 
 if __name__ == '__main__':
     # 更改工作目录
-    os.chdir(r"E:\Huabei\huabei.github.io\code")
+    os.chdir(r"/home/huabei/project/huabei.github.io/report/code")
     
     # 今天的时间d
     d = time.strftime('%Y-%m-%d', time.localtime())
     
     # 日志文件配置
-    log2file = True
+    log2file = False
     if log2file:
         logging.basicConfig(filename=f'log/{d}.log', encoding='utf-8', level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
     else:
         logging.basicConfig(level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
     # 最新的数据文件路径
-    output_file_path = '../_data/seminars-latest.yaml'
+    output_file_path = '../../_data/seminars-latest.yaml'
 
     # 表头替换
     head_replace = {'报告题目': 'title',
@@ -286,7 +286,8 @@ if __name__ == '__main__':
                     '地点': 'address'}
 
     # 从网站获取数据
-    main(r"E:\Huabei\huabei.github.io\code\web-site.txt", output_file_path, head_replace=head_replace)
+    main(r"web-site.txt", output_file_path, head_replace=head_replace)
+    # main(r"test-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
     #     import pickle
@@ -301,6 +302,8 @@ if __name__ == '__main__':
     # # write_data(total_result, output_file_path, head_replace=head_replace)
     # write_yaml(total_result, '../_data/seminars-latest.yaml', head_replace=head_replace)
     # 推送到github
-    os.chdir(r"E:\Huabei\huabei.github.io")
+    os.chdir(r"/home/huabei/project/huabei.github.io")
+    print(os.getcwd())
+    # raise Exception
     subprocess.call(["git", 'commit', '-am', '"today update"'])
     subprocess.call(['git', 'push'])

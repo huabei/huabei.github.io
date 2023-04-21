@@ -1,10 +1,8 @@
 import pandas as pd
-from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from collections import defaultdict
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.edge.options import Options
 from collections import defaultdict
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.wait import WebDriverWait
@@ -179,11 +177,12 @@ def get_seminars_url_info(ele):
 
 def get_driver(headless=True, **kwargs) -> webdriver:
     """get url driver"""
-    options = Options()
+    options = webdriver.ChromeOptions()
     if headless:
-        options.add_argument("headless")
-        options.add_argument("window-size=1440x900")
-    driver = webdriver.Edge(options=options, **kwargs)
+        options.add_argument("--headless")
+        options.add_argument('--remote-debugging-port=9222')
+        options.add_argument("--window-size=1440,900")
+    driver = webdriver.Chrome(options=options, **kwargs)
     # 载入页面等待10秒
     driver.set_page_load_timeout(10)
     driver.maximize_window()
