@@ -25,18 +25,24 @@ def find_max_div(ele):
 def get_max_child_ele(ele):
     """找到最大的子元素"""
     # 找到所有的子元素
-    child = ele.find_elements(By.XPATH, './*')
+    childs = ele.find_elements(By.XPATH, './*')
     # 如果没有子元素，则报错
-    assert len(child) > 0, 'no child'
+    assert len(childs) > 0, 'no child'
     # 计算所有子元素的大小
-    all_child_size = [i.size['height'] * i.size['width'] for i in child]
+    all_child_size = [i.size['height'] * i.size['width'] for i in childs]
     # 如果所有子元素的大小都是0，则返回第一个元素
     if all_child_size == [0] * len(all_child_size):
-        logging.warning('all child size is 0')
-        raise Exception('all child size is 0')
-        all_child_size = [len(ele.find_elements(By.XPATH, './*')) for i in child]
+        logging.warning('all child size is 0, find next level')
+        # raise Exception('all child size is 0')
+        # 寻找子元素
+        child_sub = []
+        for child in childs:
+            child_sub += child.find_elements(By.XPATH, './*')
+        all_child_size = [i.size['height'] * i.size['width'] for i in child_sub]
+        childs = child_sub
+        # all_child_size = [len(ele.find_elements(By.XPATH, './*')) for i in childs]
     highest_child_index = all_child_size.index(max(all_child_size))
-    return child[highest_child_index], all_child_size[highest_child_index]
+    return childs[highest_child_index], all_child_size[highest_child_index]
 
 
 def compare_elements_subcontent(ele1, ele2):
@@ -60,6 +66,7 @@ def get_min_max_region(ele):
     
     # 首先找到最大的div区域
     max_div, max_div_size = find_max_div(ele)
+    logging.info('max div : {}'.format(max_div.get_attribute('class')))
     parent = max_div_size
     
     # 进行迭代，找到最大的子区域，并判断是否小于父区域的1/2，如果是，则返回父区域

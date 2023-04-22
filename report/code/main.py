@@ -234,9 +234,13 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
     latest_data_path = output_file_path.replace('.yaml', '.pkl') # 构造pkl文件名
     day_update_path = output_file_path.replace('.yaml', '-update-d.yaml') # 构造今日更新文件名
     
-    # 将昨天的数据加入日期文件名，作为昨天的数据
+    # 将昨天的数据加入日期文件名，作为昨天的数据,如果今天已经执行过则进行覆盖。
     if os.path.exists(day_update_path):
-        os.rename(day_update_path, f'../../_data/seminars-update-{d}.yaml')
+        if os.path.exists((last_day_file := f'../../_data/seminars-update-{d}.yaml')):
+            logging.info('today file and latest exit!, cover today file')
+            os.remove(last_day_file)
+            os.rename(day_update_path, last_day_file)
+
     
     # 已存的latest所有数据作为昨天的数据，和今天的数据比较，得到update数据
     if os.path.exists(latest_data_path):

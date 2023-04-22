@@ -37,11 +37,11 @@ if __name__ == "__main__":
     parser.add_argument('-u', '--url', help='url to test', default=None, type=str)
     parser.add_argument('-f', '--file', help='file to test', default=None, type=str)
     parser.add_argument('-l', '--log', help='log file', default=None, type=str)
-    parser.add_argument('--level', help='test level: 0: test get url; 1: test content analysis; 2: test data format', choices=[0, 1, 2], default=0, type=int)
+    parser.add_argument('--level', help='test level: \t 0: test get url; \t 1: test content analysis; \t 2: test data format', choices=[0, 1, 2], default=0, type=int)
     args = parser.parse_args()
     
     # 设置日志文件，如果没有设置则输出到控制台
-    logging.basicConfig(filename=args.log, level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    logging.basicConfig(filename=args.log, level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     
     # 打开浏览器
     driver = get_driver(headless=True)
