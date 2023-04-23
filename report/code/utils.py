@@ -185,11 +185,20 @@ def get_seminars_url_info(ele):
 def get_driver(headless=True, **kwargs) -> webdriver:
     """get url driver"""
     options = webdriver.ChromeOptions()
+    # options = webdriver.FirefoxOptions()
     if headless:
         options.add_argument("--headless")
+        
+        # chome
         options.add_argument('--remote-debugging-port=9222')
         options.add_argument("--window-size=1440,900")
+        
+        # firefox
+        # options.add_argument("--disable-gpu")
+        # options.add_argument("window-size=1440x900")
+    options.set_capability('permissions.default.image', 2)
     driver = webdriver.Chrome(options=options, **kwargs)
+    # driver = webdriver.Firefox(options=options, **kwargs)
     # 载入页面等待10秒
     driver.set_page_load_timeout(10)
     driver.maximize_window()

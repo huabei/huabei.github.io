@@ -271,7 +271,7 @@ if __name__ == '__main__':
     d = time.strftime('%Y-%m-%d', time.localtime())
     
     # 日志文件配置
-    log2file = False
+    log2file = True
     if log2file:
         logging.basicConfig(filename=f'log/{d}.log', encoding='utf-8', level=logging.INFO, format='%(levelname)s %(asctime)s %(message)s')
     else:
