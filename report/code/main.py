@@ -290,7 +290,7 @@ if __name__ == '__main__':
                     '地点': 'address'}
 
     # 从网站获取数据
-    # main(r"web-site.txt", output_file_path, head_replace=head_replace)
+    main(r"web-site.txt", output_file_path, head_replace=head_replace)
     # main(r"test-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
