@@ -290,7 +290,7 @@ if __name__ == '__main__':
                     '地点': 'address'}
 
     # 从网站获取数据
-    main(r"web-site.txt", output_file_path, head_replace=head_replace)
+    # main(r"web-site.txt", output_file_path, head_replace=head_replace)
     # main(r"test-site.txt", output_file_path, head_replace=head_replace)
     # main(r"E:\Huabei\huabei.github.io\code\test-site.txt", output_file_path, head_replace=None)
     # with open('../_data/seminars-test.pkl', 'rb') as f:
@@ -307,7 +307,7 @@ if __name__ == '__main__':
     # write_yaml(total_result, '../_data/seminars-latest.yaml', head_replace=head_replace)
     # 推送到github
     os.chdir(r"/home/huabei/project/huabei.github.io")
-    print(os.getcwd())
+    # print(os.getcwd())
     # raise Exception
     subprocess.call(["git", 'commit', '-am', '"today update"'])
     subprocess.call(['git', 'push'])
