@@ -310,4 +310,5 @@ if __name__ == '__main__':
     # print(os.getcwd())
     # raise Exception
     subprocess.call(["git", 'commit', '-am', '"today update"'])
-    subprocess.call(['git', 'push'])
+    subprocess.call(['git', 'push', '>>', '~/log/crontab.log', '2>&1'])
+
