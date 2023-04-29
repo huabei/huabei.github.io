@@ -239,7 +239,8 @@ def main(url_file_path: str, output_file_path: str, head_replace: dict = None):
         if os.path.exists((last_day_file := f'../../_data/seminars-update-{d}.yaml')):
             logging.info('today file and latest exit!, cover today file')
             os.remove(last_day_file)
-            os.rename(day_update_path, last_day_file)
+        os.rename(day_update_path, last_day_file)
+
 
     
     # 已存的latest所有数据作为昨天的数据，和今天的数据比较，得到update数据
