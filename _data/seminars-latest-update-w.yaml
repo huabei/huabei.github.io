@@ -1,5 +1,33 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.zju.edu.cn/2023/0501/c33485a2751651/page.htm
+    info: '【化学系】启真化学大讲堂：J. Fraser Stoddart 院士（美国...
+
+      [2023-05-01]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：J. Fraser Stoddart 院士（美国西北大学）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0428/c33485a2751448/page.htm
+    info: '“杏林·学者论坛”—杨竞 教授报告会
+
+      [2023-04-28]'
+    person: ''
+    time: ''
+    title: “杏林·学者论坛”—杨竞 教授报告会
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0428/c33485a2751089/page.htm
+    info: '求是海洋学术论坛2023年05期（总21期）——Compatible Formati...
+
+      [2023-04-28]'
+    person: ''
+    time: ''
+    title: 求是海洋学术论坛2023年05期（总21期）——Compatible Formation for UAVs with Visual Sensing
+      Constraint
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/8166.htm
     info: '大连大学方辉教授学术报告
 
@@ -340,23 +368,3 @@
       16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0428/c33485a2751448/page.htm
-    info: '“杏林·学者论坛”—杨竞 教授报告会
-
-      [2023-04-28]'
-    person: ''
-    time: ''
-    title: “杏林·学者论坛”—杨竞 教授报告会
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0428/c33485a2751089/page.htm
-    info: '求是海洋学术论坛2023年05期（总21期）——Compatible Formati...
-
-      [2023-04-28]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年05期（总21期）——Compatible Formation for UAVs with Visual Sensing
-      Constraint
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
