@@ -74,6 +74,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8177.htm
+    info: '英国伦敦国王学院Deng Yansha博士学术报告
+
+      2023-05-05'
+    person: ''
+    time: ''
+    title: 英国伦敦国王学院Deng Yansha博士学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/8166.htm
     info: '大连大学方辉教授学术报告
 
@@ -153,14 +161,6 @@
     person: ''
     time: ''
     title: 同济大学汤奇荣教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7958.htm
-    info: '北京航空航天大学李昂生教授报告通知
-
-      2023-04-06'
-    person: ''
-    time: ''
-    title: 北京航空航天大学李昂生教授报告通知
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -392,7 +392,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4927015
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4930404
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1567,6 +1567,16 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/149516.htm
+    info: '2023-05-05
+
+      【应化系学术报告2023-03】From DNA damage to DNA sensing: bridging innate and adaptive
+      immunity'
+    person: ''
+    time: ''
+    title: '【应化系学术报告2023-03】From DNA damage to DNA sensing: bridging innate and adaptive
+      immunity'
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/149472.htm
     info: '2023-04-29
 
@@ -1649,18 +1659,31 @@
     person: ''
     time: ''
     title: 【Soft Matter Lecture 127】含氟烯烃可控聚合
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149016.htm
-    info: '2023-04-18
-
-      【有机化学学术报告】Access Molecular Complexity by Breaking Symmetry of Dicarbonyl Compounds'
-    person: ''
-    time: ''
-    title: 【有机化学学术报告】Access Molecular Complexity by Breaking Symmetry of Dicarbonyl
-      Compounds
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/149506.htm
+    info: '06
+
+      May
+
+      Boundary regularity for elliptic equations
+
+      时间：2023-05-06 14:00-15:00
+
+      报告人: 张凯'
+    person: ''
+    time: ''
+    title: '06
+
+      May
+
+      Boundary regularity for elliptic equations
+
+      时间：2023-05-06 14:00-15:00
+
+      报告人: 张凯'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149278.htm
     info: '08
@@ -1685,6 +1708,52 @@
       时间：2023-05-08 14:00-15:00
 
       报告人: Zhenyao Sun (Beijing Institute of Technology)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/149510.htm
+    info: '08
+
+      May
+
+      Local and global stability of periodic-parabolic Lotka-Volterra competition
+      system with small/large diffusion rates
+
+      时间：2023-05-08 14:00-15:00
+
+      报告人: 白学利'
+    person: ''
+    time: ''
+    title: '08
+
+      May
+
+      Local and global stability of periodic-parabolic Lotka-Volterra competition
+      system with small/large diffusion rates
+
+      时间：2023-05-08 14:00-15:00
+
+      报告人: 白学利'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/149517.htm
+    info: '10
+
+      May
+
+      A Generalization of the Geroch Conjecture with Arbitrary Ends
+
+      时间：2023-05-10 09:00-10:00
+
+      报告人: Shuli Chen (Stanford University)'
+    person: ''
+    time: ''
+    title: '10
+
+      May
+
+      A Generalization of the Geroch Conjecture with Arbitrary Ends
+
+      时间：2023-05-10 09:00-10:00
+
+      报告人: Shuli Chen (Stanford University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149426.htm
     info: '11
@@ -1841,76 +1910,6 @@
       时间：2023-05-18 10:15-11:15
 
       报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/149175.htm
-    info: '28
-
-      Apr
-
-      机器学习与数据科学博士生系列论坛（第四十八期）—— Privacy Amplification Strategies towards Better Privacy-utility
-      Trade-off
-
-      时间：2023-04-28 16:00-17:00
-
-      报告人: Xiang Li (PKU)'
-    person: ''
-    time: ''
-    title: '28
-
-      Apr
-
-      机器学习与数据科学博士生系列论坛（第四十八期）—— Privacy Amplification Strategies towards Better Privacy-utility
-      Trade-off
-
-      时间：2023-04-28 16:00-17:00
-
-      报告人: Xiang Li (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/149202.htm
-    info: '28
-
-      Apr
-
-      School Colloquium——数学奠定后量子密码的基础
-
-      时间：2023-04-28 16:00-17:00
-
-      报告人: Chuanming Zong (Tianjin University)'
-    person: ''
-    time: ''
-    title: '28
-
-      Apr
-
-      School Colloquium——数学奠定后量子密码的基础
-
-      时间：2023-04-28 16:00-17:00
-
-      报告人: Chuanming Zong (Tianjin University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/147808.htm
-    info: '27
-
-      Apr
-
-      Applied Mathematics Seminar——Finding collective variables of metastable stochastic
-      dynamics for the study of kinetics on large timescales
-
-      时间：2023-04-27 14:00-15:00
-
-      报告人: Dr. Wei Zhang (Zuse Institute Berlin)'
-    person: ''
-    time: ''
-    title: '27
-
-      Apr
-
-      Applied Mathematics Seminar——Finding collective variables of metastable stochastic
-      dynamics for the study of kinetics on large timescales
-
-      时间：2023-04-27 14:00-15:00
-
-      报告人: Dr. Wei Zhang (Zuse Institute Berlin)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2058,146 +2057,208 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年12月9日
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
 
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+      2023-04
 
-      人工智能前沿应用系列讲座'
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
     person: ''
     time: ''
-    title: '2021年12月9日
+    title: '11
 
-      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+      2023-04
 
-      人工智能前沿应用系列讲座'
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月30日
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      2023-03
 
-      人工智能前沿应用系列讲座'
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
     person: ''
     time: ''
-    title: '2021年11月30日
+    title: '01
 
-      讲座预告 | 人工智能在金融领域的应用探索
+      2023-03
 
-      人工智能前沿应用系列讲座'
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月23日
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      2022-11
 
-      人工智能前沿应用系列讲座'
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
     person: ''
     time: ''
-    title: '2021年11月23日
+    title: '28
 
-      讲座预告 | 人工智能在医疗中的应用及发展前景
+      2022-11
 
-      人工智能前沿应用系列讲座'
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月15日
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
 
-      讲座预告 | 自动驾驶技术进展与量产实践
+      2022-09
 
-      人工智能前沿应用系列讲座'
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
     person: ''
     time: ''
-    title: '2021年11月15日
+    title: '28
 
-      讲座预告 | 自动驾驶技术进展与量产实践
+      2022-09
 
-      人工智能前沿应用系列讲座'
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月9日
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
 
-      讲座预告 | 元宇宙与数字孪生
+      2022-07
 
-      人工智能前沿应用系列讲座'
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
     person: ''
     time: ''
-    title: '2021年11月9日
+    title: '04
 
-      讲座预告 | 元宇宙与数字孪生
+      2022-07
 
-      人工智能前沿应用系列讲座'
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年11月2日
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
 
-      讲座预告 | AI芯片的产业需求和发展
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
     person: ''
     time: ''
-    title: '2021年11月2日
+    title: '20
 
-      讲座预告 | AI芯片的产业需求和发展
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月26日
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
 
-      讲座预告 | 大模型，小语种，会话式RPA
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
     person: ''
     time: ''
-    title: '2021年10月26日
+    title: '09
 
-      讲座预告 | 大模型，小语种，会话式RPA
+      2022-05
 
-      人工智能前沿应用系列讲座'
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年10月12日
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
 
-      讲座预告 | AR中的计算机视觉
+      2021-10
 
-      人工智能前沿应用系列讲座'
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
     person: ''
     time: ''
-    title: '2021年10月12日
+    title: '25
 
-      讲座预告 | AR中的计算机视觉
+      2021-10
 
-      人工智能前沿应用系列讲座'
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年9月2日
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
 
-      学术报告会 | 深度学习的基础理论
+      2021-09
 
-      报告人：陶大程'
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
     person: ''
     time: ''
-    title: '2021年9月2日
+    title: '22
 
-      学术报告会 | 深度学习的基础理论
+      2021-09
 
-      报告人：陶大程'
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
   - address: ''
-    href: https://ai.sjtu.edu.cn/info/academic
-    info: '2021年1月6日
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
 
-      学术报告会 | 人体外貌特征与人类表型组研究
+      2020-01
 
-      报告人：汪思佳'
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
     person: ''
     time: ''
-    title: '2021年1月6日
+    title: '06
 
-      学术报告会 | 人体外貌特征与人类表型组研究
+      2020-01
 
-      报告人：汪思佳'
-  page_title: 上海交通大学人工智能研究院
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1424
+    info: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+    person: ''
+    time: ''
+    title: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+  page_title: 上海交通大学BIO-X研究院
   page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
@@ -2350,7 +2411,7 @@
 
       Siqin Cao , University of Wisconsin-Madison
 
-      2023-04-21 10:30, 14 days ago'
+      2023-04-21 10:30, 15 days ago'
     person: ''
     time: ''
     title: 'Building kinetic network models to capture long-time processes of biomolecules
@@ -2358,49 +2419,49 @@
 
       Siqin Cao , University of Wisconsin-Madison
 
-      2023-04-21 10:30, 14 days ago'
+      2023-04-21 10:30, 15 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Some Recent Progress in Proximal Causal Learning
 
       崔逸凡 , 浙江大学数据科学研究中心
 
-      2023-04-19 14:00, 16 days ago'
+      2023-04-19 14:00, 17 days ago'
     person: ''
     time: ''
     title: 'Some Recent Progress in Proximal Causal Learning
 
       崔逸凡 , 浙江大学数据科学研究中心
 
-      2023-04-19 14:00, 16 days ago'
+      2023-04-19 14:00, 17 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'The synthetic instrument: From sparse association to sparse causation
 
       王林勃 , 多伦多大学
 
-      2023-04-19 13:00, 16 days ago'
+      2023-04-19 13:00, 17 days ago'
     person: ''
     time: ''
     title: 'The synthetic instrument: From sparse association to sparse causation
 
       王林勃 , 多伦多大学
 
-      2023-04-19 13:00, 16 days ago'
+      2023-04-19 13:00, 17 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, 23 days ago'
+      2023-04-12 15:00, 24 days ago'
     person: ''
     time: ''
     title: 'Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, 23 days ago'
+      2023-04-12 15:00, 24 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: 'High-order Vlasov-Darwin system as non-relativistic approximation of the
@@ -2687,6 +2748,34 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3438.html
+    info: '12
+
+      2023-05
+
+      【学术报告】光酶催化–利用光解锁酶的新反应性'
+    person: ''
+    time: ''
+    title: '12
+
+      2023-05
+
+      【学术报告】光酶催化–利用光解锁酶的新反应性'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3437.html
+    info: '12
+
+      2023-05
+
+      【学术报告】铈催化惰性碳氢键选择性转化的机理研究'
+    person: ''
+    time: ''
+    title: '12
+
+      2023-05
+
+      【学术报告】铈催化惰性碳氢键选择性转化的机理研究'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3412.html
     info: '09
 
@@ -2800,34 +2889,6 @@
       2023-04
 
       【学术报告】Transition Metal-Catalyzed Asymmetric Hydrophosphination'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3402.html
-    info: '14
-
-      2023-04
-
-      【学术报告】多可过渡态模式：交叉Diels-Alder反应机理研究'
-    person: ''
-    time: ''
-    title: '14
-
-      2023-04
-
-      【学术报告】多可过渡态模式：交叉Diels-Alder反应机理研究'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3395.html
-    info: '14
-
-      2023-04
-
-      【学术报告】超分子胶体马达'
-    person: ''
-    time: ''
-    title: '14
-
-      2023-04
-
-      【学术报告】超分子胶体马达'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -2922,6 +2983,24 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2G2qF2
+    info: '刘新钰
+
+      A NEW SAV-BASED MINIMIZATION ALGORITHM FOR DISCRETE GRADIENT SYSTEM
+
+      2023-05-11
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '刘新钰
+
+      A NEW SAV-BASED MINIMIZATION ALGORITHM FOR DISCRETE GRADIENT SYSTEM
+
+      2023-05-11
+
+      10:00 — 11:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuctuG2qF2
     info: '[特邀报告] 郭岩 教授
 
@@ -2939,6 +3018,24 @@
       2023-05-09
 
       15:30 — 16:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2HpKF2
+    info: '刘文杰
+
+      CHEBYSHEV/LEGENDRE POLYNOMIAL APPROXIMATIONS IN NEW FRACTIONAL SPACES
+
+      2023-05-08
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '刘文杰
+
+      CHEBYSHEV/LEGENDRE POLYNOMIAL APPROXIMATIONS IN NEW FRACTIONAL SPACES
+
+      2023-05-08
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuctyG2qF2
     info: '倪明康教授
@@ -2993,42 +3090,6 @@
       2023-05-06
 
       16:00 — 16:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2FpKF2
-    info: '韩茂安教授
-
-      BIFURCATION THEORY OF LIMIT CYCLES BY HIGHER ORDER MELNIKOV FUNCTIONS AND APPLICATIONS
-
-      2023-05-06
-
-      16:45 — 17:30'
-    person: ''
-    time: ''
-    title: '韩茂安教授
-
-      BIFURCATION THEORY OF LIMIT CYCLES BY HIGHER ORDER MELNIKOV FUNCTIONS AND APPLICATIONS
-
-      2023-05-06
-
-      16:45 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuctyFpKF2
-    info: '[COLLOQUIUM] 冯兆生 教授
-
-      FIRST INTEGRAL AND APPLICATIONS TO NONLINEAR DIFFERENTIAL EQUATIONS
-
-      2023-05-05
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 冯兆生 教授
-
-      FIRST INTEGRAL AND APPLICATIONS TO NONLINEAR DIFFERENTIAL EQUATIONS
-
-      2023-05-05
-
-      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
