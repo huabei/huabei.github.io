@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12139.htm
+    info: "Introduction to Bergman Spaces\n 2023年05月07日 "
+    person: ''
+    time: ''
+    title: Introduction to Bergman Spaces
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12138.htm
+    info: "Best kernel approximation in the Bergman space\n 2023年05月07日 "
+    person: ''
+    time: ''
+    title: Best kernel approximation in the Bergman space
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12134.htm
     info: "The stability of Kelvin-Stuart cat's eye flows\n 2023年05月06日 "
     person: ''
@@ -57,19 +69,6 @@
     person: ''
     time: ''
     title: Bayesian Deep Learning or Deep learning with Bayesian principles
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12023.htm
-    info: "Large deviations and Gaussian approximation for products of random matrices\n\
-      \ 2023年04月17日 "
-    person: ''
-    time: ''
-    title: Large deviations and Gaussian approximation for products of random matrices
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/11985.htm
-    info: "概率方向报告\n 2023年04月07日 "
-    person: ''
-    time: ''
-    title: 概率方向报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -270,8 +269,20 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4741.htm
+    href: https://life.tsinghua.edu.cn/info/1132/4765.htm
     info: '学术报告
+
+      07
+
+      MAY
+
+      植物免疫与作物抗病分子育种
+
+      07
+
+      MAY
+
+      Phase Separation in Synapse Formation & Function
 
       30
 
@@ -323,23 +334,10 @@
 
       全癌标志物与NamiRNA，表观遗传应用与调控新模式
 
-      22
-
-      MAR
-
-      Multiple Papaver genomes shed light on the BIA pathway evolution and the centr…
-
-      22
-
-      MAR
-
-      Molecular physiology of lysosomes
-
-      共17条 上页12下页'
+      共19条 上页12下页'
     person: ''
     time: ''
-    title: Molecular basis of protein aggregation in Parkinson’s disease and its chemical
-      intervention
+    title: 植物免疫与作物抗病分子育种
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -392,7 +390,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4933142
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4935335
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -401,6 +399,16 @@
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3290.htm
+    info: '超分子聚合与可循环再生材料
+
+      超分子聚合物系指单体通过非共价键组装形成的聚合物。非共价键包括金属配位键、氢键、电荷转移作用、π-π相互作用、主客体相互作用等。与共价键不同，非共价键具有动态可逆特点，可以赋予超分子聚合物自修复、可…
+
+      2023.05.07'
+    person: ''
+    time: ''
+    title: 超分子聚合与可循环再生材料
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3280.htm
     info: 'A Chemical Story of Impurities
@@ -453,17 +461,6 @@
     person: ''
     time: ''
     title: 有机光电功能材料：分子基础与生物应用
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3267.htm
-    info: '异构体分辨质谱及其在脂质组学的应用
-
-      脂质是生命体不可或缺的一类生物分子，广泛参与脂膜构建、能量储存、信号传导、代谢调节等细胞事件。细胞中所有的脂质分子被统称为脂质组(lipidome)，其反应了细胞的生命活动状态。
-      由于脂质结构复杂，异构体繁多…
-
-      2023.02.25'
-    person: ''
-    time: ''
-    title: 异构体分辨质谱及其在脂质组学的应用
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -1733,6 +1730,52 @@
 
       报告人: Shuli Chen (Stanford University)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/149530.htm
+    info: '11
+
+      May
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Climate related financial risks and risk analysis
+      methods
+
+      时间：2023-05-11 14:00
+
+      报告人: 袁曦（中国再保险集团股份有限公司）'
+    person: ''
+    time: ''
+    title: '11
+
+      May
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Climate related financial risks and risk analysis
+      methods
+
+      时间：2023-05-11 14:00
+
+      报告人: 袁曦（中国再保险集团股份有限公司）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149533.htm
+    info: '11
+
+      May
+
+      Principal flows, sub-manifolds and boundaries
+
+      时间：2023-05-11 15:00-16:00
+
+      报告人: Zhigang Yao (Harvard University）'
+    person: ''
+    time: ''
+    title: '11
+
+      May
+
+      Principal flows, sub-manifolds and boundaries
+
+      时间：2023-05-11 15:00-16:00
+
+      报告人: Zhigang Yao (Harvard University）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149426.htm
     info: '11
 
@@ -1866,50 +1909,6 @@
       时间：2023-05-18 09:00-10:00
 
       报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149422.htm
-    info: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 10:15-11:15
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 10:15-11:15
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/149506.htm
-    info: '06
-
-      May
-
-      Boundary regularity for elliptic equations
-
-      时间：2023-05-06 14:00-15:00
-
-      报告人: 张凯'
-    person: ''
-    time: ''
-    title: '06
-
-      May
-
-      Boundary regularity for elliptic equations
-
-      时间：2023-05-06 14:00-15:00
-
-      报告人: 张凯'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2057,6 +2056,149 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1663.htm
+    info: '10
+
+      May
+
+      氢硅烷手性有机硅化学
+
+      报告人：何川 副教授/研究员
+
+      时 间：2023年5月10日（星期三）13:30-15:00'
+    person: ''
+    time: ''
+    title: 氢硅烷手性有机硅化学
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1661.htm
+    info: '28
+
+      Apr
+
+      Publishing in Chem & Chem Catalysis from Cell Press
+
+      报告人：王怀桔博士、朱颜飞博士
+
+      时 间：2023年4月28日（周五）10:30-11:45'
+    person: ''
+    time: ''
+    title: Publishing in Chem & Chem Catalysis from Cell Press
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1626.htm
+    info: '3
+
+      Mar
+
+      氧化-还原分子结人工光合作用催化剂
+
+      报告人：兰亚乾  教授华南师范大学二级教授、教务部工程研究中心主任
+
+      时间：2023年3月3日周五下午15：00'
+    person: ''
+    time: ''
+    title: 氧化-还原分子结人工光合作用催化剂
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1625.htm
+    info: '21
+
+      Feb
+
+      踢好临门一脚——论文返修
+
+      报告人：刘田宇 博士，Wiley出版社上海编辑部
+
+      时 间：2023年2月21日（星期二）15:00-17:00'
+    person: ''
+    time: ''
+    title: 踢好临门一脚——论文返修
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1513.htm
+    info: '13
+
+      Jul
+
+      无机离子交换反应及其应用
+
+      报告人：汤卫平 研究员
+
+      时 间：2022年7月13日（周三）14:00'
+    person: ''
+    time: ''
+    title: 无机离子交换反应及其应用
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1457.htm
+    info: '4
+
+      Mar
+
+      【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
+
+      报告人：李丹 长聘教轨副教授，上海交通大学Bio-X研究院
+
+      时 间：2022年3月4日15:00-17:00'
+    person: ''
+    time: ''
+    title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1415.htm
+    info: '6
+
+      Dec
+
+      SJTU and OU Joint Workshop in Chemistry
+
+      Zoom Meeting ID：862 9945 6713
+
+      时 间：2021年12月06日,14:00-17:45'
+    person: ''
+    time: ''
+    title: SJTU and OU Joint Workshop in Chemistry
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1402.htm
+    info: '25
+
+      Nov
+
+      三维等离激元纳米阵列的精准构筑及性能研究
+
+      报告人：聂志鸿教授，复旦大学
+
+      时 间：2021年11月25日,15:00-16:00'
+    person: ''
+    time: ''
+    title: 三维等离激元纳米阵列的精准构筑及性能研究
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1401.htm
+    info: '24
+
+      Nov
+
+      基于微纳结构的光热调控
+
+      报告人：朱嘉 教授, 南京大学
+
+      时 间：2021年11月24日,15:30-17:30'
+    person: ''
+    time: ''
+    title: 基于微纳结构的光热调控
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1394.htm
+    info: '20
+
+      Nov
+
+      2021年秋季学期第三次有机化学Seminar学术论坛
+
+      主讲人：刘家旺、董轶
+
+      时间：2021年11月20日（周六）15：00-17：00'
+    person: ''
+    time: ''
+    title: 2021年秋季学期第三次有机化学Seminar学术论坛
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: ''
     person: ''
@@ -2077,25 +2219,25 @@
 
       Siqin Cao , University of Wisconsin-Madison
 
-      2023-04-21 10:30, 16 days ago
+      2023-04-21 10:30, 17 days ago
 
       Some Recent Progress in Proximal Causal Learning
 
       崔逸凡 , 浙江大学数据科学研究中心
 
-      2023-04-19 14:00, 18 days ago
+      2023-04-19 14:00, 19 days ago
 
       The synthetic instrument: From sparse association to sparse causation
 
       王林勃 , 多伦多大学
 
-      2023-04-19 13:00, 18 days ago
+      2023-04-19 13:00, 19 days ago
 
       Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, 25 days ago
+      2023-04-12 15:00, a month ago
 
       High-order Vlasov-Darwin system as non-relativistic approximation of the Vlasov-Maxwell
       system
@@ -2116,25 +2258,25 @@
 
       Siqin Cao , University of Wisconsin-Madison
 
-      2023-04-21 10:30, 16 days ago
+      2023-04-21 10:30, 17 days ago
 
       Some Recent Progress in Proximal Causal Learning
 
       崔逸凡 , 浙江大学数据科学研究中心
 
-      2023-04-19 14:00, 18 days ago
+      2023-04-19 14:00, 19 days ago
 
       The synthetic instrument: From sparse association to sparse causation
 
       王林勃 , 多伦多大学
 
-      2023-04-19 13:00, 18 days ago
+      2023-04-19 13:00, 19 days ago
 
       Emergent behaviors of the Justh-Krishnaprasad model with uncertain communications
 
       Hui Yu , Yau Mathematical Sciences Center, Tsinghua University
 
-      2023-04-12 15:00, 25 days ago
+      2023-04-12 15:00, a month ago
 
       High-order Vlasov-Darwin system as non-relativistic approximation of the Vlasov-Maxwell
       system
