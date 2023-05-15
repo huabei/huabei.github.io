@@ -271,8 +271,14 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4770.htm
+    href: https://life.tsinghua.edu.cn/info/1132/4771.htm
     info: '学术报告
+
+      15
+
+      MAY
+
+      Autophagic interplay between Salmonellae and host cells revealed by cryo-elect…
 
       13
 
@@ -328,16 +334,11 @@
 
       蛋白质凝聚与聚集的化学生物学
 
-      08
-
-      APR
-
-      Transcriptional Inheritance of DNA Methylation during Adaptation to Low Temper…
-
-      共22条 上页123下页'
+      共11条 上页12下页'
     person: ''
     time: ''
-    title: Multiscale regulations of AID-initiated antibody gene diversification
+    title: Autophagic interplay between Salmonellae and host cells revealed by cryo-electron
+      tomography
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -390,7 +391,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4956383
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4959397
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -591,6 +592,18 @@
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
+    href: https://scbb.pkusz.edu.cn/info/1027/3348.htm
+    info: '2023-05-15
+
+      Special Seminar on May. 17, 2023(14:30-16:30, E103)—Prof. Jiang Xia (The Chinese
+      University of Hong Kong) and Dr. Liang Z'
+    person: ''
+    time: ''
+    title: '2023-05-15
+
+      Special Seminar on May. 17, 2023(14:30-16:30, E103)—Prof. Jiang Xia (The Chinese
+      University of Hong Kong) and Dr. Liang Z'
+  - address: ''
     href: https://scbb.pkusz.edu.cn/info/1027/3345.htm
     info: '2023-04-24
 
@@ -692,16 +705,6 @@
     title: '2021-10-19
 
       Special Seminar on Oct. 19, 2021(10:30-11:30，F(E)101)--Dr. Tatsuhisa Tsuboi（清华大学深圳国际研究生院）'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3142.htm
-    info: '2021-10-19
-
-      Special Seminar on Oct. 13, 2021(14:00-16:00，F(E)101)--张林峰（北京深势科技有限公司创始人）'
-    person: ''
-    time: ''
-    title: '2021-10-19
-
-      Special Seminar on Oct. 13, 2021(14:00-16:00，F(E)101)--张林峰（北京深势科技有限公司创始人）'
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
@@ -865,6 +868,79 @@
     title: Pre
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
+- page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1631
+    info: '5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
+
+      2023-05-09'
+    person: ''
+    time: ''
+    title: 5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1630
+    info: '5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
+      pathway..
+
+      2023-05-09'
+    person: ''
+    time: ''
+    title: 5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
+      pathway..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1625
+    info: '5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
+
+      2023-04-25'
+    person: ''
+    time: ''
+    title: 5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1624
+    info: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
+      Fact..
+
+      2023-04-25'
+    person: ''
+    time: ''
+    title: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
+      Fact..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1623
+    info: '4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
+      usingconnect..
+
+      2023-04-25'
+    person: ''
+    time: ''
+    title: 4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
+      usingconnect..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1612
+    info: '4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
+
+      2023-03-31'
+    person: ''
+    time: ''
+    title: 4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1611
+    info: '4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
+
+      2023-03-31'
+    person: ''
+    time: ''
+    title: 4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1605
+    info: '4月6日CQBseminar：Effects of gene transfer in phage-host coevolution
+
+      2023-03-27'
+    person: ''
+    time: ''
+    title: 4月6日CQBseminar：Effects of gene transfer in phage-host coevolution
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/00ace1c2b7dc4327a9f82f87702d56b5.htm
@@ -1156,6 +1232,12 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: http://cs.pku.edu.cn/info/1020/3947.htm
+    info: 计算机学院系列讲座大师讲堂第4期——Distributed Intelligence in the Computing Continuum? 23-05-15
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座大师讲堂第4期——Distributed Intelligence in the Computing Continuum?
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/3929.htm
     info: 菁英论坛丨Empowering Azure Storage with RDMA-白巍 23-04-28
     person: ''
@@ -1213,12 +1295,6 @@
     person: ''
     time: ''
     title: 讲座预告丨北京大学计算机学院“献礼二十大，强国新征程——人工智能学术月”第五期讲座
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3441.htm
-    info: 计算圆桌丨与“区块链”专家零距离 22-05-26
-    person: ''
-    time: ''
-    title: 计算圆桌丨与“区块链”专家零距离
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -1493,6 +1569,42 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/149797.htm
+    info: '2023-05-15
+
+      【北京大学物理化学讲座】The route going from transition path time distributions and protein
+      folding times, to quantum mechanics, tunneling times and nonadiabatic transition
+      times'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学讲座】The route going from transition path time distributions and
+      protein folding times, to quantum mechanics, tunneling times and nonadiabatic
+      transition times
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/149777.htm
+    info: '2023-05-15
+
+      【有机化学OPSS学术报告】螺环化反应研究'
+    person: ''
+    time: ''
+    title: 【有机化学OPSS学术报告】螺环化反应研究
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/149782.htm
+    info: '2023-05-15
+
+      【Soft Matter Lecture 130】软物质遇见机器学习 ——微结构调控机制研究'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 130】软物质遇见机器学习 ——微结构调控机制研究
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/149776.htm
+    info: '2023-05-15
+
+      【“化学生物学”系列学术报告】新药发现化学生物学'
+    person: ''
+    time: ''
+    title: 【“化学生物学”系列学术报告】新药发现化学生物学
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/149675.htm
     info: '2023-05-10
 
@@ -1550,87 +1662,9 @@
     time: ''
     title: '【应化系学术报告2023-03】From DNA damage to DNA sensing: bridging innate and adaptive
       immunity'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149472.htm
-    info: '2023-04-29
-
-      【无机化学论坛】新型碱金属烷基配合物的合成、结构及反应性能'
-    person: ''
-    time: ''
-    title: 【无机化学论坛】新型碱金属烷基配合物的合成、结构及反应性能
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149439.htm
-    info: '2023-04-28
-
-      【北京大学物理化学学术报告】引领低碳时代的碳一化学：新反应，新催化剂，新装置'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】引领低碳时代的碳一化学：新反应，新催化剂，新装置
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149365.htm
-    info: '2023-04-27
-
-      面向成体干细胞研究的邻近分子标记技术'
-    person: ''
-    time: ''
-    title: 面向成体干细胞研究的邻近分子标记技术
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149302.htm
-    info: '2023-04-26
-
-      【北京大学物理化学学术报告】荧光相关光谱单分子技术在生命科学研究中的应用'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】荧光相关光谱单分子技术在生命科学研究中的应用
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/149570.htm
-    info: '15
-
-      May
-
-      Response Formulae for Expanding Maps
-
-      时间：2023-05-15 15:10-17:00
-
-      报告人: Jianyu Chen (Soochow University)'
-    person: ''
-    time: ''
-    title: '15
-
-      May
-
-      Response Formulae for Expanding Maps
-
-      时间：2023-05-15 15:10-17:00
-
-      报告人: Jianyu Chen (Soochow University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149612.htm
-    info: '15
-
-      May
-
-      Probability and Statistics Seminar—— Liouville quantum gravity from random matrix
-      dynamics
-
-      时间：2023-05-15 14:00-15:00
-
-      报告人: Hugo Falconet (NYU Courant)'
-    person: ''
-    time: ''
-    title: '15
-
-      May
-
-      Probability and Statistics Seminar—— Liouville quantum gravity from random matrix
-      dynamics
-
-      时间：2023-05-15 14:00-15:00
-
-      报告人: Hugo Falconet (NYU Courant)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149408.htm
     info: '16
@@ -1786,49 +1820,97 @@
 
       报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/149557.htm
-    info: '12
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/149752.htm
+    info: '19
 
       May
 
-      机器学习与数据科学博士生系列论坛（第四十九期）—— Model-free Approaches to Robust Markov Decision Processes
+      School Colloquium——Fluctuations and moderate deviations for a catalytic Fleming-Viot
+      branching system
 
-      时间：2023-05-12 16:00-17:00
+      时间：2023-05-19 16:00-17:00
 
-      报告人: Wenhao Yang (PKU)'
+      报告人: Jie Xiong (Southern University of Science and Technology)'
     person: ''
     time: ''
-    title: '12
+    title: '19
 
       May
 
-      机器学习与数据科学博士生系列论坛（第四十九期）—— Model-free Approaches to Robust Markov Decision Processes
+      School Colloquium——Fluctuations and moderate deviations for a catalytic Fleming-Viot
+      branching system
 
-      时间：2023-05-12 16:00-17:00
+      时间：2023-05-19 16:00-17:00
 
-      报告人: Wenhao Yang (PKU)'
+      报告人: Jie Xiong (Southern University of Science and Technology)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/149583.htm
-    info: '12
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/149763.htm
+    info: '24
 
       May
 
-      School Colloquium——Barron Type Spaces and Neural Network Approximation
+      Graphical solutions to one-phase problems
 
-      时间：2023-05-12 15:00-16:00
+      时间：2023-03-24 16:00-17:00
 
-      报告人: 明平兵（中国科学院数学与系统科学研究院）'
+      报告人: Hui Yu (National University of Singapore)'
     person: ''
     time: ''
-    title: '12
+    title: '24
 
       May
 
-      School Colloquium——Barron Type Spaces and Neural Network Approximation
+      Graphical solutions to one-phase problems
 
-      时间：2023-05-12 15:00-16:00
+      时间：2023-03-24 16:00-17:00
 
-      报告人: 明平兵（中国科学院数学与系统科学研究院）'
+      报告人: Hui Yu (National University of Singapore)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/149570.htm
+    info: '15
+
+      May
+
+      Response Formulae for Expanding Maps
+
+      时间：2023-05-15 15:10-17:00
+
+      报告人: Jianyu Chen (Soochow University)'
+    person: ''
+    time: ''
+    title: '15
+
+      May
+
+      Response Formulae for Expanding Maps
+
+      时间：2023-05-15 15:10-17:00
+
+      报告人: Jianyu Chen (Soochow University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149612.htm
+    info: '15
+
+      May
+
+      Probability and Statistics Seminar—— Liouville quantum gravity from random matrix
+      dynamics
+
+      时间：2023-05-15 14:00-15:00
+
+      报告人: Hugo Falconet (NYU Courant)'
+    person: ''
+    time: ''
+    title: '15
+
+      May
+
+      Probability and Statistics Seminar—— Liouville quantum gravity from random matrix
+      dynamics
+
+      时间：2023-05-15 14:00-15:00
+
+      报告人: Hugo Falconet (NYU Courant)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1974,906 +2056,6 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
-- page_info:
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1663.htm
-    info: '10
-
-      May
-
-      氢硅烷手性有机硅化学
-
-      报告人：何川 副教授/研究员
-
-      时 间：2023年5月10日（星期三）13:30-15:00'
-    person: ''
-    time: ''
-    title: 氢硅烷手性有机硅化学
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1661.htm
-    info: '28
-
-      Apr
-
-      Publishing in Chem & Chem Catalysis from Cell Press
-
-      报告人：王怀桔博士、朱颜飞博士
-
-      时 间：2023年4月28日（周五）10:30-11:45'
-    person: ''
-    time: ''
-    title: Publishing in Chem & Chem Catalysis from Cell Press
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1626.htm
-    info: '3
-
-      Mar
-
-      氧化-还原分子结人工光合作用催化剂
-
-      报告人：兰亚乾  教授华南师范大学二级教授、教务部工程研究中心主任
-
-      时间：2023年3月3日周五下午15：00'
-    person: ''
-    time: ''
-    title: 氧化-还原分子结人工光合作用催化剂
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1625.htm
-    info: '21
-
-      Feb
-
-      踢好临门一脚——论文返修
-
-      报告人：刘田宇 博士，Wiley出版社上海编辑部
-
-      时 间：2023年2月21日（星期二）15:00-17:00'
-    person: ''
-    time: ''
-    title: 踢好临门一脚——论文返修
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1513.htm
-    info: '13
-
-      Jul
-
-      无机离子交换反应及其应用
-
-      报告人：汤卫平 研究员
-
-      时 间：2022年7月13日（周三）14:00'
-    person: ''
-    time: ''
-    title: 无机离子交换反应及其应用
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1457.htm
-    info: '4
-
-      Mar
-
-      【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
-
-      报告人：李丹 长聘教轨副教授，上海交通大学Bio-X研究院
-
-      时 间：2022年3月4日15:00-17:00'
-    person: ''
-    time: ''
-    title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1415.htm
-    info: '6
-
-      Dec
-
-      SJTU and OU Joint Workshop in Chemistry
-
-      Zoom Meeting ID：862 9945 6713
-
-      时 间：2021年12月06日,14:00-17:45'
-    person: ''
-    time: ''
-    title: SJTU and OU Joint Workshop in Chemistry
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1402.htm
-    info: '25
-
-      Nov
-
-      三维等离激元纳米阵列的精准构筑及性能研究
-
-      报告人：聂志鸿教授，复旦大学
-
-      时 间：2021年11月25日,15:00-16:00'
-    person: ''
-    time: ''
-    title: 三维等离激元纳米阵列的精准构筑及性能研究
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1401.htm
-    info: '24
-
-      Nov
-
-      基于微纳结构的光热调控
-
-      报告人：朱嘉 教授, 南京大学
-
-      时 间：2021年11月24日,15:30-17:30'
-    person: ''
-    time: ''
-    title: 基于微纳结构的光热调控
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1394.htm
-    info: '20
-
-      Nov
-
-      2021年秋季学期第三次有机化学Seminar学术论坛
-
-      主讲人：刘家旺、董轶
-
-      时间：2021年11月20日（周六）15：00-17：00'
-    person: ''
-    time: ''
-    title: 2021年秋季学期第三次有机化学Seminar学术论坛
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/seminars
-    info: '近期学术活动
-
-      查看更多'
-    person: ''
-    time: ''
-    title: 查看更多
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Near-optimal spectral methods in community detection, object matching,
-      and statistical ranking
-
-      凌舒扬 , 上海纽约大学
-
-      2023-05-17 10:00, in 2 days
-
-      Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
-      Measurement Error
-
-      张政 , 中国人民大学统计与大数据研究院
-
-      2023-05-12 10:00, 3 days ago
-
-      Stochastic optimization and two timescale Q learning process
-
-      Jing An , Duke University
-
-      2023-05-10 16:00, 5 days ago
-
-      Building kinetic network models to capture long-time processes of biomolecules
-      from short-time simulations: from Markov State Model to Generalized Master Equation
-
-      Siqin Cao , University of Wisconsin-Madison
-
-      2023-04-21 10:30, 24 days ago
-
-      Some Recent Progress in Proximal Causal Learning
-
-      崔逸凡 , 浙江大学数据科学研究中心
-
-      2023-04-19 14:00, a month ago
-
-      The synthetic instrument: From sparse association to sparse causation
-
-      王林勃 , 多伦多大学
-
-      2023-04-19 13:00, a month ago'
-    person: ''
-    time: ''
-    title: 'Near-optimal spectral methods in community detection, object matching,
-      and statistical ranking
-
-      凌舒扬 , 上海纽约大学
-
-      2023-05-17 10:00, in 2 days
-
-      Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
-      Measurement Error
-
-      张政 , 中国人民大学统计与大数据研究院
-
-      2023-05-12 10:00, 3 days ago
-
-      Stochastic optimization and two timescale Q learning process
-
-      Jing An , Duke University
-
-      2023-05-10 16:00, 5 days ago
-
-      Building kinetic network models to capture long-time processes of biomolecules
-      from short-time simulations: from Markov State Model to Generalized Master Equation
-
-      Siqin Cao , University of Wisconsin-Madison
-
-      2023-04-21 10:30, 24 days ago
-
-      Some Recent Progress in Proximal Causal Learning
-
-      崔逸凡 , 浙江大学数据科学研究中心
-
-      2023-04-19 14:00, a month ago
-
-      The synthetic instrument: From sparse association to sparse causation
-
-      王林勃 , 多伦多大学
-
-      2023-04-19 13:00, a month ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/news
-    info: '近期新闻
-
-      查看更多'
-    person: ''
-    time: ''
-    title: 查看更多
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '【喜讯】我院李松挺教授获第六届全国高校青年教师教学竞赛理科组一等奖！
-
-      2023年4月21日，中华全国总工会和教育部联合主办的第六届全国高校青年教师教学竞赛决赛在清华大学隆重开幕。共有来自全国121所高校的158名青年教师踏上竞技舞台，进行切磋磨砺、展示风采的比拼，涵盖文、理、工、医、思政五个领域。其中，李松挺老师代表上海交通大学校本部和上海出征本届比赛。本次比赛旨在提升高校教师的教学水平，推动青年教师的成长和发展。各位选手在比赛中展现出卓越的教学能力和创新精神，共同竞技，共创教学新篇章。上海交通大学自然科学研究院、数学科学学院李松挺获理科组一等奖（全国第二名）李松挺在2022年获第五届上海高校青年教师教学竞赛特等奖，今年他在国赛舞台上赛出水平，再创佳绩！他在本次竞赛中展现了专注于“上好一门课”的匠心精神，并深刻践行了“学在交大，育人神圣”的理念。这一成绩的取得，既得益于四级联赛广泛参与的机制效应，也凝聚了校工会、教学发展中心、党委教师工作部、研究生院、教务处以及医学院工会和教务处等多个部门的合力保障，形成了“交大方案”。这个方案不仅为青年教师的成长提供了全方位的支持，也体现了上海交通大学多部门协同、共同发力的团队精神。心得体会李松挺表示：“参加青教赛是一段令人难忘的经历。在备赛过程中，我很幸运得到了许多教学名师前辈们的悉心指导，对此心怀感激。他们的指导使我不仅在教学技巧上获得很大提升，更重要的是使我对如何上好数学课有了更深刻的理解和思考。此外，青教赛还令我结识了一起并肩作战的小伙伴们，一路上我们相互鼓励，也相互学习。青教赛是我们在交大教学之路的新起点，通过以赛促教，令我们更有信心上好今后的每一堂课。”个人介绍李松挺，上海交通大学自然科学研究院、数学科学学院教授。2014年获上海交通大学数学博士学位，2015-2018年在纽约大学柯朗研究所任博士后。2018年9月入职上海交通大学自然科学研究院、数学科学学院任长聘教轨副教授，2022年9月至今任教授。研究方向为计算神经科学和类脑计算，包括神经元树突计算，神经网络动力学，以及受脑启发的机器学习算法等，研究成果发表在PNAS,
-      CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
-      Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。相关报道特奖风采｜李松挺：与学生一同“品茶”
-
-      2023-04-25
-
-      同“新”合力--自然科学研究院再添新力量
-
-      为加强科研力量，拓展数学、物理等学科领域的研究深度，上海交通大学自然科学研究院一直以高标准、全球视野招揽杰出青年人才。经过层层筛选，我们很荣幸地宣布，曹语教授于2023年4月加入我院。作为来自世界一流大学和科研机构的优秀青年学者，曹教授拥有丰富的学术经验和深厚的学科造诣。他的加入将为研究院注入新鲜血液，推动我们的科学研究更上一层楼，为学术界和社会做出更多突破性贡献。曹语：长聘教轨副教授上海交通大学自然科学研究院/数学科学学院最近迎来了一位新的长聘教轨副教授——曹语。曹教授于2020年毕业于杜克大学，获得哲学博士学位（数学），之后在纽约大学科朗数学研究所担任了两年的博士后(Courant
-      Instructor)。曹教授还曾在杜克大学数学系和香港城市大学数据科学学院担任过短期科研工作。他的研究方向是动力系统的分析和算法，包括量子动力系统的分析和算法、经典动力系统与深度学习的结合等。他的研究成果已发表在数学、物理类期刊，包括J.
-      Comput. Phys.、J. Math. Phys.、Quantum等，还被NeurIPS 2022收录。对于为什么选择动力系统这一研究方向，曹教授表示，动力系统可以被用来描述、刻画众多科学领域里的模型的变化。从大到天体的运行变化（经典系统），到小到电子的轨迹（量子系统），都可以通过动力系统来描述。对他来说，动力系统最有趣的能力在于用简洁的数学语言即可描述几乎所有事物的变化。当前的一个新挑战是将传统的动力系统分析和算法与新兴重要学科，例如深度学习和量子计算，结合起来。在深度学习领域，基于动力系统的生成模型（如Neural
-      ODE、扩散模型等）已经取得了瞩目的成就。从数学的角度，进一步理解相关动力系统以及如何更好地将已有的传统计算方法与生成模型结合，将有助于深入理解和提高生成模型的效能。随着量子信息的发展，如何更好地利用量子计算的优势，在经典动力系统的模拟中也是一个亟待系统研究的数学问题。上海交通大学自然科学研究院/数学科学学院表示，曹教授的加入将极大地丰富学院的科研团队和学术氛围，未来将会有更多的科研成果在动力系统领域得以实现。In
-      order to enhance our research capabilities and expand the depth of research
-      in fields such as mathematics and physics, the Institute of Natural Sciences
-      of Shanghai Jiao Tong University has been actively recruiting outstanding young
-      talents with high standards and a global perspective. After a rigorous selection
-      process, we are pleased to announce that Dr. Cao Yu will be joining our institute
-      in April 2023. As an excellent young scholar from a world-class university and
-      research institution, Dr. Cao has rich academic experience and profound expertise
-      in her field. Her addition will inject new vitality into our institute, propel
-      our scientific research to new heights, and make more breakthrough contributions
-      to academia and society.Cao Yu obtained a Ph.D. in Philosophy (Mathematics)
-      from Duke University in 2020. He has worked as a Courant Instructor for two
-      years at the Courant Institute of Mathematical Sciences at New York University,
-      as well as having short-term research experience at the Department of Mathematics
-      at Duke University and the School of Data Science at City University of Hong
-      Kong. In April 2023, he joined the the Institute of Natural Sciences and School
-      of Mathematical Sciences of Shanghai Jiao Tong University.His research focuses
-      on the analysis and algorithms of dynamical systems, including the analysis
-      and algorithms of quantum dynamical systems and the combination of classical
-      dynamical systems and deep learning. His previous work has been published in
-      mathematical and physical journals, including J. Comput. Phys., J. Math. Phys.,
-      and Quantum, and has been included in NeurIPS 2022.Cao chose this research direction
-      because dynamical systems can be used to describe and characterize the changes
-      in models in many scientific fields. For example, dynamical systems can be used
-      to describe the changes in the movements of celestial bodies (classical systems)
-      or the trajectories of electrons (quantum systems), among other things. For
-      him, the most interesting ability of dynamical systems is the ability to describe
-      the changes in almost everything with concise mathematical language. The current
-      new challenge is to combine traditional dynamical systems analysis and algorithms
-      with emerging important disciplines such as deep learning and quantum computing.
-      In the field of deep learning, generative models based on dynamical systems,
-      such as Neural ODEs and diffusion models, have achieved remarkable achievements.
-      From a mathematical perspective, further understanding of relevant dynamical
-      systems and how to better combine existing traditional computational methods
-      with generative models will help to deepen our understanding and improve the
-      effectiveness of generative models. With the development of quantum information,
-      how to better utilize the advantages of quantum computing in the simulation
-      of classical dynamical systems is also an urgent mathematical problem that requires
-      systematic research.
-
-      2023-04-18
-
-      上海交大洪亮团队与肖湘团队合作应用高通量蛋白结构预测揭示深海热液古菌细菌共同祖先的代谢特征
-
-      近日，上海交通大学自然科学研究院洪亮团队与生命科学技术学院/微生物代谢国家重点实验室肖湘团队合作，以分离培养的具有古老的演化地位和独特代谢共性的深海热液超嗜热古菌和嗜热细菌为切入点，借助自主改良的深度学习AlphaFold2技术和中子散射实验，首次应用高通量蛋白结构组研究早期生命代谢，揭示了深海热液古菌细菌共同祖先的代谢特征。其结果发表在《自然
-      · 通讯》杂志上。原文链接：https://www.nature.com/articles/s41467-022-35523-8该研究成果以“Proteome-wide
-      3D structure prediction provides insights into the ancestral metabolism of ancient
-      archaea and bacteria”为题，发表在国际权威杂志《Nature Communications》上。上海交通大学生命科学技术学院赵维殳助理研究员与生命科学技术学院本科生钟博子韬为本文的共同第一作者，生命学院肖湘教授和自然科学研究院洪亮教授为本文的共同通讯作者。以现有生命追溯、重建演化过程和早期生命形式是研究生命起源和演化的一种重要思路。通常，研究者会基于基因组比较来推测早期生命的代谢特征，但高可变的基因组往往难以清晰地揭示演化脉络和模式。本研究独辟蹊径，应用基于高通量AlphaFold2深度学习技术，预测了近万个蛋白分子的3D结构，引入蛋白结构组，对深海热液来源的具有相似代谢功能的古老的超嗜热古菌和嗜热细菌的代表菌株，通过对序列、结构、功能三方面进行比较分析，重构了古菌细菌共同祖先的代谢特征。令人惊奇的是，这些结构在古菌细菌中保守的代谢模块，与实验验证的前生命化学过程高度重合，这一发现为生命起源的研究提供了新视角和新方法。此外，通过中子散射实验对本研究中不同菌种的柔性系数做了定量表征，在不同生长温度范围的古菌和细菌中建立了宏观柔性和其耐热能力的关系。图1.
-      本研究工作流程以及 A501（古菌，红色）和 3DAC（细菌，蓝色）基本特征。建立高通量结构预测，引入蛋白结构组，比较深海热液古菌细菌在序列、结构、功能之间的异同。本研究选取了超嗜热古菌Thermococcus
-      eurythermalis A501和嗜热代表细菌Zhurongbacter thermophilus 3DAC比较两者序列、结构、功能之间的异同。这两株菌均来自深海热液口，而深海热液区被认为是生命的摇篮之一。综合考虑两株菌株中功能相似蛋白质对的序列和蛋白结构异同，可以将蛋白质对划分到3个不同的组：(i)
-      具有相似结构和相似功能的直系同源序列；(ii) 具有相似结构和功能的非直系同源序列； (iii) 结构不同但功能相似的非直系同源序列。一些蛋白质对结构相似，但基因序列差异性很大，进一步证明了和序列相比，蛋白质结构和功能的关联度更大。通过将不同组的蛋白质对映射到代谢途径中，我们发现两株菌株中的蛋白质进化不是发生在单个蛋白质水平上，而是以代谢模块为单位发生的。譬如，两株菌株糖酵解的中半部分（从
-      DHAP 到乙酰辅酶 A）涉及的蛋白质都属于(i)组，而糖酵解和脂质生物合成连接通路上的蛋白（DHAP 到 G13P2）都属于（ii）组。以此划分的代谢模块可用于揭示蛋白质的不同来源和不同的演化历史。这在以往基于序列的分析中从未被发现。进一步对保守蛋白结构分析揭示了细菌和古菌共同祖先（ABCA）的保守代谢模块。这些保守的代谢模块包括糖酵解的中半部分（从
-      DHAP 到乙酰辅酶 A）、嘌呤和嘧啶的生物合成、一些必需氨基酸（即 Asp、Glu、Ser、Gly 和 Thr）的代谢、一些必需辅因子的生物合成（即
-      NAD（ P)+ 和 CoA)、具有 MBH 和 MBS 的能量呼吸、大多数氨酰-tRNA 连接酶和部分核糖体蛋白等，推测它们本就存在于共同祖先ABCA中，而后被遗传给了细菌和古菌。图2.
-      通过蛋白结构的捉对比较，揭示古菌细菌共同祖先中的保守代谢模块，与前生命过程高度重合。有趣的是，本研究发现结构保守的代谢模块与前生命化学过程高度重合，譬如中心碳代谢的保守代谢模块与已经被证实的前生物合成途径一致性高，由现有生命推测生命起源的逆推过程与从化学反应走向生命起源的正推过程出现了交汇，同时也从侧面证明了我们通过蛋白质预测结构获得的保守代谢模块绝非巧合。本研究首次应用高通量蛋白结构研究早期生命代谢，建立了蛋白结构组的新方法，发现蛋白的起源和演化不是孤立的而是以代谢模块为单位，保守的蛋白结构揭示了共同祖先的保守代谢模块，并首次发现结构保守的代谢模块与前生命化学过程高度重合，为祖先代谢重组和生命起源研究提供一种新的研究思路，部分验证了高通量蛋白质结构预测在生命起源和演化研究中的重大潜在价值。本研究获得了国家自然科学基金创新群体（41921006）、青年基金（42106087）和面上项目（11974239、31630002）的支持，上海人工智能实验室、上海科委、上海教委重大项目、上海市浦江人才计（22PJ1406900）的支持，以及上海交通大学交叉学科研究基金（YG
-      2016QN13）和“深蓝计划”（SL2021PT103）的支持。On Dec. 22nd, 2022, Nature Communications published
-      a joint research article entitled “Proteome-wide 3D structure prediction provides
-      insights into the ancestral metabolism of ancient archaea and bacteria” from
-      Prof. Xiang Xiao’s group (State Key Laboratory of Microbial Metabolism/School
-      of Life Sciences and Biotechnology) and Prof. Liang Hong’s group (Institute
-      of Natural Sciences). The co-first authors are Dr. Weishu Zhao (Assistant professor,
-      School of Life Sciences and Biotechnology) and Bozitao Zhong (Undergraduate
-      student, Institute of Natural Sciences). The corresponding authors are Prof.
-      Xiang Xiao and Liang Hong.Tracing the common ancestors from modern cells appears
-      to be an indispensable approach for investigating the origin and evolution of
-      early life on Earth. During the past two decades, many studies have proposed
-      various ideas to reconstruct ancestral cells in silico. With the development
-      of culture-independent high-throughput sequencing technology and bioinformatics
-      approaches, sequence-based comparative genomic and phylogenomic analyses are
-      the major avenue for studying the origin and ancestry of life. The main challenge
-      of phylogenomic analysis is to identify where the phylogenetic tree should be
-      rooted and even whether the root should exist at all. The latest phylogenetic
-      approaches have rooted archaeal and bacterial trees independently and reconstructed
-      the potential lifestyle of the last archaeal common ancestor (LACA) and the
-      last bacterial common ancestor (LBCA), respectively, furnishing valuable and
-      important information on early life. The lack of additional evidence beyond
-      sequence-based conclusions makes ancestral reconstruction controversial, especially
-      for ancestral physiological and metabolic characteristics.We performed proteome-wide
-      comparison of 3D protein structure on two representatives of ancient archaeal
-      and bacterial species using a self-modified high-throughput alphafold2, as additional
-      information beyond sequences to explore the potential ancestor of early archaea
-      and bacteria. One is a hyperthermophilic archaeon, Thermococcus eurythermalis
-      A501 (denoted A501), which belongs to a representative ancient group of archaea,
-      and the other is a newly discovered and isolated thermophilic bacterium, Zhurongbacter
-      thermophilus 3DAC (denoted 3DAC), which belongs to a novel phylum-level lineage
-      and provides new insights into an early-diverging bacterial cluster (superfamily
-      Zhurongbacteria) with genomic and physiological features that have never been
-      reported in any other bacteria. Both were isolated from deep-sea hydrothermal
-      vents, which are believed to be one of the cradles of life, from different locations.
-      Apart from temperature adaptation, these two strains showed similar habitats,
-      physiological and metabolic characteristics, and thermal resilience, which avoid
-      the general challenge of the low comparability between archaea and bacteria
-      restricted by greatly different ecological niches. The present work decoded
-      nearly 10,000 protein structures and analyzed the structural, sequence and functional
-      differences of these proteins between the two species. Further neutron scattering
-      experiments were utilized to understand the thermal stability of the two species,
-      and found they both show significantly stronger structural stability to survive
-      at high temperatures. According to conserved or variable protein structures
-      of a series enzymes between A501 and 3DAC, metabolic pathways could be spontaneously
-      distinguished into distinct modules, which were further extended and confirmed
-      in 24 other representative archaea and bacteria with diverse positions across
-      the phylogenetic tree. Interestingly, we found the conserved metabolic modules
-      in central carbon metabolism predominated by highly conserved protein structures
-      among archaea and bacteria were exactly consistent with the experimentally confirmed
-      protometabolic pathways by prebiotic priocesses, which provide a new perspective
-      to reconstruct the ancestral metabolism that may present in archaeal-bacterial
-      common ancestor (ABCA) and understand the origin of metabolism. Powerful deep
-      learning tools such as AlphaFold2 make it possible to derive proteome-wide structures
-      from genome sequences with high accuracy, which provides additional crucial
-      information than using genomics alone and bridges the gap between sequence and
-      function. In this study, we found that protein pairs with similar functions
-      between one representative archaeon (A501) and one representative bacterium
-      (3DAC) could be classified into different groups by judging their commonality
-      and differences in sequence and structure. Interestingly, we were able to identify
-      some protein pairs that possess similar structures and functions between the
-      two strains but with low sequence similarity. This finding further confirms
-      that structure is more closely associated with function than sequence. By mapping
-      the protein pairs of different groups into metabolic pathways, we found that
-      the evolution of proteins in these two strains does not occur at the individual
-      protein level but rather takes place using a metabolic module as a basic unit.
-      Metabolic modules can be used to explore distinct sources and different evolutionary
-      histories. These findings have not been revealed in previous sequence-based
-      analyses.These new structure-based findings provide new insights into the metabolic
-      organization of ancient archaea, bacteria and their potential common ancestor
-      (ABCA). Metabolic modules with conserved structures of a series of enzymes shed
-      light on the conserved functions in the ABCA, indicating metabolic modules that
-      likely existed in the ABCA, including the middle half of glycolysis (from DHAP
-      to acetyl-CoA), purine and pyrimidine biosynthesis, metabolism of some essential
-      amino acids (i.e., Asp, Glu, Ser, Gly and Thr), biosynthesis of some essential
-      cofactors (i.e., NAD(P)+ and CoA), the energetic respiratory system with MBH
-      and MBS, as well as most aminoacyl-tRNA ligases and some ribosome proteins.
-      In particular, for respiratory complexes that are usually hard to identify at
-      the sequence level, our results revealed that ancient MBH and MBS systems can
-      function in both archaea and bacteria at the structural level. In contrast,
-      other metabolic modules with different structures, such as the processes up-
-      (glucose to GAP, for sugar utilization) and downstream (acetyl-CoA to acetate,
-      for acetate production) of glycolysis/gluconeogenesis and the biosynthesis of
-      lipids, were likely excluded from the metabolism of ABCA. This modular splicing
-      of metabolic combinations in modern cells suggests the possibility that early
-      life may have involved a hybrid of life and nonlife processes, and the connection
-      between metabolic modules may have been abiotic processes. Our results demonstrate
-      the importance of characterizing the 3D structures of proteome-wide protein
-      molecules for understanding the evolutionary mechanism and life origin. We found
-      that the protein structure serves as an important bridge between genomic and
-      metabolic pathways, with the latter having little distinction at the functional
-      level but too much distinction at the sequence level. The comparison of seven
-      key enzymes involved in the glycolysis pathway among 24 archaea and bacterial
-      strains is a good example. Although the sequence similarity among them is low
-      and irregular, the structures are strongly conserved, identifying the essential
-      function that is preserved from ancient life to modern cells. For this reason,
-      we call for extensive use of 3D protein structures, especially proteome-wide
-      structure predictions, as an extension of the sequence-based approach in future
-      research on the origin and evolution of metabolism.This study was financially
-      supported by the following funding: the Natural Science Foundation of China
-      (grant numbers 41921006, 42106087, 11974239 and 31630002), Shanghai Artificial
-      Laboratory, the Innovation Program of Shanghai Municipal Education Commission,
-      Shanghai Jiao Tong University Multidisciplinary Research Fund of Medicine and
-      Engineering (project number YG 2016QN13), the Oceanic Interdisciplinary Program
-      of Shanghai Jiao Tong University (project number SL2021PT103), and Shanghai
-      Pujiang Program (Grant No. 22PJ1406900).
-
-      2022-12-21
-
-      【喜讯】我院李松挺教授获第五届上海高校青年教师教学竞赛特等奖！
-
-      2022年10月25日-28日，由上海市总工会、市教卫工作党委、市教委主办，上海市教育工会承办，上海师范大学协办的第五届上海高校青年教师教学竞赛暨第六届全国高校青年教师教学竞赛选拔赛在上海师范大学徐汇校区顺利举行。从全市56所高校中层层选拔出来的250名教师在人文科学、社会科学、思想政治理论课专项、自然科学基础学科、自然科学应用学科、医学学科、高职高专综合学科七个组别内角逐。上海交通大学自然科学研究院、数学科学学院李松挺获自然科学基础学科特等奖。李松挺老师参赛课程为《概率论与数理统计》，在此次教学比赛中，他分享到："参加青教赛是一段令人难忘的经历。在大半年的备赛过程中，我很幸运得到了许多教学名师前辈们的悉心指导，对此心怀感激。他们的指导使我不仅在教学技巧上获得很大提升，更重要的是使我对如何上好数学课有了更深刻的理解和思考。此外，青教赛还令我结识了一起并肩作战的小伙伴们，一路上我们相互鼓励，也相互学习。青教赛是我们在交大教学之路的新起点，通过以赛促教，令我们更有信心上好今后的每一堂课。”今年年底，李松挺等三位老师还将代表上海参加在清华大学举行的2022年第六届全国高校青年教师教学竞赛。预祝交大“青椒”在国赛舞台上赛出水平，展现风采，再创佳绩！【个人简介】李松挺，上海交通大学自然科学研究院、数学科学学院教授。2014年获上海交通大学数学博士学位，2015-2018年在纽约大学柯朗研究所任博士后。2018年9月入职上海交通大学自然科学研究院、数学科学学院任长聘教轨副教授，2022年9月至今任教授。研究方向为计算神经科学和类脑计算，包括神经元树突计算，神经网络动力学，以及受脑启发的机器学习算法等，研究成果发表在PNAS,
-      CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
-      Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。
-
-      2022-11-17
-
-      上海交大洪亮课题组揭示蛋白质动力学随着观测时间增长而逐渐变慢的奇异现象
-
-      近日，上海交通大学自然科学研究院和物理与天文学院洪亮教授课题组和合作者在英国皇家化学学会(Royal Society of Chemistry)的旗舰期刊《Chemical
-      Science》上发表了题为“Non-ergodicity of a globular protein extending beyond its functional
-      timescale”的最新研究成果，报道了蛋白质功能运动随着观测时间增长而逐渐变慢的奇异现象，并解释了其微观机理。蛋白质分子的内部运动，尤其是功能结构域间的相对运动与其完成各种生物功能或者催化作用紧密相关。然而有趣的问题是：一种特定的功能运动是否有特定的时间尺度与其对应呢？在序列，结构和环境完全一样的情况下，同一种蛋白分子的动力学或者功能是否会存在个体差异呢？洪亮课题组通过全原子分子动力学模拟和单分子能量共振荧光显微镜实验，对SHP2络氨酸磷酸酶蛋白单分子的动力学行为进行了统计研究。结果表明，在结构和环境完全一样的情况下，横跨14个时间尺度(从皮秒到分钟：10-12
-      - 102秒)，每个蛋白质分子动力学行为各不相同，有快有慢，有动有静，而且整体随着观测时间变长逐渐减慢(图1A)。然而这些新奇现象却与单链DNA的运动行为形成鲜明对比，后者个体差异基本没有(图1B)。团队借助复杂网络和图论的知识，刻画出蛋白质和DNA分子的自由能势能面，并对比分析，发现蛋白分子的新奇运动是由其自相似、分形的“链-岛”自由能图谱造成的(图2)。本工作的一个重要衍生结果是，一模一样的蛋白质分子，其功能效率和动力学行为个体差异很大，对自然环境的适应能力可以非常不同，出现种群分化“population
-      splitting”。这将有助于生物大分子乃至生命体在恶劣环境下演化，部分种群得以生存。图1: 蛋白质的老化“aging”动力学。(A). 蛋白质分子的运动随着观测时间变长而逐渐减慢。(B).
-      单链DNA分子并无老化动力学行为。图2: 分子的构象转移网络，边或点的颜色深浅与概率成正比，因此它代表蛋白分子的能量势能面。(A). 蛋白分子“链-岛”状势能面。(B).
-      单链DNA分子的运动网络。上海交通大学自然科学研究院和物理与天文学院洪亮教授为本文唯一通讯作者，物理与天文学院博士生李俊为第一作者。理论模型的改进得到了美国田纳西大学/橡树林国家实验室Prof.
-      Jeremy C. Smith，和德国马克斯·普朗克研究所Dr. Aljaž Godec的帮助。单分子实验设计和数据采集得到了中国科学院上海有机化学研究所刘聪研究员和谢静菲博士的帮助，单分子实验同样也得到了美国北卡罗来州立大学Prof.
-      Keith R. Weninger的帮助。本工作得到了国家自然科学基金委、上海市科委、教委、上海人工智能国家实验室和张江高等研究院的支持，以及上海交通大学学生创新中心和上海交通大学高性能计算中心的支持。Recently,
-      Chemical Science, the flagship journal of the Royal Society of Chemistry, published
-      a new edge research article entitled as “Non-ergodicity of a globular protein
-      extending beyond its functional timescale” by Prof. Liang Hong’s group (Institute
-      of Natural Sciences & School of physics and astronomy & Zhangjiang Institute
-      for Advanced Study), which reported the non-ergodic protein internal dynamics
-      that the functional dynamics in a multi-domain protein slows down with increasing
-      the observational time and it exhibits a large degree of heterogeneity among
-      individual protein molecules. Protein internal dynamics is crucial for its function.
-      How these motions on different timescales relate to and influence each other,
-      and how the overall characteristics of internal dynamics relate to biological
-      function is of particular interest in biophysics. Also, the intriguing possibility
-      exists that otherwise identical single protein molecules might be physically
-      distinct on timescales approaching their functional times (e.g., enzyme catalytic
-      rates). In this regard, a particularly interesting question is whether internal
-      protein dynamics is ergodic, i.e., time-averaged observables are equal to its
-      ensemble average. The group performed numerous single-molecule fluorescence
-      resonance energy transfer (smFRET) experiments and molecular dynamics (MD) simulations
-      to study the internal dynamics of a multi-domain protein, SHP2. The results
-      demonstrate that functional inter-domain motions in the protein show heterogeneity
-      and non-ergodicity over wide time windows: from 10-12 to 102 s. Moreover, we
-      observed striking aging behavior, i.e., the effective internal flexibility of
-      the protein decrease with observation time. Furthermore, as illustrated by control
-      simulations and experiments on a single-strand DNA (ssDNA)of similar size, which
-      behaves ergodically with an energy landscape resembling a one-dimensional linear
-      chain. We demonstrate that the anomalous dynamics of the protein arise from
-      the characteristic protein energy landscape, which has a much higher dimensionality
-      that that of the ssDNA, unique hierarchical structure, and “chained-islands”
-      topology. The present findings significantly recast existing ideas in molecular
-      biophysics connecting ensemble-averaged protein dynamics to biological function.
-      Instead, non-ergodicity splits the population of otherwise identical proteins
-      into subpopulations with drastically distinct conformations, flexibilities,
-      and reaction rates over timescales longer than needed for the biological function.
-      The first author of this article is Ph.D. student Jun Li from Prof. Liang Hong’s
-      group, and Prof. Liang Hong from the Institute of Natural Sciences and School
-      of Physics and Astronomy is the corresponding author. The theoretical model
-      was developed with the help of Prof. Jeremy C. Smith from the University of
-      Tennessee and Oak Ridge National Laboratory (USA), and Dr. Aljaž Godec from
-      Max Planck Institute for Biophysical Chemistry (Germany). The single-molecule
-      experiments were carried out with the help of Dr. JingFei Xie, Associate Prof.
-      Cong Liu in the Chinese Academy of Sciences (China), and Prof. Keith R. Weninger
-      from North Carolina State University (USA). The work was supported by the National
-      Natural Science Foundation of China, Student Innovation Center, and Center for
-      High-Performance Computing at SJTU.
-
-      2022-08-10
-
-      上海交大洪亮课题组与冯雁课题组合作揭示嗜热Argonaute蛋白的DNA剪辑机制
-
-      可编程核酸内切酶的出现彻底改变了基因组编辑技术，例如分子诊断和基因改造，对生命科学、生物安全、医疗和环境监测等产生了极其重要的影响。近几年，获得2019年诺贝尔生物学奖的基因编辑体系—(CRISPR)-Cas系统备受科学家和医疗企业的关注。该体系能对靶向核酸的特定位点进行编辑，从而引发相应物理特征变化，实现医学诊断与治疗。类似于CRISPR-Cas系统，Argonaute蛋白(Ago)同样是一类核酸介导的限制性核酸内切酶。该蛋白被提议为适用于一系列生物技术应用的基因编辑酶。相比于Cas蛋白分子量大、只能使用RNA作为介导核酸、需要PAM识别区等缺点，Ago蛋白具有分子量小、可使用RNA和DNA作为介导核酸、不需要PAM识别区、位点识别准确率高等优点。上述优势使Ago蛋白能够被应用于高通量的基因编辑和医学筛查。因此，研究Ago蛋白对核酸的剪切机制以及由此研发具有优异的核酸剪辑和结合活性的Ago蛋白，不仅是重要的科学问题，也具有重要的工程意义。近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院洪亮课题组联合生命科学技术学院/微生物代谢国家重点实验室冯雁课题组利用多种实验技术和分子动力学模拟，发现嗜热Ago蛋白在其生理温度时采用了表面熔融的动态松散结构（与晶体结构不同），而常温Ago蛋白采用的是类似于晶体结构的构象。这种表面熔融的动态松散结构对嗜热Ago蛋白实现高效的DNA剪切功能具有关键作用。研究成果以“Loosely-packed
-      Dynamical Structures with Partially-melted Surface Being the Key for Thermophilic
-      Argonaute Proteins Achieving High DNA-cleavage Activity”为题发表于Nucleic Acids Research
-      (IF: 19.160)。本工作结合多种实验技术(SAXS，CD，DSF，nanoDSC和SDS-PAGE)和分子动力学模拟，研究了6种嗜热Ago蛋白在不同温度下的结构、动力学以及DNA剪切活性。我们发现：1.
-      相较于常温Ago蛋白，嗜热Ago蛋白在整体结构和活性中心处拥有更多的氢键、盐桥，从而导致嗜热Ago蛋白具有更高的热稳定性。与此同时，这种刚性的结构降低了Ago蛋白实现功能时所需的结构柔性，从而导致嗜热Ago蛋白在室温下DNA剪切活性很低；2.
-      在生理温度下，嗜热Ago蛋白采用了表面熔融的动态松散结构，这种结构介于晶体结构和蛋白完全解折叠结构。然而，常温Ago蛋白的功能态是其晶体结构；3.这种动态的、松散的结构能够赋予嗜热Ago蛋白极大的结构柔性，从而使其在生理温度下具有高效的DNA剪切活性。综上，本工作进一步拓展了原有蛋白质结构学中基于晶体结构的结构—功能关系。此外，本工作不仅对理解
-      Ago蛋白核酸剪辑的微观机制至关重要，而且为设计高活性嗜热蛋白提出了一种新思路：在室温下生物分子表面通过大量残基间的相互作用来限制其功能和保持结构完整性，但其中一部分相互作用在温度升高时会发生断裂，从而释放出足够的结构柔性以达到蛋白质的高酶活性。更为重要的是，基于深度学习的AI算法在预测蛋白质分子的3D
-      结构方面已取得了巨大的成功，例如AlphaFold2。然而，作为用于训练机器学习模型的数据集大多是在常温甚至更低温度下确定的晶体结构，因此，预测的结构不可避免地只能模仿低温晶体结构。本工作表明，嗜热
-      Ago蛋白在其生理条件下通常呈现出部分熔融的松散堆积结构，这与常温或低温下的蛋白质晶体结构不同。我们的研究结果表明在今后的机器学习模型中需要考虑到蛋白质发挥生理功能时的状态与蛋白质晶体结构的差异性。上海交大自然科学研究院/物理与天文学院/张江高等研究院洪亮教授为通讯作者，生命科学技术学院冯雁团队刘倩研究员为共同通讯作者。物理与天文学院博士生郑力荣、生命科学技术学院硕士生陆慧、物理与天文学院博士生昝冰和李松为共同第一作者。该工作得到了国家自然科学基金委、上海市科委、教委、上海人工智能国家实验室和张江高等研究院的支持，以及上海光源（SSRF）BL19U2谱仪科学家李娜研究员、上海交通大学分析测试中心和上海交通大学学生创新中心的技术支撑。Programmable
-      endonucleases have revolutionized genome-editing technologies, such as molecular
-      diagnostics and genetic modification, which are critical for life science, biosecurity,
-      medical treatment, and environmental monitoring. In recent years, the clustered
-      regularly interspaced short palindromic repeats (CRISPR)-Cas system has attracted
-      great attention, which enabled target nucleic acids to be manipulated at a specific
-      spot, thus leading to changes in physical traits and achieving medical diagnostics.
-      Reminiscent of the CRISPR-Cas system, Argonaute proteins (Agos) are nucleic
-      acid-guided endonucleases, which have been proposed to be suitable candidates
-      for a range of biotechnological applications. Whereas Cas nucleases require
-      the presence of a protospacer-adjacent motif (PAM) or protospacer flanking site
-      (PFS), Agos are independent of such motifs. Furthermore, Agos can utilize DNA
-      as guides that are much easier to produce and more stable during application
-      than the RNA guides used by CRISPR-Cas. All the above advantages give Agos potential
-      for easy-to-implement and high-throughput screenings in gene editing and medical
-      diagnostics. Hence, studying of the microscopic mechanism underlying the DNA
-      cleavage and design Ago with high efficiency of cleavage and binding is not
-      only of scientifically important but also of great engineering significance.On
-      June 30th, 2022, Nucleic Acids Research published a new edge research article
-      entitled as “Loosely-packed Dynamical Structures with Partially-melted Surface
-      Being the Key for Thermophilic Argonaute Proteins Achieving High DNA-cleavage
-      Activity” by Prof. Liang Hong’s group (Institute of Natural Sciences/School
-      of physics and astronomy/ Zhangjiang Institute for Advanced Study) and Prof.
-      Yan Feng’ group (State Key Laboratory of Microbial Metabolism/School of Life
-      Sciences and Biotechnology) (DOI:).In the present work, we investigated the
-      temperature dependence of structure, dynamics, and endonuclease activity of
-      thermophilic pAgos (PfAgo and TtAgo) and their mesophilic counterpart CbAgo
-      using various experimental and simulation techniques. We made the following
-      discoveries:1. The two studied thermophilic pAgos (PfAgo and TtAgo) possess
-      stronger intramolecular interactions, including hydrogen bonds, salt bridges
-      and hydrophobic interactions inside the protein core, globally over the entire
-      protein and locally at the catalytic residues, than the mesophilic CbAgo. This
-      renders thermal stability to thermophilic pAgos and strongly reduces their structural
-      flexibility.2. At physiological temperatures, PfAgo and TtAgo adopt a loosely-packed
-      dynamical structure with a partially-melted surface which is an intermediate
-      state between the crystalline structure and fully unfolded state, whereas CbAgo
-      takes a compact crystalline structure at its optimal function temperature.3.
-      The partially-disrupted structure breaks many hydrogen bonds, salt bridges,
-      and even some secondary structures on the surface of thermophilic pAgos to release
-      the structural flexibility, leading to high cleavage activity under physiological
-      conditions. This result is supported by the biochemical assays where we disrupted
-      the structure of the two thermophilic pAgos by incubating them with urea and
-      found significantly higher DNA cleavage activity compared to that of the pristine
-      ones. Complementary kinetic analysis revealed that the partially-disrupted structure
-      in thermophilic pAgos promotes its efficiency in cleaving the DNA without affecting
-      its affinity for substrates.Our findings of thermophilic pAgos assuming loosely-packed
-      dynamical structures with partially-melted surfaces under physiological conditions
-      modify the existing structure-function relationship established based on the
-      compact crystalline structures determined at moderate temperatures. It is not
-      only crucial for understanding the microscopic mechanism of pAgos, but also
-      suggests a smart design for the high-activity thermophilic proteins where a
-      great amount of strong inter-residue interactions is required on the biomolecular
-      surface at moderate temperatures to limit the function and preserve the structural
-      integrity, but part of them is broken at the elevated desired temperatures to
-      release sufficient structural flexibility to reach high activity.More importantly,
-      the deep-learning-based methods have recently achieved a great degree of success
-      in predicting the 3D structure of protein molecules, e.g., alpha-fold. However,
-      as the datasets used to train the machine-learning model are mostly crystalline
-      structures determined at moderate temperatures or even lower, the predicted
-      structures inevitably mimic the low-temperature crystal structures. The present
-      work demonstrates that the thermophilic pAgos across a wide range of species
-      generally assume loosely-packed partially-melted structures at their physiological
-      conditions, which are different from the compact structures at moderate or low
-      temperatures. Our findings call for an advanced version of the machine-learning
-      model, which needs to consider the difference between the physiological condition
-      where the protein functions and the one where the experimental structure is
-      determined.This is a collaborative work by Prof. Liang Hong and Prof. Yan Feng
-      at SJTU. The first authors are Lirong Zheng, Hui Lu, Bing Zan and Song Li. The
-      corresponding authors are Liang Hong and Qian Liu. The work was supported National
-      Natural Science Foundation of China and Shanghai Municipal Science and Technology
-      Major Project. The beam time was supported by Dr. Na Li from SSRF.
-
-      2022-06-29'
-    person: ''
-    time: ''
-    title: '【喜讯】我院李松挺教授获第六届全国高校青年教师教学竞赛理科组一等奖！
-
-      2023年4月21日，中华全国总工会和教育部联合主办的第六届全国高校青年教师教学竞赛决赛在清华大学隆重开幕。共有来自全国121所高校的158名青年教师踏上竞技舞台，进行切磋磨砺、展示风采的比拼，涵盖文、理、工、医、思政五个领域。其中，李松挺老师代表上海交通大学校本部和上海出征本届比赛。本次比赛旨在提升高校教师的教学水平，推动青年教师的成长和发展。各位选手在比赛中展现出卓越的教学能力和创新精神，共同竞技，共创教学新篇章。上海交通大学自然科学研究院、数学科学学院李松挺获理科组一等奖（全国第二名）李松挺在2022年获第五届上海高校青年教师教学竞赛特等奖，今年他在国赛舞台上赛出水平，再创佳绩！他在本次竞赛中展现了专注于“上好一门课”的匠心精神，并深刻践行了“学在交大，育人神圣”的理念。这一成绩的取得，既得益于四级联赛广泛参与的机制效应，也凝聚了校工会、教学发展中心、党委教师工作部、研究生院、教务处以及医学院工会和教务处等多个部门的合力保障，形成了“交大方案”。这个方案不仅为青年教师的成长提供了全方位的支持，也体现了上海交通大学多部门协同、共同发力的团队精神。心得体会李松挺表示：“参加青教赛是一段令人难忘的经历。在备赛过程中，我很幸运得到了许多教学名师前辈们的悉心指导，对此心怀感激。他们的指导使我不仅在教学技巧上获得很大提升，更重要的是使我对如何上好数学课有了更深刻的理解和思考。此外，青教赛还令我结识了一起并肩作战的小伙伴们，一路上我们相互鼓励，也相互学习。青教赛是我们在交大教学之路的新起点，通过以赛促教，令我们更有信心上好今后的每一堂课。”个人介绍李松挺，上海交通大学自然科学研究院、数学科学学院教授。2014年获上海交通大学数学博士学位，2015-2018年在纽约大学柯朗研究所任博士后。2018年9月入职上海交通大学自然科学研究院、数学科学学院任长聘教轨副教授，2022年9月至今任教授。研究方向为计算神经科学和类脑计算，包括神经元树突计算，神经网络动力学，以及受脑启发的机器学习算法等，研究成果发表在PNAS,
-      CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
-      Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。相关报道特奖风采｜李松挺：与学生一同“品茶”
-
-      2023-04-25
-
-      同“新”合力--自然科学研究院再添新力量
-
-      为加强科研力量，拓展数学、物理等学科领域的研究深度，上海交通大学自然科学研究院一直以高标准、全球视野招揽杰出青年人才。经过层层筛选，我们很荣幸地宣布，曹语教授于2023年4月加入我院。作为来自世界一流大学和科研机构的优秀青年学者，曹教授拥有丰富的学术经验和深厚的学科造诣。他的加入将为研究院注入新鲜血液，推动我们的科学研究更上一层楼，为学术界和社会做出更多突破性贡献。曹语：长聘教轨副教授上海交通大学自然科学研究院/数学科学学院最近迎来了一位新的长聘教轨副教授——曹语。曹教授于2020年毕业于杜克大学，获得哲学博士学位（数学），之后在纽约大学科朗数学研究所担任了两年的博士后(Courant
-      Instructor)。曹教授还曾在杜克大学数学系和香港城市大学数据科学学院担任过短期科研工作。他的研究方向是动力系统的分析和算法，包括量子动力系统的分析和算法、经典动力系统与深度学习的结合等。他的研究成果已发表在数学、物理类期刊，包括J.
-      Comput. Phys.、J. Math. Phys.、Quantum等，还被NeurIPS 2022收录。对于为什么选择动力系统这一研究方向，曹教授表示，动力系统可以被用来描述、刻画众多科学领域里的模型的变化。从大到天体的运行变化（经典系统），到小到电子的轨迹（量子系统），都可以通过动力系统来描述。对他来说，动力系统最有趣的能力在于用简洁的数学语言即可描述几乎所有事物的变化。当前的一个新挑战是将传统的动力系统分析和算法与新兴重要学科，例如深度学习和量子计算，结合起来。在深度学习领域，基于动力系统的生成模型（如Neural
-      ODE、扩散模型等）已经取得了瞩目的成就。从数学的角度，进一步理解相关动力系统以及如何更好地将已有的传统计算方法与生成模型结合，将有助于深入理解和提高生成模型的效能。随着量子信息的发展，如何更好地利用量子计算的优势，在经典动力系统的模拟中也是一个亟待系统研究的数学问题。上海交通大学自然科学研究院/数学科学学院表示，曹教授的加入将极大地丰富学院的科研团队和学术氛围，未来将会有更多的科研成果在动力系统领域得以实现。In
-      order to enhance our research capabilities and expand the depth of research
-      in fields such as mathematics and physics, the Institute of Natural Sciences
-      of Shanghai Jiao Tong University has been actively recruiting outstanding young
-      talents with high standards and a global perspective. After a rigorous selection
-      process, we are pleased to announce that Dr. Cao Yu will be joining our institute
-      in April 2023. As an excellent young scholar from a world-class university and
-      research institution, Dr. Cao has rich academic experience and profound expertise
-      in her field. Her addition will inject new vitality into our institute, propel
-      our scientific research to new heights, and make more breakthrough contributions
-      to academia and society.Cao Yu obtained a Ph.D. in Philosophy (Mathematics)
-      from Duke University in 2020. He has worked as a Courant Instructor for two
-      years at the Courant Institute of Mathematical Sciences at New York University,
-      as well as having short-term research experience at the Department of Mathematics
-      at Duke University and the School of Data Science at City University of Hong
-      Kong. In April 2023, he joined the the Institute of Natural Sciences and School
-      of Mathematical Sciences of Shanghai Jiao Tong University.His research focuses
-      on the analysis and algorithms of dynamical systems, including the analysis
-      and algorithms of quantum dynamical systems and the combination of classical
-      dynamical systems and deep learning. His previous work has been published in
-      mathematical and physical journals, including J. Comput. Phys., J. Math. Phys.,
-      and Quantum, and has been included in NeurIPS 2022.Cao chose this research direction
-      because dynamical systems can be used to describe and characterize the changes
-      in models in many scientific fields. For example, dynamical systems can be used
-      to describe the changes in the movements of celestial bodies (classical systems)
-      or the trajectories of electrons (quantum systems), among other things. For
-      him, the most interesting ability of dynamical systems is the ability to describe
-      the changes in almost everything with concise mathematical language. The current
-      new challenge is to combine traditional dynamical systems analysis and algorithms
-      with emerging important disciplines such as deep learning and quantum computing.
-      In the field of deep learning, generative models based on dynamical systems,
-      such as Neural ODEs and diffusion models, have achieved remarkable achievements.
-      From a mathematical perspective, further understanding of relevant dynamical
-      systems and how to better combine existing traditional computational methods
-      with generative models will help to deepen our understanding and improve the
-      effectiveness of generative models. With the development of quantum information,
-      how to better utilize the advantages of quantum computing in the simulation
-      of classical dynamical systems is also an urgent mathematical problem that requires
-      systematic research.
-
-      2023-04-18
-
-      上海交大洪亮团队与肖湘团队合作应用高通量蛋白结构预测揭示深海热液古菌细菌共同祖先的代谢特征
-
-      近日，上海交通大学自然科学研究院洪亮团队与生命科学技术学院/微生物代谢国家重点实验室肖湘团队合作，以分离培养的具有古老的演化地位和独特代谢共性的深海热液超嗜热古菌和嗜热细菌为切入点，借助自主改良的深度学习AlphaFold2技术和中子散射实验，首次应用高通量蛋白结构组研究早期生命代谢，揭示了深海热液古菌细菌共同祖先的代谢特征。其结果发表在《自然
-      · 通讯》杂志上。原文链接：https://www.nature.com/articles/s41467-022-35523-8该研究成果以“Proteome-wide
-      3D structure prediction provides insights into the ancestral metabolism of ancient
-      archaea and bacteria”为题，发表在国际权威杂志《Nature Communications》上。上海交通大学生命科学技术学院赵维殳助理研究员与生命科学技术学院本科生钟博子韬为本文的共同第一作者，生命学院肖湘教授和自然科学研究院洪亮教授为本文的共同通讯作者。以现有生命追溯、重建演化过程和早期生命形式是研究生命起源和演化的一种重要思路。通常，研究者会基于基因组比较来推测早期生命的代谢特征，但高可变的基因组往往难以清晰地揭示演化脉络和模式。本研究独辟蹊径，应用基于高通量AlphaFold2深度学习技术，预测了近万个蛋白分子的3D结构，引入蛋白结构组，对深海热液来源的具有相似代谢功能的古老的超嗜热古菌和嗜热细菌的代表菌株，通过对序列、结构、功能三方面进行比较分析，重构了古菌细菌共同祖先的代谢特征。令人惊奇的是，这些结构在古菌细菌中保守的代谢模块，与实验验证的前生命化学过程高度重合，这一发现为生命起源的研究提供了新视角和新方法。此外，通过中子散射实验对本研究中不同菌种的柔性系数做了定量表征，在不同生长温度范围的古菌和细菌中建立了宏观柔性和其耐热能力的关系。图1.
-      本研究工作流程以及 A501（古菌，红色）和 3DAC（细菌，蓝色）基本特征。建立高通量结构预测，引入蛋白结构组，比较深海热液古菌细菌在序列、结构、功能之间的异同。本研究选取了超嗜热古菌Thermococcus
-      eurythermalis A501和嗜热代表细菌Zhurongbacter thermophilus 3DAC比较两者序列、结构、功能之间的异同。这两株菌均来自深海热液口，而深海热液区被认为是生命的摇篮之一。综合考虑两株菌株中功能相似蛋白质对的序列和蛋白结构异同，可以将蛋白质对划分到3个不同的组：(i)
-      具有相似结构和相似功能的直系同源序列；(ii) 具有相似结构和功能的非直系同源序列； (iii) 结构不同但功能相似的非直系同源序列。一些蛋白质对结构相似，但基因序列差异性很大，进一步证明了和序列相比，蛋白质结构和功能的关联度更大。通过将不同组的蛋白质对映射到代谢途径中，我们发现两株菌株中的蛋白质进化不是发生在单个蛋白质水平上，而是以代谢模块为单位发生的。譬如，两株菌株糖酵解的中半部分（从
-      DHAP 到乙酰辅酶 A）涉及的蛋白质都属于(i)组，而糖酵解和脂质生物合成连接通路上的蛋白（DHAP 到 G13P2）都属于（ii）组。以此划分的代谢模块可用于揭示蛋白质的不同来源和不同的演化历史。这在以往基于序列的分析中从未被发现。进一步对保守蛋白结构分析揭示了细菌和古菌共同祖先（ABCA）的保守代谢模块。这些保守的代谢模块包括糖酵解的中半部分（从
-      DHAP 到乙酰辅酶 A）、嘌呤和嘧啶的生物合成、一些必需氨基酸（即 Asp、Glu、Ser、Gly 和 Thr）的代谢、一些必需辅因子的生物合成（即
-      NAD（ P)+ 和 CoA)、具有 MBH 和 MBS 的能量呼吸、大多数氨酰-tRNA 连接酶和部分核糖体蛋白等，推测它们本就存在于共同祖先ABCA中，而后被遗传给了细菌和古菌。图2.
-      通过蛋白结构的捉对比较，揭示古菌细菌共同祖先中的保守代谢模块，与前生命过程高度重合。有趣的是，本研究发现结构保守的代谢模块与前生命化学过程高度重合，譬如中心碳代谢的保守代谢模块与已经被证实的前生物合成途径一致性高，由现有生命推测生命起源的逆推过程与从化学反应走向生命起源的正推过程出现了交汇，同时也从侧面证明了我们通过蛋白质预测结构获得的保守代谢模块绝非巧合。本研究首次应用高通量蛋白结构研究早期生命代谢，建立了蛋白结构组的新方法，发现蛋白的起源和演化不是孤立的而是以代谢模块为单位，保守的蛋白结构揭示了共同祖先的保守代谢模块，并首次发现结构保守的代谢模块与前生命化学过程高度重合，为祖先代谢重组和生命起源研究提供一种新的研究思路，部分验证了高通量蛋白质结构预测在生命起源和演化研究中的重大潜在价值。本研究获得了国家自然科学基金创新群体（41921006）、青年基金（42106087）和面上项目（11974239、31630002）的支持，上海人工智能实验室、上海科委、上海教委重大项目、上海市浦江人才计（22PJ1406900）的支持，以及上海交通大学交叉学科研究基金（YG
-      2016QN13）和“深蓝计划”（SL2021PT103）的支持。On Dec. 22nd, 2022, Nature Communications published
-      a joint research article entitled “Proteome-wide 3D structure prediction provides
-      insights into the ancestral metabolism of ancient archaea and bacteria” from
-      Prof. Xiang Xiao’s group (State Key Laboratory of Microbial Metabolism/School
-      of Life Sciences and Biotechnology) and Prof. Liang Hong’s group (Institute
-      of Natural Sciences). The co-first authors are Dr. Weishu Zhao (Assistant professor,
-      School of Life Sciences and Biotechnology) and Bozitao Zhong (Undergraduate
-      student, Institute of Natural Sciences). The corresponding authors are Prof.
-      Xiang Xiao and Liang Hong.Tracing the common ancestors from modern cells appears
-      to be an indispensable approach for investigating the origin and evolution of
-      early life on Earth. During the past two decades, many studies have proposed
-      various ideas to reconstruct ancestral cells in silico. With the development
-      of culture-independent high-throughput sequencing technology and bioinformatics
-      approaches, sequence-based comparative genomic and phylogenomic analyses are
-      the major avenue for studying the origin and ancestry of life. The main challenge
-      of phylogenomic analysis is to identify where the phylogenetic tree should be
-      rooted and even whether the root should exist at all. The latest phylogenetic
-      approaches have rooted archaeal and bacterial trees independently and reconstructed
-      the potential lifestyle of the last archaeal common ancestor (LACA) and the
-      last bacterial common ancestor (LBCA), respectively, furnishing valuable and
-      important information on early life. The lack of additional evidence beyond
-      sequence-based conclusions makes ancestral reconstruction controversial, especially
-      for ancestral physiological and metabolic characteristics.We performed proteome-wide
-      comparison of 3D protein structure on two representatives of ancient archaeal
-      and bacterial species using a self-modified high-throughput alphafold2, as additional
-      information beyond sequences to explore the potential ancestor of early archaea
-      and bacteria. One is a hyperthermophilic archaeon, Thermococcus eurythermalis
-      A501 (denoted A501), which belongs to a representative ancient group of archaea,
-      and the other is a newly discovered and isolated thermophilic bacterium, Zhurongbacter
-      thermophilus 3DAC (denoted 3DAC), which belongs to a novel phylum-level lineage
-      and provides new insights into an early-diverging bacterial cluster (superfamily
-      Zhurongbacteria) with genomic and physiological features that have never been
-      reported in any other bacteria. Both were isolated from deep-sea hydrothermal
-      vents, which are believed to be one of the cradles of life, from different locations.
-      Apart from temperature adaptation, these two strains showed similar habitats,
-      physiological and metabolic characteristics, and thermal resilience, which avoid
-      the general challenge of the low comparability between archaea and bacteria
-      restricted by greatly different ecological niches. The present work decoded
-      nearly 10,000 protein structures and analyzed the structural, sequence and functional
-      differences of these proteins between the two species. Further neutron scattering
-      experiments were utilized to understand the thermal stability of the two species,
-      and found they both show significantly stronger structural stability to survive
-      at high temperatures. According to conserved or variable protein structures
-      of a series enzymes between A501 and 3DAC, metabolic pathways could be spontaneously
-      distinguished into distinct modules, which were further extended and confirmed
-      in 24 other representative archaea and bacteria with diverse positions across
-      the phylogenetic tree. Interestingly, we found the conserved metabolic modules
-      in central carbon metabolism predominated by highly conserved protein structures
-      among archaea and bacteria were exactly consistent with the experimentally confirmed
-      protometabolic pathways by prebiotic priocesses, which provide a new perspective
-      to reconstruct the ancestral metabolism that may present in archaeal-bacterial
-      common ancestor (ABCA) and understand the origin of metabolism. Powerful deep
-      learning tools such as AlphaFold2 make it possible to derive proteome-wide structures
-      from genome sequences with high accuracy, which provides additional crucial
-      information than using genomics alone and bridges the gap between sequence and
-      function. In this study, we found that protein pairs with similar functions
-      between one representative archaeon (A501) and one representative bacterium
-      (3DAC) could be classified into different groups by judging their commonality
-      and differences in sequence and structure. Interestingly, we were able to identify
-      some protein pairs that possess similar structures and functions between the
-      two strains but with low sequence similarity. This finding further confirms
-      that structure is more closely associated with function than sequence. By mapping
-      the protein pairs of different groups into metabolic pathways, we found that
-      the evolution of proteins in these two strains does not occur at the individual
-      protein level but rather takes place using a metabolic module as a basic unit.
-      Metabolic modules can be used to explore distinct sources and different evolutionary
-      histories. These findings have not been revealed in previous sequence-based
-      analyses.These new structure-based findings provide new insights into the metabolic
-      organization of ancient archaea, bacteria and their potential common ancestor
-      (ABCA). Metabolic modules with conserved structures of a series of enzymes shed
-      light on the conserved functions in the ABCA, indicating metabolic modules that
-      likely existed in the ABCA, including the middle half of glycolysis (from DHAP
-      to acetyl-CoA), purine and pyrimidine biosynthesis, metabolism of some essential
-      amino acids (i.e., Asp, Glu, Ser, Gly and Thr), biosynthesis of some essential
-      cofactors (i.e., NAD(P)+ and CoA), the energetic respiratory system with MBH
-      and MBS, as well as most aminoacyl-tRNA ligases and some ribosome proteins.
-      In particular, for respiratory complexes that are usually hard to identify at
-      the sequence level, our results revealed that ancient MBH and MBS systems can
-      function in both archaea and bacteria at the structural level. In contrast,
-      other metabolic modules with different structures, such as the processes up-
-      (glucose to GAP, for sugar utilization) and downstream (acetyl-CoA to acetate,
-      for acetate production) of glycolysis/gluconeogenesis and the biosynthesis of
-      lipids, were likely excluded from the metabolism of ABCA. This modular splicing
-      of metabolic combinations in modern cells suggests the possibility that early
-      life may have involved a hybrid of life and nonlife processes, and the connection
-      between metabolic modules may have been abiotic processes. Our results demonstrate
-      the importance of characterizing the 3D structures of proteome-wide protein
-      molecules for understanding the evolutionary mechanism and life origin. We found
-      that the protein structure serves as an important bridge between genomic and
-      metabolic pathways, with the latter having little distinction at the functional
-      level but too much distinction at the sequence level. The comparison of seven
-      key enzymes involved in the glycolysis pathway among 24 archaea and bacterial
-      strains is a good example. Although the sequence similarity among them is low
-      and irregular, the structures are strongly conserved, identifying the essential
-      function that is preserved from ancient life to modern cells. For this reason,
-      we call for extensive use of 3D protein structures, especially proteome-wide
-      structure predictions, as an extension of the sequence-based approach in future
-      research on the origin and evolution of metabolism.This study was financially
-      supported by the following funding: the Natural Science Foundation of China
-      (grant numbers 41921006, 42106087, 11974239 and 31630002), Shanghai Artificial
-      Laboratory, the Innovation Program of Shanghai Municipal Education Commission,
-      Shanghai Jiao Tong University Multidisciplinary Research Fund of Medicine and
-      Engineering (project number YG 2016QN13), the Oceanic Interdisciplinary Program
-      of Shanghai Jiao Tong University (project number SL2021PT103), and Shanghai
-      Pujiang Program (Grant No. 22PJ1406900).
-
-      2022-12-21
-
-      【喜讯】我院李松挺教授获第五届上海高校青年教师教学竞赛特等奖！
-
-      2022年10月25日-28日，由上海市总工会、市教卫工作党委、市教委主办，上海市教育工会承办，上海师范大学协办的第五届上海高校青年教师教学竞赛暨第六届全国高校青年教师教学竞赛选拔赛在上海师范大学徐汇校区顺利举行。从全市56所高校中层层选拔出来的250名教师在人文科学、社会科学、思想政治理论课专项、自然科学基础学科、自然科学应用学科、医学学科、高职高专综合学科七个组别内角逐。上海交通大学自然科学研究院、数学科学学院李松挺获自然科学基础学科特等奖。李松挺老师参赛课程为《概率论与数理统计》，在此次教学比赛中，他分享到："参加青教赛是一段令人难忘的经历。在大半年的备赛过程中，我很幸运得到了许多教学名师前辈们的悉心指导，对此心怀感激。他们的指导使我不仅在教学技巧上获得很大提升，更重要的是使我对如何上好数学课有了更深刻的理解和思考。此外，青教赛还令我结识了一起并肩作战的小伙伴们，一路上我们相互鼓励，也相互学习。青教赛是我们在交大教学之路的新起点，通过以赛促教，令我们更有信心上好今后的每一堂课。”今年年底，李松挺等三位老师还将代表上海参加在清华大学举行的2022年第六届全国高校青年教师教学竞赛。预祝交大“青椒”在国赛舞台上赛出水平，展现风采，再创佳绩！【个人简介】李松挺，上海交通大学自然科学研究院、数学科学学院教授。2014年获上海交通大学数学博士学位，2015-2018年在纽约大学柯朗研究所任博士后。2018年9月入职上海交通大学自然科学研究院、数学科学学院任长聘教轨副教授，2022年9月至今任教授。研究方向为计算神经科学和类脑计算，包括神经元树突计算，神经网络动力学，以及受脑启发的机器学习算法等，研究成果发表在PNAS,
-      CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
-      Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。
-
-      2022-11-17
-
-      上海交大洪亮课题组揭示蛋白质动力学随着观测时间增长而逐渐变慢的奇异现象
-
-      近日，上海交通大学自然科学研究院和物理与天文学院洪亮教授课题组和合作者在英国皇家化学学会(Royal Society of Chemistry)的旗舰期刊《Chemical
-      Science》上发表了题为“Non-ergodicity of a globular protein extending beyond its functional
-      timescale”的最新研究成果，报道了蛋白质功能运动随着观测时间增长而逐渐变慢的奇异现象，并解释了其微观机理。蛋白质分子的内部运动，尤其是功能结构域间的相对运动与其完成各种生物功能或者催化作用紧密相关。然而有趣的问题是：一种特定的功能运动是否有特定的时间尺度与其对应呢？在序列，结构和环境完全一样的情况下，同一种蛋白分子的动力学或者功能是否会存在个体差异呢？洪亮课题组通过全原子分子动力学模拟和单分子能量共振荧光显微镜实验，对SHP2络氨酸磷酸酶蛋白单分子的动力学行为进行了统计研究。结果表明，在结构和环境完全一样的情况下，横跨14个时间尺度(从皮秒到分钟：10-12
-      - 102秒)，每个蛋白质分子动力学行为各不相同，有快有慢，有动有静，而且整体随着观测时间变长逐渐减慢(图1A)。然而这些新奇现象却与单链DNA的运动行为形成鲜明对比，后者个体差异基本没有(图1B)。团队借助复杂网络和图论的知识，刻画出蛋白质和DNA分子的自由能势能面，并对比分析，发现蛋白分子的新奇运动是由其自相似、分形的“链-岛”自由能图谱造成的(图2)。本工作的一个重要衍生结果是，一模一样的蛋白质分子，其功能效率和动力学行为个体差异很大，对自然环境的适应能力可以非常不同，出现种群分化“population
-      splitting”。这将有助于生物大分子乃至生命体在恶劣环境下演化，部分种群得以生存。图1: 蛋白质的老化“aging”动力学。(A). 蛋白质分子的运动随着观测时间变长而逐渐减慢。(B).
-      单链DNA分子并无老化动力学行为。图2: 分子的构象转移网络，边或点的颜色深浅与概率成正比，因此它代表蛋白分子的能量势能面。(A). 蛋白分子“链-岛”状势能面。(B).
-      单链DNA分子的运动网络。上海交通大学自然科学研究院和物理与天文学院洪亮教授为本文唯一通讯作者，物理与天文学院博士生李俊为第一作者。理论模型的改进得到了美国田纳西大学/橡树林国家实验室Prof.
-      Jeremy C. Smith，和德国马克斯·普朗克研究所Dr. Aljaž Godec的帮助。单分子实验设计和数据采集得到了中国科学院上海有机化学研究所刘聪研究员和谢静菲博士的帮助，单分子实验同样也得到了美国北卡罗来州立大学Prof.
-      Keith R. Weninger的帮助。本工作得到了国家自然科学基金委、上海市科委、教委、上海人工智能国家实验室和张江高等研究院的支持，以及上海交通大学学生创新中心和上海交通大学高性能计算中心的支持。Recently,
-      Chemical Science, the flagship journal of the Royal Society of Chemistry, published
-      a new edge research article entitled as “Non-ergodicity of a globular protein
-      extending beyond its functional timescale” by Prof. Liang Hong’s group (Institute
-      of Natural Sciences & School of physics and astronomy & Zhangjiang Institute
-      for Advanced Study), which reported the non-ergodic protein internal dynamics
-      that the functional dynamics in a multi-domain protein slows down with increasing
-      the observational time and it exhibits a large degree of heterogeneity among
-      individual protein molecules. Protein internal dynamics is crucial for its function.
-      How these motions on different timescales relate to and influence each other,
-      and how the overall characteristics of internal dynamics relate to biological
-      function is of particular interest in biophysics. Also, the intriguing possibility
-      exists that otherwise identical single protein molecules might be physically
-      distinct on timescales approaching their functional times (e.g., enzyme catalytic
-      rates). In this regard, a particularly interesting question is whether internal
-      protein dynamics is ergodic, i.e., time-averaged observables are equal to its
-      ensemble average. The group performed numerous single-molecule fluorescence
-      resonance energy transfer (smFRET) experiments and molecular dynamics (MD) simulations
-      to study the internal dynamics of a multi-domain protein, SHP2. The results
-      demonstrate that functional inter-domain motions in the protein show heterogeneity
-      and non-ergodicity over wide time windows: from 10-12 to 102 s. Moreover, we
-      observed striking aging behavior, i.e., the effective internal flexibility of
-      the protein decrease with observation time. Furthermore, as illustrated by control
-      simulations and experiments on a single-strand DNA (ssDNA)of similar size, which
-      behaves ergodically with an energy landscape resembling a one-dimensional linear
-      chain. We demonstrate that the anomalous dynamics of the protein arise from
-      the characteristic protein energy landscape, which has a much higher dimensionality
-      that that of the ssDNA, unique hierarchical structure, and “chained-islands”
-      topology. The present findings significantly recast existing ideas in molecular
-      biophysics connecting ensemble-averaged protein dynamics to biological function.
-      Instead, non-ergodicity splits the population of otherwise identical proteins
-      into subpopulations with drastically distinct conformations, flexibilities,
-      and reaction rates over timescales longer than needed for the biological function.
-      The first author of this article is Ph.D. student Jun Li from Prof. Liang Hong’s
-      group, and Prof. Liang Hong from the Institute of Natural Sciences and School
-      of Physics and Astronomy is the corresponding author. The theoretical model
-      was developed with the help of Prof. Jeremy C. Smith from the University of
-      Tennessee and Oak Ridge National Laboratory (USA), and Dr. Aljaž Godec from
-      Max Planck Institute for Biophysical Chemistry (Germany). The single-molecule
-      experiments were carried out with the help of Dr. JingFei Xie, Associate Prof.
-      Cong Liu in the Chinese Academy of Sciences (China), and Prof. Keith R. Weninger
-      from North Carolina State University (USA). The work was supported by the National
-      Natural Science Foundation of China, Student Innovation Center, and Center for
-      High-Performance Computing at SJTU.
-
-      2022-08-10
-
-      上海交大洪亮课题组与冯雁课题组合作揭示嗜热Argonaute蛋白的DNA剪辑机制
-
-      可编程核酸内切酶的出现彻底改变了基因组编辑技术，例如分子诊断和基因改造，对生命科学、生物安全、医疗和环境监测等产生了极其重要的影响。近几年，获得2019年诺贝尔生物学奖的基因编辑体系—(CRISPR)-Cas系统备受科学家和医疗企业的关注。该体系能对靶向核酸的特定位点进行编辑，从而引发相应物理特征变化，实现医学诊断与治疗。类似于CRISPR-Cas系统，Argonaute蛋白(Ago)同样是一类核酸介导的限制性核酸内切酶。该蛋白被提议为适用于一系列生物技术应用的基因编辑酶。相比于Cas蛋白分子量大、只能使用RNA作为介导核酸、需要PAM识别区等缺点，Ago蛋白具有分子量小、可使用RNA和DNA作为介导核酸、不需要PAM识别区、位点识别准确率高等优点。上述优势使Ago蛋白能够被应用于高通量的基因编辑和医学筛查。因此，研究Ago蛋白对核酸的剪切机制以及由此研发具有优异的核酸剪辑和结合活性的Ago蛋白，不仅是重要的科学问题，也具有重要的工程意义。近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院洪亮课题组联合生命科学技术学院/微生物代谢国家重点实验室冯雁课题组利用多种实验技术和分子动力学模拟，发现嗜热Ago蛋白在其生理温度时采用了表面熔融的动态松散结构（与晶体结构不同），而常温Ago蛋白采用的是类似于晶体结构的构象。这种表面熔融的动态松散结构对嗜热Ago蛋白实现高效的DNA剪切功能具有关键作用。研究成果以“Loosely-packed
-      Dynamical Structures with Partially-melted Surface Being the Key for Thermophilic
-      Argonaute Proteins Achieving High DNA-cleavage Activity”为题发表于Nucleic Acids Research
-      (IF: 19.160)。本工作结合多种实验技术(SAXS，CD，DSF，nanoDSC和SDS-PAGE)和分子动力学模拟，研究了6种嗜热Ago蛋白在不同温度下的结构、动力学以及DNA剪切活性。我们发现：1.
-      相较于常温Ago蛋白，嗜热Ago蛋白在整体结构和活性中心处拥有更多的氢键、盐桥，从而导致嗜热Ago蛋白具有更高的热稳定性。与此同时，这种刚性的结构降低了Ago蛋白实现功能时所需的结构柔性，从而导致嗜热Ago蛋白在室温下DNA剪切活性很低；2.
-      在生理温度下，嗜热Ago蛋白采用了表面熔融的动态松散结构，这种结构介于晶体结构和蛋白完全解折叠结构。然而，常温Ago蛋白的功能态是其晶体结构；3.这种动态的、松散的结构能够赋予嗜热Ago蛋白极大的结构柔性，从而使其在生理温度下具有高效的DNA剪切活性。综上，本工作进一步拓展了原有蛋白质结构学中基于晶体结构的结构—功能关系。此外，本工作不仅对理解
-      Ago蛋白核酸剪辑的微观机制至关重要，而且为设计高活性嗜热蛋白提出了一种新思路：在室温下生物分子表面通过大量残基间的相互作用来限制其功能和保持结构完整性，但其中一部分相互作用在温度升高时会发生断裂，从而释放出足够的结构柔性以达到蛋白质的高酶活性。更为重要的是，基于深度学习的AI算法在预测蛋白质分子的3D
-      结构方面已取得了巨大的成功，例如AlphaFold2。然而，作为用于训练机器学习模型的数据集大多是在常温甚至更低温度下确定的晶体结构，因此，预测的结构不可避免地只能模仿低温晶体结构。本工作表明，嗜热
-      Ago蛋白在其生理条件下通常呈现出部分熔融的松散堆积结构，这与常温或低温下的蛋白质晶体结构不同。我们的研究结果表明在今后的机器学习模型中需要考虑到蛋白质发挥生理功能时的状态与蛋白质晶体结构的差异性。上海交大自然科学研究院/物理与天文学院/张江高等研究院洪亮教授为通讯作者，生命科学技术学院冯雁团队刘倩研究员为共同通讯作者。物理与天文学院博士生郑力荣、生命科学技术学院硕士生陆慧、物理与天文学院博士生昝冰和李松为共同第一作者。该工作得到了国家自然科学基金委、上海市科委、教委、上海人工智能国家实验室和张江高等研究院的支持，以及上海光源（SSRF）BL19U2谱仪科学家李娜研究员、上海交通大学分析测试中心和上海交通大学学生创新中心的技术支撑。Programmable
-      endonucleases have revolutionized genome-editing technologies, such as molecular
-      diagnostics and genetic modification, which are critical for life science, biosecurity,
-      medical treatment, and environmental monitoring. In recent years, the clustered
-      regularly interspaced short palindromic repeats (CRISPR)-Cas system has attracted
-      great attention, which enabled target nucleic acids to be manipulated at a specific
-      spot, thus leading to changes in physical traits and achieving medical diagnostics.
-      Reminiscent of the CRISPR-Cas system, Argonaute proteins (Agos) are nucleic
-      acid-guided endonucleases, which have been proposed to be suitable candidates
-      for a range of biotechnological applications. Whereas Cas nucleases require
-      the presence of a protospacer-adjacent motif (PAM) or protospacer flanking site
-      (PFS), Agos are independent of such motifs. Furthermore, Agos can utilize DNA
-      as guides that are much easier to produce and more stable during application
-      than the RNA guides used by CRISPR-Cas. All the above advantages give Agos potential
-      for easy-to-implement and high-throughput screenings in gene editing and medical
-      diagnostics. Hence, studying of the microscopic mechanism underlying the DNA
-      cleavage and design Ago with high efficiency of cleavage and binding is not
-      only of scientifically important but also of great engineering significance.On
-      June 30th, 2022, Nucleic Acids Research published a new edge research article
-      entitled as “Loosely-packed Dynamical Structures with Partially-melted Surface
-      Being the Key for Thermophilic Argonaute Proteins Achieving High DNA-cleavage
-      Activity” by Prof. Liang Hong’s group (Institute of Natural Sciences/School
-      of physics and astronomy/ Zhangjiang Institute for Advanced Study) and Prof.
-      Yan Feng’ group (State Key Laboratory of Microbial Metabolism/School of Life
-      Sciences and Biotechnology) (DOI:).In the present work, we investigated the
-      temperature dependence of structure, dynamics, and endonuclease activity of
-      thermophilic pAgos (PfAgo and TtAgo) and their mesophilic counterpart CbAgo
-      using various experimental and simulation techniques. We made the following
-      discoveries:1. The two studied thermophilic pAgos (PfAgo and TtAgo) possess
-      stronger intramolecular interactions, including hydrogen bonds, salt bridges
-      and hydrophobic interactions inside the protein core, globally over the entire
-      protein and locally at the catalytic residues, than the mesophilic CbAgo. This
-      renders thermal stability to thermophilic pAgos and strongly reduces their structural
-      flexibility.2. At physiological temperatures, PfAgo and TtAgo adopt a loosely-packed
-      dynamical structure with a partially-melted surface which is an intermediate
-      state between the crystalline structure and fully unfolded state, whereas CbAgo
-      takes a compact crystalline structure at its optimal function temperature.3.
-      The partially-disrupted structure breaks many hydrogen bonds, salt bridges,
-      and even some secondary structures on the surface of thermophilic pAgos to release
-      the structural flexibility, leading to high cleavage activity under physiological
-      conditions. This result is supported by the biochemical assays where we disrupted
-      the structure of the two thermophilic pAgos by incubating them with urea and
-      found significantly higher DNA cleavage activity compared to that of the pristine
-      ones. Complementary kinetic analysis revealed that the partially-disrupted structure
-      in thermophilic pAgos promotes its efficiency in cleaving the DNA without affecting
-      its affinity for substrates.Our findings of thermophilic pAgos assuming loosely-packed
-      dynamical structures with partially-melted surfaces under physiological conditions
-      modify the existing structure-function relationship established based on the
-      compact crystalline structures determined at moderate temperatures. It is not
-      only crucial for understanding the microscopic mechanism of pAgos, but also
-      suggests a smart design for the high-activity thermophilic proteins where a
-      great amount of strong inter-residue interactions is required on the biomolecular
-      surface at moderate temperatures to limit the function and preserve the structural
-      integrity, but part of them is broken at the elevated desired temperatures to
-      release sufficient structural flexibility to reach high activity.More importantly,
-      the deep-learning-based methods have recently achieved a great degree of success
-      in predicting the 3D structure of protein molecules, e.g., alpha-fold. However,
-      as the datasets used to train the machine-learning model are mostly crystalline
-      structures determined at moderate temperatures or even lower, the predicted
-      structures inevitably mimic the low-temperature crystal structures. The present
-      work demonstrates that the thermophilic pAgos across a wide range of species
-      generally assume loosely-packed partially-melted structures at their physiological
-      conditions, which are different from the compact structures at moderate or low
-      temperatures. Our findings call for an advanced version of the machine-learning
-      model, which needs to consider the difference between the physiological condition
-      where the protein functions and the one where the experimental structure is
-      determined.This is a collaborative work by Prof. Liang Hong and Prof. Yan Feng
-      at SJTU. The first authors are Lirong Zheng, Hui Lu, Bing Zan and Song Li. The
-      corresponding authors are Liang Hong and Qian Liu. The work was supported National
-      Natural Science Foundation of China and Shanghai Municipal Science and Technology
-      Major Project. The beam time was supported by Dr. Na Li from SSRF.
-
-      2022-06-29'
-  page_title: 上海应用数学中心(上海交通大学分中心)
-  page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/4288.html
@@ -3373,6 +2555,42 @@
 
       22:00 — 23:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaF2qF2
+    info: '朱升峰
+
+      NUMERICAL METHODS FOR SHAPE AND TOPOLOGY OPTIMIZATION OF EIGEN-FREQUENCIES
+
+      2023-05-18
+
+      17:00 — 17:45'
+    person: ''
+    time: ''
+    title: '朱升峰
+
+      NUMERICAL METHODS FOR SHAPE AND TOPOLOGY OPTIMIZATION OF EIGEN-FREQUENCIES
+
+      2023-05-18
+
+      17:00 — 17:45'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaGpKF2
+    info: '龚荣芳
+
+      TUMOR TREATING FIELDS: MODEL VALIDATION AND NUMERICAL INVERSION
+
+      2023-05-18
+
+      16:30 — 17:00'
+    person: ''
+    time: ''
+    title: '龚荣芳
+
+      TUMOR TREATING FIELDS: MODEL VALIDATION AND NUMERICAL INVERSION
+
+      2023-05-18
+
+      16:30 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct6FtKF2
     info: 'PROF. MIN-CHUN HONG
 
@@ -3392,45 +2610,49 @@
       2023-05-16
 
       15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct6GpKF2
-    info: '陈国度
-
-      ON THE DCC OF IITAKA VOLUMES
-
-      2023-05-16
-
-      09:30 — 10:30'
-    person: ''
-    time: ''
-    title: '陈国度
-
-      ON THE DCC OF IITAKA VOLUMES
-
-      2023-05-16
-
-      09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpSFtKF2
-    info: 'ZONGZHU LIN
-
-      COHOMOLOGICAL ALGEBRAS ATTACHED TO VERTEX ALGEBRAS
-
-      2023-05-16
-
-      16:30 — 17:30'
-    person: ''
-    time: ''
-    title: 'ZONGZHU LIN
-
-      COHOMOLOGICAL ALGEBRAS ATTACHED TO VERTEX ALGEBRAS
-
-      2023-05-16
-
-      16:30 — 17:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0515/c33485a2757395/page.htm
+    info: '“杏林·学者论坛”—李斌 教授报告会
+
+      [2023-05-15]'
+    person: ''
+    time: ''
+    title: “杏林·学者论坛”—李斌 教授报告会
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0515/c33485a2757174/page.htm
+    info: '求是海洋学术论坛2023年06期（总22期）——海上风电场尾流模拟...
+
+      [2023-05-15]'
+    person: ''
+    time: ''
+    title: 求是海洋学术论坛2023年06期（总22期）——海上风电场尾流模拟与风电场布置优化
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0515/c33485a2757057/page.htm
+    info: '【生研院】学术讲座系列：张华凤教授（中国科学技术大学）...
+
+      [2023-05-15]'
+    person: ''
+    time: ''
+    title: ​【生研院】学术讲座系列：张华凤教授（中国科学技术大学）学术报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0515/c33485a2757002/page.htm
+    info: '“杏林·学者论坛”—周鸣 教授报告会
+
+      [2023-05-15]'
+    person: ''
+    time: ''
+    title: “杏林·学者论坛”—周鸣 教授报告会
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0515/c33485a2756993/page.htm
+    info: '物理学院李金环学术报告的通知（School of Physics Colloqui...
+
+      [2023-05-15]'
+    person: ''
+    time: ''
+    title: 物理学院李金环学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: https://www.zju.edu.cn/2023/0512/c33485a2756453/page.htm
     info: '海外名师大讲堂（127）——讲座二：Interactions and Investme...
@@ -3481,46 +2703,6 @@
     person: ''
     time: ''
     title: '【数学学院】张伟平院士：Two applications of η-invariant '
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0509/c33485a2754603/page.htm
-    info: '【生研院】学术讲座系列：胡海教授（国科大肿瘤医院/中科院...
-
-      [2023-05-09]'
-    person: ''
-    time: ''
-    title: ​【生研院】学术讲座系列：胡海教授（国科大肿瘤医院/中科院医学所）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0509/c33485a2754577/page.htm
-    info: '【数学学院】School Colloquium | Recent progress on rando...
-
-      [2023-05-09]'
-    person: ''
-    time: ''
-    title: 【数学学院】School Colloquium | Recent progress on random field Ising model
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0508/c33485a2753939/page.htm
-    info: '物理学院柳卫平学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-08]'
-    person: ''
-    time: ''
-    title: 物理学院柳卫平学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0506/c33485a2753415/page.htm
-    info: '【生研院】特邀报告系列：柳素玲教授（复旦大学）学术报告
-
-      [2023-05-06]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：柳素玲教授（复旦大学）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0506/c33485a2753401/page.htm
-    info: '【生研院】特邀报告系列：刘芝华教授（中国医学科学院肿瘤医...
-
-      [2023-05-06]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：刘芝华教授（中国医学科学院肿瘤医院）学术报告
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
