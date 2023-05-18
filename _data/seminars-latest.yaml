@@ -392,7 +392,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4966597
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4970432
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -805,6 +805,63 @@
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2543.htm
+    info: '人工智能交叉论坛第【3】期：文心·CV大模型VIMER：算法和应用
+
+      报告人：王井东 研究员主持人：林宙辰 教授时   间：2023/5/23  14:00 - 15:00地   址：北京大学燕园校区理科二号楼2135；昌平校区115教室                报告题目：文心·CV大模型VIMER：算法和应用报告摘要:   本报告主要内容包括百度文心·CV大模型VIMER以数据为中心的算法和应用。首先，介绍自监督表征学习算法Context
+      Autoencoder（CAE）算法及其推广。然后，讲述基于CAE的工业视觉大模型、OCR文字识别大模型、人体大模型等...
+
+      2023-05-18'
+    person: ''
+    time: ''
+    title: 人工智能交叉论坛第【3】期：文心·CV大模型VIMER：算法和应用
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2497.htm
+    info: '通用人工智能论坛第【1】期：神经网络中的符号概念涌现与基于博弈交互的解释性理论…
+
+      报告人：张拳石 副教授主持人：朱毅鑫 助理教授时   间：2023/4/12  14:00 - 15:30地   址：北京通用人工智能研究院二层大教室2201                 腾讯会议：221
+      367 986报告题目：神经网络中的符号概念涌现与基于博弈交互的解释性理论体系报告摘要:   深度神经网络的可解释性近年来受到大家越来越多的关注，相关技术流派也呈百家争鸣的状态。但是目前可解释性领域中大部分可解释性算法往往侧重于工程性的功能实现，一些核心...
+
+      2023-04-10'
+    person: ''
+    time: ''
+    title: 通用人工智能论坛第【1】期：神经网络中的符号概念涌现与基于博弈交互的解释性理论体系
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2488.htm
+    info: '人工智能交叉论坛第【2】期：个体脑功能成像及应用
+
+      报告人：刘河生 教授主持人：彭玉佳 研究员时   间：2023/4/10  15:00 - 16:30地   址：北京通用人工智能研究院二层大教室2201                 腾讯会议：813
+      870 781报告题目：个体脑功能成像及应用报告摘要:   人脑的个体差异巨大，现有的功能影像手段尚不能准确、可靠地反映单个患者的脑功能网络，使得功能影像的临床应用受到限制。本讲座将探讨人脑个体差异的生物学基础，介绍最新的面向个体患者的脑功能成像方法，包括如...
+
+      2023-04-07'
+    person: ''
+    time: ''
+    title: 人工智能交叉论坛第【2】期：个体脑功能成像及应用
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2486.htm
+    info: '人工智能交叉论坛第【1】期：图卷积神经网络的理论基础
+
+      报告人：魏哲巍 教授主持人：林宙辰 教授时   间：2023/4/4  15:00 - 16:00地   址：燕园本部：理一1131教室                 昌平校区：教学楼115教室报告题目：图卷积神经网络的理论基础报告摘要:   近年来，由于图结构数据的强大表达能力，用机器学习方法分析和挖掘图数据的研究越来越受到重视。图神经网络（GNN）是一类基于深度学习的处理图数据的方法，由于其处理结构化非欧几何数据的出色能力，GNN在人工智能的各个交叉领...
+
+      2023-03-31'
+    person: ''
+    time: ''
+    title: 人工智能交叉论坛第【1】期：图卷积神经网络的理论基础
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2504.htm
+    info: '人工智能经纬论坛第【31】期讲座通知
+
+      报告人：贾弘洋 助理教授时   间：2023/1/16   16:00 - 17:00主持人：燕博南 助理教授Zoom：    Zoom ID:  840
+      8248 2292    Passcode：891611Title：可扩展存算一体架构与系统Abstract:   人工智能应用的蓬勃发展对计算设备的运算能力提出了前所未有的需求。存算一体作为有望突破“存储墙“限制的新兴计算技术，可以大幅提升高维矩阵乘法的运算效率。然而，我们如何才能保证存算一体系统芯片在满足复杂应用场景的软硬件需求的...
+
+      2023-01-13'
+    person: ''
+    time: ''
+    title: 人工智能经纬论坛第【31】期讲座通知
+  page_title: 学术讲座-北京大学人工智能研究院
+  page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
+- page_info:
+  - address: ''
     href: javascript:;
     info: Pre12345678910Next
     person: ''
@@ -814,76 +871,12 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1631
-    info: '5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
-
-      2023-05-09'
+    href: javascript:;
+    info: Pre12345678910Next
     person: ''
     time: ''
-    title: 5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1630
-    info: '5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
-      pathway..
-
-      2023-05-09'
-    person: ''
-    time: ''
-    title: 5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
-      pathway..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1625
-    info: '5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
-
-      2023-04-25'
-    person: ''
-    time: ''
-    title: 5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1624
-    info: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
-      Fact..
-
-      2023-04-25'
-    person: ''
-    time: ''
-    title: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
-      Fact..'
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1623
-    info: '4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
-      usingconnect..
-
-      2023-04-25'
-    person: ''
-    time: ''
-    title: 4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
-      usingconnect..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1612
-    info: '4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
-
-      2023-03-31'
-    person: ''
-    time: ''
-    title: 4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1611
-    info: '4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
-
-      2023-03-31'
-    person: ''
-    time: ''
-    title: 4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1605
-    info: '4月6日CQBseminar：Effects of gene transfer in phage-host coevolution
-
-      2023-03-27'
-    person: ''
-    time: ''
-    title: 4月6日CQBseminar：Effects of gene transfer in phage-host coevolution
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
+    title: Pre
+  page_title: 北京国际数学研究中心
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
@@ -1610,72 +1603,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149247.htm
-    info: '18
-
-      May
-
-      Applied Mathematics Seminar——非定常Ginzburg-Landau 方程的保结构有限元算法
-
-      时间：2023-05-18 16:00-17:00
-
-      报告人: 马利敏（武汉大学）'
-    person: ''
-    time: ''
-    title: '18
-
-      May
-
-      Applied Mathematics Seminar——非定常Ginzburg-Landau 方程的保结构有限元算法
-
-      时间：2023-05-18 16:00-17:00
-
-      报告人: 马利敏（武汉大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149418.htm
-    info: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 09:00-10:00
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 09:00-10:00
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149422.htm
-    info: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 10:15-11:15
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-    person: ''
-    time: ''
-    title: '18
-
-      May
-
-      On the étale cohomology of the Fargues-Fontaine curve
-
-      时间：2023-05-18 10:15-11:15
-
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/149752.htm
     info: '19
 
@@ -1700,6 +1627,76 @@
 
       报告人: Jie Xiong (Southern University of Science and Technology)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149891.htm
+    info: '22
+
+      May
+
+      Probability and Statistics Seminar——SLE large deviations and the regularity
+      of the Loewner transform
+
+      时间：2023-05-22 13:30–14:30
+
+      报告人: Tim Mesikepp (BICMR)'
+    person: ''
+    time: ''
+    title: '22
+
+      May
+
+      Probability and Statistics Seminar——SLE large deviations and the regularity
+      of the Loewner transform
+
+      时间：2023-05-22 13:30–14:30
+
+      报告人: Tim Mesikepp (BICMR)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149898.htm
+    info: '22
+
+      May
+
+      Analysis of change of the fertility rate
+
+      时间：2023-05-22 10:00-11:00
+
+      报告人: Zhaohui Ye（The University of Hong Kong）'
+    person: ''
+    time: ''
+    title: '22
+
+      May
+
+      Analysis of change of the fertility rate
+
+      时间：2023-05-22 10:00-11:00
+
+      报告人: Zhaohui Ye（The University of Hong Kong）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149883.htm
+    info: '23
+
+      May
+
+      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
+      PDEs
+
+      时间：2023-05-23 10:00-11:00
+
+      报告人: Juntao Huang (Texas Tech University)'
+    person: ''
+    time: ''
+    title: '23
+
+      May
+
+      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
+      PDEs
+
+      时间：2023-05-23 10:00-11:00
+
+      报告人: Juntao Huang (Texas Tech University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/149845.htm
     info: '24
 
@@ -1721,6 +1718,28 @@
       时间：2023-05-24 10:00-12:00
 
       报告人: 陈嘉弛（中山大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/149909.htm
+    info: '24
+
+      May
+
+      Complete Pluripolar Sets and Removable Singularities of Plurisubharmonic Functions
+
+      时间：2023-05-24 09:00-10:00
+
+      报告人: Xieping Wang (University of Science and Technology of China)'
+    person: ''
+    time: ''
+    title: '24
+
+      May
+
+      Complete Pluripolar Sets and Removable Singularities of Plurisubharmonic Functions
+
+      时间：2023-05-24 09:00-10:00
+
+      报告人: Xieping Wang (University of Science and Technology of China)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/149763.htm
     info: '24
@@ -1744,117 +1763,97 @@
 
       报告人: Hui Yu (National University of Singapore)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/149731.htm
-    info: '17
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/149895.htm
+    info: '25
 
       May
 
-      Positive mass theorem for metrics with singular sets
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Statistical Limit of Arbitrage
 
-      时间：2023-05-17 09:00-10:00
+      时间：2023-05-25 9:00
 
-      报告人: Huaiyu Zhang (Nanjing University of Science & Technology)'
+      报告人: Xiu Dacheng (University of Chicago)'
     person: ''
     time: ''
-    title: '17
+    title: '25
 
       May
 
-      Positive mass theorem for metrics with singular sets
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Statistical Limit of Arbitrage
 
-      时间：2023-05-17 09:00-10:00
+      时间：2023-05-25 9:00
 
-      报告人: Huaiyu Zhang (Nanjing University of Science & Technology)'
+      报告人: Xiu Dacheng (University of Chicago)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/149824.htm
-    info: '17
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149906.htm
+    info: '18
 
       May
 
-      Geometry and Topology Seminar——Extendability over the 4-sphere and invariant
-      spin structures of surface automorphisms
+      Can Statistics Save Machine Learning from a Crisis? A Truthful Owner-Assisted
+      Scoring Mechanism for Peer Review
 
-      时间：2023-05-17 13:00-15:00
+      时间：2023-05-18 9:00-10:00
 
-      报告人: 王炜飚（北京大学）'
+      报告人: Weijie Su (University of Pennsylvania）'
     person: ''
     time: ''
-    title: '17
+    title: '18
 
       May
 
-      Geometry and Topology Seminar——Extendability over the 4-sphere and invariant
-      spin structures of surface automorphisms
+      Can Statistics Save Machine Learning from a Crisis? A Truthful Owner-Assisted
+      Scoring Mechanism for Peer Review
 
-      时间：2023-05-17 13:00-15:00
+      时间：2023-05-18 9:00-10:00
 
-      报告人: 王炜飚（北京大学）'
+      报告人: Weijie Su (University of Pennsylvania）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149408.htm
-    info: '16
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149903.htm
+    info: '18
 
       May
 
-      On the étale cohomology of the Fargues-Fontaine curve
+      Study tumor evolution and therapeutic responses with single cell sequencing
+      approaches
 
-      时间：2023-05-16 09:00-10:00
+      时间：2023-05-18 10:00-11:00
 
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
+      报告人: Ruli Gao (Northwestern University）'
     person: ''
     time: ''
-    title: '16
+    title: '18
 
       May
 
-      On the étale cohomology of the Fargues-Fontaine curve
+      Study tumor evolution and therapeutic responses with single cell sequencing
+      approaches
 
-      时间：2023-05-16 09:00-10:00
+      时间：2023-05-18 10:00-11:00
 
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
+      报告人: Ruli Gao (Northwestern University）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/149412.htm
-    info: '16
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149247.htm
+    info: '18
 
       May
 
-      On the étale cohomology of the Fargues-Fontaine curve
+      Applied Mathematics Seminar——非定常Ginzburg-Landau 方程的保结构有限元算法
 
-      时间：2023-05-16 10:15-11:15
+      时间：2023-05-18 16:00-17:00
 
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
+      报告人: 马利敏（武汉大学）'
     person: ''
     time: ''
-    title: '16
+    title: '18
 
       May
 
-      On the étale cohomology of the Fargues-Fontaine curve
+      Applied Mathematics Seminar——非定常Ginzburg-Landau 方程的保结构有限元算法
 
-      时间：2023-05-16 10:15-11:15
+      时间：2023-05-18 16:00-17:00
 
-      报告人: SEBASTIAN PAUL HERMANN BARTLING (Universität Duisburg-Essen)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/149678.htm
-    info: '16
-
-      May
-
-      Hear the shape at infinity
-
-      时间：2023-05-16 10:00-11:00
-
-      报告人: Lihan Wang (assistant professor at California State University, Long Beach)'
-    person: ''
-    time: ''
-    title: '16
-
-      May
-
-      Hear the shape at infinity
-
-      时间：2023-05-16 10:00-11:00
-
-      报告人: Lihan Wang (assistant professor at California State University, Long Beach)'
+      报告人: 马利敏（武汉大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2002,6 +2001,150 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1673.htm
+    info: '23
+
+      May
+
+      Catalytic Enantioselective Redox-Neutral Processes for Efficient Chemical Synthesis
+
+      报告人：赵宇 新加坡国立大学院长首席副教授
+
+      时 间：2023年5月10日（星期三）10:00~11:30'
+    person: ''
+    time: ''
+    title: Catalytic Enantioselective Redox-Neutral Processes for Efficient Chemical
+      Synthesis
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1663.htm
+    info: '10
+
+      May
+
+      氢硅烷手性有机硅化学
+
+      报告人：何川 副教授/研究员
+
+      时 间：2023年5月10日（星期三）13:30-15:00'
+    person: ''
+    time: ''
+    title: 氢硅烷手性有机硅化学
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1661.htm
+    info: '28
+
+      Apr
+
+      Publishing in Chem & Chem Catalysis from Cell Press
+
+      报告人：王怀桔博士、朱颜飞博士
+
+      时 间：2023年4月28日（周五）10:30-11:45'
+    person: ''
+    time: ''
+    title: Publishing in Chem & Chem Catalysis from Cell Press
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1626.htm
+    info: '3
+
+      Mar
+
+      氧化-还原分子结人工光合作用催化剂
+
+      报告人：兰亚乾  教授华南师范大学二级教授、教务部工程研究中心主任
+
+      时间：2023年3月3日周五下午15：00'
+    person: ''
+    time: ''
+    title: 氧化-还原分子结人工光合作用催化剂
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1625.htm
+    info: '21
+
+      Feb
+
+      踢好临门一脚——论文返修
+
+      报告人：刘田宇 博士，Wiley出版社上海编辑部
+
+      时 间：2023年2月21日（星期二）15:00-17:00'
+    person: ''
+    time: ''
+    title: 踢好临门一脚——论文返修
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1513.htm
+    info: '13
+
+      Jul
+
+      无机离子交换反应及其应用
+
+      报告人：汤卫平 研究员
+
+      时 间：2022年7月13日（周三）14:00'
+    person: ''
+    time: ''
+    title: 无机离子交换反应及其应用
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1457.htm
+    info: '4
+
+      Mar
+
+      【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
+
+      报告人：李丹 长聘教轨副教授，上海交通大学Bio-X研究院
+
+      时 间：2022年3月4日15:00-17:00'
+    person: ''
+    time: ''
+    title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1415.htm
+    info: '6
+
+      Dec
+
+      SJTU and OU Joint Workshop in Chemistry
+
+      Zoom Meeting ID：862 9945 6713
+
+      时 间：2021年12月06日,14:00-17:45'
+    person: ''
+    time: ''
+    title: SJTU and OU Joint Workshop in Chemistry
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1402.htm
+    info: '25
+
+      Nov
+
+      三维等离激元纳米阵列的精准构筑及性能研究
+
+      报告人：聂志鸿教授，复旦大学
+
+      时 间：2021年11月25日,15:00-16:00'
+    person: ''
+    time: ''
+    title: 三维等离激元纳米阵列的精准构筑及性能研究
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1401.htm
+    info: '24
+
+      Nov
+
+      基于微纳结构的光热调控
+
+      报告人：朱嘉 教授, 南京大学
+
+      时 间：2021年11月24日,15:30-17:30'
+    person: ''
+    time: ''
+    title: 基于微纳结构的光热调控
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
     info: ''
     person: ''
@@ -2022,20 +2165,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 21 hours ago
+      2023-05-17 10:00, 2 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 6 days ago
+      2023-05-12 10:00, 7 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 8 days ago
+      2023-05-10 16:00, 9 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -2062,20 +2205,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 21 hours ago
+      2023-05-17 10:00, 2 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 6 days ago
+      2023-05-12 10:00, 7 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 8 days ago
+      2023-05-10 16:00, 9 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -3000,43 +3143,25 @@
 
       10:00 — 11:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2HtKF2
-    info: '王术
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaG2qF2
+    info: '孙燕
 
-      NONLINEAR FLUID STRUCTURE INTERACTION MODELS IN AERO-ENGINE
+      A MULTI-KINK QUANTILE REGRESSION MODEL WITH COMMON STRUCTURE FOR PANEL DATA
+      ANALYSIS
 
-      2023-06-03
+      2023-06-07
 
-      09:30 — 10:30'
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: '王术
+    title: '孙燕
 
-      NONLINEAR FLUID STRUCTURE INTERACTION MODELS IN AERO-ENGINE
+      A MULTI-KINK QUANTILE REGRESSION MODEL WITH COMMON STRUCTURE FOR PANEL DATA
+      ANALYSIS
 
-      2023-06-03
+      2023-06-07
 
-      09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct6FpKF2
-    info: '王腾
-
-      VANISHING DISSIPATION LIMIT FOR NON-ISENTROPIC NAVIER-STOKES EQUATIONS WITH
-      SHOCK DATA
-
-      2023-06-03
-
-      10:45 — 11:45'
-    person: ''
-    time: ''
-    title: '王腾
-
-      VANISHING DISSIPATION LIMIT FOR NON-ISENTROPIC NAVIER-STOKES EQUATIONS WITH
-      SHOCK DATA
-
-      2023-06-03
-
-      10:45 — 11:45'
+      14:00 — 15:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuctyGyqF2
     info: '[吴文俊数学中心综合报告] 陈猛
@@ -3163,99 +3288,26 @@
       2023-05-18
 
       17:00 — 17:45'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaGpKF2
+    info: '龚荣芳
+
+      TUMOR TREATING FIELDS: MODEL VALIDATION AND NUMERICAL INVERSION
+
+      2023-05-18
+
+      16:30 — 17:00'
+    person: ''
+    time: ''
+    title: '龚荣芳
+
+      TUMOR TREATING FIELDS: MODEL VALIDATION AND NUMERICAL INVERSION
+
+      2023-05-18
+
+      16:30 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0517/c33485a2758544/page.htm
-    info: '求是海洋学术论坛2023年07期（总23期）——极区海洋大气化学及...
-
-      [2023-05-17]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年07期（总23期）——极区海洋大气化学及其观测工程技术进展
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0517/c33485a2758307/page.htm
-    info: '物理学院徐莉梅学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-17]'
-    person: ''
-    time: ''
-    title: 物理学院徐莉梅学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0517/c33485a2758267/page.htm
-    info: '【浙大东方论坛第248讲】数据确权与保护
-
-      [2023-05-17]'
-    person: ''
-    time: ''
-    title: 【浙大东方论坛第248讲】数据确权与保护
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0517/c33485a2758263/page.htm
-    info: '【数学学院】Vadim Kaloshin：Integrability and rigidity f...
-
-      [2023-05-17]'
-    person: ''
-    time: ''
-    title: 【数学学院】Vadim Kaloshin：Integrability and rigidity for convex billiard
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0517/c33485a2758088/page.htm
-    info: '杏林名师名家论坛—邓子新 院士报告会
-
-      [2023-05-17]'
-    person: ''
-    time: ''
-    title: 杏林名师名家论坛—邓子新 院士报告会
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0516/c33485a2757855/page.htm
-    info: '【生研院】特邀报告系列：汪洋教授（大连医科大学肿瘤干细胞...
-
-      [2023-05-16]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：汪洋教授（大连医科大学肿瘤干细胞研究院）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0516/c33485a2757719/page.htm
-    info: '启真化学大讲堂：祝介平教授（瑞士洛桑联邦理工）
-
-      [2023-05-16]'
-    person: ''
-    time: ''
-    title: 启真化学大讲堂：祝介平教授（瑞士洛桑联邦理工）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0515/c33485a2757395/page.htm
-    info: '“杏林·学者论坛”—李斌 教授报告会
-
-      [2023-05-15]'
-    person: ''
-    time: ''
-    title: “杏林·学者论坛”—李斌 教授报告会
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0515/c33485a2757174/page.htm
-    info: '求是海洋学术论坛2023年06期（总22期）——海上风电场尾流模拟...
-
-      [2023-05-15]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年06期（总22期）——海上风电场尾流模拟与风电场布置优化
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0515/c33485a2757057/page.htm
-    info: '【生研院】学术讲座系列：张华凤教授（中国科学技术大学）...
-
-      [2023-05-15]'
-    person: ''
-    time: ''
-    title: ​【生研院】学术讲座系列：张华凤教授（中国科学技术大学）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0515/c33485a2757002/page.htm
-    info: '“杏林·学者论坛”—周鸣 教授报告会
-
-      [2023-05-15]'
-    person: ''
-    time: ''
-    title: “杏林·学者论坛”—周鸣 教授报告会
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2023/0412/c26342a2740833/page.htm
