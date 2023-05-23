@@ -22,14 +22,6 @@
     time: ''
     title: Model-Free Test and Measure for Partial Mean Dependence
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/12173.htm
-    info: "Bifurcation and chaotic behaviour in stochastic Rosenzweig-MacArthur prey-pre...\n\
-      \ 2023年05月13日 "
-    person: ''
-    time: ''
-    title: Bifurcation and chaotic behaviour in stochastic Rosenzweig-MacArthur prey-predator
-      model with non-Gaussian stable Lévy noise
-  - address: ''
     href: https://math.csu.edu.cn/info/1736/12164.htm
     info: "Lane-Emden systems with Neumann boundary conditions: existence, regularity\
       \ an...\n 2023年05月10日 "
@@ -75,6 +67,12 @@
     person: ''
     time: ''
     title: 概率不等式中的几个开问题
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12104.htm
+    info: "“中南概率日”学术报告\n 2023年04月27日 "
+    person: ''
+    time: ''
+    title: “中南概率日”学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -394,7 +392,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4980522
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 4983754
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -714,6 +712,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/d09d9f518534425bbf7a32ffc2c4fa12.htm
+    info: '2023.05.23
+
+      名师大讲堂 第13讲: Catalytic Enantioselective 1,2-Rearrangements'
+    person: ''
+    time: ''
+    title: '名师大讲堂 第13讲: Catalytic Enantioselective 1,2-Rearrangements'
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/3a1c420567514d03956f8d7779881591.htm
     info: '2023.05.08
 
@@ -797,22 +803,27 @@
     person: ''
     time: ''
     title: 手性光谱学（高等天然药物化学邀请讲座）
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/ca1e3911f8974d90b8e4e5f8d4ac8191.htm
-    info: '2022.11.23
-
-      天然产物的发现和生物合成研究'
-    person: ''
-    time: ''
-    title: 天然产物的发现和生物合成研究
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2553.htm
+    info: '人工智能交叉论坛第【4】期：Autonomous AI: Open World Learning and Adaptation
+
+      报告人：刘兵 教授主持人：赵东岩 研究员时   间：2023/5/25  15:00 - 17:00地   址：北京大学燕园校区理科二号楼2736；昌平校区115教室腾讯会议：406-513-280                报告题目：Autonomous
+      AI: Open World Learning and Adaptation报告摘要:   As more and more AI agents are
+      used in practice, it is time to think about how to make these agents fully autonomous
+      so that they can (1) learn by themselves in a...
+
+      2023-05-23'
+    person: ''
+    time: ''
+    title: '人工智能交叉论坛第【4】期：Autonomous AI: Open World Learning and Adaptation'
+  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2543.htm
     info: '人工智能交叉论坛第【3】期：文心·CV大模型VIMER：算法和应用
 
-      报告人：王井东 研究员主持人：林宙辰 教授时   间：2023/5/23  14:00 - 15:00地   址：北京大学燕园校区理科二号楼2135；昌平校区115教室                报告题目：文心·CV大模型VIMER：算法和应用报告摘要:   本报告主要内容包括百度文心·CV大模型VIMER以数据为中心的算法和应用。首先，介绍自监督表征学习算法Context
+      报告人：王井东 研究员主持人：林宙辰 教授时   间：2023/6/5  15:00 - 16:00地   址：北京大学燕园校区理科二号楼2736；昌平校区102教室                报告题目：文心·CV大模型VIMER：算法和应用报告摘要:   本报告主要内容包括百度文心·CV大模型VIMER以数据为中心的算法和应用。首先，介绍自监督表征学习算法Context
       Autoencoder（CAE）算法及其推广。然后，讲述基于CAE的工业视觉大模型、OCR文字识别大模型、人体大模型等...
 
       2023-05-18'
@@ -851,17 +862,6 @@
     person: ''
     time: ''
     title: 人工智能交叉论坛第【1】期：图卷积神经网络的理论基础
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2504.htm
-    info: '人工智能经纬论坛第【31】期讲座通知
-
-      报告人：贾弘洋 助理教授时   间：2023/1/16   16:00 - 17:00主持人：燕博南 助理教授Zoom：    Zoom ID:  840
-      8248 2292    Passcode：891611Title：可扩展存算一体架构与系统Abstract:   人工智能应用的蓬勃发展对计算设备的运算能力提出了前所未有的需求。存算一体作为有望突破“存储墙“限制的新兴计算技术，可以大幅提升高维矩阵乘法的运算效率。然而，我们如何才能保证存算一体系统芯片在满足复杂应用场景的软硬件需求的...
-
-      2023-01-13'
-    person: ''
-    time: ''
-    title: 人工智能经纬论坛第【31】期讲座通知
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
@@ -1513,6 +1513,22 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150091.htm
+    info: '2023-05-23
+
+      【北京大学物理化学讲座】量子平方：用量子计算机模拟量子体系'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学讲座】量子平方：用量子计算机模拟量子体系
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150080.htm
+    info: '2023-05-23
+
+      【兴大报告635】化学反应的量子特性'
+    person: ''
+    time: ''
+    title: 【兴大报告635】化学反应的量子特性
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/149843.htm
     info: '2023-05-17
 
@@ -1590,49 +1606,9 @@
     person: ''
     time: ''
     title: 【Soft Matter Lecture 130】软物质遇见机器学习 ——微结构调控机制研究
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149776.htm
-    info: '2023-05-15
-
-      【“化学生物学”系列学术报告】新药发现化学生物学'
-    person: ''
-    time: ''
-    title: 【“化学生物学”系列学术报告】新药发现化学生物学
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149675.htm
-    info: '2023-05-10
-
-      【有机化学OPSS学术报告】催化氢转移反应研究'
-    person: ''
-    time: ''
-    title: 【有机化学OPSS学术报告】催化氢转移反应研究
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149883.htm
-    info: '23
-
-      May
-
-      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
-      PDEs
-
-      时间：2023-05-23 10:00-11:00
-
-      报告人: Juntao Huang (Texas Tech University)'
-    person: ''
-    time: ''
-    title: '23
-
-      May
-
-      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
-      PDEs
-
-      时间：2023-05-23 10:00-11:00
-
-      报告人: Juntao Huang (Texas Tech University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/149845.htm
     info: '24
@@ -1766,6 +1742,28 @@
 
       报告人: 孔令臣（北京交通大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150083.htm
+    info: '26
+
+      May
+
+      School Colloquium——On the Geometry of Landau-Ginzburg Model
+
+      时间：2023-05-26 15:00-16:00
+
+      报告人: Huijun Fan (School of Mathematical Sciences, Peking University)'
+    person: ''
+    time: ''
+    title: '26
+
+      May
+
+      School Colloquium——On the Geometry of Landau-Ginzburg Model
+
+      时间：2023-05-26 15:00-16:00
+
+      报告人: Huijun Fan (School of Mathematical Sciences, Peking University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/149991.htm
     info: '26
 
@@ -1789,6 +1787,28 @@
       时间：2023-05-26 16:00-17:00
 
       报告人: Yuchen Xin (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150092.htm
+    info: '29
+
+      May
+
+      Analysis and PDE Seminar——Nodal and Critical Sets of Solutions in Elliptic Homogenization
+
+      时间：2023-05-29 10:30-11:30
+
+      报告人: Prof. Zhongwei Shen (University of Kentucky)'
+    person: ''
+    time: ''
+    title: '29
+
+      May
+
+      Analysis and PDE Seminar——Nodal and Critical Sets of Solutions in Elliptic Homogenization
+
+      时间：2023-05-29 10:30-11:30
+
+      报告人: Prof. Zhongwei Shen (University of Kentucky)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150040.htm
     info: '30
@@ -1814,51 +1834,29 @@
 
       报告人: 王立河教授（University of Iowa)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149891.htm
-    info: '22
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/149883.htm
+    info: '23
 
       May
 
-      Probability and Statistics Seminar——SLE large deviations and the regularity
-      of the Loewner transform
+      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
+      PDEs
 
-      时间：2023-05-22 13:30–14:30
+      时间：2023-05-23 10:00-11:00
 
-      报告人: Tim Mesikepp (BICMR)'
+      报告人: Juntao Huang (Texas Tech University)'
     person: ''
     time: ''
-    title: '22
+    title: '23
 
       May
 
-      Probability and Statistics Seminar——SLE large deviations and the regularity
-      of the Loewner transform
+      Adaptive sparse grid discontinuous Galerkin (DG) schemes for high-dimensional
+      PDEs
 
-      时间：2023-05-22 13:30–14:30
+      时间：2023-05-23 10:00-11:00
 
-      报告人: Tim Mesikepp (BICMR)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/149898.htm
-    info: '22
-
-      May
-
-      Analysis of change of the fertility rate
-
-      时间：2023-05-22 10:00-11:00
-
-      报告人: Paul Yip（The University of Hong Kong）'
-    person: ''
-    time: ''
-    title: '22
-
-      May
-
-      Analysis of change of the fertility rate
-
-      时间：2023-05-22 10:00-11:00
-
-      报告人: Paul Yip（The University of Hong Kong）'
+      报告人: Juntao Huang (Texas Tech University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2006,6 +2004,241 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1424
+    info: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+    person: ''
+    time: ''
+    title: '23
+
+      2019-12
+
+      魏之昀博士的读书报告
+
+      主讲人:魏之昀 副研究员时间:2019年12月25日（周三）下午 14:00地点:Bio-X研究院徐汇校区小白楼二楼会议室主讲内容:Extracellular
+      RNAs serve as communication mediators and biomarkers in glioblastoma'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1683.htm
+    info: '1
+
+      Jun
+
+      Development and Application of Metal-Catalyzed Cycloadditions
+
+      报告人：Prof. Zhi-Xiang Yu(余志祥)
+
+      时 间：2023年6月1日（星期四）16:30-18:00'
+    person: ''
+    time: ''
+    title: Development and Application of Metal-Catalyzed Cycloadditions
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1682.htm
+    info: '1
+
+      Jun
+
+      Advances in the Synthesis and Application of Strained-Ring Compounds: Catalytic
+      & Stoichiometric Approaches
+
+      报告人：Prof. László Kürti
+
+      时 间：2023年6月1日（星期四）15:00-16:30'
+    person: ''
+    time: ''
+    title: 'Advances in the Synthesis and Application of Strained-Ring Compounds:
+      Catalytic & Stoichiometric Approaches'
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1681.htm
     info: '29
 
@@ -2118,34 +2351,6 @@
     person: ''
     time: ''
     title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1415.htm
-    info: '6
-
-      Dec
-
-      SJTU and OU Joint Workshop in Chemistry
-
-      Zoom Meeting ID：862 9945 6713
-
-      时 间：2021年12月06日,14:00-17:45'
-    person: ''
-    time: ''
-    title: SJTU and OU Joint Workshop in Chemistry
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1402.htm
-    info: '25
-
-      Nov
-
-      三维等离激元纳米阵列的精准构筑及性能研究
-
-      报告人：聂志鸿教授，复旦大学
-
-      时 间：2021年11月25日,15:00-16:00'
-    person: ''
-    time: ''
-    title: 三维等离激元纳米阵列的精准构筑及性能研究
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2170,20 +2375,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 6 days ago
+      2023-05-17 10:00, 7 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 11 days ago
+      2023-05-12 10:00, 12 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 13 days ago
+      2023-05-10 16:00, 14 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -2210,20 +2415,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 6 days ago
+      2023-05-17 10:00, 7 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 11 days ago
+      2023-05-12 10:00, 12 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 13 days ago
+      2023-05-10 16:00, 14 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -3168,6 +3373,24 @@
 
       10:00 — 11:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeG2qF2
+    info: '段炼
+
+      ON THE TORSION-FINITENESS OVER TORSION EXTENSIONS
+
+      2023-06-09
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '段炼
+
+      ON THE TORSION-FINITENESS OVER TORSION EXTENSIONS
+
+      2023-06-09
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaG2qF2
     info: '孙燕
 
@@ -3224,6 +3447,44 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeGpKF2
+    info: '李继彬
+
+      BIFURCATIONS, EXACT PEAKON, PERIODIC PEAKONS AND SOLITARY WAVE SOLUTIONS OF
+      GENERALIZED CAMASSA-HOLM AND DEGASPERIS-PROCOSI TYPE EQUATIONS
+
+      2023-05-26
+
+      14:30 — 16:00'
+    person: ''
+    time: ''
+    title: '李继彬
+
+      BIFURCATIONS, EXACT PEAKON, PERIODIC PEAKONS AND SOLITARY WAVE SOLUTIONS OF
+      GENERALIZED CAMASSA-HOLM AND DEGASPERIS-PROCOSI TYPE EQUATIONS
+
+      2023-05-26
+
+      14:30 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeGtKF2
+    info: '韩茂安
+
+      近哈密顿系统的HOPF分支理论
+
+      2023-05-26
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '韩茂安
+
+      近哈密顿系统的HOPF分支理论
+
+      2023-05-26
+
+      16:00 — 17:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaHtKF2
     info: '[特邀报告] JUNCHENG WEI
 
@@ -3259,60 +3520,6 @@
       2023-05-25
 
       10:00 — 11:15'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaGyqF2
-    info: '[特邀报告] BAO-FENG FENG
-
-      RESONANT BREATHER AND ROGUE WAVE SOLUTIONS TO A COUPLED SASA-SATSUMA EQUATION
-
-      2023-05-24
-
-      10:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] BAO-FENG FENG
-
-      RESONANT BREATHER AND ROGUE WAVE SOLUTIONS TO A COUPLED SASA-SATSUMA EQUATION
-
-      2023-05-24
-
-      10:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeFyqF2
-    info: '乔灵霞
-
-      NETWORK DESIGN PRINCIPLES FOR BIOLOGICAL FUNCTIONS
-
-      2023-05-23
-
-      10:30 — 12:00'
-    person: ''
-    time: ''
-    title: '乔灵霞
-
-      NETWORK DESIGN PRINCIPLES FOR BIOLOGICAL FUNCTIONS
-
-      2023-05-23
-
-      10:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaGtKF2
-    info: '[文俊讲坛] 张平文 院士
-
-      准晶的数学与计算
-
-      2023-05-21
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[文俊讲坛] 张平文 院士
-
-      准晶的数学与计算
-
-      2023-05-21
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
