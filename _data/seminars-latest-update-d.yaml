@@ -1,207 +1,139 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/12225.htm
-    info: "三维弹性壳体方程组的微分几何方法及维数分裂算法\n 2023年05月24日 "
+    href: https://math.csu.edu.cn/info/1736/12226.htm
+    info: "Recent advances on numerical modeling of two-phase flows in superposed\
+      \ free f...\n 2023年05月25日 "
     person: ''
     time: ''
-    title: 三维弹性壳体方程组的微分几何方法及维数分裂算法
+    title: Recent advances on numerical modeling of two-phase flows in superposed
+      free flow and porous media
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3300.htm
-    info: '基于光热转换的近红外探测
+    href: https://eecs.pku.edu.cn/info/1050/5656.htm
+    info: '25
 
-      近红外光传感在制导、侦查、成像、非接触操控以及医学诊疗等领域具有重要的应用价值。基于无机半导体的近红外探测材料在外力的冲击下极易发生不可逆的脆性断裂，导致其传感功能的丧失；由于此类材料往往缺乏自修复…
+      2023-05
 
-      2023.05.24'
+      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
     person: ''
     time: ''
-    title: 基于光热转换的近红外探测
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+    title: '25
+
+      2023-05
+
+      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+  - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5655.htm
+    info: '10
+
+      2023-05
+
+      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+    person: ''
+    time: ''
+    title: '10
+
+      2023-05
+
+      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+  page_title: 讲座信息-北京大学信息科学技术学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150193.htm
-    info: '2023-05-24
-
-      【北京大学物理化学学术报告】能源材料中相转化与界面结构的电子显微学分析'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】能源材料中相转化与界面结构的电子显微学分析
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150107.htm
-    info: '2023-05-24
-
-      【“化学生物学”系列学术报告】帕金森病蛋白病理性聚集的化学调控'
-    person: ''
-    time: ''
-    title: 【“化学生物学”系列学术报告】帕金森病蛋白病理性聚集的化学调控
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150111.htm
-    info: '29
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/150214.htm
+    info: '31
 
       May
 
-      Probability and Statistics Seminar——Identifying the infinitesimal generator
-      of a stationary D-Markov chain using partially observable data
+      Wave Solutions of KdV-Burgers-type Equations
 
-      时间：2023-05-29 13:00–14:00
+      时间：2023-05-31 10:30-11:30
 
-      报告人: 向绪言 (湖南文理)'
+      报告人: Zhaosheng Feng (University of Texas-Rio Grande Valley, USA)'
     person: ''
     time: ''
-    title: '29
+    title: '31
 
       May
 
-      Probability and Statistics Seminar——Identifying the infinitesimal generator
-      of a stationary D-Markov chain using partially observable data
+      Wave Solutions of KdV-Burgers-type Equations
 
-      时间：2023-05-29 13:00–14:00
+      时间：2023-05-31 10:30-11:30
 
-      报告人: 向绪言 (湖南文理)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150114.htm
-    info: '29
-
-      May
-
-      Probability and Statistics Seminar——Dimer model, uniform spanning tree and Gaussian
-      free field
-
-      时间：2023-05-29 14:30–15:30
-
-      报告人: 刘明昶 (清华)'
-    person: ''
-    time: ''
-    title: '29
-
-      May
-
-      Probability and Statistics Seminar——Dimer model, uniform spanning tree and Gaussian
-      free field
-
-      时间：2023-05-29 14:30–15:30
-
-      报告人: 刘明昶 (清华)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150117.htm
-    info: '01
-
-      Jun
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
-
-      时间：2023-06-01 15:00
-
-      报告人: Peter Tankov (ENSAE)'
-    person: ''
-    time: ''
-    title: '01
-
-      Jun
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
-
-      时间：2023-06-01 15:00
-
-      报告人: Peter Tankov (ENSAE)'
+      报告人: Zhaosheng Feng (University of Texas-Rio Grande Valley, USA)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeHtKF2
-    info: '[特邀报告] 韩茂安
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
 
-      近哈密顿系统的HOPF分支理论
+      2023-05
 
-      2023-05-26
+      盛能印研究员的学术报告
 
-      16:00 — 17:30'
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
     person: ''
     time: ''
-    title: '[特邀报告] 韩茂安
+    title: '24
 
-      近哈密顿系统的HOPF分支理论
+      2023-05
 
-      2023-05-26
+      盛能印研究员的学术报告
 
-      16:00 — 17:30'
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeHpKF2
-    info: '[特邀报告] 李继彬
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFpKF2
+    info: '[COLLOQUIUM] PROF. YONG LIN
 
-      BIFURCATIONS, EXACT PEAKON, PERIODIC PEAKONS AND SOLITARY WAVE SOLUTIONS OF
-      GENERALIZED CAMASSA-HOLM AND DEGASPERIS-PROCOSI TYPE EQUATIONS
+      NORMALIZED DISCRETE RICCI FLOW AND COMMUNITY DETECTION
 
-      2023-05-26
+      2023-06-02
 
-      14:30 — 16:00'
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: '[特邀报告] 李继彬
+    title: '[COLLOQUIUM] PROF. YONG LIN
 
-      BIFURCATIONS, EXACT PEAKON, PERIODIC PEAKONS AND SOLITARY WAVE SOLUTIONS OF
-      GENERALIZED CAMASSA-HOLM AND DEGASPERIS-PROCOSI TYPE EQUATIONS
+      NORMALIZED DISCRETE RICCI FLOW AND COMMUNITY DETECTION
 
-      2023-05-26
+      2023-06-02
 
-      14:30 — 16:00'
+      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/2023/0524/c33485a2762382/page.htm
-    info: '启真化学论坛：谢代前教授报告
+    href: https://www.zju.edu.cn/2023/0525/c33485a2763108/page.htm
+    info: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演...
 
-      [2023-05-24]'
+      [2023-05-25]'
     person: ''
     time: ''
-    title: 启真化学论坛：谢代前教授报告
+    title: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演变'
   - address: ''
-    href: https://www.zju.edu.cn/2023/0524/c33485a2761879/page.htm
-    info: '【基础医学】学术报告——Converting Genomic Information int...
+    href: https://www.zju.edu.cn/2023/0525/c33485a2763078/page.htm
+    info: '浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影...
 
-      [2023-05-24]'
+      [2023-05-25]'
     person: ''
     time: ''
-    title: 【基础医学】学术报告——Converting Genomic Information into Chemical Information for
-      Natura Products Discovery
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761155/page.htm
-    info: '物理学院毛淑德学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院毛淑德学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761149/page.htm
-    info: '物理学院骆军委学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院骆军委学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761134/page.htm
-    info: '物理学院孙庆丰学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院孙庆丰学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761117/page.htm
-    info: '物理学院傅立斌学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院傅立斌学术报告的通知（School of Physics Colloquium）
+    title: 浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影响：跨文化交流以及华人社区面临的挑战
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: http://www.isee.zju.edu.cn/2023/0525/c51065a2762972/page.htm
+    info: '关于香港理工大学范金土教授学术报告的通知
+
+      2023-05-25'
+    person: ''
+    time: ''
+    title: 关于香港理工大学范金土教授学术报告的通知
+  page_title: 学术报告
+  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
