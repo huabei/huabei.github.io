@@ -1,47 +1,151 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150282.htm
-    info: '31
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3301.htm
+    info: '化学反应的量子特性
 
-      May
+      Quantum effects in chemical reactions have been a fundamental topic in chemical
+      reactions. Over the last two decades, we have made significant progresses in
+      two important topics in this research di…
 
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
+      2023.05.29'
     person: ''
     time: ''
-    title: '31
-
-      May
-
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
+    title: 化学反应的量子特性
+  page_title: 学术讲座-清华大学化学系
+  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
+- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150286.htm
+    href: https://sps.bjmu.edu.cn/xsbg/d43ab4bda1e84a1ea71645fc5ae18376.htm
+    info: '2023.05.29
+
+      将知识变成智慧——合成生物学/化学生物学驱动的驯服流感病毒从善'
+    person: ''
+    time: ''
+    title: 将知识变成智慧——合成生物学/化学生物学驱动的驯服流感病毒从善
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4003.htm
+    info: 计算机学院系列讲座菁英论坛第6期——Software Side Channel Vulnerability Detection 23-05-29
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英论坛第6期——Software Side Channel Vulnerability Detection
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150298.htm
+    info: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/150302.htm
     info: '31
 
       May
 
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
+      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
+      schemes for reaction-diffusion system in the energetic variational approach
 
-      时间：2023-05-31 15:00-17:00
+      时间：2023-05-31 13:30-14:30
 
-      报告人: 胡润杰（Stony Brook University）'
+      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
     person: ''
     time: ''
     title: '31
 
       May
 
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
+      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
+      schemes for reaction-diffusion system in the energetic variational approach
 
-      时间：2023-05-31 15:00-17:00
+      时间：2023-05-31 13:30-14:30
 
-      报告人: 胡润杰（Stony Brook University）'
+      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3478.html
+    info: '31
+
+      2023-05
+
+      【学术报告】原子尺度精准合成'
+    person: ''
+    time: ''
+    title: '31
+
+      2023-05
+
+      【学术报告】原子尺度精准合成'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFyqF2
+    info: 'HAO CHEN
+
+      HOW TO USE WEIERSTRASS PARAMETERIZATION TO CONSTRUCT MINIMAL SURFACES
+
+      2023-06-06
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'HAO CHEN
+
+      HOW TO USE WEIERSTRASS PARAMETERIZATION TO CONSTRUCT MINIMAL SURFACES
+
+      2023-06-06
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFtKF2
+    info: 'NIANZI LI
+
+      METRIC ASYMPTOTICS ON THE IRREGULAR HITCHIN MODULI SPACE
+
+      2023-05-30
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: 'NIANZI LI
+
+      METRIC ASYMPTOTICS ON THE IRREGULAR HITCHIN MODULI SPACE
+
+      2023-05-30
+
+      14:00 — 15:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0529/c33485a2764469/page.htm
+    info: '【基础医学】学术报告——一株万古霉素中等耐药金葡菌的故事
+
+      [2023-05-29]'
+    person: ''
+    time: ''
+    title: 【基础医学】学术报告——一株万古霉素中等耐药金葡菌的故事
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
