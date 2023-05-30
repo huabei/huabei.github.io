@@ -396,7 +396,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5002684
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5005858
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -813,6 +813,30 @@
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2564.htm
+    info: '人工智能交叉论坛第【6】期：当AI拿起画笔
+
+      报告人：董未名 研究员            中国科学院自动化研究所主持人：金鑫 研究员            北京通用人工智能研究院时   间：2023/6/6  14:00
+      - 16:00地   址：北京通用人工智能研究院2层大教室2201腾讯会议：256-844-862                 报告题目：当AI拿起画笔
+      报告摘要:   AI绘画是人工智能生成内容（AIGC）领域热门的方向之一。近期，随着图文预训练模型和扩散模型技术的迅速发展，由人工智能生成的绘画作品在艺术性和内容...
+
+      2023-05-27'
+    person: ''
+    time: ''
+    title: 人工智能交叉论坛第【6】期：当AI拿起画笔
+  - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2563.htm
+    info: '人工智能交叉论坛第【5】期：扩散概率模型的若干进展
+
+      报告人：朱军 教授主持人：林宙辰 教授时   间：2023/5/31  14:00 - 15:00地   址：北京大学燕园校区理科二号楼2736；昌平校区115教室                 报告题目：扩散概率模型的若干进展
+      报告摘要:   人工智能内容生成（AIGC）在新闻、营销、客服、游戏、电影、设计、教育等领域有着重要应用，而扩散概率模型（Diffusion Probabilistic
+      Model, DPM）是AIGC的关键技术，当前在文图生成等方面取得了显著进展。本报告将介绍扩散概...
+
+      2023-05-27'
+    person: ''
+    time: ''
+    title: 人工智能交叉论坛第【5】期：扩散概率模型的若干进展
+  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2553.htm
     info: '人工智能交叉论坛第【4】期：Autonomous AI: Open World Learning and Adaptation
 
@@ -847,27 +871,6 @@
     person: ''
     time: ''
     title: 通用人工智能论坛第【1】期：神经网络中的符号概念涌现与基于博弈交互的解释性理论体系
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2488.htm
-    info: '人工智能交叉论坛第【2】期：个体脑功能成像及应用
-
-      报告人：刘河生 教授主持人：彭玉佳 研究员时   间：2023/4/10  15:00 - 16:30地   址：北京通用人工智能研究院二层大教室2201                 腾讯会议：813
-      870 781报告题目：个体脑功能成像及应用报告摘要:   人脑的个体差异巨大，现有的功能影像手段尚不能准确、可靠地反映单个患者的脑功能网络，使得功能影像的临床应用受到限制。本讲座将探讨人脑个体差异的生物学基础，介绍最新的面向个体患者的脑功能成像方法，包括如...
-
-      2023-04-07'
-    person: ''
-    time: ''
-    title: 人工智能交叉论坛第【2】期：个体脑功能成像及应用
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2486.htm
-    info: '人工智能交叉论坛第【1】期：图卷积神经网络的理论基础
-
-      报告人：魏哲巍 教授主持人：林宙辰 教授时   间：2023/4/4  15:00 - 16:00地   址：燕园本部：理一1131教室                 昌平校区：教学楼115教室报告题目：图卷积神经网络的理论基础报告摘要:   近年来，由于图结构数据的强大表达能力，用机器学习方法分析和挖掘图数据的研究越来越受到重视。图神经网络（GNN）是一类基于深度学习的处理图数据的方法，由于其处理结构化非欧几何数据的出色能力，GNN在人工智能的各个交叉领...
-
-      2023-03-31'
-    person: ''
-    time: ''
-    title: 人工智能交叉论坛第【1】期：图卷积神经网络的理论基础
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
@@ -1519,6 +1522,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150341.htm
+    info: '2023-05-30
+
+      【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/150193.htm
     info: '2023-05-24
 
@@ -1600,67 +1611,9 @@
     person: ''
     time: ''
     title: 【兴大报告634】手性介观结构无机材料的合成、性能、应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149797.htm
-    info: '2023-05-15
-
-      【北京大学物理化学讲座】The route going from transition path time distributions and protein
-      folding times, to quantum mechanics, tunneling times and nonadiabatic transition
-      times'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学讲座】The route going from transition path time distributions and
-      protein folding times, to quantum mechanics, tunneling times and nonadiabatic
-      transition times
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150298.htm
-    info: '30
-
-      May
-
-      Cocycle stability for certain systems with hyperbolicity: new approach and applications
-
-      时间：2023-05-30 15:10-17:00
-
-      报告人: Changguang Dong (Nankai University)'
-    person: ''
-    time: ''
-    title: '30
-
-      May
-
-      Cocycle stability for certain systems with hyperbolicity: new approach and applications
-
-      时间：2023-05-30 15:10-17:00
-
-      报告人: Changguang Dong (Nankai University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150040.htm
-    info: '30
-
-      May
-
-      Analysis and PDE Seminar——Compactness method for the regularity of Navier-Stokes
-      equations
-
-      时间：2023-05-30 14:00-15:00
-
-      报告人: 王立河教授（University of Iowa)'
-    person: ''
-    time: ''
-    title: '30
-
-      May
-
-      Analysis and PDE Seminar——Compactness method for the regularity of Navier-Stokes
-      equations
-
-      时间：2023-05-30 14:00-15:00
-
-      报告人: 王立河教授（University of Iowa)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150282.htm
     info: '31
@@ -1796,6 +1749,98 @@
 
       报告人: Peter Tankov (ENSAE)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150322.htm
+    info: '02
+
+      Jun
+
+      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
+
+      时间：2023-06-02 15:00-16:00
+
+      报告人: 麻希南（中国科学技术大学）'
+    person: ''
+    time: ''
+    title: '02
+
+      Jun
+
+      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
+
+      时间：2023-06-02 15:00-16:00
+
+      报告人: 麻希南（中国科学技术大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150333.htm
+    info: '06
+
+      Jun
+
+      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
+      Causality Operators, and High Dimensional Fokker-Planck Equations
+
+      时间：2023-06-06 10:30-11:30
+
+      报告人: Wei Cai (Southern Methodist University)'
+    person: ''
+    time: ''
+    title: '06
+
+      Jun
+
+      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
+      Causality Operators, and High Dimensional Fokker-Planck Equations
+
+      时间：2023-06-06 10:30-11:30
+
+      报告人: Wei Cai (Southern Methodist University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150040.htm
+    info: '30
+
+      May
+
+      Analysis and PDE Seminar——Compactness method for the regularity of Navier-Stokes
+      equations
+
+      时间：2023-05-30 14:00-15:00
+
+      报告人: 王立河教授（University of Iowa)'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Analysis and PDE Seminar——Compactness method for the regularity of Navier-Stokes
+      equations
+
+      时间：2023-05-30 14:00-15:00
+
+      报告人: 王立河教授（University of Iowa)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150298.htm
+    info: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150092.htm
     info: '29
 
@@ -1817,54 +1862,6 @@
       时间：2023-05-29 10:30-11:30
 
       报告人: Prof. Zhongwei Shen (University of Kentucky)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150111.htm
-    info: '29
-
-      May
-
-      Probability and Statistics Seminar——Identifying the infinitesimal generator
-      of a stationary D-Markov chain using partially observable data
-
-      时间：2023-05-29 13:00–14:00
-
-      报告人: 向绪言 (湖南文理)'
-    person: ''
-    time: ''
-    title: '29
-
-      May
-
-      Probability and Statistics Seminar——Identifying the infinitesimal generator
-      of a stationary D-Markov chain using partially observable data
-
-      时间：2023-05-29 13:00–14:00
-
-      报告人: 向绪言 (湖南文理)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150114.htm
-    info: '29
-
-      May
-
-      Probability and Statistics Seminar——Dimer model, uniform spanning tree and Gaussian
-      free field
-
-      时间：2023-05-29 14:30–15:30
-
-      报告人: 刘明昶 (清华)'
-    person: ''
-    time: ''
-    title: '29
-
-      May
-
-      Probability and Statistics Seminar——Dimer model, uniform spanning tree and Gaussian
-      free field
-
-      时间：2023-05-29 14:30–15:30
-
-      报告人: 刘明昶 (清华)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2012,208 +2009,19 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
-    href: http://www.bio-x.cn/Web/Show/2397
-    info: '24
+    href: https://fsctm.sjtu.edu.cn/info/1046/1686.htm
+    info: '14
 
-      2023-05
+      Jun
 
-      盛能印研究员的学术报告
+      丰产金属氢中间体化学：结构、性质与催化
 
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+      报告人：刘强 副教授，清华大学
+
+      时 间：2023年6月14日（星期三）16:30-18:00'
     person: ''
     time: ''
-    title: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2380
-    info: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-    person: ''
-    time: ''
-    title: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2325
-    info: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2275
-    info: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2268
-    info: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-    person: ''
-    time: ''
-    title: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2267
-    info: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2253
-    info: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2211
-    info: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-    person: ''
-    time: ''
-    title: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2199
-    info: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/1425
-    info: '06
-
-      2020-01
-
-      解码讲坛第三十六期讲座通知
-
-      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
-    person: ''
-    time: ''
-    title: '06
-
-      2020-01
-
-      解码讲坛第三十六期讲座通知
-
-      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
-- page_info:
+    title: 丰产金属氢中间体化学：结构、性质与催化
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1683.htm
     info: '1
@@ -2343,20 +2151,6 @@
     person: ''
     time: ''
     title: 无机离子交换反应及其应用
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1457.htm
-    info: '4
-
-      Mar
-
-      【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
-
-      报告人：李丹 长聘教轨副教授，上海交通大学Bio-X研究院
-
-      时 间：2022年3月4日15:00-17:00'
-    person: ''
-    time: ''
-    title: 【变革性分子学术报告】基于冷冻电镜新技术的蛋白病理聚集 体结构解析与化学干预
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2381,20 +2175,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 13 days ago
+      2023-05-17 10:00, 14 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 18 days ago
+      2023-05-12 10:00, 19 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 20 days ago
+      2023-05-10 16:00, 21 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -2421,20 +2215,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 13 days ago
+      2023-05-17 10:00, 14 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 18 days ago
+      2023-05-12 10:00, 19 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 20 days ago
+      2023-05-10 16:00, 21 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -3337,6 +3131,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiF2qF2
+    info: '邴欣
+
+      OPTIMAL DISCRIMINANT ANALYSIS IN HIGH-DIMENSIONAL LATENT FACTOR MODELS
+
+      2023-06-05
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '邴欣
+
+      OPTIMAL DISCRIMINANT ANALYSIS IN HIGH-DIMENSIONAL LATENT FACTOR MODELS
+
+      2023-06-05
+
+      10:00 — 11:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFpKF2
     info: '[COLLOQUIUM] PROF. YONG LIN
 
@@ -3355,80 +3167,102 @@
 
       14:00 — 15:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeF2qF2
-    info: '马子璐
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiGpKF2
+    info: 'ANWA ZHOU
 
-      SOME QUALITATIVE DESCRIPTIONS ON RICCI FLOW SINGULARITY MODELS
+      TENSOR ABSOLUTE VALUE EQUATIONS
 
-      2023-05-30
+      2023-05-31
 
-      16:00 — 17:00'
+      09:30 — 10:30'
     person: ''
     time: ''
-    title: '马子璐
+    title: 'ANWA ZHOU
 
-      SOME QUALITATIVE DESCRIPTIONS ON RICCI FLOW SINGULARITY MODELS
+      TENSOR ABSOLUTE VALUE EQUATIONS
 
-      2023-05-30
+      2023-05-31
 
-      16:00 — 17:00'
+      09:30 — 10:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFtKF2
-    info: 'NIANZI LI
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiGtKF2
+    info: 'KOK LAY TEO
 
-      METRIC ASYMPTOTICS ON THE IRREGULAR HITCHIN MODULI SPACE
+      MINIMIZING CONTROL VARIATION IN NONLINEAR OPTIMAL CONTROL
 
-      2023-05-30
+      2023-05-31
 
-      14:00 — 15:00'
+      10:30 — 11:15'
     person: ''
     time: ''
-    title: 'NIANZI LI
+    title: 'KOK LAY TEO
 
-      METRIC ASYMPTOTICS ON THE IRREGULAR HITCHIN MODULI SPACE
+      MINIMIZING CONTROL VARIATION IN NONLINEAR OPTIMAL CONTROL
 
-      2023-05-30
+      2023-05-31
 
-      14:00 — 15:00'
+      10:30 — 11:15'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuctyGyqF2
-    info: '[吴文俊数学中心综合报告] 陈猛
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiGyqF2
+    info: 'XUERUI GAO
 
-      三维代数簇的最小体积猜想及分类工作的新进展
+      A NEW HYBRID LP-L2 MODEL FOR SPARSE SOLUTIONS WITH APPLICATIONS TO IMAGE PROCESSING
 
-      2023-05-26
+      2023-05-31
 
-      16:00 — 17:00'
+      11:15 — 12:00'
     person: ''
     time: ''
-    title: '[吴文俊数学中心综合报告] 陈猛
+    title: 'XUERUI GAO
 
-      三维代数簇的最小体积猜想及分类工作的新进展
+      A NEW HYBRID LP-L2 MODEL FOR SPARSE SOLUTIONS WITH APPLICATIONS TO IMAGE PROCESSING
 
-      2023-05-26
+      2023-05-31
 
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeHtKF2
-    info: '[特邀报告] 韩茂安
-
-      近哈密顿系统的HOPF分支理论
-
-      2023-05-26
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] 韩茂安
-
-      近哈密顿系统的HOPF分支理论
-
-      2023-05-26
-
-      16:00 — 17:30'
+      11:15 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0530/c33485a2765485/page.htm
+    info: '【数学学院】于品教授：时空几何与波动现象
+
+      [2023-05-30]'
+    person: ''
+    time: ''
+    title: 【数学学院】于品教授：时空几何与波动现象
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0530/c33485a2765467/page.htm
+    info: '物理学院左西年学术报告的通知（School of Physics Colloqui...
+
+      [2023-05-30]'
+    person: ''
+    time: ''
+    title: 物理学院左西年学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0530/c33485a2765464/page.htm
+    info: '物理学院郭建东学术报告的通知（School of Physics Colloqui...
+
+      [2023-05-30]'
+    person: ''
+    time: ''
+    title: 物理学院郭建东学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0530/c33485a2765458/page.htm
+    info: '物理学院赵建林学术报告的通知（School of Physics Colloqui...
+
+      [2023-05-30]'
+    person: ''
+    time: ''
+    title: 物理学院赵建林学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0530/c33485a2765392/page.htm
+    info: '求是海洋学术论坛2023年08期（总24期）
+
+      [2023-05-30]'
+    person: ''
+    time: ''
+    title: 求是海洋学术论坛2023年08期（总24期）
   - address: ''
     href: https://www.zju.edu.cn/2023/0529/c33485a2764469/page.htm
     info: '【基础医学】学术报告——一株万古霉素中等耐药金葡菌的故事
@@ -3478,46 +3312,6 @@
     time: ''
     title: 【基础医学】学术报告——Converting Genomic Information into Chemical Information for
       Natura Products Discovery
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761155/page.htm
-    info: '物理学院毛淑德学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院毛淑德学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761149/page.htm
-    info: '物理学院骆军委学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院骆军委学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761134/page.htm
-    info: '物理学院孙庆丰学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院孙庆丰学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0523/c33485a2761117/page.htm
-    info: '物理学院傅立斌学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-23]'
-    person: ''
-    time: ''
-    title: 物理学院傅立斌学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0519/c33485a2759388/page.htm
-    info: '【基础医学】学术报告——Gli1+ MuSCs在肌肉损伤修复中的功能
-
-      [2023-05-19]'
-    person: ''
-    time: ''
-    title: 【基础医学】学术报告——Gli1+ MuSCs在肌肉损伤修复中的功能
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
