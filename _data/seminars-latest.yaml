@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12245.htm
+    info: "学术报告\n 2023年06月01日 "
+    person: ''
+    time: ''
+    title: 学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12244.htm
+    info: "学术报告\n 2023年06月01日 "
+    person: ''
+    time: ''
+    title: 学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12226.htm
     info: "Recent advances on numerical modeling of two-phase flows in superposed\
       \ free f...\n 2023年05月25日 "
@@ -65,18 +77,6 @@
     person: ''
     time: ''
     title: 高分辨时频后处理方法及其应用
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12139.htm
-    info: "Introduction to Bergman Spaces\n 2023年05月07日 "
-    person: ''
-    time: ''
-    title: Introduction to Bergman Spaces
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12138.htm
-    info: "Best kernel approximation in the Bergman space\n 2023年05月07日 "
-    person: ''
-    time: ''
-    title: Best kernel approximation in the Bergman space
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -396,7 +396,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5008845
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5012395
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1615,28 +1615,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150117.htm
-    info: '01
-
-      Jun
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
-
-      时间：2023-06-01 15:00
-
-      报告人: Peter Tankov (ENSAE)'
-    person: ''
-    time: ''
-    title: '01
-
-      Jun
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
-
-      时间：2023-06-01 15:00
-
-      报告人: Peter Tankov (ENSAE)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150322.htm
     info: '02
 
@@ -1682,6 +1660,50 @@
       时间：2023-06-06 10:30-11:30
 
       报告人: Wei Cai (Southern Methodist University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150417.htm
+    info: '07
+
+      Jun
+
+      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+
+      时间：2023-06-07 16:00-17:00
+
+      报告人: Mario Bonk (University of California, Los Angeles)'
+    person: ''
+    time: ''
+    title: '07
+
+      Jun
+
+      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+
+      时间：2023-06-07 16:00-17:00
+
+      报告人: Mario Bonk (University of California, Los Angeles)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150117.htm
+    info: '01
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
+
+      时间：2023-06-01 15:00
+
+      报告人: Peter Tankov (ENSAE)'
+    person: ''
+    time: ''
+    title: '01
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Decarbonization of large financial markets
+
+      时间：2023-06-01 15:00
+
+      报告人: Peter Tankov (ENSAE)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/150247.htm
     info: '31
@@ -1840,28 +1862,6 @@
       时间：2023-05-30 15:10-17:00
 
       报告人: Changguang Dong (Nankai University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150092.htm
-    info: '29
-
-      May
-
-      Analysis and PDE Seminar——Nodal and Critical Sets of Solutions in Elliptic Homogenization
-
-      时间：2023-05-29 10:30-11:30
-
-      报告人: Prof. Zhongwei Shen (University of Kentucky)'
-    person: ''
-    time: ''
-    title: '29
-
-      May
-
-      Analysis and PDE Seminar——Nodal and Critical Sets of Solutions in Elliptic Homogenization
-
-      时间：2023-05-29 10:30-11:30
-
-      报告人: Prof. Zhongwei Shen (University of Kentucky)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2175,20 +2175,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 15 days ago
+      2023-05-17 10:00, 16 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 20 days ago
+      2023-05-12 10:00, 21 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 22 days ago
+      2023-05-10 16:00, 23 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -2215,20 +2215,20 @@
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 15 days ago
+      2023-05-17 10:00, 16 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
 
       张政 , 中国人民大学统计与大数据研究院
 
-      2023-05-12 10:00, 20 days ago
+      2023-05-12 10:00, 21 days ago
 
       Stochastic optimization and two timescale Q learning process
 
       Jing An , Duke University
 
-      2023-05-10 16:00, 22 days ago
+      2023-05-10 16:00, 23 days ago
 
       Building kinetic network models to capture long-time processes of biomolecules
       from short-time simulations: from Markov State Model to Generalized Master Equation
@@ -2876,6 +2876,20 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3480.html
+    info: '09
+
+      2023-06
+
+      【学术报告】Supramolecular Chemistry for the Real World – Molecular Devices with Medical Applications'
+    person: ''
+    time: ''
+    title: '09
+
+      2023-06
+
+      【学术报告】Supramolecular Chemistry for the Real World – Molecular Devices with Medical Applications'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3471.html
     info: '02
 
@@ -3003,20 +3017,6 @@
       2023-05
 
       【学术报告】光酶催化–利用光解锁酶的新反应性'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3437.html
-    info: '12
-
-      2023-05
-
-      【学术报告】铈催化惰性碳氢键选择性转化的机理研究'
-    person: ''
-    time: ''
-    title: '12
-
-      2023-05
-
-      【学术报告】铈催化惰性碳氢键选择性转化的机理研究'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -3129,6 +3129,80 @@
 
       15:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmFyqF2
+    info: '尤进红
+
+      UNIFIED INFERENCE FOR LONGITUDINAL/FUNCTIONAL DATA WITH STRUCTURAL NONPARAMETRIC
+      REGRESSIONS
+
+      2023-06-09
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '尤进红
+
+      UNIFIED INFERENCE FOR LONGITUDINAL/FUNCTIONAL DATA WITH STRUCTURAL NONPARAMETRIC
+      REGRESSIONS
+
+      2023-06-09
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmF2qF2
+    info: '冯龙
+
+      CHANGE POINT DETECTION IN BETA PROCESS WITH HIGH FREQUENCY DATA
+
+      2023-06-09
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '冯龙
+
+      CHANGE POINT DETECTION IN BETA PROCESS WITH HIGH FREQUENCY DATA
+
+      2023-06-09
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmGpKF2
+    info: '钟威
+
+      MODEL-FREE TEST AND MEASURE FOR PARTIAL MEAN DEPENDENCE
+
+      2023-06-09
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '钟威
+
+      MODEL-FREE TEST AND MEASURE FOR PARTIAL MEAN DEPENDENCE
+
+      2023-06-09
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmGtKF2
+    info: '郑术蓉
+
+      高维尺度不变的判别分析
+
+      2023-06-09
+
+      17:00 — 18:00'
+    person: ''
+    time: ''
+    title: '郑术蓉
+
+      高维尺度不变的判别分析
+
+      2023-06-09
+
+      17:00 — 18:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpaG2qF2
     info: '孙燕
 
@@ -3148,174 +3222,8 @@
       2023-06-07
 
       14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFyqF2
-    info: 'HAO CHEN
-
-      HOW TO USE WEIERSTRASS PARAMETERIZATION TO CONSTRUCT MINIMAL SURFACES
-
-      2023-06-06
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: 'HAO CHEN
-
-      HOW TO USE WEIERSTRASS PARAMETERIZATION TO CONSTRUCT MINIMAL SURFACES
-
-      2023-06-06
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiF2qF2
-    info: '邴欣
-
-      OPTIMAL DISCRIMINANT ANALYSIS IN HIGH-DIMENSIONAL LATENT FACTOR MODELS
-
-      2023-06-05
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '邴欣
-
-      OPTIMAL DISCRIMINANT ANALYSIS IN HIGH-DIMENSIONAL LATENT FACTOR MODELS
-
-      2023-06-05
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmFpKF2
-    info: 'CHUNLAI MU
-
-      GLOBAL BOUNDEDNES AND LARGE TIME BEHAVIOR IN A HIGHER-DIMENSIONAL QUASILINEAR
-      CHEMOTAXIS SYSTEM WITH CHEMOATTRACTANT
-
-      2023-06-03
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: 'CHUNLAI MU
-
-      GLOBAL BOUNDEDNES AND LARGE TIME BEHAVIOR IN A HIGHER-DIMENSIONAL QUASILINEAR
-      CHEMOTAXIS SYSTEM WITH CHEMOATTRACTANT
-
-      2023-06-03
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmFtKF2
-    info: 'YUXIANG LI
-
-      CRITICAL MASS FOR KELLER-SEGEL SYSTEMS WITH SUPERCRITICAL NONLINEAR SENSITIVITY
-
-      2023-06-03
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: 'YUXIANG LI
-
-      CRITICAL MASS FOR KELLER-SEGEL SYSTEMS WITH SUPERCRITICAL NONLINEAR SENSITIVITY
-
-      2023-06-03
-
-      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0531/c33485a2766043/page.htm
-    info: '【建工学院】Elsevier国际期刊高级出版人朱红英博士：Elsevi...
-
-      [2023-05-31]'
-    person: ''
-    time: ''
-    title: 【建工学院】Elsevier国际期刊高级出版人朱红英博士：Elsevier Built & Environment Journal Portfolio
-      Introduction
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0530/c33485a2765485/page.htm
-    info: '【数学学院】于品教授：时空几何与波动现象
-
-      [2023-05-30]'
-    person: ''
-    time: ''
-    title: 【数学学院】于品教授：时空几何与波动现象
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0530/c33485a2765467/page.htm
-    info: '物理学院左西年学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-30]'
-    person: ''
-    time: ''
-    title: 物理学院左西年学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0530/c33485a2765464/page.htm
-    info: '物理学院郭建东学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-30]'
-    person: ''
-    time: ''
-    title: 物理学院郭建东学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0530/c33485a2765458/page.htm
-    info: '物理学院赵建林学术报告的通知（School of Physics Colloqui...
-
-      [2023-05-30]'
-    person: ''
-    time: ''
-    title: 物理学院赵建林学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0530/c33485a2765392/page.htm
-    info: '求是海洋学术论坛2023年08期（总24期）
-
-      [2023-05-30]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年08期（总24期）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0529/c33485a2764469/page.htm
-    info: '【基础医学】学术报告——一株万古霉素中等耐药金葡菌的故事
-
-      [2023-05-29]'
-    person: ''
-    time: ''
-    title: 【基础医学】学术报告——一株万古霉素中等耐药金葡菌的故事
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0526/c33485a2763660/page.htm
-    info: '动物科学学院特邀学术报告会--詹帅研究员学术报告
-
-      [2023-05-26]'
-    person: ''
-    time: ''
-    title: 动物科学学院特邀学术报告会--詹帅研究员学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0525/c33485a2763108/page.htm
-    info: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演...
-
-      [2023-05-25]'
-    person: ''
-    time: ''
-    title: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演变'
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0525/c33485a2763078/page.htm
-    info: '浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影...
-
-      [2023-05-25]'
-    person: ''
-    time: ''
-    title: 浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影响：跨文化交流以及华人社区面临的挑战
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0524/c33485a2762382/page.htm
-    info: '启真化学论坛：谢代前教授报告
-
-      [2023-05-24]'
-    person: ''
-    time: ''
-    title: 启真化学论坛：谢代前教授报告
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2023/0412/c26342a2740833/page.htm
