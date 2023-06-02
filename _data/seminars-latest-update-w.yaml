@@ -1,139 +1,343 @@
 ﻿- page_info:
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/4807.htm
-    info: '学术报告
-
-      31
-
-      MAY
-
-      探索生命系统中的设计原理
-
-      19
-
-      MAY
-
-      哺乳动物早期胚胎发育与不良妊娠结局
-
-      17
-
-      MAY
-
-      Targeting a Treg deubiquitination module in antitumor immunotherapy
-
-      15
-
-      MAY
-
-      Autophagic interplay between Salmonellae and host cells revealed by cryo-elect…
-
-      13
-
-      MAY
-
-      Multiscale regulations of AID-initiated antibody gene diversification
-
-      13
-
-      MAY
-
-      Challenge and Opportunity to discover siRNA drugs
-
-      10
-
-      MAY
-
-      长链非编码RNA与细胞信号调控
-
-      07
-
-      MAY
-
-      植物免疫与作物抗病分子育种
-
-      07
-
-      MAY
-
-      Phase Separation in Synapse Formation & Function
-
-      30
-
-      APR
-
-      Molecular basis of protein aggregation in Parkinson’s disease and its chemica…
-
-      共14条 上页12下页'
+    href: https://math.csu.edu.cn/info/1736/12245.htm
+    info: "学术报告\n 2023年06月01日 "
     person: ''
     time: ''
-    title: 探索生命系统中的设计原理
-  page_title: 学术报告-清华大学生命科学学院
-  page_url: https://life.tsinghua.edu.cn/xsbg.htm
+    title: 学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12244.htm
+    info: "学术报告\n 2023年06月01日 "
+    person: ''
+    time: ''
+    title: 学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12229.htm
+    info: "Systemic Risk Prediction Based on Savitzky-Golay Smoothing and Temporal\
+      \ Convo...\n 2023年05月26日 "
+    person: ''
+    time: ''
+    title: Systemic Risk Prediction Based on Savitzky-Golay Smoothing and Temporal
+      Convolutional Networks
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5661.htm
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150417.htm
+    info: '07
+
+      Jun
+
+      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+
+      时间：2023-06-07 16:00-17:00
+
+      报告人: Mario Bonk (University of California, Los Angeles)'
+    person: ''
+    time: ''
+    title: '07
+
+      Jun
+
+      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+
+      时间：2023-06-07 16:00-17:00
+
+      报告人: Mario Bonk (University of California, Los Angeles)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150322.htm
+    info: '02
+
+      Jun
+
+      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
+
+      时间：2023-06-02 15:00-16:00
+
+      报告人: 麻希南（中国科学技术大学）'
+    person: ''
+    time: ''
+    title: '02
+
+      Jun
+
+      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
+
+      时间：2023-06-02 15:00-16:00
+
+      报告人: 麻希南（中国科学技术大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150333.htm
+    info: '06
+
+      Jun
+
+      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
+      Causality Operators, and High Dimensional Fokker-Planck Equations
+
+      时间：2023-06-06 10:30-11:30
+
+      报告人: Wei Cai (Southern Methodist University)'
+    person: ''
+    time: ''
+    title: '06
+
+      Jun
+
+      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
+      Causality Operators, and High Dimensional Fokker-Planck Equations
+
+      时间：2023-06-06 10:30-11:30
+
+      报告人: Wei Cai (Southern Methodist University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150298.htm
+    info: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Cocycle stability for certain systems with hyperbolicity: new approach and applications
+
+      时间：2023-05-30 15:10-17:00
+
+      报告人: Changguang Dong (Nankai University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/150302.htm
+    info: '31
+
+      May
+
+      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
+      schemes for reaction-diffusion system in the energetic variational approach
+
+      时间：2023-05-31 13:30-14:30
+
+      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
+    person: ''
+    time: ''
+    title: '31
+
+      May
+
+      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
+      schemes for reaction-diffusion system in the energetic variational approach
+
+      时间：2023-05-31 13:30-14:30
+
+      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150282.htm
+    info: '31
+
+      May
+
+      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
+
+      时间：2023-05-31 13:00-15:00
+
+      报告人: 何思奇（中科院数学与系统科学研究院）'
+    person: ''
+    time: ''
+    title: '31
+
+      May
+
+      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
+
+      时间：2023-05-31 13:00-15:00
+
+      报告人: 何思奇（中科院数学与系统科学研究院）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150286.htm
+    info: '31
+
+      May
+
+      Geometry and Topology Seminar——Algebraic Model of Manifolds
+
+      时间：2023-05-31 15:00-17:00
+
+      报告人: 胡润杰（Stony Brook University）'
+    person: ''
+    time: ''
+    title: '31
+
+      May
+
+      Geometry and Topology Seminar——Algebraic Model of Manifolds
+
+      时间：2023-05-31 15:00-17:00
+
+      报告人: 胡润杰（Stony Brook University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/150247.htm
+    info: '31
+
+      May
+
+      Parametric Geometric Inequalities and Their Applications
+
+      时间：2023-05-31 09:00-10:00
+
+      报告人: Yevgeny Liokumovich (University of Toronto)'
+    person: ''
+    time: ''
+    title: '31
+
+      May
+
+      Parametric Geometric Inequalities and Their Applications
+
+      时间：2023-05-31 09:00-10:00
+
+      报告人: Yevgeny Liokumovich (University of Toronto)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3480.html
+    info: '09
+
+      2023-06
+
+      【学术报告】Supramolecular Chemistry for the Real World – Molecular Devices with Medical Applications'
+    person: ''
+    time: ''
+    title: '09
+
+      2023-06
+
+      【学术报告】Supramolecular Chemistry for the Real World – Molecular Devices with Medical Applications'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3478.html
     info: '31
 
       2023-05
 
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+      【学术报告】原子尺度精准合成'
     person: ''
     time: ''
     title: '31
 
       2023-05
 
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+      【学术报告】原子尺度精准合成'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5656.htm
-    info: '25
+    href: https://scce.sjtu.edu.cn/index_xsrl/3471.html
+    info: '02
 
-      2023-05
+      2023-06
 
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+      【学术报告】Precise engineering of fast and selective molecular flow across atomically thin nanopores and nanochannels'
     person: ''
     time: ''
-    title: '25
+    title: '02
 
-      2023-05
+      2023-06
 
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+      【学术报告】Precise engineering of fast and selective molecular flow across atomically thin nanopores and nanochannels'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5655.htm
-    info: '10
+    href: https://scce.sjtu.edu.cn/index_xsrl/3472.html
+    info: '28
 
       2023-05
 
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+      【学术报告】功能材料的电化学脱盐技术研究'
     person: ''
     time: ''
-    title: '10
+    title: '28
 
       2023-05
 
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+      【学术报告】功能材料的电化学脱盐技术研究'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150383.htm
-    info: '2023-05-31
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmFyqF2
+    info: '尤进红
 
-      【Soft Matter Lecture 133】工业结晶科学与工程实践'
+      UNIFIED INFERENCE FOR LONGITUDINAL/FUNCTIONAL DATA WITH STRUCTURAL NONPARAMETRIC
+      REGRESSIONS
+
+      2023-06-09
+
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: 【Soft Matter Lecture 133】工业结晶科学与工程实践
+    title: '尤进红
+
+      UNIFIED INFERENCE FOR LONGITUDINAL/FUNCTIONAL DATA WITH STRUCTURAL NONPARAMETRIC
+      REGRESSIONS
+
+      2023-06-09
+
+      14:00 — 15:00'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150341.htm
-    info: '2023-05-30
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmF2qF2
+    info: '冯龙
 
-      【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料'
+      CHANGE POINT DETECTION IN BETA PROCESS WITH HIGH FREQUENCY DATA
+
+      2023-06-09
+
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: 【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+    title: '冯龙
+
+      CHANGE POINT DETECTION IN BETA PROCESS WITH HIGH FREQUENCY DATA
+
+      2023-06-09
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmGpKF2
+    info: '钟威
+
+      MODEL-FREE TEST AND MEASURE FOR PARTIAL MEAN DEPENDENCE
+
+      2023-06-09
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '钟威
+
+      MODEL-FREE TEST AND MEASURE FOR PARTIAL MEAN DEPENDENCE
+
+      2023-06-09
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmGtKF2
+    info: '郑术蓉
+
+      高维尺度不变的判别分析
+
+      2023-06-09
+
+      17:00 — 18:00'
+    person: ''
+    time: ''
+    title: '郑术蓉
+
+      高维尺度不变的判别分析
+
+      2023-06-09
+
+      17:00 — 18:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiHpKF2
     info: '[特邀报告] JANA HERTZ
@@ -316,26 +520,115 @@
       2023-05-30
 
       14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiFpKF2
-    info: '[COLLOQUIUM] PROF. YONG LIN
-
-      NORMALIZED DISCRETE RICCI FLOW AND COMMUNITY DETECTION
-
-      2023-06-02
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] PROF. YONG LIN
-
-      NORMALIZED DISCRETE RICCI FLOW AND COMMUNITY DETECTION
-
-      2023-06-02
-
-      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/4807.htm
+    info: '学术报告
+
+      31
+
+      MAY
+
+      探索生命系统中的设计原理
+
+      19
+
+      MAY
+
+      哺乳动物早期胚胎发育与不良妊娠结局
+
+      17
+
+      MAY
+
+      Targeting a Treg deubiquitination module in antitumor immunotherapy
+
+      15
+
+      MAY
+
+      Autophagic interplay between Salmonellae and host cells revealed by cryo-elect…
+
+      13
+
+      MAY
+
+      Multiscale regulations of AID-initiated antibody gene diversification
+
+      13
+
+      MAY
+
+      Challenge and Opportunity to discover siRNA drugs
+
+      10
+
+      MAY
+
+      长链非编码RNA与细胞信号调控
+
+      07
+
+      MAY
+
+      植物免疫与作物抗病分子育种
+
+      07
+
+      MAY
+
+      Phase Separation in Synapse Formation & Function
+
+      30
+
+      APR
+
+      Molecular basis of protein aggregation in Parkinson’s disease and its chemica…
+
+      共14条 上页12下页'
+    person: ''
+    time: ''
+    title: 探索生命系统中的设计原理
+  page_title: 学术报告-清华大学生命科学学院
+  page_url: https://life.tsinghua.edu.cn/xsbg.htm
+- page_info:
+  - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5661.htm
+    info: '31
+
+      2023-05
+
+      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+    person: ''
+    time: ''
+    title: '31
+
+      2023-05
+
+      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+  page_title: 讲座信息-北京大学信息科学技术学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150383.htm
+    info: '2023-05-31
+
+      【Soft Matter Lecture 133】工业结晶科学与工程实践'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 133】工业结晶科学与工程实践
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150341.htm
+    info: '2023-05-30
+
+      【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.zju.edu.cn/2023/0531/c33485a2766043/page.htm
@@ -402,22 +695,6 @@
     person: ''
     time: ''
     title: 动物科学学院特邀学术报告会--詹帅研究员学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0525/c33485a2763108/page.htm
-    info: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演...
-
-      [2023-05-25]'
-    person: ''
-    time: ''
-    title: '[浙大氢能研究院主题论坛第3期预告]氢能生态未来的发展和演变'
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0525/c33485a2763078/page.htm
-    info: '浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影...
-
-      [2023-05-25]'
-    person: ''
-    time: ''
-    title: 浙大传播大讲堂第277期：美国的媒体与政治生态对美中关系影响：跨文化交流以及华人社区面临的挑战
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
@@ -447,189 +724,6 @@
     title: 人工智能交叉论坛第【5】期：扩散概率模型的若干进展
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150322.htm
-    info: '02
-
-      Jun
-
-      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
-
-      时间：2023-06-02 15:00-16:00
-
-      报告人: 麻希南（中国科学技术大学）'
-    person: ''
-    time: ''
-    title: '02
-
-      Jun
-
-      School Colloquium——非线性椭圆k-Hessian方程的Green函数与外问题
-
-      时间：2023-06-02 15:00-16:00
-
-      报告人: 麻希南（中国科学技术大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150333.htm
-    info: '06
-
-      Jun
-
-      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
-      Causality Operators, and High Dimensional Fokker-Planck Equations
-
-      时间：2023-06-06 10:30-11:30
-
-      报告人: Wei Cai (Southern Methodist University)'
-    person: ''
-    time: ''
-    title: '06
-
-      Jun
-
-      Distinguished Lecture——Deep Neural Network Algorithms for Oscillatory Flows,
-      Causality Operators, and High Dimensional Fokker-Planck Equations
-
-      时间：2023-06-06 10:30-11:30
-
-      报告人: Wei Cai (Southern Methodist University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150298.htm
-    info: '30
-
-      May
-
-      Cocycle stability for certain systems with hyperbolicity: new approach and applications
-
-      时间：2023-05-30 15:10-17:00
-
-      报告人: Changguang Dong (Nankai University)'
-    person: ''
-    time: ''
-    title: '30
-
-      May
-
-      Cocycle stability for certain systems with hyperbolicity: new approach and applications
-
-      时间：2023-05-30 15:10-17:00
-
-      报告人: Changguang Dong (Nankai University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/150302.htm
-    info: '31
-
-      May
-
-      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
-      schemes for reaction-diffusion system in the energetic variational approach
-
-      时间：2023-05-31 13:30-14:30
-
-      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Applied Mathematics Seminar——Structure-preserving, operator splitting numerical
-      schemes for reaction-diffusion system in the energetic variational approach
-
-      时间：2023-05-31 13:30-14:30
-
-      报告人: Cheng Wang（University of Massachusetts Dartmouth）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150282.htm
-    info: '31
-
-      May
-
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150286.htm
-    info: '31
-
-      May
-
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
-
-      时间：2023-05-31 15:00-17:00
-
-      报告人: 胡润杰（Stony Brook University）'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
-
-      时间：2023-05-31 15:00-17:00
-
-      报告人: 胡润杰（Stony Brook University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/150247.htm
-    info: '31
-
-      May
-
-      Parametric Geometric Inequalities and Their Applications
-
-      时间：2023-05-31 09:00-10:00
-
-      报告人: Yevgeny Liokumovich (University of Toronto)'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Parametric Geometric Inequalities and Their Applications
-
-      时间：2023-05-31 09:00-10:00
-
-      报告人: Yevgeny Liokumovich (University of Toronto)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/150214.htm
-    info: '31
-
-      May
-
-      Wave Solutions of KdV-Burgers-type Equations
-
-      时间：2023-05-31 10:30-11:30
-
-      报告人: Zhaosheng Feng (University of Texas-Rio Grande Valley, USA)'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Wave Solutions of KdV-Burgers-type Equations
-
-      时间：2023-05-31 10:30-11:30
-
-      报告人: Zhaosheng Feng (University of Texas-Rio Grande Valley, USA)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1686.htm
@@ -692,70 +786,6 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3478.html
-    info: '31
-
-      2023-05
-
-      【学术报告】原子尺度精准合成'
-    person: ''
-    time: ''
-    title: '31
-
-      2023-05
-
-      【学术报告】原子尺度精准合成'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3471.html
-    info: '02
-
-      2023-06
-
-      【学术报告】Precise engineering of fast and selective molecular flow across atomically thin nanopores and nanochannels'
-    person: ''
-    time: ''
-    title: '02
-
-      2023-06
-
-      【学术报告】Precise engineering of fast and selective molecular flow across atomically thin nanopores and nanochannels'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3472.html
-    info: '28
-
-      2023-05
-
-      【学术报告】功能材料的电化学脱盐技术研究'
-    person: ''
-    time: ''
-    title: '28
-
-      2023-05
-
-      【学术报告】功能材料的电化学脱盐技术研究'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12229.htm
-    info: "Systemic Risk Prediction Based on Savitzky-Golay Smoothing and Temporal\
-      \ Convo...\n 2023年05月26日 "
-    person: ''
-    time: ''
-    title: Systemic Risk Prediction Based on Savitzky-Golay Smoothing and Temporal
-      Convolutional Networks
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12226.htm
-    info: "Recent advances on numerical modeling of two-phase flows in superposed\
-      \ free f...\n 2023年05月25日 "
-    person: ''
-    time: ''
-    title: Recent advances on numerical modeling of two-phase flows in superposed
-      free flow and porous media
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
     href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16556.html
     info: '2023.05.26
 
@@ -767,35 +797,3 @@
       NMDA receptor diversity: from atomic structure to brain function'
   page_title: 北京大学生命科学学院
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
-- page_info:
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2397
-    info: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
-- page_info:
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2023/0525/c51065a2762972/page.htm
-    info: '关于香港理工大学范金土教授学术报告的通知
-
-      2023-05-25'
-    person: ''
-    time: ''
-    title: 关于香港理工大学范金土教授学术报告的通知
-  page_title: 学术报告
-  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
