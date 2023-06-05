@@ -1,5 +1,36 @@
 ﻿- page_info:
   - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5673.htm
+    info: '05
+
+      2023-06
+
+      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+    person: ''
+    time: ''
+    title: '05
+
+      2023-06
+
+      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+  - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5661.htm
+    info: '31
+
+      2023-05
+
+      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+    person: ''
+    time: ''
+    title: '31
+
+      2023-05
+
+      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+  page_title: 讲座信息-北京大学信息科学技术学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+- page_info:
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12247.htm
     info: "Deep Learning for PDEs: Domain Decomposition and Adaptivity\n 2023年06月02日 "
     person: ''
@@ -318,50 +349,6 @@
       时间：2023-05-31 13:30-14:30
 
       报告人: Cheng Wang（University of Massachusetts Dartmouth）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150282.htm
-    info: '31
-
-      May
-
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Geometry and Topology Seminar——SL(2,C) Gauge Theory and Special Lagrangian Submanifolds
-
-      时间：2023-05-31 13:00-15:00
-
-      报告人: 何思奇（中科院数学与系统科学研究院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/150286.htm
-    info: '31
-
-      May
-
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
-
-      时间：2023-05-31 15:00-17:00
-
-      报告人: 胡润杰（Stony Brook University）'
-    person: ''
-    time: ''
-    title: '31
-
-      May
-
-      Geometry and Topology Seminar——Algebraic Model of Manifolds
-
-      时间：2023-05-31 15:00-17:00
-
-      报告人: 胡润杰（Stony Brook University）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -837,23 +824,6 @@
     title: 探索生命系统中的设计原理
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
-- page_info:
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5661.htm
-    info: '31
-
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
-    person: ''
-    time: ''
-    title: '31
-
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2564.htm
