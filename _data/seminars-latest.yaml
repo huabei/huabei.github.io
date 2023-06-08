@@ -79,6 +79,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8322.htm
+    info: '北卡罗来纳州立大学李周宇学术报告
+
+      2023-06-08'
+    person: ''
+    time: ''
+    title: 北卡罗来纳州立大学李周宇学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/8206.htm
     info: '哈尔滨工业大学张岩教授学术报告
 
@@ -158,14 +166,6 @@
     person: ''
     time: ''
     title: 微软亚洲研究院 程文雪 主管研究员学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/7991.htm
-    info: '金融科技前沿讲座——未来已来如何拥抱人工智能时代
-
-      2023-04-10'
-    person: ''
-    time: ''
-    title: 金融科技前沿讲座——未来已来如何拥抱人工智能时代
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -394,7 +394,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5035869
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5039970
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -716,6 +716,16 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/7bb02db9f7db460a9d806d7ddfa9c3c1.htm
+    info: '2023.06.08
+
+      Discovery of new inhibitors of neuroinflammation by a twisting road starting
+      from a negative control'
+    person: ''
+    time: ''
+    title: Discovery of new inhibitors of neuroinflammation by a twisting road starting
+      from a negative control
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/777e7e6b493c4f928c95e20d53d8627a.htm
     info: '2023.06.05
 
@@ -800,14 +810,6 @@
     time: ''
     title: 'Challenges and Opportunities in Small Molecule Drug Discovery: How new
       technology can fuel future small molecule drug discovery'
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c7888ffebf214c5bbccb6fce60d4abd7.htm
-    info: '2023.03.08
-
-      靶向离子通道的药物再利用'
-    person: ''
-    time: ''
-    title: 靶向离子通道的药物再利用
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1253,6 +1255,20 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5683.htm
+    info: '08
+
+      2023-06
+
+      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+    person: ''
+    time: ''
+    title: '08
+
+      2023-06
+
+      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+  - address: ''
     href: https://eecs.pku.edu.cn/info/1050/5673.htm
     info: '05
 
@@ -1392,20 +1408,6 @@
       2023-03
 
       信科“E席谈”青年学术沙龙（第九期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5487.htm
-    info: '22
-
-      2023-03
-
-      信息科学技术学院“知存讲座”（第六期）'
-    person: ''
-    time: ''
-    title: '22
-
-      2023-03
-
-      信息科学技术学院“知存讲座”（第六期）'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
@@ -1523,6 +1525,31 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150704.htm
+    info: '2023-06-08
+
+      【Soft Matter Lecture 136】聚烯烃高值化与升级利用'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 136】聚烯烃高值化与升级利用
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150703.htm
+    info: '2023-06-08
+
+      【Soft Matter Lecture 135】Greener production approaches for therapeutic peptides'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture 135】Greener production approaches for therapeutic
+      peptides
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150702.htm
+    info: '2023-06-08
+
+      【soft Matter Lecture 134】Chemical Tools to Study Biological Systems'
+    person: ''
+    time: ''
+    title: 【soft Matter Lecture 134】Chemical Tools to Study Biological Systems
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/150593.htm
     info: '2023-06-06
 
@@ -1588,77 +1615,9 @@
     person: ''
     time: ''
     title: 【北京大学物理化学讲座】量子平方：用量子计算机模拟量子体系
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150080.htm
-    info: '2023-05-23
-
-      【兴大报告635】化学反应的量子特性'
-    person: ''
-    time: ''
-    title: 【兴大报告635】化学反应的量子特性
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/149843.htm
-    info: '2023-05-17
-
-      【有机化学学术报告】复杂天然产物的生物合成研究'
-    person: ''
-    time: ''
-    title: 【有机化学学术报告】复杂天然产物的生物合成研究
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150078.htm
-    info: '2023-05-22
-
-      【北京大学物理化学讲座】量子平方：用量子计算机模拟量子体系'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学讲座】量子平方：用量子计算机模拟量子体系
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150446.htm
-    info: '08
-
-      Jun
-
-      Pruning deep neural networks from a sparsity perspective
-
-      时间：2023-06-08 10:00-11:00
-
-      报告人: Ganghua Wang (University of Minnesota）'
-    person: ''
-    time: ''
-    title: '08
-
-      Jun
-
-      Pruning deep neural networks from a sparsity perspective
-
-      时间：2023-06-08 10:00-11:00
-
-      报告人: Ganghua Wang (University of Minnesota）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/150452.htm
-    info: '08
-
-      Jun
-
-      Geometry and Topology Seminar ——QUANTITATIVE MAXIMAL RIGIDITIES OF RICCI CURVATURE
-
-      时间：2023-06-08 14:00-15:00
-
-      报告人: Prof. Xiaochun Rong (CNU & Rutgers University)'
-    person: ''
-    time: ''
-    title: '08
-
-      Jun
-
-      Geometry and Topology Seminar ——QUANTITATIVE MAXIMAL RIGIDITIES OF RICCI CURVATURE
-
-      时间：2023-06-08 14:00-15:00
-
-      报告人: Prof. Xiaochun Rong (CNU & Rutgers University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150439.htm
     info: '09
@@ -1772,6 +1731,30 @@
 
       报告人: 李英 博士 （湘潭大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150707.htm
+    info: '14
+
+      Jun
+
+      Distinguished Lecture——Structure-preserving parametric finite element methods
+      (PFEM) for geometric PDEs and applications
+
+      时间：2023-06-14 16:00-17:00
+
+      报告人: Weizhu Bao (National University of Singapore)'
+    person: ''
+    time: ''
+    title: '14
+
+      Jun
+
+      Distinguished Lecture——Structure-preserving parametric finite element methods
+      (PFEM) for geometric PDEs and applications
+
+      时间：2023-06-14 16:00-17:00
+
+      报告人: Weizhu Bao (National University of Singapore)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/150582.htm
     info: '14
 
@@ -1793,6 +1776,54 @@
       时间：2023-06-14 09:00-10:00
 
       报告人: Yuanyuan Lian (Shanghai Jiao Tong University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150694.htm
+    info: '15
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
+      Experts Model with Random Effects
+
+      时间：2023-06-15 15:00
+
+      报告人: X. Sheldon Lin (University of Toronto)'
+    person: ''
+    time: ''
+    title: '15
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
+      Experts Model with Random Effects
+
+      时间：2023-06-15 15:00
+
+      报告人: X. Sheldon Lin (University of Toronto)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150697.htm
+    info: '15
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Bridging the Gap Between Financial Engineering
+      and Finance Communities: Opportunities and Challenges Led by the Big Data
+
+      时间：2023-06-15 9:00
+
+      报告人: Mao Ye (Cornell University)'
+    person: ''
+    time: ''
+    title: '15
+
+      Jun
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Bridging the Gap Between Financial Engineering
+      and Finance Communities: Opportunities and Challenges Led by the Big Data
+
+      时间：2023-06-15 9:00
+
+      报告人: Mao Ye (Cornell University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150515.htm
     info: '26
@@ -1816,49 +1847,27 @@
 
       报告人: Rose Yu (University of California San Diego）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/150417.htm
-    info: '07
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/150452.htm
+    info: '08
 
       Jun
 
-      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+      Geometry and Topology Seminar ——QUANTITATIVE MAXIMAL RIGIDITIES OF RICCI CURVATURE
 
-      时间：2023-06-07 16:00-17:00
+      时间：2023-06-08 14:00-15:00
 
-      报告人: Mario Bonk (University of California, Los Angeles)'
+      报告人: Prof. Xiaochun Rong (CNU & Rutgers University)'
     person: ''
     time: ''
-    title: '07
+    title: '08
 
       Jun
 
-      Distinguished Lecture——Fractals and the dynamics of Thurston maps
+      Geometry and Topology Seminar ——QUANTITATIVE MAXIMAL RIGIDITIES OF RICCI CURVATURE
 
-      时间：2023-06-07 16:00-17:00
+      时间：2023-06-08 14:00-15:00
 
-      报告人: Mario Bonk (University of California, Los Angeles)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/150553.htm
-    info: '06
-
-      Jun
-
-      On chain transitivity and holonomic controllability for flows
-
-      时间：2023-06-06 15:10-17:00
-
-      报告人: Sergey Kryzhevich (Gdańsk University of Technology)'
-    person: ''
-    time: ''
-    title: '06
-
-      Jun
-
-      On chain transitivity and holonomic controllability for flows
-
-      时间：2023-06-06 15:10-17:00
-
-      报告人: Sergey Kryzhevich (Gdańsk University of Technology)'
+      报告人: Prof. Xiaochun Rong (CNU & Rutgers University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2171,14 +2180,14 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 8 days
+      2023-06-16 14:00, in 7 days
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 22 days ago
+      2023-05-17 10:00, 23 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
@@ -2211,14 +2220,14 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 8 days
+      2023-06-16 14:00, in 7 days
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
 
       凌舒扬 , 上海纽约大学
 
-      2023-05-17 10:00, 22 days ago
+      2023-05-17 10:00, 23 days ago
 
       Non-parametric Estimation of General Heterogeneous Causal Effects with Covariate
       Measurement Error
@@ -3219,97 +3228,6 @@
       17:00 — 18:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770450/page.htm
-    info: '【电气工程学院】海外学者系列论坛第六期：加拿大工程院院士...
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第六期：加拿大工程院院士张榴晨教授学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770444/page.htm
-    info: '【电气工程学院】海外学者系列论坛第五期：皇家墨尔本大学高...
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第五期：皇家墨尔本大学高级讲师闫硕学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770322/page.htm
-    info: '【化学系】启真化学论坛：余承忠教授报告
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：余承忠教授报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769492/page.htm
-    info: '【生研院】特邀报告系列：高成江教授（山东大学基础医学院）...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：高成江教授（山东大学基础医学院）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769472/page.htm
-    info: '【电气工程学院】浙江大学玉泉论坛第十一期：英国谢菲尔德大...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】浙江大学玉泉论坛第十一期：英国谢菲尔德大学诸自强教授特邀报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769437/page.htm
-    info: '【电气工程学院】海外学者系列论坛第四期：伦斯勒理工学院孙...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第四期：伦斯勒理工学院孙建教授学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769340/page.htm
-    info: '【化学系】启真化学论坛：李隽教授报告
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：李隽教授报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0605/c33485a2769155/page.htm
-    info: '【生研院】特邀报告系列：卜鹏程研究员（中国科学院 ）学术...
-
-      [2023-06-05]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：卜鹏程研究员（中国科学院 ）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0605/c33485a2768936/page.htm
-    info: '物理学院王赤学术报告的通知（School of Physics Colloquium...
-
-      [2023-06-05]'
-    person: ''
-    time: ''
-    title: 物理学院王赤学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0605/c33485a2768930/page.htm
-    info: '物理学院尤力学术报告的通知（School of Physics Colloquium...
-
-      [2023-06-05]'
-    person: ''
-    time: ''
-    title: 物理学院尤力学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0605/c33485a2768920/page.htm
-    info: '【建工学院】安中讲坛第七十五期：中国工程院院士王建国教授...
-
-      [2023-06-05]'
-    person: ''
-    time: ''
-    title: 【建工学院】安中讲坛第七十五期：中国工程院院士王建国教授学术报告会
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2023/0412/c26342a2740833/page.htm
