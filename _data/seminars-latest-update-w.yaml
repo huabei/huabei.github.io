@@ -1,5 +1,39 @@
 ﻿- page_info:
   - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1638
+    info: '5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
+
+      2023-05-24'
+    person: ''
+    time: ''
+    title: 5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4038.htm
+    info: '计算机学院系列讲座大师讲堂第6期——My Technical Life: A Retrospective View 23-06-10'
+    person: ''
+    time: ''
+    title: '计算机学院系列讲座大师讲堂第6期——My Technical Life: A Retrospective View'
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4035.htm
+    info: '计算机学院系列讲座大师讲堂第5期——Artificial Intelligence (AI): Past, Present and Future
+      23-06-10'
+    person: ''
+    time: ''
+    title: '计算机学院系列讲座大师讲堂第5期——Artificial Intelligence (AI): Past, Present and Future'
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4023.htm
+    info: '计算机学院系列讲座菁英论坛第7期——Towards Photorealistic Rendering: A Personal Perspective
+      23-06-07'
+    person: ''
+    time: ''
+    title: '计算机学院系列讲座菁英论坛第7期——Towards Photorealistic Rendering: A Personal Perspective'
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
+- page_info:
+  - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/4893eac1b0e544ee8fbe8f9f5c2ef6d6.htm
     info: '讲座主题
 
@@ -514,16 +548,6 @@
     title: 表型可塑性的调节机制
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
-- page_info:
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4023.htm
-    info: '计算机学院系列讲座菁英论坛第7期——Towards Photorealistic Rendering: A Personal Perspective
-      23-06-07'
-    person: ''
-    time: ''
-    title: '计算机学院系列讲座菁英论坛第7期——Towards Photorealistic Rendering: A Personal Perspective'
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3494.html
