@@ -394,7 +394,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5052261
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5056161
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -726,6 +726,14 @@
     title: Discovery of new inhibitors of neuroinflammation by a twisting road starting
       from a negative control
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/ddad0ee997ed4c9bbfc1e648c4904e40.htm
+    info: '2023.06.12
+
+      遗传密码子的起源'
+    person: ''
+    time: ''
+    title: 遗传密码子的起源
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/a02cc11a936c4348bc6712fa233efff2.htm
     info: '2023.06.12
 
@@ -735,14 +743,6 @@
     time: ''
     title: 'Genetically-Encoded Chemistry: Discovery of molecular interactions in
       vitro and in vivo'
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/ddad0ee997ed4c9bbfc1e648c4904e40.htm
-    info: '2023.06.11
-
-      遗传密码子的起源'
-    person: ''
-    time: ''
-    title: 遗传密码子的起源
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/777e7e6b493c4f928c95e20d53d8627a.htm
     info: '2023.06.05
@@ -814,6 +814,20 @@
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2593.htm
+    info: '人工智能学科交叉讲座系列第【8】期：Differentiable Projector-Camera Systems: Al…
+
+      报告人：凌海滨 教授            UC LA主持人：汤帜 教授            北京大学王选计算机研究所时   间：2023/6/16  14:00
+      - 15:00地   址：燕园校区理科一号楼1131；昌平校区115教室         Tencent Meeting：528-891-953                 报告题目：Differentiable
+      Projector-Camera Systems: Algorithm and Applications 报告摘要:   Image-based relighting,
+      projector compensation and depth/normal reconstruction are ...
+
+      2023-06-13'
+    person: ''
+    time: ''
+    title: '人工智能学科交叉讲座系列第【8】期：Differentiable Projector-Camera Systems: Algorithm and
+      Applications'
+  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2573.htm
     info: '人工智能交叉论坛第【7】期：高效人工智能：模型压缩和软硬件协同设计
 
@@ -862,17 +876,6 @@
     person: ''
     time: ''
     title: '人工智能交叉论坛第【4】期：Autonomous AI: Open World Learning and Adaptation'
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2543.htm
-    info: '人工智能交叉论坛第【3】期：文心·CV大模型VIMER：算法和应用
-
-      报告人：王井东 研究员主持人：林宙辰 教授时   间：2023/6/5  15:00 - 16:00地   址：北京大学燕园校区理科二号楼2736；昌平校区102教室                报告题目：文心·CV大模型VIMER：算法和应用报告摘要:   本报告主要内容包括百度文心·CV大模型VIMER以数据为中心的算法和应用。首先，介绍自监督表征学习算法Context
-      Autoencoder（CAE）算法及其推广。然后，讲述基于CAE的工业视觉大模型、OCR文字识别大模型、人体大模型等...
-
-      2023-05-18'
-    person: ''
-    time: ''
-    title: 人工智能交叉论坛第【3】期：文心·CV大模型VIMER：算法和应用
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
@@ -1248,6 +1251,29 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4061.htm
+    info: '计算机学院系列讲座菁英论坛第10期——Prototype Pollution and Beyond: An Existential, Emerging
+      Threat to the World Wide Web 23-06-13'
+    person: ''
+    time: ''
+    title: '计算机学院系列讲座菁英论坛第10期——Prototype Pollution and Beyond: An Existential, Emerging
+      Threat to the World Wide Web'
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4058.htm
+    info: 计算机学院系列讲座名家讲坛第2期——Large Neural Models' Self-Learning Symbolic Knowledge
+      23-06-13
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座名家讲坛第2期——Large Neural Models' Self-Learning Symbolic Knowledge
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4051.htm
+    info: 计算机学院系列讲座菁英论坛第8期——Virtual Teams in Gig Economy -- An End-to-End Data Science
+      Approach 23-06-13
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英论坛第8期——Virtual Teams in Gig Economy -- An End-to-End Data Science
+      Approach
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/4041.htm
     info: '计算机学院系列讲座菁英论坛第9期——When Mobile Super Apps Become “Operating Systems”: The
       Good, The Bad, and The Ugly 23-06-12'
@@ -1296,26 +1322,6 @@
     person: ''
     time: ''
     title: 计算机学院系列讲座菁英论坛第4期——文本生成中的不确定性建模(Modeling Uncertainty in Text Generation)
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3947.htm
-    info: 计算机学院系列讲座大师讲堂第4期——Distributed Intelligence in the Computing Continuum? 23-05-15
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座大师讲堂第4期——Distributed Intelligence in the Computing Continuum?
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3929.htm
-    info: 菁英论坛丨Empowering Azure Storage with RDMA-白巍 23-04-28
-    person: ''
-    time: ''
-    title: 菁英论坛丨Empowering Azure Storage with RDMA-白巍
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/3921.htm
-    info: 大师讲堂丨CFLOBDDs:Context-Free-Language Ordered Binary Decision Diagrams-Thomas
-      W. Reps 23-04-24
-    person: ''
-    time: ''
-    title: 大师讲堂丨CFLOBDDs:Context-Free-Language Ordered Binary Decision Diagrams-Thomas
-      W. Reps
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -1590,6 +1596,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150862.htm
+    info: '2023-06-13
+
+      【兴大报告637】Five Challenges of Carbon Nanotubes'
+    person: ''
+    time: ''
+    title: 【兴大报告637】Five Challenges of Carbon Nanotubes
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/150800.htm
     info: '2023-06-12
 
@@ -1672,39 +1686,9 @@
     person: ''
     time: ''
     title: 【Soft Matter Lecture 132】基于五元环内酯催化合成新型可持续性高分子材料
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150193.htm
-    info: '2023-05-24
-
-      【北京大学物理化学学术报告】能源材料中相转化与界面结构的电子显微学分析'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】能源材料中相转化与界面结构的电子显微学分析
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/150622.htm
-    info: '13
-
-      Jun
-
-      Applied Mathematics Seminar——Towards Quality Assurance of Intelligent Software
-
-      时间：2023-06-13 10:00-12:00 am
-
-      报告人: Xiaofei Xie (Singapore Management University)'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Applied Mathematics Seminar——Towards Quality Assurance of Intelligent Software
-
-      时间：2023-06-13 10:00-12:00 am
-
-      报告人: Xiaofei Xie (Singapore Management University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150589.htm
     info: '14
@@ -1846,6 +1830,28 @@
 
       报告人: X. Sheldon Lin (University of Toronto)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150875.htm
+    info: '23
+
+      Jun
+
+      School Colloquium——Stable reduction of algebraic curves and abelian varieties
+
+      时间：2023-06-23 15:00-16:00
+
+      报告人: Liu Qing（University of Bordeaux）'
+    person: ''
+    time: ''
+    title: '23
+
+      Jun
+
+      School Colloquium——Stable reduction of algebraic curves and abelian varieties
+
+      时间：2023-06-23 15:00-16:00
+
+      报告人: Liu Qing（University of Bordeaux）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150515.htm
     info: '26
 
@@ -1868,73 +1874,71 @@
 
       报告人: Rose Yu (University of California San Diego）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150439.htm
-    info: '09
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/150817.htm
+    info: '28
 
       Jun
 
-      School Colloquium——Stable Bernstein problem for minimal hypersurfaces
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 14:00-15:00
+      时间：2023-06-28 09:00-11:00
 
-      报告人: 李超（纽约大学）'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
     person: ''
     time: ''
-    title: '09
+    title: '28
 
       Jun
 
-      School Colloquium——Stable Bernstein problem for minimal hypersurfaces
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 14:00-15:00
+      时间：2023-06-28 09:00-11:00
 
-      报告人: 李超（纽约大学）'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150442.htm
-    info: '09
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/150822.htm
+    info: '30
 
       Jun
 
-      School Colloquium——Visualizing Cluster Algebras Through Topological Models
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 15:30-16:30
+      时间：2023-06-30 09:00-11:00
 
-      报告人: 覃帆（上海交通大学）'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
     person: ''
     time: ''
-    title: '09
+    title: '30
 
       Jun
 
-      School Colloquium——Visualizing Cluster Algebras Through Topological Models
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 15:30-16:30
+      时间：2023-06-30 09:00-11:00
 
-      报告人: 覃帆（上海交通大学）'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/150466.htm
-    info: '09
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/150826.htm
+    info: '03
 
-      Jun
+      Jul
 
-      机器学习与数据科学博士生系列论坛（第五十一期）—— New Perspective of Expectation Thresholds and Kahn-Kalai
-      Conjecture
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 16:00-17:00
+      时间：2023-07-03 09:00-11:00
 
-      报告人: Erdong Wang (PKU)'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
     person: ''
     time: ''
-    title: '09
+    title: '03
 
-      Jun
+      Jul
 
-      机器学习与数据科学博士生系列论坛（第五十一期）—— New Perspective of Expectation Thresholds and Kahn-Kalai
-      Conjecture
+      Minicourse——Purity of Brauer groups: application of perfectoids
 
-      时间：2023-06-09 16:00-17:00
+      时间：2023-07-03 09:00-11:00
 
-      报告人: Erdong Wang (PKU)'
+      报告人: Ning Guo (Euler International Mathematical Institute)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2080,6 +2084,209 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1686.htm
@@ -2247,7 +2454,7 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 3 days
+      2023-06-16 14:00, in 2 days
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -2287,7 +2494,7 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 3 days
+      2023-06-16 14:00, in 2 days
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -3222,6 +3429,46 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtuG2qF2
+    info: '王健
+
+      $L^2$-EXPONENTIAL ERGODICITY OF STOCHASTIC HAMILTONIAN SYSTEMS WITH $\ALPHA$-STABLE
+      L\''EVY NOISES
+
+      2023-06-15
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '王健
+
+      $L^2$-EXPONENTIAL ERGODICITY OF STOCHASTIC HAMILTONIAN SYSTEMS WITH $\ALPHA$-STABLE
+      L\''EVY NOISES
+
+      2023-06-15
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtuHpKF2
+    info: 'MINGZU ZHANG
+
+      EDGE ISOPERIMETRIC PROBLEM ON GRAPHS, CONDITIONAL CONNECTIVITY AND THE RELATED
+      WEIERSTRASS-TYPE FUNCTIONS
+
+      2023-06-14
+
+      11:00 — 12:00'
+    person: ''
+    time: ''
+    title: 'MINGZU ZHANG
+
+      EDGE ISOPERIMETRIC PROBLEM ON GRAPHS, CONDITIONAL CONNECTIVITY AND THE RELATED
+      WEIERSTRASS-TYPE FUNCTIONS
+
+      2023-06-14
+
+      11:00 — 12:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpiHpKF2
     info: '[特邀报告] JANA HERTZ
 
@@ -3257,135 +3504,8 @@
       2023-06-13
 
       16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtuFtKF2
-    info: 'DMITRII MURAVEV
-
-      MATHEMATICS FOR MACHINE LEARNING: CASE STUDY ON THE MMK IRON & STEEL WORKS
-
-      2023-06-13
-
-      11:00 — 12:00'
-    person: ''
-    time: ''
-    title: 'DMITRII MURAVEV
-
-      MATHEMATICS FOR MACHINE LEARNING: CASE STUDY ON THE MMK IRON & STEEL WORKS
-
-      2023-06-13
-
-      11:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2FyqF2
-    info: '张土生教授
-
-      IRREDUCIBILITY OF SPDES DRIVEN BY PURE JUMP NOISE
-
-      2023-06-12
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '张土生教授
-
-      IRREDUCIBILITY OF SPDES DRIVEN BY PURE JUMP NOISE
-
-      2023-06-12
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0612/c33485a2771973/page.htm
-    info: '物理学院邓东灵学术报告的通知（School of Physics Colloqui...
-
-      [2023-06-12]'
-    person: ''
-    time: ''
-    title: 物理学院邓东灵学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0612/c33485a2771969/page.htm
-    info: '物理学院赵刚学术报告的通知（School of Physics Colloquium...
-
-      [2023-06-12]'
-    person: ''
-    time: ''
-    title: 物理学院赵刚学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0612/c33485a2771740/page.htm
-    info: '【电气工程学院】海外学者系列论坛第七期：英国帝国理工学院...
-
-      [2023-06-12]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第七期：英国帝国理工学院讲师顾云杰学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0608/c33485a2770647/page.htm
-    info: '物理学院张潘学术报告的通知（School of Physics Colloquium...
-
-      [2023-06-08]'
-    person: ''
-    time: ''
-    title: 物理学院张潘学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770450/page.htm
-    info: '【电气工程学院】海外学者系列论坛第六期：加拿大工程院院士...
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第六期：加拿大工程院院士张榴晨教授学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770444/page.htm
-    info: '【电气工程学院】海外学者系列论坛第五期：皇家墨尔本大学高...
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第五期：皇家墨尔本大学高级讲师闫硕学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0607/c33485a2770322/page.htm
-    info: '【化学系】启真化学论坛：余承忠教授报告
-
-      [2023-06-07]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：余承忠教授报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769492/page.htm
-    info: '【生研院】特邀报告系列：高成江教授（山东大学基础医学院）...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：高成江教授（山东大学基础医学院）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769472/page.htm
-    info: '【电气工程学院】浙江大学玉泉论坛第十一期：英国谢菲尔德大...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】浙江大学玉泉论坛第十一期：英国谢菲尔德大学诸自强教授特邀报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769437/page.htm
-    info: '【电气工程学院】海外学者系列论坛第四期：伦斯勒理工学院孙...
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【电气工程学院】海外学者系列论坛第四期：伦斯勒理工学院孙建教授学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0606/c33485a2769340/page.htm
-    info: '【化学系】启真化学论坛：李隽教授报告
-
-      [2023-06-06]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：李隽教授报告
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2023/0412/c26342a2740833/page.htm
