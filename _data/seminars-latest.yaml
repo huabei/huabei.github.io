@@ -79,6 +79,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8358.htm
+    info: 'Ping Jiang Ph.D学术报告
+
+      2023-06-16'
+    person: ''
+    time: ''
+    title: Ping Jiang Ph.D学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/8346.htm
     info: '中南大学第一届医学图像智能计算论坛-通知
 
@@ -158,14 +166,6 @@
     person: ''
     time: ''
     title: 微软亚洲研究院谢幸研究员\练建勋研究员学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8047.htm
-    info: '微软亚洲研究院 舒然 研究员学术报告
-
-      2023-04-17'
-    person: ''
-    time: ''
-    title: 微软亚洲研究院 舒然 研究员学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -370,7 +370,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5062954
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5066788
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -692,6 +692,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/d491a3f2a52f44e68b36bfeae947a52a.htm
+    info: '2023.06.16
+
+      Molecular Amalgamations that Systematically Generate Complex Peptidic Polycycles'
+    person: ''
+    time: ''
+    title: Molecular Amalgamations that Systematically Generate Complex Peptidic Polycycles
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7bb02db9f7db460a9d806d7ddfa9c3c1.htm
     info: '2023.06.12
 
@@ -776,16 +784,6 @@
     person: ''
     time: ''
     title: 国重学术年会系列报告
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/77e2abb8f8354ee29cf5a7a465e349bc.htm
-    info: '2023.03.28
-
-      名师大讲堂 第12讲: Activation of anti-tumor immunity by bacteria-derived signals: pyroptosis
-      and beyond'
-    person: ''
-    time: ''
-    title: '名师大讲堂 第12讲: Activation of anti-tumor immunity by bacteria-derived signals:
-      pyroptosis and beyond'
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1666,29 +1664,51 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150694.htm
-    info: '15
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150977.htm
+    info: '19
 
       Jun
 
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
-      Experts Model with Random Effects
+      Stabilizing phenomenon of fluids
 
-      时间：2023-06-15 15:00
+      时间：2023-06-19 14:30-15:30
 
-      报告人: X. Sheldon Lin (University of Toronto)'
+      报告人: 吴家宏教授（University of Notre Dame）'
     person: ''
     time: ''
-    title: '15
+    title: '19
 
       Jun
 
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
-      Experts Model with Random Effects
+      Stabilizing phenomenon of fluids
 
-      时间：2023-06-15 15:00
+      时间：2023-06-19 14:30-15:30
 
-      报告人: X. Sheldon Lin (University of Toronto)'
+      报告人: 吴家宏教授（University of Notre Dame）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/150981.htm
+    info: '19
+
+      Jun
+
+      Temperature patches for the subcritical Boussinesq–Navier–Stokes system with
+      no diffusion
+
+      时间：2023-06-19 16:00-17:00
+
+      报告人: 许孝精教授（北京师范大学）'
+    person: ''
+    time: ''
+    title: '19
+
+      Jun
+
+      Temperature patches for the subcritical Boussinesq–Navier–Stokes system with
+      no diffusion
+
+      时间：2023-06-19 16:00-17:00
+
+      报告人: 许孝精教授（北京师范大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/150875.htm
     info: '23
@@ -1866,49 +1886,29 @@
 
       报告人: Ning Guo (Euler International Mathematical Institute)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/150582.htm
-    info: '14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/150694.htm
+    info: '15
 
       Jun
 
-      Pointwise Regularity for Fully Nonlinear Elliptic Equations in General Forms
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
+      Experts Model with Random Effects
 
-      时间：2023-06-14 09:00-10:00
+      时间：2023-06-15 15:00
 
-      报告人: Yuanyuan Lian (Shanghai Jiao Tong University)'
+      报告人: X. Sheldon Lin (University of Toronto)'
     person: ''
     time: ''
-    title: '14
+    title: '15
 
       Jun
 
-      Pointwise Regularity for Fully Nonlinear Elliptic Equations in General Forms
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Insurance Risk Classification via a Mixture of
+      Experts Model with Random Effects
 
-      时间：2023-06-14 09:00-10:00
+      时间：2023-06-15 15:00
 
-      报告人: Yuanyuan Lian (Shanghai Jiao Tong University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/150589.htm
-    info: '14
-
-      Jun
-
-      Resolvent approach to diffusions with discontinuous scale
-
-      时间：2023-06-14 9:00-10:00
-
-      报告人: 李英 博士 （湘潭大学）'
-    person: ''
-    time: ''
-    title: '14
-
-      Jun
-
-      Resolvent approach to diffusions with discontinuous scale
-
-      时间：2023-06-14 9:00-10:00
-
-      报告人: 李英 博士 （湘潭大学）'
+      报告人: X. Sheldon Lin (University of Toronto)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2424,7 +2424,7 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 7 hours
+      2023-06-16 14:00, 17 hours ago
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -2464,7 +2464,7 @@
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, in 7 hours
+      2023-06-16 14:00, 17 hours ago
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -3307,6 +3307,42 @@
 
       10:00 — 11:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyF2qF2
+    info: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (III)
+
+      2023-06-28
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (III)
+
+      2023-06-28
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyGpKF2
+    info: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (II)
+
+      2023-06-23
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (II)
+
+      2023-06-23
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtuGtKF2
     info: '[特邀报告] 孙智伟 教授
 
@@ -3320,6 +3356,44 @@
     title: '[特邀报告] 孙智伟 教授
 
       COVERS OF THE INTEGERS BY RESIDUE CLASSES AND THEIR EXTENSIONS TO GROUPS
+
+      2023-06-20
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyGtKF2
+    info: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (I)
+
+      2023-06-20
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (I)
+
+      2023-06-20
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyGyqF2
+    info: '王阳帅
+
+      MODELING, ANALYSIS AND APPLICATIONS OF MACHINE-LEARNED INTERATOMIC POTENTIALS
+      (MLIPS)
+
+      2023-06-20
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '王阳帅
+
+      MODELING, ANALYSIS AND APPLICATIONS OF MACHINE-LEARNED INTERATOMIC POTENTIALS
+      (MLIPS)
 
       2023-06-20
 
@@ -3400,78 +3474,6 @@
       2023-06-19
 
       15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuct2GtKF2
-    info: '[吴文俊数学中心综合报告] PROF. XIAO ZHONG
-
-      VARIATIONAL PROBLEMS WITH GRADIENT CONSTRAINTS
-
-      2023-06-16
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[吴文俊数学中心综合报告] PROF. XIAO ZHONG
-
-      VARIATIONAL PROBLEMS WITH GRADIENT CONSTRAINTS
-
-      2023-06-16
-
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpeFpKF2
-    info: '艾明要
-
-      OPTIMAL DISTRIBUTED SUBSAMPLING TECHNIQUES FOR BIG DATA ANALYSIS
-
-      2023-06-15
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '艾明要
-
-      OPTIMAL DISTRIBUTED SUBSAMPLING TECHNIQUES FOR BIG DATA ANALYSIS
-
-      2023-06-15
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGucpmGyqF2
-    info: '[特邀报告] ZHIWU LIN
-
-      SOME DYNAMICAL PROBLEMS IN ASTROPHYSICAL FLUID DYNAMICS
-
-      2023-06-15
-
-      15:30 — 17:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] ZHIWU LIN
-
-      SOME DYNAMICAL PROBLEMS IN ASTROPHYSICAL FLUID DYNAMICS
-
-      2023-06-15
-
-      15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtuFyqF2
-    info: '陈振庆
-
-      CONVERGENCE OF REFLECTED BROWINIAN MOTIONS ON GENERALIZED SIERPINSKI CARPETS
-
-      2023-06-15
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '陈振庆
-
-      CONVERGENCE OF REFLECTED BROWINIAN MOTIONS ON GENERALIZED SIERPINSKI CARPETS
-
-      2023-06-15
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
