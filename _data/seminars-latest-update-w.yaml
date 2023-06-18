@@ -634,19 +634,6 @@
     time: ''
     title: '计算机学院系列讲座菁英论坛第9期——When Mobile Super Apps Become “Operating Systems”: The
       Good, The Bad, and The Ugly'
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4038.htm
-    info: '计算机学院系列讲座大师讲堂第6期——My Technical Life: A Retrospective View 23-06-10'
-    person: ''
-    time: ''
-    title: '计算机学院系列讲座大师讲堂第6期——My Technical Life: A Retrospective View'
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4035.htm
-    info: '计算机学院系列讲座大师讲堂第5期——Artificial Intelligence (AI): Past, Present and Future
-      23-06-10'
-    person: ''
-    time: ''
-    title: '计算机学院系列讲座大师讲堂第5期——Artificial Intelligence (AI): Past, Present and Future'
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -701,14 +688,3 @@
     title: 物理学院张潘学术报告的通知（School of Physics Colloquium）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1638
-    info: '5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
-
-      2023-05-24'
-    person: ''
-    time: ''
-    title: 5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
