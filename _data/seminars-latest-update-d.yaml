@@ -1,109 +1,210 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/12347.htm
-    info: "调和分析的小型会议报告\n 2023年06月20日 "
+    href: https://math.csu.edu.cn/info/1736/12350.htm
+    info: "Machine Learning Meets PDEs\n 2023年06月21日 "
     person: ''
     time: ''
-    title: 调和分析的小型会议报告
+    title: Machine Learning Meets PDEs
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12349.htm
+    info: "Analysis of IMEX and Time-Splitting Schemes for the Logarithmic Schrodinger\
+      \ E...\n 2023年06月21日 "
+    person: ''
+    time: ''
+    title: Analysis of IMEX and Time-Splitting Schemes for the Logarithmic Schrodinger
+      Equation
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12348.htm
+    info: "First-order Methods for Convex Optimization and Monotone Inclusions under\
+      \ Loc...\n 2023年06月21日 "
+    person: ''
+    time: ''
+    title: First-order Methods for Convex Optimization and Monotone Inclusions under
+      Local Lipschitz Conditions
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4091.htm
-    info: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep Learning
-      Systems at The Edge 23-06-20
+    href: http://cs.pku.edu.cn/info/1020/4094.htm
+    info: 计算机学院系列讲座菁英论坛第11期——Towards Application-oriented Big Data and ML Systems
+      23-06-21
     person: ''
     time: ''
-    title: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep
-      Learning Systems at The Edge
+    title: 计算机学院系列讲座菁英论坛第11期——Towards Application-oriented Big Data and ML Systems
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151119.htm
-    info: '2023-06-20
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/151124.htm
+    info: '23
 
-      【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative Catalysis'
+      Jun
+
+      Geometry and Topology Seminar——L-space Conjecture and Slope Detections
+
+      时间：2023-06-23 13:00-15:00
+
+      报告人: 胡瑛 (University of Nebraska Omaha)'
     person: ''
     time: ''
-    title: '【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative
-      Catalysis'
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151120.htm
-    info: '27
+    title: '23
 
       Jun
 
-      Expansivity and uniqueness of equilibrium states for multi-singular hyperbolic
-      flows
+      Geometry and Topology Seminar——L-space Conjecture and Slope Detections
 
-      时间：2023-06-27 15:10-17:00
+      时间：2023-06-23 13:00-15:00
 
-      报告人: Fan Yang (Michigan State University)'
-    person: ''
-    time: ''
-    title: '27
-
-      Jun
-
-      Expansivity and uniqueness of equilibrium states for multi-singular hyperbolic
-      flows
-
-      时间：2023-06-27 15:10-17:00
-
-      报告人: Fan Yang (Michigan State University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151104.htm
-    info: '27
-
-      Jun
-
-      Series of lectures——Singularity formation in incompressible fluids
-
-      时间：2023-06-27, 06-28 ,06-30 09:00-11:00
-
-      报告人: 陈嘉杰 (Courant Institute, New York University)'
-    person: ''
-    time: ''
-    title: '27
-
-      Jun
-
-      Series of lectures——Singularity formation in incompressible fluids
-
-      时间：2023-06-27, 06-28 ,06-30 09:00-11:00
-
-      报告人: 陈嘉杰 (Courant Institute, New York University)'
+      报告人: 胡瑛 (University of Nebraska Omaha)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1711.htm
-    info: '1
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyG2qF2
+    info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
 
-      Jul
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (4)
 
-      Publishing in Wiley Materials Science Journals
+      2023-07-14
 
-      报告人：Dr. Xiaoyang Cui（崔肖阳
-
-      时 间：2023年7月1日（星期六）16:00-18:00'
+      14:00 — 16:00'
     person: ''
     time: ''
-    title: Publishing in Wiley Materials Science Journals
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    title: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (4)
+
+      2023-07-14
+
+      14:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyHpKF2
+    info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (3)
+
+      2023-07-13
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (3)
+
+      2023-07-13
+
+      14:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyHtKF2
+    info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (2)
+
+      2023-07-12
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (2)
+
+      2023-07-12
+
+      14:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt2FpKF2
+    info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (1)
+
+      2023-07-11
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG (彭跃军)
+
+      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (1)
+
+      2023-07-11
+
+      14:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt2FtKF2
+    info: '彭衡
+
+      AUTOMATIC CHANGE POINT DETECTION AND SEGMENT ESTIMATION VIA VARIATIONAL BAYESIAN
+      MODEL SELECTION
+
+      2023-07-05
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '彭衡
+
+      AUTOMATIC CHANGE POINT DETECTION AND SEGMENT ESTIMATION VIA VARIATIONAL BAYESIAN
+      MODEL SELECTION
+
+      2023-07-05
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt2FyqF2
+    info: '苗旺
+
+      INTRODUCING THE SPECIFICITY SCORE: A MEASURE OF CAUSALITY BEYOND P VALUE
+
+      2023-06-29
+
+      14:30 — 16:00'
+    person: ''
+    time: ''
+    title: '苗旺
+
+      INTRODUCING THE SPECIFICITY SCORE: A MEASURE OF CAUSALITY BEYOND P VALUE
+
+      2023-06-29
+
+      14:30 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt2F2qF2
+    info: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (II)
+
+      2023-06-25
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] VAHAGN NERSESYAN
+
+      ERGODICITY VIA CONTROLLABILITY, PART 2 (II)
+
+      2023-06-25
+
+      10:00 — 11:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: http://www.isee.zju.edu.cn/2023/0620/c51065a2774509/page.htm
-    info: '关于谭建荣院士专题报告的通知
+    href: https://www.zju.edu.cn/2023/0621/c33485a2775070/page.htm
+    info: '【动科学院】特邀学术报告会-谭垦教授学术报告
 
-      2023-06-20'
+      [2023-06-21]'
     person: ''
     time: ''
-    title: 关于谭建荣院士专题报告的通知
-  page_title: 学术报告
-  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
+    title: 【动科学院】特邀学术报告会-谭垦教授学术报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0621/c33485a2775027/page.htm
+    info: '【浙大氢能研究院主题论坛第4期预告】绿色低碳制氢——节电电...
+
+      [2023-06-21]'
+    person: ''
+    time: ''
+    title: 【浙大氢能研究院主题论坛第4期预告】绿色低碳制氢——节电电化学制氢
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm

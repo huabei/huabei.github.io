@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12347.htm
+    info: "调和分析的小型会议报告\n 2023年06月20日 "
+    person: ''
+    time: ''
+    title: 调和分析的小型会议报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12344.htm
     info: "Canonical local periods in families\n 2023年06月19日 "
     person: ''
@@ -14,6 +20,14 @@
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4091.htm
+    info: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep Learning
+      Systems at The Edge 23-06-20
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep
+      Learning Systems at The Edge
   - address: ''
     href: http://cs.pku.edu.cn/info/1020/4073.htm
     info: 计算机学院系列讲座名家讲坛第2期——Optimizing Memory Utilization on Modern Cloud Hardware
@@ -47,6 +61,80 @@
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151119.htm
+    info: '2023-06-20
+
+      【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative Catalysis'
+    person: ''
+    time: ''
+    title: '【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative
+      Catalysis'
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150914.htm
+    info: '2023-06-14
+
+      【北京大学物理化学学术报告】功能材料的单原子尺度电子显微学研究'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】功能材料的单原子尺度电子显微学研究
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/150862.htm
+    info: '2023-06-13
+
+      【兴大报告637】Five Challenges of Carbon Nanotubes'
+    person: ''
+    time: ''
+    title: 【兴大报告637】Five Challenges of Carbon Nanotubes
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151120.htm
+    info: '27
+
+      Jun
+
+      Expansivity and uniqueness of equilibrium states for multi-singular hyperbolic
+      flows
+
+      时间：2023-06-27 15:10-17:00
+
+      报告人: Fan Yang (Michigan State University)'
+    person: ''
+    time: ''
+    title: '27
+
+      Jun
+
+      Expansivity and uniqueness of equilibrium states for multi-singular hyperbolic
+      flows
+
+      时间：2023-06-27 15:10-17:00
+
+      报告人: Fan Yang (Michigan State University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151104.htm
+    info: '27
+
+      Jun
+
+      Series of lectures——Singularity formation in incompressible fluids
+
+      时间：2023-06-27, 06-28 ,06-30 09:00-11:00
+
+      报告人: 陈嘉杰 (Courant Institute, New York University)'
+    person: ''
+    time: ''
+    title: '27
+
+      Jun
+
+      Series of lectures——Singularity formation in incompressible fluids
+
+      时间：2023-06-27, 06-28 ,06-30 09:00-11:00
+
+      报告人: 陈嘉杰 (Courant Institute, New York University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/151020.htm
     info: '06
@@ -205,6 +293,34 @@
       报告人: Ning Guo (Euler International Mathematical Institute)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1711.htm
+    info: '1
+
+      Jul
+
+      Publishing in Wiley Materials Science Journals
+
+      报告人：Dr. Xiaoyang Cui（崔肖阳
+
+      时 间：2023年7月1日（星期六）16:00-18:00'
+    person: ''
+    time: ''
+    title: Publishing in Wiley Materials Science Journals
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
+    href: http://www.isee.zju.edu.cn/2023/0620/c51065a2774509/page.htm
+    info: '关于谭建荣院士专题报告的通知
+
+      2023-06-20'
+    person: ''
+    time: ''
+    title: 关于谭建荣院士专题报告的通知
+  page_title: 学术报告
+  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3504.html
@@ -556,25 +672,6 @@
       北京大学综合科研二号楼B117室'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150914.htm
-    info: '2023-06-14
-
-      【北京大学物理化学学术报告】功能材料的单原子尺度电子显微学研究'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】功能材料的单原子尺度电子显微学研究
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/150862.htm
-    info: '2023-06-13
-
-      【兴大报告637】Five Challenges of Carbon Nanotubes'
-    person: ''
-    time: ''
-    title: 【兴大报告637】Five Challenges of Carbon Nanotubes
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2593.htm
