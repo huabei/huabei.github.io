@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12376.htm
+    info: "双曲型守恒律方程的激波捕捉方法\n 2023年06月30日 "
+    person: ''
+    time: ''
+    title: 双曲型守恒律方程的激波捕捉方法
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12367.htm
     info: "Turing patterns in a predator-prey reaction-diffusion model with seasonality\
       \ ...\n 2023年06月29日 "
@@ -32,16 +38,49 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8410.htm
-    info: '清华大学何源副教授学术报告
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151369.htm
+    info: '07
 
-      2023-06-29'
+      Jul
+
+      群作用的动力系统和维数理论选讲
+
+      时间：2023-07-07 15:10-17:00
+
+      报告人: 许地生 (大湾区大学)'
     person: ''
     time: ''
-    title: 清华大学何源副教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
+    title: '07
+
+      Jul
+
+      群作用的动力系统和维数理论选讲
+
+      时间：2023-07-07 15:10-17:00
+
+      报告人: 许地生 (大湾区大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151373.htm
+    info: '10
+
+      Jul
+
+      群作用的动力系统和维数理论选讲
+
+      时间：2023-07-10 15:10-17:00
+
+      报告人: 许地生 (大湾区大学)'
+    person: ''
+    time: ''
+    title: '10
+
+      Jul
+
+      群作用的动力系统和维数理论选讲
+
+      时间：2023-07-10 15:10-17:00
+
+      报告人: 许地生 (大湾区大学)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151314.htm
     info: '06
@@ -184,6 +223,17 @@
       报告人: Zhihua Zhang (Peking University）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8410.htm
+    info: '清华大学何源副教授学术报告
+
+      2023-06-29'
+    person: ''
+    time: ''
+    title: 清华大学何源副教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3519.html
@@ -496,14 +546,6 @@
     person: ''
     time: ''
     title: 【有机化学学术报告】有机分子电催化转化
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151173.htm
-    info: '2023-06-23
-
-      【分析化学学术报告】Graphene as the Support to Boost Biological Cryo-EM Analysis'
-    person: ''
-    time: ''
-    title: 【分析化学学术报告】Graphene as the Support to Boost Biological Cryo-EM Analysis
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
