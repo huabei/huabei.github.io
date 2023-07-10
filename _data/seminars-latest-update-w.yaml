@@ -1,5 +1,102 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GtKF2
+    info: 'HUANG CHAO
+
+      WHEN MEDIATION ANALYSIS FACES MULTI-LEVEL HETEROGENEITY
+
+      2023-07-14
+
+      14:00 — 15:30'
+    person: ''
+    time: ''
+    title: 'HUANG CHAO
+
+      WHEN MEDIATION ANALYSIS FACES MULTI-LEVEL HETEROGENEITY
+
+      2023-07-14
+
+      14:00 — 15:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GyqF2
+    info: 'JIAWANG NIE
+
+      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
+
+      2023-07-13
+
+      09:00 — 10:00'
+    person: ''
+    time: ''
+    title: 'JIAWANG NIE
+
+      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
+
+      2023-07-13
+
+      09:00 — 10:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6G2qF2
+    info: 'XINDONG TANG
+
+      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
+      AND MOMENT-SOS RELAXATIONS
+
+      2023-07-13
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: 'XINDONG TANG
+
+      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
+      AND MOMENT-SOS RELAXATIONS
+
+      2023-07-13
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6HpKF2
+    info: 'QIAO ZHIJUN
+
+      INTEGRABLE TWO-COMPONENT SYSTEMS WITH PEAKONS, WEAK KINK SOLUTIONS AND THEIR
+      INTERACTIONS
+
+      2023-07-09
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: 'QIAO ZHIJUN
+
+      INTEGRABLE TWO-COMPONENT SYSTEMS WITH PEAKONS, WEAK KINK SOLUTIONS AND THEIR
+      INTERACTIONS
+
+      2023-07-09
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GpKF2
+    info: 'JIAYIN PAN
+
+      NONNEGATIVE RICCI CURVATURE, NILPOTENCY, AND ASYMPTOTIC GEOMETRY
+
+      2023-07-07
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: 'JIAYIN PAN
+
+      NONNEGATIVE RICCI CURVATURE, NILPOTENCY, AND ASYMPTOTIC GEOMETRY
+
+      2023-07-07
+
+      10:00 — 11:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/4970.htm
     info: '学术报告
 
@@ -288,28 +385,6 @@
       时间：2023-07-06 10:00-11:00
 
       报告人: Jiaqi Hou (University of Wisconsin-Madison) '
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/151389.htm
-    info: '07
-
-      Jul
-
-      机器学习与数据科学博士生系列论坛（第五十二期）—— Conformal Prediction: A Gentle Introduction
-
-      时间：2023-07-07 16:00-17:00
-
-      报告人: Chuhan Xie (PKU)'
-    person: ''
-    time: ''
-    title: '07
-
-      Jul
-
-      机器学习与数据科学博士生系列论坛（第五十二期）—— Conformal Prediction: A Gentle Introduction
-
-      时间：2023-07-07 16:00-17:00
-
-      报告人: Chuhan Xie (PKU)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -379,14 +454,6 @@
     person: ''
     time: ''
     title: 人工智能中的点云配准问题研究
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12383.htm
-    info: "Efficient positivity/bound/length preserving schemes for complex nonlinear\
-      \ sy...\n 2023年07月01日 "
-    person: ''
-    time: ''
-    title: Efficient positivity/bound/length preserving schemes for complex nonlinear
-      systems
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -542,24 +609,3 @@
     title: 金属有机电化学合成
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GpKF2
-    info: 'JIAYIN PAN
-
-      NONNEGATIVE RICCI CURVATURE, NILPOTENCY, AND ASYMPTOTIC GEOMETRY
-
-      2023-07-07
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: 'JIAYIN PAN
-
-      NONNEGATIVE RICCI CURVATURE, NILPOTENCY, AND ASYMPTOTIC GEOMETRY
-
-      2023-07-07
-
-      10:00 — 11:00'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
