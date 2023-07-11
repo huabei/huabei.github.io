@@ -1,168 +1,99 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151722.htm
-    info: '11
+    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
+    info: '2023-07-11
 
-      Jul
-
-      Finite Element Complexes
-
-      时间：2023-07-11 15:00-16:00
-
-      报告人: Long Chen （University of California at Irvine）'
+      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
     person: ''
     time: ''
-    title: '11
-
-      Jul
-
-      Finite Element Complexes
-
-      时间：2023-07-11 15:00-16:00
-
-      报告人: Long Chen （University of California at Irvine）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151725.htm
-    info: '12
-
-      Jul
-
-      The high order positivity-preserving conservative remapping methods and theirs
-      application in the ALE simulation of compressible fluid flow
-
-      时间：2023-07-12 9:20-10:20
-
-      报告人: 成娟（北京应用物理与计算数学研究所）'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      The high order positivity-preserving conservative remapping methods and theirs
-      application in the ALE simulation of compressible fluid flow
-
-      时间：2023-07-12 9:20-10:20
-
-      报告人: 成娟（北京应用物理与计算数学研究所）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151728.htm
-    info: '12
-
-      Jul
-
-      A fourth-order conservative semi-Lagrangian finite volume WENO scheme without
-      operator splitting for kinetic and fluid simulations
-
-      时间：2023-07-12 10:25-11:25
-
-      报告人: Jianxian Qiu（Xiamen University）'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      A fourth-order conservative semi-Lagrangian finite volume WENO scheme without
-      operator splitting for kinetic and fluid simulations
-
-      时间：2023-07-12 10:25-11:25
-
-      报告人: Jianxian Qiu（Xiamen University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/151746.htm
-    info: '12
-
-      Jul
-
-      Distinguished Lecture——《QUANTISATION COMMUTES WITH REDUCTION》: A SURVEY
-
-      时间：2023-07-12 15:00-16:00
-
-      报告人: Prof. Xiaonan Ma (Universite Paris Cite)'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      Distinguished Lecture——《QUANTISATION COMMUTES WITH REDUCTION》: A SURVEY
-
-      时间：2023-07-12 15:00-16:00
-
-      报告人: Prof. Xiaonan Ma (Universite Paris Cite)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151706.htm
-    info: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
-    person: ''
-    time: ''
-    title: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3534.html
-    info: '11
+    href: https://fsctm.sjtu.edu.cn/info/1046/1734.htm
+    info: '17
 
-      2023-07
+      Jul
 
-      【学术报告】有机金属超分子化学'
+      二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
+
+      报告人：张光辉，博士，副教授，博士生导师
+
+      时间：2023年7月17日（星期一）16:00-17:30'
     person: ''
     time: ''
-    title: '11
+    title: 二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3535.html
+    info: '12
 
       2023-07
 
-      【学术报告】有机金属超分子化学'
+      【学术报告】UV Technology and Photopolymer Materials'
+    person: ''
+    time: ''
+    title: '12
+
+      2023-07
+
+      【学术报告】UV Technology and Photopolymer Materials'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6HtKF2
-    info: 'XIE JICHUN
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSFpKF2
+    info: 'RAJARSHI MUKHERJEE
 
-      SIFINET: A ROBUST AND ACCURATE METHOD TO IDENTIFY FEATURE GENE SETS AND ANNOTATE
-      CELLS
+      ON MINIMAX EXPONENTS OF SPARSE TESTING
 
-      2023-07-10
+      2023-07-14
 
-      10:45 — 12:00'
+      15:30 — 17:00'
     person: ''
     time: ''
-    title: 'XIE JICHUN
+    title: 'RAJARSHI MUKHERJEE
 
-      SIFINET: A ROBUST AND ACCURATE METHOD TO IDENTIFY FEATURE GENE SETS AND ANNOTATE
-      CELLS
+      ON MINIMAX EXPONENTS OF SPARSE TESTING
 
-      2023-07-10
+      2023-07-14
 
-      10:45 — 12:00'
+      15:30 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSFtKF2
+    info: '黄福铿
+
+      A NEW CLASS OF BDF TYPE METHOD FOR LINEAR/NONLINEAR PARABOLIC EQUATIONS WITH
+      PARTICULAR APPLICATION TO NAVIER-STOKES EQUATIONS
+
+      2023-07-14
+
+      09:30 — 10:30'
+    person: ''
+    time: ''
+    title: '黄福铿
+
+      A NEW CLASS OF BDF TYPE METHOD FOR LINEAR/NONLINEAR PARABOLIC EQUATIONS WITH
+      PARTICULAR APPLICATION TO NAVIER-STOKES EQUATIONS
+
+      2023-07-14
+
+      09:30 — 10:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/2023/0710/c33485a2782890/page.htm
-    info: '【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）...
+    href: https://www.zju.edu.cn/2023/0711/c33485a2783079/page.htm
+    info: '【双脑中心大讲堂】Mechanisms of Brain Reward and Neurops...
 
-      [2023-07-10]'
+      [2023-07-11]'
     person: ''
     time: ''
-    title: ​【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）学术报告
+    title: 【双脑中心大讲堂】Mechanisms of Brain Reward and Neuropsychiatric Diseases——Yi Zhang
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
