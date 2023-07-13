@@ -389,7 +389,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5189101
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5193716
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1692,50 +1692,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/151484.htm
-    info: '13
-
-      Jul
-
-      Distinguished Lecture——数据科学中的数学
-
-      时间：2023-07-13 16:00-17:00
-
-      报告人: 沈佐伟（新加坡国立大学）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jul
-
-      Distinguished Lecture——数据科学中的数学
-
-      时间：2023-07-13 16:00-17:00
-
-      报告人: 沈佐伟（新加坡国立大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151706.htm
-    info: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
-    person: ''
-    time: ''
-    title: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151627.htm
     info: '14
 
@@ -1781,6 +1737,50 @@
       时间：2023-07-18 15:00-16:00
 
       报告人: Christopher Hacon (University of Utah）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151706.htm
+    info: '13
+
+      Jul
+
+      Euler equations and transonic flows
+
+      时间：2023-07-13 10:00-11:00
+
+      报告人: Dehua Wang (University of Pittsburgh)'
+    person: ''
+    time: ''
+    title: '13
+
+      Jul
+
+      Euler equations and transonic flows
+
+      时间：2023-07-13 10:00-11:00
+
+      报告人: Dehua Wang (University of Pittsburgh)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/151484.htm
+    info: '13
+
+      Jul
+
+      Distinguished Lecture——数据科学中的数学
+
+      时间：2023-07-13 16:00-17:00
+
+      报告人: 沈佐伟（新加坡国立大学）'
+    person: ''
+    time: ''
+    title: '13
+
+      Jul
+
+      Distinguished Lecture——数据科学中的数学
+
+      时间：2023-07-13 16:00-17:00
+
+      报告人: 沈佐伟（新加坡国立大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/151746.htm
     info: '12
@@ -3155,6 +3155,78 @@
 
       14:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSGpKF2
+    info: '[特邀报告] 许晨阳
+
+      KAHLER-EINSTEIN METRIC, K-STABILITY AND MODULI SPACES
+
+      2023-07-17
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] 许晨阳
+
+      KAHLER-EINSTEIN METRIC, K-STABILITY AND MODULI SPACES
+
+      2023-07-17
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSGtKF2
+    info: '[特邀报告] CHONGYING DONG
+
+      ON COSET THEORY AND KAC-WAKIMOTO SETS
+
+      2023-07-15
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] CHONGYING DONG
+
+      ON COSET THEORY AND KAC-WAKIMOTO SETS
+
+      2023-07-15
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSGyqF2
+    info: '[特邀报告] HEBING RUI
+
+      BLOCKS OF BRAUER CATEGORY OVER THE COMPLEX FIELD
+
+      2023-07-15
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] HEBING RUI
+
+      BLOCKS OF BRAUER CATEGORY OVER THE COMPLEX FIELD
+
+      2023-07-15
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSG2qF2
+    info: '[特邀报告] LI REN
+
+      ORBIFOLD THEORY FOR VERTEX ALGEBRAS
+
+      2023-07-15
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] LI REN
+
+      ORBIFOLD THEORY FOR VERTEX ALGEBRAS
+
+      2023-07-15
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyG2qF2
     info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
 
@@ -3228,80 +3300,6 @@
       2023-07-14
 
       09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudtyHpKF2
-    info: '[MINI COURSES] YUE-JUN PENG (彭跃军)
-
-      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (3)
-
-      2023-07-13
-
-      14:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] YUE-JUN PENG (彭跃军)
-
-      GLOBAL SOLUTIONS OF FIRST-ORDER NONLINEAR HYPERBOLIC SYSTEMS (3)
-
-      2023-07-13
-
-      14:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GyqF2
-    info: 'JIAWANG NIE
-
-      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
-
-      2023-07-13
-
-      09:00 — 10:00'
-    person: ''
-    time: ''
-    title: 'JIAWANG NIE
-
-      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
-
-      2023-07-13
-
-      09:00 — 10:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6G2qF2
-    info: 'XINDONG TANG
-
-      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
-      AND MOMENT-SOS RELAXATIONS
-
-      2023-07-13
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: 'XINDONG TANG
-
-      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
-      AND MOMENT-SOS RELAXATIONS
-
-      2023-07-13
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSF2qF2
-    info: '[特邀报告] 张若冰
-
-      GEOMETRY OF COLLAPSED EINSTEIN MANIFOLDS
-
-      2023-07-13
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] 张若冰
-
-      GEOMETRY OF COLLAPSED EINSTEIN MANIFOLDS
-
-      2023-07-13
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:

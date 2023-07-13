@@ -1,53 +1,33 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
-    info: '2023-07-11
-
-      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
+    href: http://cs.pku.edu.cn/info/1020/4131.htm
+    info: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System 23-07-12
     person: ''
     time: ''
-    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
+    title: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151700.htm
-    info: '2023-07-07
-
-      【北京大学物理化学学术报告】Applying Chemical Engineering Principles to Catalytic Reduction
-      of CO2'
+    href: http://cs.pku.edu.cn/info/1020/4124.htm
+    info: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers 23-07-06
     person: ''
     time: ''
-    title: 【北京大学物理化学学术报告】Applying Chemical Engineering Principles to Catalytic Reduction
-      of CO2
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151454.htm
-    info: '2023-07-05
-
-      【北京大学物理化学学术报告】Molecular Electronics and Single Molecule Biophysics under Microscope'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Molecular Electronics and Single Molecule Biophysics under
-      Microscope
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+    title: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1734.htm
-    info: '17
+    href: https://scce.sjtu.edu.cn/index_xsrl/3538.html
+    info: '18
 
-      Jul
+      2023-07
 
-      二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
-
-      报告人：张光辉，博士，副教授，博士生导师
-
-      时间：2023年7月17日（星期一）16:00-17:30'
+      Solar-driven Carbon Recycling: Recent Progress and Future Prospects'
     person: ''
     time: ''
-    title: 二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
+    title: '18
+
+      2023-07
+
+      Solar-driven Carbon Recycling: Recent Progress and Future Prospects'
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3535.html
     info: '12
@@ -107,6 +87,42 @@
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSFyqF2
+    info: '[特邀报告] PROF. LONG CHEN
+
+      FINITE ELEMENT COMPLEXES
+
+      2023-07-21
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] PROF. LONG CHEN
+
+      FINITE ELEMENT COMPLEXES
+
+      2023-07-21
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSF2qF2
+    info: '[特邀报告] 张若冰
+
+      GEOMETRY OF COLLAPSED EINSTEIN MANIFOLDS
+
+      2023-07-13
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] 张若冰
+
+      GEOMETRY OF COLLAPSED EINSTEIN MANIFOLDS
+
+      2023-07-13
+
+      16:00 — 17:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSFpKF2
     info: 'RAJARSHI MUKHERJEE
@@ -245,6 +261,46 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
+    info: '2023-07-11
+
+      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151700.htm
+    info: '2023-07-07
+
+      【北京大学物理化学学术报告】Applying Chemical Engineering Principles to Catalytic Reduction
+      of CO2'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Applying Chemical Engineering Principles to Catalytic Reduction
+      of CO2
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1734.htm
+    info: '17
+
+      Jul
+
+      二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
+
+      报告人：张光辉，博士，副教授，博士生导师
+
+      时间：2023年7月17日（星期一）16:00-17:30'
+    person: ''
+    time: ''
+    title: 二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
     href: https://www.zju.edu.cn/2023/0711/c33485a2783079/page.htm
     info: '【双脑中心大讲堂】Mechanisms of Brain Reward and Neurops...
 
@@ -260,38 +316,6 @@
     person: ''
     time: ''
     title: ​【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0705/c33485a2778877/page.htm
-    info: '浙江大学碳中和系列论坛：功能膜材料及碳中和技术应用（现场...
-
-      [2023-07-05]'
-    person: ''
-    time: ''
-    title: 浙江大学碳中和系列论坛：功能膜材料及碳中和技术应用（现场讲座）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0705/c33485a2778807/page.htm
-    info: '求是海洋学术论坛2023年10期（总26期）
-
-      [2023-07-05]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年10期（总26期）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0703/c33485a2778235/page.htm
-    info: '【动科学院】Luc Janss教授学术报告
-
-      [2023-07-03]'
-    person: ''
-    time: ''
-    title: 【动科学院】Luc Janss教授学术报告
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0703/c33485a2777816/page.htm
-    info: '【化学系】启真化学论坛：韩宇教授报告（ King Abdullah Uni...
-
-      [2023-07-03]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：韩宇教授报告（ King Abdullah University of Science & Technology）
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
@@ -616,31 +640,3 @@
     title: 第二届量子软件论坛召开
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
-- page_info:
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4124.htm
-    info: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers 23-07-06
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/433211214d8e4df7acc1f49136239723.htm
-    info: '2023.07.05
-
-      天然产物中的合成生物化学'
-    person: ''
-    time: ''
-    title: 天然产物中的合成生物化学
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/da148e648a7e4bb59ba1cf5722d5d9d8.htm
-    info: '2023.07.05
-
-      Adding More Chemistries to the Genetic Code'
-    person: ''
-    time: ''
-    title: Adding More Chemistries to the Genetic Code
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
