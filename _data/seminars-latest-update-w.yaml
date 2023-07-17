@@ -1,5 +1,26 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151859.htm
+    info: '2023-07-13
+
+      【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用'
+    person: ''
+    time: ''
+    title: 【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
+    info: '2023-07-11
+
+      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/af52bbfd80544bd7a4b9b55ce7232f13.htm
     info: '2023.07.14
 
@@ -435,82 +456,6 @@
       2023-07-10
 
       10:45 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GtKF2
-    info: 'HUANG CHAO
-
-      WHEN MEDIATION ANALYSIS FACES MULTI-LEVEL HETEROGENEITY
-
-      2023-07-14
-
-      14:00 — 15:30'
-    person: ''
-    time: ''
-    title: 'HUANG CHAO
-
-      WHEN MEDIATION ANALYSIS FACES MULTI-LEVEL HETEROGENEITY
-
-      2023-07-14
-
-      14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6GyqF2
-    info: 'JIAWANG NIE
-
-      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
-
-      2023-07-13
-
-      09:00 — 10:00'
-    person: ''
-    time: ''
-    title: 'JIAWANG NIE
-
-      DISTRIBUTIONALLY ROBUST OPTIMIZATION WITH MOMENT AMBIGUITY SETS
-
-      2023-07-13
-
-      09:00 — 10:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6G2qF2
-    info: 'XINDONG TANG
-
-      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
-      AND MOMENT-SOS RELAXATIONS
-
-      2023-07-13
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: 'XINDONG TANG
-
-      SOLVING POLYNOMIAL VARIATIONAL INEQUALITY PROBLEMS VIA LAGRANGE MULTIPLIER EXPRESSIONS
-      AND MOMENT-SOS RELAXATIONS
-
-      2023-07-13
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6HpKF2
-    info: 'QIAO ZHIJUN
-
-      INTEGRABLE TWO-COMPONENT SYSTEMS WITH PEAKONS, WEAK KINK SOLUTIONS AND THEIR
-      INTERACTIONS
-
-      2023-07-09
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: 'QIAO ZHIJUN
-
-      INTEGRABLE TWO-COMPONENT SYSTEMS WITH PEAKONS, WEAK KINK SOLUTIONS AND THEIR
-      INTERACTIONS
-
-      2023-07-09
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -558,19 +503,6 @@
       【学术报告】有机金属超分子化学'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
-    info: '2023-07-11
-
-      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1734.htm

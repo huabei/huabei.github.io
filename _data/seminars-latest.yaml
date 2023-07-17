@@ -79,6 +79,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8466.htm
+    info: '美国伊利诺伊大学芝加哥分校Philip S. Yu教授学术报告
+
+      2023-07-17'
+    person: ''
+    time: ''
+    title: 美国伊利诺伊大学芝加哥分校Philip S. Yu教授学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/8410.htm
     info: '清华大学何源副教授学术报告
 
@@ -158,14 +166,6 @@
     person: ''
     time: ''
     title: 中国人民大学刘勇副教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8107.htm
-    info: '中山大学李淼新教授&丁涛教授学术报告
-
-      2023-04-21'
-    person: ''
-    time: ''
-    title: 中山大学李淼新教授&丁涛教授学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -389,7 +389,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5202107
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5205837
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1807,6 +1807,28 @@
 
       报告人: Kun Chen (PKU)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151864.htm
+    info: '21
+
+      Jul
+
+      Naked Singularity Censoring in General Relativity
+
+      时间：2023-07-21 15:00-16:00
+
+      报告人: Xinliang An (National University of Singapore)'
+    person: ''
+    time: ''
+    title: '21
+
+      Jul
+
+      Naked Singularity Censoring in General Relativity
+
+      时间：2023-07-21 15:00-16:00
+
+      报告人: Xinliang An (National University of Singapore)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151627.htm
     info: '14
 
@@ -1918,28 +1940,6 @@
       时间：2023-07-12 10:25-11:25
 
       报告人: Jianxian Qiu（Xiamen University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151431.htm
-    info: '12
-
-      Jul
-
-      退化抛物型方程和内蕴尺度
-
-      时间：2023-07-12 10:00-11:00
-
-      报告人: 廖乃安(萨尔茨堡大学)'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      退化抛物型方程和内蕴尺度
-
-      时间：2023-07-12 10:00-11:00
-
-      报告人: 廖乃安(萨尔茨堡大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -3174,6 +3174,24 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWFpKF2
+    info: '刘爽
+
+      PRINCIPAL EIGENVALUE FOR ELLIPTIC PROBLEMS WITH SHEAR FLOW，PART I
+
+      2023-07-17
+
+      10:00 — 12:00'
+    person: ''
+    time: ''
+    title: '刘爽
+
+      PRINCIPAL EIGENVALUE FOR ELLIPTIC PROBLEMS WITH SHEAR FLOW，PART I
+
+      2023-07-17
+
+      10:00 — 12:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSGtKF2
     info: '[特邀报告] CHONGYING DONG
 
@@ -3281,28 +3299,99 @@
       2023-07-14
 
       15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSFtKF2
-    info: '黄富铿
-
-      A NEW CLASS OF BDF TYPE METHOD FOR LINEAR/NONLINEAR PARABOLIC EQUATIONS WITH
-      PARTICULAR APPLICATION TO NAVIER-STOKES EQUATIONS
-
-      2023-07-14
-
-      09:30 — 10:30'
-    person: ''
-    time: ''
-    title: '黄富铿
-
-      A NEW CLASS OF BDF TYPE METHOD FOR LINEAR/NONLINEAR PARABOLIC EQUATIONS WITH
-      PARTICULAR APPLICATION TO NAVIER-STOKES EQUATIONS
-
-      2023-07-14
-
-      09:30 — 10:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0717/c33485a2783879/page.htm
+    info: '活动预告 |浙江大学碳中和系列论坛：碳中和背景下能源过程系...
+
+      [2023-07-17]'
+    person: ''
+    time: ''
+    title: 活动预告 |浙江大学碳中和系列论坛：碳中和背景下能源过程系统工程
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0714/c33485a2783712/page.htm
+    info: '【化学系】启真化学大讲堂：Christopher W. Jones教授报告
+
+      [2023-07-14]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：Christopher W. Jones教授报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0714/c33485a2783710/page.htm
+    info: '【化学系】启真化学大讲堂：Erick M. Carreira教授报告
+
+      [2023-07-14]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：Erick M. Carreira教授报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0711/c33485a2783079/page.htm
+    info: '【双脑中心大讲堂】Mechanisms of Brain Reward and Neurops...
+
+      [2023-07-11]'
+    person: ''
+    time: ''
+    title: 【双脑中心大讲堂】Mechanisms of Brain Reward and Neuropsychiatric Diseases——Yi Zhang
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0710/c33485a2782890/page.htm
+    info: '【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）...
+
+      [2023-07-10]'
+    person: ''
+    time: ''
+    title: ​【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）学术报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0705/c33485a2778877/page.htm
+    info: '浙江大学碳中和系列论坛：功能膜材料及碳中和技术应用（现场...
+
+      [2023-07-05]'
+    person: ''
+    time: ''
+    title: 浙江大学碳中和系列论坛：功能膜材料及碳中和技术应用（现场讲座）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0705/c33485a2778807/page.htm
+    info: '求是海洋学术论坛2023年10期（总26期）
+
+      [2023-07-05]'
+    person: ''
+    time: ''
+    title: 求是海洋学术论坛2023年10期（总26期）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0703/c33485a2778235/page.htm
+    info: '【动科学院】Luc Janss教授学术报告
+
+      [2023-07-03]'
+    person: ''
+    time: ''
+    title: 【动科学院】Luc Janss教授学术报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0703/c33485a2777816/page.htm
+    info: '【化学系】启真化学论坛：韩宇教授报告（ King Abdullah Uni...
+
+      [2023-07-03]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学论坛：韩宇教授报告（ King Abdullah University of Science & Technology）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0627/c33485a2776228/page.htm
+    info: '物理学院陈世杰学术报告的通知（School of Physics Colloqui...
+
+      [2023-06-27]'
+    person: ''
+    time: ''
+    title: 物理学院陈世杰学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0627/c33485a2776185/page.htm
+    info: '浙江大学“动物分子营养”海外学术大师联合工作室 特邀报告-...
+
+      [2023-06-27]'
+    person: ''
+    time: ''
+    title: 浙江大学“动物分子营养”海外学术大师联合工作室 特邀报告-施海玲博士学术报告
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2023/0412/c26342a2740833/page.htm
