@@ -1,52 +1,37 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151859.htm
-    info: '2023-07-13
+    href: https://cse.csu.edu.cn/info/1041/8466.htm
+    info: '美国伊利诺伊大学芝加哥分校Philip S. Yu教授学术报告
 
-      【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用'
+      2023-07-17'
     person: ''
     time: ''
-    title: 【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
-    info: '2023-07-11
-
-      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
-      and disorder'
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+    title: 美国伊利诺伊大学芝加哥分校Philip S. Yu教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/af52bbfd80544bd7a4b9b55ce7232f13.htm
-    info: '2023.07.14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151864.htm
+    info: '21
 
-      Pd(0)-catalyzed enantioselective C–H activation'
+      Jul
+
+      Naked Singularity Censoring in General Relativity
+
+      时间：2023-07-21 15:00-16:00
+
+      报告人: Xinliang An (National University of Singapore)'
     person: ''
     time: ''
-    title: Pd(0)-catalyzed enantioselective C–H activation
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4137.htm
-    info: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
-      23-07-14
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4131.htm
-    info: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System 23-07-12
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
+    title: '21
+
+      Jul
+
+      Naked Singularity Censoring in General Relativity
+
+      时间：2023-07-21 15:00-16:00
+
+      报告人: Xinliang An (National University of Singapore)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/151826.htm
     info: '19
@@ -137,123 +122,27 @@
       时间：2023-07-21 16:00-17:00
 
       报告人: Kun Chen (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151722.htm
-    info: '11
-
-      Jul
-
-      Finite Element Complexes
-
-      时间：2023-07-11 15:00-16:00
-
-      报告人: Long Chen （University of California at Irvine）'
-    person: ''
-    time: ''
-    title: '11
-
-      Jul
-
-      Finite Element Complexes
-
-      时间：2023-07-11 15:00-16:00
-
-      报告人: Long Chen （University of California at Irvine）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151725.htm
-    info: '12
-
-      Jul
-
-      The high order positivity-preserving conservative remapping methods and theirs
-      application in the ALE simulation of compressible fluid flow
-
-      时间：2023-07-12 9:20-10:20
-
-      报告人: 成娟（北京应用物理与计算数学研究所）'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      The high order positivity-preserving conservative remapping methods and theirs
-      application in the ALE simulation of compressible fluid flow
-
-      时间：2023-07-12 9:20-10:20
-
-      报告人: 成娟（北京应用物理与计算数学研究所）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/151728.htm
-    info: '12
-
-      Jul
-
-      A fourth-order conservative semi-Lagrangian finite volume WENO scheme without
-      operator splitting for kinetic and fluid simulations
-
-      时间：2023-07-12 10:25-11:25
-
-      报告人: Jianxian Qiu（Xiamen University）'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      A fourth-order conservative semi-Lagrangian finite volume WENO scheme without
-      operator splitting for kinetic and fluid simulations
-
-      时间：2023-07-12 10:25-11:25
-
-      报告人: Jianxian Qiu（Xiamen University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/151746.htm
-    info: '12
-
-      Jul
-
-      Distinguished Lecture——《QUANTISATION COMMUTES WITH REDUCTION》: A SURVEY
-
-      时间：2023-07-12 15:00-16:00
-
-      报告人: Prof. Xiaonan Ma (Universite Paris Cite)'
-    person: ''
-    time: ''
-    title: '12
-
-      Jul
-
-      Distinguished Lecture——《QUANTISATION COMMUTES WITH REDUCTION》: A SURVEY
-
-      时间：2023-07-12 15:00-16:00
-
-      报告人: Prof. Xiaonan Ma (Universite Paris Cite)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/151706.htm
-    info: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
-    person: ''
-    time: ''
-    title: '13
-
-      Jul
-
-      Euler equations and transonic flows
-
-      时间：2023-07-13 10:00-11:00
-
-      报告人: Dehua Wang (University of Pittsburgh)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWFpKF2
+    info: '刘爽
+
+      PRINCIPAL EIGENVALUE FOR ELLIPTIC PROBLEMS WITH SHEAR FLOW，PART I
+
+      2023-07-17
+
+      10:00 — 12:00'
+    person: ''
+    time: ''
+    title: '刘爽
+
+      PRINCIPAL EIGENVALUE FOR ELLIPTIC PROBLEMS WITH SHEAR FLOW，PART I
+
+      2023-07-17
+
+      10:00 — 12:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpSHtKF2
     info: 'FUZHEN ZHANG
@@ -436,28 +325,91 @@
       2023-07-14
 
       09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudt6HtKF2
-    info: 'XIE JICHUN
-
-      SIFINET: A ROBUST AND ACCURATE METHOD TO IDENTIFY FEATURE GENE SETS AND ANNOTATE
-      CELLS
-
-      2023-07-10
-
-      10:45 — 12:00'
-    person: ''
-    time: ''
-    title: 'XIE JICHUN
-
-      SIFINET: A ROBUST AND ACCURATE METHOD TO IDENTIFY FEATURE GENE SETS AND ANNOTATE
-      CELLS
-
-      2023-07-10
-
-      10:45 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0717/c33485a2783879/page.htm
+    info: '活动预告 |浙江大学碳中和系列论坛：碳中和背景下能源过程系...
+
+      [2023-07-17]'
+    person: ''
+    time: ''
+    title: 活动预告 |浙江大学碳中和系列论坛：碳中和背景下能源过程系统工程
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0714/c33485a2783712/page.htm
+    info: '【化学系】启真化学大讲堂：Christopher W. Jones教授报告
+
+      [2023-07-14]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：Christopher W. Jones教授报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0714/c33485a2783710/page.htm
+    info: '【化学系】启真化学大讲堂：Erick M. Carreira教授报告
+
+      [2023-07-14]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：Erick M. Carreira教授报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0711/c33485a2783079/page.htm
+    info: '【双脑中心大讲堂】Mechanisms of Brain Reward and Neurops...
+
+      [2023-07-11]'
+    person: ''
+    time: ''
+    title: 【双脑中心大讲堂】Mechanisms of Brain Reward and Neuropsychiatric Diseases——Yi Zhang
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151859.htm
+    info: '2023-07-13
+
+      【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用'
+    person: ''
+    time: ''
+    title: 【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151756.htm
+    info: '2023-07-11
+
+      【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Quantum coherence in polariton chemistry: reactivity, cooperativity,
+      and disorder'
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/af52bbfd80544bd7a4b9b55ce7232f13.htm
+    info: '2023.07.14
+
+      Pd(0)-catalyzed enantioselective C–H activation'
+    person: ''
+    time: ''
+    title: Pd(0)-catalyzed enantioselective C–H activation
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4137.htm
+    info: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
+      23-07-14
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4131.htm
+    info: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System 23-07-12
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3538.html
@@ -487,20 +439,6 @@
       2023-07
 
       【学术报告】UV Technology and Photopolymer Materials'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3534.html
-    info: '11
-
-      2023-07
-
-      【学术报告】有机金属超分子化学'
-    person: ''
-    time: ''
-    title: '11
-
-      2023-07
-
-      【学术报告】有机金属超分子化学'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -520,22 +458,3 @@
     title: 二氧化碳加氢反应中铁钴催化剂结构动态演变与调控
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0711/c33485a2783079/page.htm
-    info: '【双脑中心大讲堂】Mechanisms of Brain Reward and Neurops...
-
-      [2023-07-11]'
-    person: ''
-    time: ''
-    title: 【双脑中心大讲堂】Mechanisms of Brain Reward and Neuropsychiatric Diseases——Yi Zhang
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0710/c33485a2782890/page.htm
-    info: '【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）...
-
-      [2023-07-10]'
-    person: ''
-    time: ''
-    title: ​【生研院】学术讲座系列：Markus Müschen教授（耶鲁大学）学术报告
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
