@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12455.htm
+    info: "人工智能在气象领域中的应用\n 2023年07月24日 "
+    person: ''
+    time: ''
+    title: ' 人工智能在气象领域中的应用'
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12454.htm
+    info: "定量因果分析、信息流以及因果智能预报\n 2023年07月24日 "
+    person: ''
+    time: ''
+    title: 定量因果分析、信息流以及因果智能预报
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12417.htm
     info: "Learning to Solve Parametric PDEs\n 2023年07月06日 "
     person: ''
@@ -61,20 +73,6 @@
     time: ''
     title: On the null controllability of nematic liquid crystal flows in dimension
       two
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12350.htm
-    info: "Machine Learning Meets PDEs\n 2023年06月21日 "
-    person: ''
-    time: ''
-    title: Machine Learning Meets PDEs
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12349.htm
-    info: "Analysis of IMEX and Time-Splitting Schemes for the Logarithmic Schrodinger\
-      \ E...\n 2023年06月21日 "
-    person: ''
-    time: ''
-    title: Analysis of IMEX and Time-Splitting Schemes for the Logarithmic Schrodinger
-      Equation
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -389,7 +387,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5226459
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5233793
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1590,6 +1588,16 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151956.htm
+    info: '2023-07-24
+
+      【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite nanocrystals:
+      an exploration guided by time-resolved spectrsocopy'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite
+      nanocrystals: an exploration guided by time-resolved spectrsocopy'
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/151919.htm
     info: '2023-07-18
 
@@ -1682,15 +1690,6 @@
     person: ''
     time: ''
     title: 【分析化学学术报告】Graphene as the Support to Boost Biological Cryo-EM Analysis
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151119.htm
-    info: '2023-06-20
-
-      【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative Catalysis'
-    person: ''
-    time: ''
-    title: '【有机化学学术报告】Merging C−C and C−H Activation: Palladium/Norbornene Cooperative
-      Catalysis'
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
