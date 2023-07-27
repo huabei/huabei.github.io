@@ -1,5 +1,24 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.zju.edu.cn/2023/0726/c33485a2786012/page.htm
+    info: '【化学系】启真化学大讲堂：Jonathan L. Sessler 院士报告
+
+      [2023-07-26]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学大讲堂：Jonathan L. Sessler  院士报告
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0721/c33485a2785307/page.htm
+    info: '求是海洋学术论坛2023年11期（总27期）——半解析CFD-DEM：方...
+
+      [2023-07-21]'
+    person: ''
+    time: ''
+    title: 求是海洋学术论坛2023年11期（总27期）——半解析CFD-DEM：方法与应用
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/4146.htm
     info: 计算机学院系列讲座菁英论坛第14期——Resilient mmWave self-backhauling in cellular networks
       23-07-25
@@ -107,64 +126,6 @@
       2023-07
 
       【学术报告】烯碳纤维的控制制备与应用探索'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3554.html
-    info: '27
-
-      2023-07
-
-      【学术报告】新型脂质纳米载体设计及其用于药物高效递送的研究'
-    person: ''
-    time: ''
-    title: '27
-
-      2023-07
-
-      【学术报告】新型脂质纳米载体设计及其用于药物高效递送的研究'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3552.html
-    info: '24
-
-      2023-07
-
-      【学术报告】Multifunctional 1D and 2D Metallopolymers: Synthesis, Functions and Application
-      Studies'
-    person: ''
-    time: ''
-    title: '24
-
-      2023-07
-
-      【学术报告】Multifunctional 1D and 2D Metallopolymers: Synthesis, Functions and Application
-      Studies'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3551.html
-    info: '21
-
-      2023-07
-
-      【学术报告】利用系统工程方法研究碳捕集、利用和储存'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-07
-
-      【学术报告】利用系统工程方法研究碳捕集、利用和储存'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3550.html
-    info: '21
-
-      2023-07
-
-      【学术报告】Water, Water Everywhere, Not Any Drop to Drink'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-07
-
-      【学术报告】Water, Water Everywhere, Not Any Drop to Drink'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -240,57 +201,8 @@
       2023-07-24
 
       10:00 — 10:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWGpKF2
-    info: '[特邀报告] QING HAN
-
-      A CONCISE BOUNDARY REGULARITY FOR THE UNIFORMLY DEGENERATE ELLIPTIC EQUATIONS
-
-      2023-07-26
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] QING HAN
-
-      A CONCISE BOUNDARY REGULARITY FOR THE UNIFORMLY DEGENERATE ELLIPTIC EQUATIONS
-
-      2023-07-26
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWGtKF2
-    info: 'GENG CHEN
-
-      THE L2 THEORY FOR COMPRESSIBLE EULER EQUATIONS AND VANISHING VISCOSITY LIMIT
-      FROM NAVIER-STOKES EQUATIONS
-
-      2023-07-24
-
-      09:00 — 10:00'
-    person: ''
-    time: ''
-    title: 'GENG CHEN
-
-      THE L2 THEORY FOR COMPRESSIBLE EULER EQUATIONS AND VANISHING VISCOSITY LIMIT
-      FROM NAVIER-STOKES EQUATIONS
-
-      2023-07-24
-
-      09:00 — 10:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0721/c33485a2785307/page.htm
-    info: '求是海洋学术论坛2023年11期（总27期）——半解析CFD-DEM：方...
-
-      [2023-07-21]'
-    person: ''
-    time: ''
-    title: 求是海洋学术论坛2023年11期（总27期）——半解析CFD-DEM：方法与应用
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2605.htm
