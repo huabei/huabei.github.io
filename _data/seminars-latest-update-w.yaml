@@ -1,5 +1,34 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152016.htm
+    info: '2023-07-29
+
+      北京大学量子分子动力学前沿论坛暨第二届“民珠学者奖”颁奖仪式'
+    person: ''
+    time: ''
+    title: 北京大学量子分子动力学前沿论坛暨第二届“民珠学者奖”颁奖仪式
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151972.htm
+    info: '2023-07-25
+
+      【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/151956.htm
+    info: '2023-07-24
+
+      【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite nanocrystals:
+      an exploration guided by time-resolved spectrsocopy'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite
+      nanocrystals: an exploration guided by time-resolved spectrsocopy'
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152007.htm
     info: '04
 
@@ -42,34 +71,6 @@
 
       【学术报告】CO2 Utilization and Water Treatment Opportunities Enabled by Molecular
       Electrocatalysis'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3565.html
-    info: '28
-
-      2023-07
-
-      【学术报告】 催化体系的构建及应用'
-    person: ''
-    time: ''
-    title: '28
-
-      2023-07
-
-      【学术报告】 催化体系的构建及应用'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3564.html
-    info: '26
-
-      2023-07
-
-      【学术报告】Inventing reactions for green and sustainable chemical syntheses'
-    person: ''
-    time: ''
-    title: '26
-
-      2023-07
-
-      【学术报告】Inventing reactions for green and sustainable chemical syntheses'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -114,27 +115,6 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151972.htm
-    info: '2023-07-25
-
-      【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151956.htm
-    info: '2023-07-24
-
-      【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite nanocrystals:
-      an exploration guided by time-resolved spectrsocopy'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite
-      nanocrystals: an exploration guided by time-resolved spectrsocopy'
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
     href: https://math.csu.edu.cn/info/1736/12455.htm
     info: "人工智能在气象领域中的应用\n 2023年07月24日 "
     person: ''
@@ -148,42 +128,3 @@
     title: 定量因果分析、信息流以及因果智能预报
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWHpKF2
-    info: '[特邀报告] GUOZHEN LU
-
-      SHARP STABILITY OF SOME GEOMETRIC AND FUNCTIONAL INEQUALITIES
-
-      2023-07-26
-
-      09:30 — 10:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] GUOZHEN LU
-
-      SHARP STABILITY OF SOME GEOMETRIC AND FUNCTIONAL INEQUALITIES
-
-      2023-07-26
-
-      09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpWHtKF2
-    info: '张宇鸣
-
-      STOCHASTIC HOMOGENIZATION FOR REACTION DIFFUSION EQUATIONS
-
-      2023-07-24
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '张宇鸣
-
-      STOCHASTIC HOMOGENIZATION FOR REACTION DIFFUSION EQUATIONS
-
-      2023-07-24
-
-      15:00 — 16:00'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
