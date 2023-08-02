@@ -84,14 +84,6 @@
     person: ''
     time: ''
     title: 北京大学量子分子动力学前沿论坛暨第二届“民珠学者奖”颁奖仪式
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151972.htm
-    info: '2023-07-25
-
-      【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -151,13 +143,3 @@
     title: 【化学系】启真化学大讲堂：Jonathan L. Sessler  院士报告
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
-- page_info:
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4146.htm
-    info: 计算机学院系列讲座菁英论坛第14期——Resilient mmWave self-backhauling in cellular networks
-      23-07-25
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座菁英论坛第14期——Resilient mmWave self-backhauling in cellular networks
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
