@@ -1,37 +1,47 @@
 ﻿- page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/e6d45e8c3a89450aad20895edd4d1b09.htm
-    info: '2023.08.03
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/152059.htm
+    info: '08
 
-      Protein Chemistry, Phase Separation, and Their Applications in Biomedicine and
-      Biosynthesis'
+      Aug
+
+      Towards axi-symmetrization of vortices in two dimensional flows
+
+      时间：2023-08-08 10:00-11:00
+
+      报告人: Prof. Hao Jia (University of Minnesota)'
     person: ''
     time: ''
-    title: Protein Chemistry, Phase Separation, and Their Applications in Biomedicine
-      and Biosynthesis
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+    title: '08
+
+      Aug
+
+      Towards axi-symmetrization of vortices in two dimensional flows
+
+      时间：2023-08-08 10:00-11:00
+
+      报告人: Prof. Hao Jia (University of Minnesota)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/2023/0803/c33485a2787458/page.htm
-    info: '医学院系列学术报告——段茂利 教授
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaFyqF2
+    info: 'WEN-XIU MA
 
-      [2023-08-03]'
+      NONLOCAL INTEGRABLE SYSTEMS AND RELATED RIEMANN-HILBERT PROBLEMS
+
+      2023-08-07
+
+      10:00 — 11:00'
     person: ''
     time: ''
-    title: 医学院系列学术报告——段茂利 教授
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
-- page_info:
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12465.htm
-    info: "微分方程数值解法及在材料计算中的应用学术研讨会\n 2023年07月31日 "
-    person: ''
-    time: ''
-    title: 微分方程数值解法及在材料计算中的应用学术研讨会
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
+    title: 'WEN-XIU MA
+
+      NONLOCAL INTEGRABLE SYSTEMS AND RELATED RIEMANN-HILBERT PROBLEMS
+
+      2023-08-07
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaFpKF2
     info: 'KAIBO HU
@@ -74,6 +84,39 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/e6d45e8c3a89450aad20895edd4d1b09.htm
+    info: '2023.08.03
+
+      Protein Chemistry, Phase Separation, and Their Applications in Biomedicine and
+      Biosynthesis'
+    person: ''
+    time: ''
+    title: Protein Chemistry, Phase Separation, and Their Applications in Biomedicine
+      and Biosynthesis
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0803/c33485a2787458/page.htm
+    info: '医学院系列学术报告——段茂利 教授
+
+      [2023-08-03]'
+    person: ''
+    time: ''
+    title: 医学院系列学术报告——段茂利 教授
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12465.htm
+    info: "微分方程数值解法及在材料计算中的应用学术研讨会\n 2023年07月31日 "
+    person: ''
+    time: ''
+    title: 微分方程数值解法及在材料计算中的应用学术研讨会
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
     href: http://www.isee.zju.edu.cn/2023/0728/c51065a2786650/page.htm
     info: '关于复旦大学许崇斌副研究员学术报告的通知
 
@@ -81,22 +124,6 @@
     person: ''
     time: ''
     title: 关于复旦大学许崇斌副研究员学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2023/0728/c51065a2786620/page.htm
-    info: '关于电子科技大学袁晓军教授学术报告的通知
-
-      2023-07-28'
-    person: ''
-    time: ''
-    title: 关于电子科技大学袁晓军教授学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2023/0728/c51065a2786619/page.htm
-    info: '关于中国科学院马俊杰副研究员学术报告的通知
-
-      2023-07-28'
-    person: ''
-    time: ''
-    title: 关于中国科学院马俊杰副研究员学术报告的通知
   page_title: 学术报告
   page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
 - page_info:
@@ -110,49 +137,3 @@
     title: 北京大学量子分子动力学前沿论坛暨第二届“民珠学者奖”颁奖仪式
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152007.htm
-    info: '04
-
-      Aug
-
-      机器学习与数据科学博士生系列论坛（第五十四期）—— Average-Case Reduction for Information-Computation
-      Tradeoffs
-
-      时间：2023-08-04 16:00-17:00
-
-      报告人: Xiaobo Yang (PKU)'
-    person: ''
-    time: ''
-    title: '04
-
-      Aug
-
-      机器学习与数据科学博士生系列论坛（第五十四期）—— Average-Case Reduction for Information-Computation
-      Tradeoffs
-
-      时间：2023-08-04 16:00-17:00
-
-      报告人: Xiaobo Yang (PKU)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3573.html
-    info: '10
-
-      2023-08
-
-      【学术报告】CO2 Utilization and Water Treatment Opportunities Enabled by Molecular
-      Electrocatalysis'
-    person: ''
-    time: ''
-    title: '10
-
-      2023-08
-
-      【学术报告】CO2 Utilization and Water Treatment Opportunities Enabled by Molecular
-      Electrocatalysis'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
