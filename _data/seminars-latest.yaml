@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12483.htm
+    info: "Vadim Kaloshin教授的学术报告\n 2023年08月16日 "
+    person: ''
+    time: ''
+    title: Vadim Kaloshin教授的学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12473.htm
     info: "气候变化检测、归因与预估研究\n 2023年08月13日 "
     person: ''
@@ -64,12 +70,6 @@
     time: ''
     title: Turing patterns in a predator-prey reaction-diffusion model with seasonality
       and fear effect
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12366.htm
-    info: "Nodal sets of eigenfunctions in quasiconvex Lipschitz domains\n 2023年06月27日 "
-    person: ''
-    time: ''
-    title: Nodal sets of eigenfunctions in quasiconvex Lipschitz domains
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -165,6 +165,14 @@
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3337.htm
+    info: '【2023秋】Game theory
+
+      Yuval Peres'
+    person: ''
+    time: ''
+    title: 【2023秋】Game theory
+  - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/2976.htm
     info: 'Birational Geometry II
 
@@ -246,14 +254,6 @@
     person: ''
     time: ''
     title: Random Walks and Homogenization Theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/2906.htm
-    info: 'Introduction to contact topology
-
-      Gao Honghao'
-    person: ''
-    time: ''
-    title: Introduction to contact topology
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -390,7 +390,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5329624
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5334032
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1697,6 +1697,28 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
+    info: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+    person: ''
+    time: ''
+    title: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/152119.htm
     info: '16
 
@@ -1920,30 +1942,6 @@
       时间：2023-07-21 16:00-17:00
 
       报告人: Kun Chen (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/151908.htm
-    info: '21
-
-      Jul
-
-      A Hamilton-Jacobi theory to hydrodynamic limit of action minimizing collective
-      dynamics
-
-      时间：2023-07-21 9:00-10:00
-
-      报告人: Jin Feng (Department of Mathematics, University of Kansas, USA)'
-    person: ''
-    time: ''
-    title: '21
-
-      Jul
-
-      A Hamilton-Jacobi theory to hydrodynamic limit of action minimizing collective
-      dynamics
-
-      时间：2023-07-21 9:00-10:00
-
-      报告人: Jin Feng (Department of Mathematics, University of Kansas, USA)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2255,19 +2253,19 @@
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 2 days ago
+      2023-08-14 10:00, 3 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, in a day
+      2023-08-17 15:00, in 8 hours
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, in a day
+      2023-08-17 16:00, in 9 hours
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
@@ -2294,19 +2292,19 @@
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 2 days ago
+      2023-08-14 10:00, 3 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, in a day
+      2023-08-17 15:00, in 8 hours
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, in a day
+      2023-08-17 16:00, in 9 hours
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
