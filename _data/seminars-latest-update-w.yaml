@@ -1,5 +1,100 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12483.htm
+    info: "Vadim Kaloshin教授的学术报告\n 2023年08月16日 "
+    person: ''
+    time: ''
+    title: Vadim Kaloshin教授的学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12473.htm
+    info: "气候变化检测、归因与预估研究\n 2023年08月13日 "
+    person: ''
+    time: ''
+    title: 气候变化检测、归因与预估研究
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3337.htm
+    info: '【2023秋】Game theory
+
+      Yuval Peres'
+    person: ''
+    time: ''
+    title: 【2023秋】Game theory
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
+    info: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+    person: ''
+    time: ''
+    title: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/152119.htm
+    info: '16
+
+      Aug
+
+      多项式的核熵理论
+
+      时间：2023-08-16 16:00-17:00
+
+      报告人: 罗俊教授（中山大学）'
+    person: ''
+    time: ''
+    title: '16
+
+      Aug
+
+      多项式的核熵理论
+
+      时间：2023-08-16 16:00-17:00
+
+      报告人: 罗俊教授（中山大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152110.htm
+    info: '18
+
+      Aug
+
+      机器学习与数据科学博士生系列论坛（第五十五期）—— A Distributional Perspective on Reinforcement Learning
+
+      时间：2023-08-18 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
+    person: ''
+    time: ''
+    title: '18
+
+      Aug
+
+      机器学习与数据科学博士生系列论坛（第五十五期）—— A Distributional Perspective on Reinforcement Learning
+
+      时间：2023-08-18 16:00-17:00
+
+      报告人: Yang Peng (PKU)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/152126.htm
     info: '2023-08-15
 
@@ -84,24 +179,6 @@
       2023-08-13
 
       16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaGyqF2
-    info: '[特邀报告] QIWEI YAO
-
-      MODELLING MATRIX TIME SERIES VIA A TENSOR CP-DECOMPOSITION
-
-      2023-08-17
-
-      15:00 — 16:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] QIWEI YAO
-
-      MODELLING MATRIX TIME SERIES VIA A TENSOR CP-DECOMPOSITION
-
-      2023-08-17
-
-      15:00 — 16:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -159,62 +236,6 @@
       【学术报告】液体水的结构和在组装中的贡献'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12473.htm
-    info: "气候变化检测、归因与预估研究\n 2023年08月13日 "
-    person: ''
-    time: ''
-    title: 气候变化检测、归因与预估研究
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/152119.htm
-    info: '16
-
-      Aug
-
-      多项式的核熵理论
-
-      时间：2023-08-16 16:00-17:00
-
-      报告人: 罗俊教授（中山大学）'
-    person: ''
-    time: ''
-    title: '16
-
-      Aug
-
-      多项式的核熵理论
-
-      时间：2023-08-16 16:00-17:00
-
-      报告人: 罗俊教授（中山大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152110.htm
-    info: '18
-
-      Aug
-
-      机器学习与数据科学博士生系列论坛（第五十五期）—— A Distributional Perspective on Reinforcement Learning
-
-      时间：2023-08-18 16:00-17:00
-
-      报告人: Yang Peng (PKU)'
-    person: ''
-    time: ''
-    title: '18
-
-      Aug
-
-      机器学习与数据科学博士生系列论坛（第五十五期）—— A Distributional Perspective on Reinforcement Learning
-
-      时间：2023-08-18 16:00-17:00
-
-      报告人: Yang Peng (PKU)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/5021.htm
