@@ -1,5 +1,86 @@
 ﻿- page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/8518.htm
+    info: '中南大学计算机学院第三届青年学者论坛会议通知
+
+      2023-08-21'
+    person: ''
+    time: ''
+    title: 中南大学计算机学院第三届青年学者论坛会议通知
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/4faf4c47a71f470cb3574660d6a98f90.htm
+    info: '2023.08.21
+
+      亚砜基聚合物：一类新的生物医用高分子防污材料'
+    person: ''
+    time: ''
+    title: 亚砜基聚合物：一类新的生物医用高分子防污材料
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/247aa1f5af0642c08ae6eeac72229f3e.htm
+    info: '2023.08.17
+
+      The RNA lipid nanoparticle revolution: Improving its safety & efficacy with
+      the tools of medicine, engineering, and physics'
+    person: ''
+    time: ''
+    title: 'The RNA lipid nanoparticle revolution: Improving its safety & efficacy
+      with the tools of medicine, engineering, and physics'
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152178.htm
+    info: '28
+
+      Aug
+
+      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
+      for Scientific Computing
+
+      时间：2023-08-28 10:00-11:00
+
+      报告人: Florian Schäfer（Georgia Tech）'
+    person: ''
+    time: ''
+    title: '28
+
+      Aug
+
+      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
+      for Scientific Computing
+
+      时间：2023-08-28 10:00-11:00
+
+      报告人: Florian Schäfer（Georgia Tech）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
+    info: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+    person: ''
+    time: ''
+    title: '30
+
+      Aug
+
+      Towards predictive spatiotemporal modeling of single cells
+
+      时间：2023-08-30 10:00-11:00
+
+      报告人: 邱肖杰（MIT）'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeFtKF2
     info: '[特邀报告] 许振朋 教授
 
@@ -57,27 +138,6 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/247aa1f5af0642c08ae6eeac72229f3e.htm
-    info: '2023.08.17
-
-      The RNA lipid nanoparticle revolution: Improving its safety & efficacy with
-      the tools of medicine, engineering, and physics'
-    person: ''
-    time: ''
-    title: 'The RNA lipid nanoparticle revolution: Improving its safety & efficacy
-      with the tools of medicine, engineering, and physics'
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/42d31a6f409745889e715f9098a0270a.htm
-    info: '2023.08.14
-
-      Translating spatial cell atlas to tissue function'
-    person: ''
-    time: ''
-    title: Translating spatial cell atlas to tissue function
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
     href: https://math.csu.edu.cn/info/1736/12483.htm
     info: "Vadim Kaloshin教授的学术报告\n 2023年08月16日 "
     person: ''
@@ -96,31 +156,6 @@
     title: 【2023秋】Game theory
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
-    info: '30
-
-      Aug
-
-      Towards predictive spatiotemporal modeling of single cells
-
-      时间：2023-08-30 10:00-11:00
-
-      报告人: 邱肖杰（MIT）'
-    person: ''
-    time: ''
-    title: '30
-
-      Aug
-
-      Towards predictive spatiotemporal modeling of single cells
-
-      时间：2023-08-30 10:00-11:00
-
-      报告人: 邱肖杰（MIT）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/152126.htm
@@ -151,30 +186,5 @@
     person: ''
     time: ''
     title: 【化学系】启真化学论坛：黄重行教授报告（香港大学）
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0814/c33485a2789217/page.htm
-    info: '【生研院】特邀报告系列：李文博教授（美国德克萨斯大学休斯...
-
-      [2023-08-14]'
-    person: ''
-    time: ''
-    title: 【生研院】特邀报告系列：李文博教授（美国德克萨斯大学休斯敦麦克格文医学院）学术报告
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3576.html
-    info: '19
-
-      2023-08
-
-      【学术报告】液体水的结构和在组装中的贡献'
-    person: ''
-    time: ''
-    title: '19
-
-      2023-08
-
-      【学术报告】液体水的结构和在组装中的贡献'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html

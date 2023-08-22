@@ -1,49 +1,42 @@
 ﻿- page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8518.htm
-    info: '中南大学计算机学院第三届青年学者论坛会议通知
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3339.htm
+    info: 'Introduction to cluster algebras
 
-      2023-08-21'
+      Dylan Allegretti'
     person: ''
     time: ''
-    title: 中南大学计算机学院第三届青年学者论坛会议通知
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: Introduction to cluster algebras
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/4faf4c47a71f470cb3574660d6a98f90.htm
-    info: '2023.08.21
+    href: https://www.chem.pku.edu.cn/xzjz/152191.htm
+    info: '2023-08-22
 
-      亚砜基聚合物：一类新的生物医用高分子防污材料'
+      【Soft Matter Lecture 139】Sonopharmacology and Sonogenetics: Activating drugs,
+      proteins and genes by ultrasound'
     person: ''
     time: ''
-    title: 亚砜基聚合物：一类新的生物医用高分子防污材料
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
+    title: '【Soft Matter Lecture 139】Sonopharmacology and Sonogenetics: Activating
+      drugs, proteins and genes by ultrasound'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152178.htm
-    info: '28
+    href: https://www.chem.pku.edu.cn/xzjz/152190.htm
+    info: '2023-08-22
 
-      Aug
-
-      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
-      for Scientific Computing
-
-      时间：2023-08-28 10:00-11:00
-
-      报告人: Florian Schäfer（Georgia Tech）'
+      【Soft Matter Lecture 138】Sulfoxide Polymers as Nanomedicines'
     person: ''
     time: ''
-    title: '28
+    title: 【Soft Matter Lecture 138】Sulfoxide Polymers as Nanomedicines
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152182.htm
+    info: '2023-08-22
 
-      Aug
-
-      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
-      for Scientific Computing
-
-      时间：2023-08-28 10:00-11:00
-
-      报告人: Florian Schäfer（Georgia Tech）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+      【北京大学物理化学学术报告】Interfacial Adsorption and Solution Stability of Monoclonal Antibody
+      Studied by Neutron Reflection and SANS'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Interfacial Adsorption and Solution Stability of Monoclonal
+      Antibody Studied by Neutron Reflection and SANS
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
