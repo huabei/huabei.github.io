@@ -1,31 +1,72 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
-    info: 'Numerical Methods for Differential Equations
-
-      Hongjie LI'
+    href: https://math.csu.edu.cn/info/1736/12503.htm
+    info: "群论与双曲几何\n 2023年08月25日 "
     person: ''
     time: ''
-    title: Numerical Methods for Differential Equations
+    title: 群论与双曲几何
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
-    info: 'High-Dimensional Statistical Learning Theory
-
-      Yuhong Yang'
+    href: https://math.csu.edu.cn/info/1736/12493.htm
+    info: "随机过程前沿问题研讨会系列报告\n 2023年08月23日 "
     person: ''
     time: ''
-    title: High-Dimensional Statistical Learning Theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3339.htm
-    info: 'Introduction to cluster algebras
-
-      Dylan Allegretti'
-    person: ''
-    time: ''
-    title: Introduction to cluster algebras
-  page_title: 近期公开课-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+    title: 随机过程前沿问题研讨会系列报告
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4164.htm
+    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/152220.htm
+    info: '30
+
+      Aug
+
+      Capacity of the range of random walk
+
+      时间：2023-08-30 14:00–15:00
+
+      报告人: Izumi Okada (Chiba University, Japan)'
+    person: ''
+    time: ''
+    title: '30
+
+      Aug
+
+      Capacity of the range of random walk
+
+      时间：2023-08-30 14:00–15:00
+
+      报告人: Izumi Okada (Chiba University, Japan)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/152223.htm
+    info: '30
+
+      Aug
+
+      Stationary random subgroups and application to Furstenberg entropy
+
+      时间：2023-08-30 15:30–16:30
+
+      报告人: Tianyi Zheng (UCSD)'
+    person: ''
+    time: ''
+    title: '30
+
+      Aug
+
+      Stationary random subgroups and application to Furstenberg entropy
+
+      时间：2023-08-30 15:30–16:30
+
+      报告人: Tianyi Zheng (UCSD)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/152203.htm
     info: '28
@@ -76,13 +117,76 @@
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/12493.htm
-    info: "随机过程前沿问题研讨会系列报告\n 2023年08月23日 "
+    href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Inside Nature journals'
     person: ''
     time: ''
-    title: 随机过程前沿问题研讨会系列报告
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+    title: '06
+
+      2023-09
+
+      【学术报告】Inside Nature journals'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3581.html
+    info: '06
+
+      2023-09
+
+      【学术报告】肌腱损伤粘连的防治研究与转化'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】肌腱损伤粘连的防治研究与转化'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3580.html
+    info: '26
+
+      2023-08
+
+      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
+    person: ''
+    time: ''
+    title: '26
+
+      2023-08
+
+      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
+    info: 'Numerical Methods for Differential Equations
+
+      Hongjie LI'
+    person: ''
+    time: ''
+    title: Numerical Methods for Differential Equations
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
+    info: 'High-Dimensional Statistical Learning Theory
+
+      Yuhong Yang'
+    person: ''
+    time: ''
+    title: High-Dimensional Statistical Learning Theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3339.htm
+    info: 'Introduction to cluster algebras
+
+      Dylan Allegretti'
+    person: ''
+    time: ''
+    title: Introduction to cluster algebras
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/5064.htm
@@ -251,23 +355,6 @@
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3580.html
-    info: '26
-
-      2023-08
-
-      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
-    person: ''
-    time: ''
-    title: '26
-
-      2023-08
-
-      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeFyqF2
     info: '[MINI COURSES] PROFESSOR JIAYIN PAN
 
@@ -305,24 +392,6 @@
       2023-08-23
 
       16:30 — 18:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeFtKF2
-    info: '[特邀报告] 许振朋 教授
-
-      BOUNDING THE JOINT NUMERICAL RANGE OF PAULI STRINGS BY GRAPH PARAMETERS
-
-      2023-08-21
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] 许振朋 教授
-
-      BOUNDING THE JOINT NUMERICAL RANGE OF PAULI STRINGS BY GRAPH PARAMETERS
-
-      2023-08-21
-
-      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
