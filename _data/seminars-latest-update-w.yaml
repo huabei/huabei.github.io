@@ -1,28 +1,28 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/12503.htm
-    info: "群论与双曲几何\n 2023年08月25日 "
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152243.htm
+    info: '01
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
+      in Games
+
+      时间：2023-09-01 16:00-17:00
+
+      报告人: Shiyun Lin (PKU)'
     person: ''
     time: ''
-    title: 群论与双曲几何
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12493.htm
-    info: "随机过程前沿问题研讨会系列报告\n 2023年08月23日 "
-    person: ''
-    time: ''
-    title: 随机过程前沿问题研讨会系列报告
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4164.htm
-    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
-    person: ''
-    time: ''
-    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
+    title: '01
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
+      in Games
+
+      时间：2023-09-01 16:00-17:00
+
+      报告人: Shiyun Lin (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/152220.htm
     info: '30
@@ -115,6 +115,30 @@
       报告人: Florian Schäfer（Georgia Tech）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12503.htm
+    info: "群论与双曲几何\n 2023年08月25日 "
+    person: ''
+    time: ''
+    title: 群论与双曲几何
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/12493.htm
+    info: "随机过程前沿问题研讨会系列报告\n 2023年08月23日 "
+    person: ''
+    time: ''
+    title: 随机过程前沿问题研讨会系列报告
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4164.htm
+    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
