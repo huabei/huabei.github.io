@@ -391,7 +391,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5371162
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5375847
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -712,6 +712,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/7de0299ffc574a13bff83ad1e89e6874.htm
+    info: '2023.08.28
+
+      Old dogs, New Tricks：溶液相和固相中的新型碱金属配位化学'
+    person: ''
+    time: ''
+    title: Old dogs, New Tricks：溶液相和固相中的新型碱金属配位化学
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/4faf4c47a71f470cb3574660d6a98f90.htm
     info: '2023.08.21
 
@@ -797,14 +805,6 @@
     person: ''
     time: ''
     title: “药学+X”学术报告
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d491a3f2a52f44e68b36bfeae947a52a.htm
-    info: '2023.06.16
-
-      Molecular Amalgamations that Systematically Generate Complex Peptidic Polycycles'
-    person: ''
-    time: ''
-    title: Molecular Amalgamations that Systematically Generate Complex Peptidic Polycycles
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1589,6 +1589,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152261.htm
+    info: '2023-08-28
+
+      英国皇家化学学会（RSC）特邀学术报告'
+    person: ''
+    time: ''
+    title: 英国皇家化学学会（RSC）特邀学术报告
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/152198.htm
     info: '2023-08-23
 
@@ -1682,63 +1690,9 @@
     time: ''
     title: '【金属有机化学学术报告】Small Molecule Activation by Uranium complexes: Examples of
       Synergistic Effects'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151859.htm
-    info: '2023-07-13
-
-      【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用'
-    person: ''
-    time: ''
-    title: 【理论与计算化学学术报告】面向人工智能时代的密度泛函方法开发与应用
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152178.htm
-    info: '28
-
-      Aug
-
-      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
-      for Scientific Computing
-
-      时间：2023-08-28 10:00-11:00
-
-      报告人: Florian Schäfer（Georgia Tech）'
-    person: ''
-    time: ''
-    title: '28
-
-      Aug
-
-      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
-      for Scientific Computing
-
-      时间：2023-08-28 10:00-11:00
-
-      报告人: Florian Schäfer（Georgia Tech）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/152203.htm
-    info: '28
-
-      Aug
-
-      Some results related to Grothendieck inequality
-
-      时间：2023-08-28 16:00-17:00
-
-      报告人: Boris Kashin (Steklov Mathematical Institute)'
-    person: ''
-    time: ''
-    title: '28
-
-      Aug
-
-      Some results related to Grothendieck inequality
-
-      时间：2023-08-28 16:00-17:00
-
-      报告人: Boris Kashin (Steklov Mathematical Institute)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
     info: '30
@@ -1829,6 +1783,52 @@
       时间：2023-09-01 16:00-17:00
 
       报告人: Shiyun Lin (PKU)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152178.htm
+    info: '28
+
+      Aug
+
+      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
+      for Scientific Computing
+
+      时间：2023-08-28 10:00-11:00
+
+      报告人: Florian Schäfer（Georgia Tech）'
+    person: ''
+    time: ''
+    title: '28
+
+      Aug
+
+      Applied Mathematics Seminar——Solvers, Models, Learners: Statistical Inspiration
+      for Scientific Computing
+
+      时间：2023-08-28 10:00-11:00
+
+      报告人: Florian Schäfer（Georgia Tech）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/152203.htm
+    info: '28
+
+      Aug
+
+      Some results related to Grothendieck inequality
+
+      时间：2023-08-28 16:00-17:00
+
+      报告人: Boris Kashin (Steklov Mathematical Institute)'
+    person: ''
+    time: ''
+    title: '28
+
+      Aug
+
+      Some results related to Grothendieck inequality
+
+      时间：2023-08-28 16:00-17:00
+
+      报告人: Boris Kashin (Steklov Mathematical Institute)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152110.htm
     info: '18
@@ -2088,6 +2088,223 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1782.htm
+    info: '6
+
+      Sep
+
+      Microenvironment tuning for CO2 electrocatalysis
+
+      报告人：李逢旺博士，悉尼大学
+
+      时间：2023年9月6号（星期三）16:00-17:30'
+    person: ''
+    time: ''
+    title: Microenvironment tuning for CO2 electrocatalysis
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1775.htm
     info: '26
 
@@ -2213,20 +2430,6 @@
     person: ''
     time: ''
     title: 手性双齿硼基配体及其应用
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1683.htm
-    info: '1
-
-      Jun
-
-      Development and Application of Metal-Catalyzed Cycloadditions
-
-      报告人：Prof. Zhi-Xiang Yu(余志祥)
-
-      时 间：2023年6月1日（星期四）16:30-18:00'
-    person: ''
-    time: ''
-    title: Development and Application of Metal-Catalyzed Cycloadditions
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2250,19 +2453,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 11 days ago
+      2023-08-17 16:00, 12 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 11 days ago
+      2023-08-17 15:00, 12 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 14 days ago
+      2023-08-14 10:00, 15 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
@@ -2289,19 +2492,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 11 days ago
+      2023-08-17 16:00, 12 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 11 days ago
+      2023-08-17 15:00, 12 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 14 days ago
+      2023-08-14 10:00, 15 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
