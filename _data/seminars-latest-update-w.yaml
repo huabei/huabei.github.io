@@ -1,5 +1,91 @@
 ﻿- page_info:
   - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
+    info: 'Quantum information and computation
+
+      Zi-Wen Liu'
+    person: ''
+    time: ''
+    title: Quantum information and computation
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
+    info: 'Numerical Methods for Differential Equations
+
+      Hongjie LI'
+    person: ''
+    time: ''
+    title: Numerical Methods for Differential Equations
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
+    info: 'High-Dimensional Statistical Learning Theory
+
+      Yuhong Yang'
+    person: ''
+    time: ''
+    title: High-Dimensional Statistical Learning Theory
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3584.html
+    info: '05
+
+      2023-09
+
+      【学术报告】超分子自组装在药物递送与生物成像中的应用'
+    person: ''
+    time: ''
+    title: '05
+
+      2023-09
+
+      【学术报告】超分子自组装在药物递送与生物成像中的应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Inside Nature journals'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】Inside Nature journals'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3581.html
+    info: '06
+
+      2023-09
+
+      【学术报告】肌腱损伤粘连的防治研究与转化'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】肌腱损伤粘连的防治研究与转化'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3580.html
+    info: '26
+
+      2023-08
+
+      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
+    person: ''
+    time: ''
+    title: '26
+
+      2023-08
+
+      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7de0299ffc574a13bff83ad1e89e6874.htm
     info: '2023.08.28
 
@@ -36,34 +122,6 @@
     time: ''
     title: '【表面物理化学系列讲座】Tetraphenylethylene (TPE) – Based Macrocycles and Oligomers:
       (Anti) Aromaticity and Kondo Physics'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152191.htm
-    info: '2023-08-22
-
-      【Soft Matter Lecture 139】Sonopharmacology and Sonogenetics: Activating drugs,
-      proteins and genes by ultrasound'
-    person: ''
-    time: ''
-    title: '【Soft Matter Lecture 139】Sonopharmacology and Sonogenetics: Activating
-      drugs, proteins and genes by ultrasound'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152190.htm
-    info: '2023-08-22
-
-      【Soft Matter Lecture 138】Sulfoxide Polymers as Nanomedicines'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture 138】Sulfoxide Polymers as Nanomedicines
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152182.htm
-    info: '2023-08-22
-
-      【北京大学物理化学学术报告】Interfacial Adsorption and Solution Stability of Monoclonal Antibody
-      Studied by Neutron Reflection and SANS'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Interfacial Adsorption and Solution Stability of Monoclonal
-      Antibody Studied by Neutron Reflection and SANS
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -228,78 +286,6 @@
     title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
-    info: '06
-
-      2023-09
-
-      【学术报告】Inside Nature journals'
-    person: ''
-    time: ''
-    title: '06
-
-      2023-09
-
-      【学术报告】Inside Nature journals'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3581.html
-    info: '06
-
-      2023-09
-
-      【学术报告】肌腱损伤粘连的防治研究与转化'
-    person: ''
-    time: ''
-    title: '06
-
-      2023-09
-
-      【学术报告】肌腱损伤粘连的防治研究与转化'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3580.html
-    info: '26
-
-      2023-08
-
-      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
-    person: ''
-    time: ''
-    title: '26
-
-      2023-08
-
-      【学术报告】Modified TiO2 nanostructures based photocatalysts for advanced environmental applications'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
-    info: 'Numerical Methods for Differential Equations
-
-      Hongjie LI'
-    person: ''
-    time: ''
-    title: Numerical Methods for Differential Equations
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
-    info: 'High-Dimensional Statistical Learning Theory
-
-      Yuhong Yang'
-    person: ''
-    time: ''
-    title: High-Dimensional Statistical Learning Theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3339.htm
-    info: 'Introduction to cluster algebras
-
-      Dylan Allegretti'
-    person: ''
-    time: ''
-    title: Introduction to cluster algebras
-  page_title: 近期公开课-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/5064.htm

@@ -163,6 +163,14 @@
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
+    info: 'Introduction to Geometric Langlands Theory
+
+      Lin Chen'
+    person: ''
+    time: ''
+    title: Introduction to Geometric Langlands Theory
+  - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
     info: 'Quantum information and computation
 
@@ -244,14 +252,6 @@
     person: ''
     time: ''
     title: Matched Sampling for Causal Inference
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/2925.htm
-    info: 'Topics in Statistics and Data Science
-
-      Yannis Yatracos'
-    person: ''
-    time: ''
-    title: Topics in Statistics and Data Science
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -391,7 +391,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5380991
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5386357
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1248,6 +1248,12 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4172.htm
+    info: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP 23-08-30
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP
+  - address: ''
     href: http://cs.pku.edu.cn/info/1020/4164.htm
     info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
     person: ''
@@ -1307,14 +1313,6 @@
     person: ''
     time: ''
     title: 计算机学院系列讲座名家讲坛第2期——Optimizing Memory Utilization on Modern Cloud Hardware
-  - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4061.htm
-    info: '计算机学院系列讲座菁英论坛第10期——Prototype Pollution and Beyond: An Existential, Emerging
-      Threat to the World Wide Web 23-06-13'
-    person: ''
-    time: ''
-    title: '计算机学院系列讲座菁英论坛第10期——Prototype Pollution and Beyond: An Existential, Emerging
-      Threat to the World Wide Web'
   page_title: 讲座信息-北京大学计算机学院
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
@@ -1694,6 +1692,30 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152243.htm
+    info: '01
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
+      in Games
+
+      时间：2023-09-01 16:00-17:00
+
+      报告人: Shiyun Lin (PKU)'
+    person: ''
+    time: ''
+    title: '01
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
+      in Games
+
+      时间：2023-09-01 16:00-17:00
+
+      报告人: Shiyun Lin (PKU)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152127.htm
     info: '30
 
@@ -1759,30 +1781,6 @@
       时间：2023-08-30 15:30–16:30
 
       报告人: Tianyi Zheng (UCSD)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152243.htm
-    info: '01
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
-      in Games
-
-      时间：2023-09-01 16:00-17:00
-
-      报告人: Shiyun Lin (PKU)'
-    person: ''
-    time: ''
-    title: '01
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十六期）—— A Unified Stochastic Approximation Framework for Learning
-      in Games
-
-      时间：2023-09-01 16:00-17:00
-
-      报告人: Shiyun Lin (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152178.htm
     info: '28
@@ -2250,19 +2248,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 13 days ago
+      2023-08-17 16:00, 14 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 13 days ago
+      2023-08-17 15:00, 14 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 16 days ago
+      2023-08-14 10:00, 17 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
@@ -2289,19 +2287,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 13 days ago
+      2023-08-17 16:00, 14 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 13 days ago
+      2023-08-17 15:00, 14 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 16 days ago
+      2023-08-14 10:00, 17 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
@@ -3004,6 +3002,36 @@
 
       【学术报告】超分子自组装在药物递送与生物成像中的应用'
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3586.html
+    info: '02
+
+      2023-09
+
+      【学术报告】流态化资源处理：从基础到应用'
+    person: ''
+    time: ''
+    title: '02
+
+      2023-09
+
+      【学术报告】流态化资源处理：从基础到应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3585.html
+    info: '01
+
+      2023-09
+
+      【学术报告】Molecular Gymnastics with Alkynes, Allenes and Light: Towards Atom Efficient
+      Molecular Transformations'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-09
+
+      【学术报告】Molecular Gymnastics with Alkynes, Allenes and Light: Towards Atom Efficient
+      Molecular Transformations'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3580.html
     info: '26
 
@@ -3077,34 +3105,6 @@
 
       【学术报告】Signatures of Chirality Recognition, Transfer, and Amplification: Chiral
       Molecules Under Resonance and at Interfaces'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3562.html
-    info: '27
-
-      2023-07
-
-      【学术报告】CRISPR基因编辑技术的优化和在医学上的应用研究及体会'
-    person: ''
-    time: ''
-    title: '27
-
-      2023-07
-
-      【学术报告】CRISPR基因编辑技术的优化和在医学上的应用研究及体会'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3554.html
-    info: '27
-
-      2023-07
-
-      【学术报告】新型脂质纳米载体设计及其用于药物高效递送的研究'
-    person: ''
-    time: ''
-    title: '27
-
-      2023-07
-
-      【学术报告】新型脂质纳米载体设计及其用于药物高效递送的研究'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:

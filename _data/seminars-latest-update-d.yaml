@@ -1,28 +1,53 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
-    info: 'Quantum information and computation
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
+    info: 'Introduction to Geometric Langlands Theory
 
-      Zi-Wen Liu'
+      Lin Chen'
     person: ''
     time: ''
-    title: Quantum information and computation
+    title: Introduction to Geometric Langlands Theory
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3584.html
-    info: '05
-
-      2023-09
-
-      【学术报告】超分子自组装在药物递送与生物成像中的应用'
+    href: http://cs.pku.edu.cn/info/1020/4172.htm
+    info: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP 23-08-30
     person: ''
     time: ''
-    title: '05
+    title: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3586.html
+    info: '02
 
       2023-09
 
-      【学术报告】超分子自组装在药物递送与生物成像中的应用'
+      【学术报告】流态化资源处理：从基础到应用'
+    person: ''
+    time: ''
+    title: '02
+
+      2023-09
+
+      【学术报告】流态化资源处理：从基础到应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3585.html
+    info: '01
+
+      2023-09
+
+      【学术报告】Molecular Gymnastics with Alkynes, Allenes and Light: Towards Atom Efficient
+      Molecular Transformations'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-09
+
+      【学术报告】Molecular Gymnastics with Alkynes, Allenes and Light: Towards Atom Efficient
+      Molecular Transformations'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
