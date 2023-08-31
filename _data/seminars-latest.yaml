@@ -179,14 +179,6 @@
     time: ''
     title: Quantum information and computation
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
-    info: 'Numerical Methods for Differential Equations
-
-      Hongjie LI'
-    person: ''
-    time: ''
-    title: Numerical Methods for Differential Equations
-  - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
     info: 'High-Dimensional Statistical Learning Theory
 
@@ -252,6 +244,14 @@
     person: ''
     time: ''
     title: Matched Sampling for Causal Inference
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/2925.htm
+    info: 'Topics in Statistics and Data Science
+
+      Yannis Yatracos'
+    person: ''
+    time: ''
+    title: Topics in Statistics and Data Science
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -391,7 +391,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5386357
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5391691
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -959,292 +959,76 @@
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/1d0c5dcf4b364bc68855854d519432dc.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1638
+    info: '5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
 
-      Lnc-ing RNA Processing and Function (新型RNA的发现与功能探索...
-
-      陈玲玲
-
-      主讲人研究员
-
-      2023年8月11日（星期五）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+      2023-05-24'
     person: ''
     time: ''
-    title: '讲座主题
-
-      Lnc-ing RNA Processing and Function (新型RNA的发现与功能探索...
-
-      陈玲玲
-
-      主讲人研究员
-
-      2023年8月11日（星期五）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+    title: 5月29日CQBseminar：“女娲”（NyuWa）中国人群基因组变异和关联分析研究
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/80d0a847ac114762b188e1dd307a64b8.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1631
+    info: '5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
 
-      Dysregulated lipid homeostasis in liver fibrosis r...
-
-      岳蜀华
-
-      主讲人副教授
-
-      2023年6月20日（星期二）下午3:00-4:30
-
-      北京大学综合科研二号楼B117室'
+      2023-05-09'
     person: ''
     time: ''
-    title: '讲座主题
-
-      Dysregulated lipid homeostasis in liver fibrosis r...
-
-      岳蜀华
-
-      主讲人副教授
-
-      2023年6月20日（星期二）下午3:00-4:30
-
-      北京大学综合科研二号楼B117室'
+    title: 5月18日CLSseminar：B细胞抗体基因高频突变的DNA柔性基础
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/0db9991fc6314e279fb6202d8c5772d0.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1630
+    info: '5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
+      pathway..
 
-      质谱成像空间代谢组学新技术及应用研究进展
-
-      贺玖明
-
-      主讲人研究员
-
-      2023年6月20日（星期二）下午4:30-5:30
-
-      北京大学综合科研二号楼B117室'
+      2023-05-09'
     person: ''
     time: ''
-    title: '讲座主题
-
-      质谱成像空间代谢组学新技术及应用研究进展
-
-      贺玖明
-
-      主讲人研究员
-
-      2023年6月20日（星期二）下午4:30-5:30
-
-      北京大学综合科研二号楼B117室'
+    title: 5月15日CQBseminar：In vivo CRISPR screens reveal the landscape of immune evasion
+      pathway..
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/4893eac1b0e544ee8fbe8f9f5c2ef6d6.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1625
+    info: '5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
 
-      FDA 2023年优先事项及未来计划和世界的FDA
-
-      Andi Lipstein Fristedt和Mark Abdoo
-
-      主讲人FDA副局长
-
-      2023年6月14日 9:00-10:15AM
-
-      另行通知'
+      2023-04-25'
     person: ''
     time: ''
-    title: '讲座主题
-
-      FDA 2023年优先事项及未来计划和世界的FDA
-
-      Andi Lipstein Fristedt和Mark Abdoo
-
-      主讲人FDA副局长
-
-      2023年6月14日 9:00-10:15AM
-
-      另行通知'
+    title: 5月8日CQBseminar：生物大分子相分离的分子机制及生理功能
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/00ace1c2b7dc4327a9f82f87702d56b5.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1624
+    info: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
+      Fact..
 
-      Ultra-pH-sensitive (UPS) nanotechnology: from rati...
-
-      汪贻广
-
-      主讲人教授
-
-      2023年5月16日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+      2023-04-25'
     person: ''
     time: ''
-    title: '讲座主题
-
-      Ultra-pH-sensitive (UPS) nanotechnology: from rati...
-
-      汪贻广
-
-      主讲人教授
-
-      2023年5月16日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+    title: '4月27日CLSseminar：Decoding the Human Functional Genome: Hallmarks of Transcription
+      Fact..'
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/a8f44d344b9b4e39a138aed7d37e437d.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1623
+    info: '4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
+      usingconnect..
 
-      When dying is not the end: necroptosis’s physiolog...
-
-      孙丽明
-
-      主讲人教授
-
-      2023年5月11日(星期四)上午10:00--11:30
-
-      北京大学综合科研二号楼 B117 室'
+      2023-04-25'
     person: ''
     time: ''
-    title: '讲座主题
-
-      When dying is not the end: necroptosis’s physiolog...
-
-      孙丽明
-
-      主讲人教授
-
-      2023年5月11日(星期四)上午10:00--11:30
-
-      北京大学综合科研二号楼 B117 室'
+    title: 4月26日CLSseminar：Understanding sensori-motor circuits and theirmodulation
+      usingconnect..
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/7752c6ce225842b09624dbe38b2f5482.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1612
+    info: '4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
 
-      葡萄糖控制代谢平衡、细胞命运与寿命
-
-      林圣彩
-
-      主讲人院士
-
-      2023年5月9日(星期二)下午 4:00--5:00
-
-      北京大学综合科研二号楼 B117 室'
+      2023-03-31'
     person: ''
     time: ''
-    title: '讲座主题
-
-      葡萄糖控制代谢平衡、细胞命运与寿命
-
-      林圣彩
-
-      主讲人院士
-
-      2023年5月9日(星期二)下午 4:00--5:00
-
-      北京大学综合科研二号楼 B117 室'
+    title: 4月20日CLSseminar：从编辑视角谈如何在自然系列期刊发表文章
   - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/16aec4ea6213440f85ae274419a64bba.htm
-    info: '讲座主题
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1611
+    info: '4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
 
-      Illuminating cell metabolism and protecting life h...
-
-      赵玉政
-
-      主讲人教授
-
-      2023年4月25日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
+      2023-03-31'
     person: ''
     time: ''
-    title: '讲座主题
-
-      Illuminating cell metabolism and protecting life h...
-
-      赵玉政
-
-      主讲人教授
-
-      2023年4月25日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/9447767def874c0aa044d236ebecaa93.htm
-    info: '讲座主题
-
-      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
-
-      贾大
-
-      主讲人教授
-
-      2023年3月28日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      神经系统罕见病：从临床到基础再到临床 Neurological Rare diseases: fro...
-
-      贾大
-
-      主讲人教授
-
-      2023年3月28日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/edabc5549097405799cf8d8a7b971ed9.htm
-    info: '讲座主题
-
-      智能医学图像处理与分析
-
-      卢闫晔
-
-      主讲人助理教授
-
-      2023年3月17日（星期五）13:30-15:00
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      智能医学图像处理与分析
-
-      卢闫晔
-
-      主讲人助理教授
-
-      2023年3月17日（星期五）13:30-15:00
-
-      北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/5f69e1afe0ec40ad8c0eddbdc85c8b81.htm
-    info: '讲座主题
-
-      海森结构光与稀疏解卷积：新技术发展历程
-
-      陈良怡
-
-      主讲人教授
-
-      2023年3月10日 15:00-16:30
-
-      科研二号楼B117会议室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      海森结构光与稀疏解卷积：新技术发展历程
-
-      陈良怡
-
-      主讲人教授
-
-      2023年3月10日 15:00-16:30
-
-      科研二号楼B117会议室'
-  page_title: 北京大学未来技术学院
+    title: 4月6日CLSseminar： In vitro generation ofhuman cardiac tissue andmultiple-organogenesism..
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
@@ -1317,160 +1101,72 @@
   page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5683.htm
-    info: '08
-
-      2023-06
-
-      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+    href: http://cs.pku.edu.cn/info/1020/4172.htm
+    info: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP 23-08-30
     person: ''
     time: ''
-    title: '08
-
-      2023-06
-
-      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+    title: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5673.htm
-    info: '05
-
-      2023-06
-
-      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+    href: http://cs.pku.edu.cn/info/1020/4164.htm
+    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
     person: ''
     time: ''
-    title: '05
-
-      2023-06
-
-      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5661.htm
-    info: '31
-
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+    href: http://cs.pku.edu.cn/info/1020/4146.htm
+    info: 计算机学院系列讲座菁英论坛第14期——Resilient mmWave self-backhauling in cellular networks
+      23-07-25
     person: ''
     time: ''
-    title: '31
-
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+    title: 计算机学院系列讲座菁英论坛第14期——Resilient mmWave self-backhauling in cellular networks
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5656.htm
-    info: '25
-
-      2023-05
-
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+    href: http://cs.pku.edu.cn/info/1020/4141.htm
+    info: 计算机学院系列讲座 菁英论坛第13期——Bridging the Gap in System Provenance Analysis 23-07-20
     person: ''
     time: ''
-    title: '25
-
-      2023-05
-
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+    title: 计算机学院系列讲座 菁英论坛第13期——Bridging the Gap in System Provenance Analysis
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5655.htm
-    info: '10
-
-      2023-05
-
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+    href: http://cs.pku.edu.cn/info/1020/4137.htm
+    info: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
+      23-07-14
     person: ''
     time: ''
-    title: '10
-
-      2023-05
-
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+    title: 计算机学院系列讲座名家讲坛第6期——Wearable Computing for Healthcare and Motion Analysis
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5579.htm
-    info: '26
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第九期）——AI大模型带来算力基础的改变'
+    href: http://cs.pku.edu.cn/info/1020/4131.htm
+    info: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System 23-07-12
     person: ''
     time: ''
-    title: '26
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第九期）——AI大模型带来算力基础的改变'
+    title: 计算机学院系列讲座名家讲坛第5期——Personalized Recommendation System
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5562.htm
-    info: '19
-
-      2023-04
-
-      信科“E席谈”青年学术沙龙（第十期）——芯片设计自动化—卡硬件“脖子”的软件技术'
+    href: http://cs.pku.edu.cn/info/1020/4124.htm
+    info: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers 23-07-06
     person: ''
     time: ''
-    title: '19
-
-      2023-04
-
-      信科“E席谈”青年学术沙龙（第十期）——芯片设计自动化—卡硬件“脖子”的软件技术'
+    title: 计算机学院系列讲座名家讲坛第4期——2D and 3D Recognition with Transformers
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5560.htm
-    info: '16
-
-      2023-04
-
-      北京大学显示技术系列讲座第1期——OLED显示技术前沿'
+    href: http://cs.pku.edu.cn/info/1020/4094.htm
+    info: 计算机学院系列讲座菁英论坛第11期——Towards Application-oriented Big Data and ML Systems
+      23-06-21
     person: ''
     time: ''
-    title: '16
-
-      2023-04
-
-      北京大学显示技术系列讲座第1期——OLED显示技术前沿'
+    title: 计算机学院系列讲座菁英论坛第11期——Towards Application-oriented Big Data and ML Systems
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5534.htm
-    info: '12
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第八期）'
+    href: http://cs.pku.edu.cn/info/1020/4091.htm
+    info: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep Learning
+      Systems at The Edge 23-06-20
     person: ''
     time: ''
-    title: '12
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第八期）'
+    title: 计算机学院系列讲座菁英论坛第12期——Enabling Efficiency Robustness and Security of Deep
+      Learning Systems at The Edge
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5511.htm
-    info: '03
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
+    href: http://cs.pku.edu.cn/info/1020/4073.htm
+    info: 计算机学院系列讲座名家讲坛第2期——Optimizing Memory Utilization on Modern Cloud Hardware
+      23-06-19
     person: ''
     time: ''
-    title: '03
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5498.htm
-    info: '29
-
-      2023-03
-
-      信科“E席谈”青年学术沙龙（第九期）'
-    person: ''
-    time: ''
-    title: '29
-
-      2023-03
-
-      信科“E席谈”青年学术沙龙（第九期）'
-  page_title: 讲座信息-北京大学信息科学技术学院
+    title: 计算机学院系列讲座名家讲坛第2期——Optimizing Memory Utilization on Modern Cloud Hardware
+  page_title: 讲座信息-北京大学计算机学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
@@ -2086,6 +1782,209 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1782.htm
     info: '6
 
@@ -2248,25 +2147,25 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 14 days ago
+      2023-08-17 16:00, 15 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 14 days ago
+      2023-08-17 15:00, 15 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 17 days ago
+      2023-08-14 10:00, 18 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, 2 months ago
+      2023-06-16 14:00, 3 months ago
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -2287,25 +2186,25 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 14 days ago
+      2023-08-17 16:00, 15 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 14 days ago
+      2023-08-17 15:00, 15 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 17 days ago
+      2023-08-14 10:00, 18 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
       Yuankai Lu , University of Pittsburgh
 
-      2023-06-16 14:00, 2 months ago
+      2023-06-16 14:00, 3 months ago
 
       Near-optimal spectral methods in community detection, object matching, and statistical
       ranking
@@ -2960,6 +2859,48 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3589.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Interfacing Self-Assembly and External Stimuli to create Adaptive Behaviour'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】Interfacing Self-Assembly and External Stimuli to create Adaptive Behaviour'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3588.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Curved Supramolecular Polymers: Toward Mesoscale Architectures'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】Curved Supramolecular Polymers: Toward Mesoscale Architectures'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3587.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Supramolecular two-dimensional materials for biological applications'
+    person: ''
+    time: ''
+    title: '06
+
+      2023-09
+
+      【学术报告】Supramolecular two-dimensional materials for biological applications'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
     info: '06
 
@@ -3059,55 +3000,45 @@
       2023-08
 
       【学术报告】液体水的结构和在组装中的贡献'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3573.html
-    info: '10
-
-      2023-08
-
-      【学术报告】CO2 Utilization and Water Treatment Opportunities Enabled by Molecular
-      Electrocatalysis'
-    person: ''
-    time: ''
-    title: '10
-
-      2023-08
-
-      【学术报告】CO2 Utilization and Water Treatment Opportunities Enabled by Molecular
-      Electrocatalysis'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3565.html
-    info: '28
-
-      2023-07
-
-      【学术报告】 催化体系的构建及应用'
-    person: ''
-    time: ''
-    title: '28
-
-      2023-07
-
-      【学术报告】 催化体系的构建及应用'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3525.html
-    info: '28
-
-      2023-07
-
-      【学术报告】Signatures of Chirality Recognition, Transfer, and Amplification: Chiral
-      Molecules Under Resonance and at Interfaces'
-    person: ''
-    time: ''
-    title: '28
-
-      2023-07
-
-      【学术报告】Signatures of Chirality Recognition, Transfer, and Amplification: Chiral
-      Molecules Under Resonance and at Interfaces'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGpKF2
+    info: 'DMITRII KARP
+
+      RATIOS OF THE GAUSS HYPERGEOMETRIC FUNCTIONS AS MARKOV AND NEVANLINNA FUNCTIONS
+
+      2023-09-01
+
+      13:30 — 14:30'
+    person: ''
+    time: ''
+    title: 'DMITRII KARP
+
+      RATIOS OF THE GAUSS HYPERGEOMETRIC FUNCTIONS AS MARKOV AND NEVANLINNA FUNCTIONS
+
+      2023-09-01
+
+      13:30 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGtKF2
+    info: 'YI ZHANG
+
+      RATIONAL SOLUTIONS OF FIRST-ORDER ALGEBRAIC ORDINARY DIFFERENCE EQUATIONS
+
+      2023-09-01
+
+      11:00 — 12:00'
+    person: ''
+    time: ''
+    title: 'YI ZHANG
+
+      RATIONAL SOLUTIONS OF FIRST-ORDER ALGEBRAIC ORDINARY DIFFERENCE EQUATIONS
+
+      2023-09-01
+
+      11:00 — 12:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaFpKF2
     info: 'KAIBO HU
@@ -3144,6 +3075,24 @@
       2023-08-28
 
       10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGyqF2
+    info: '向华 教授
+
+      AX=B，从消去法到量子算法
+
+      2023-08-28
+
+      19:00 — 20:00'
+    person: ''
+    time: ''
+    title: '向华 教授
+
+      AX=B，从消去法到量子算法
+
+      2023-08-28
+
+      19:00 — 20:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeF2qF2
     info: '顾正澄
@@ -3254,60 +3203,6 @@
       2023-08-13
 
       16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaHpKF2
-    info: 'ALEXEY CHESKIDOV
-
-      TURBULENT SOLUTIONS OF FLUID EQUATIONS
-
-      2023-08-13
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: 'ALEXEY CHESKIDOV
-
-      TURBULENT SOLUTIONS OF FLUID EQUATIONS
-
-      2023-08-13
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaGtKF2
-    info: '刘长剑教授
-
-      线性三角函数系数的ABEL方程的极限环
-
-      2023-08-09
-
-      15:30 — 18:00'
-    person: ''
-    time: ''
-    title: '刘长剑教授
-
-      线性三角函数系数的ABEL方程的极限环
-
-      2023-08-09
-
-      15:30 — 18:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpaFyqF2
-    info: 'WEN-XIU MA
-
-      NONLOCAL INTEGRABLE SYSTEMS AND RELATED RIEMANN-HILBERT PROBLEMS
-
-      2023-08-07
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: 'WEN-XIU MA
-
-      NONLOCAL INTEGRABLE SYSTEMS AND RELATED RIEMANN-HILBERT PROBLEMS
-
-      2023-08-07
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
