@@ -1,46 +1,46 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
-    info: 'Introduction to Geometric Langlands Theory
+    href: https://scce.sjtu.edu.cn/index_xsrl/3589.html
+    info: '06
 
-      Lin Chen'
-    person: ''
-    time: ''
-    title: Introduction to Geometric Langlands Theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
-    info: 'Quantum information and computation
+      2023-09
 
-      Zi-Wen Liu'
+      【学术报告】Interfacing Self-Assembly and External Stimuli to create Adaptive Behaviour'
     person: ''
     time: ''
-    title: Quantum information and computation
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
-    info: 'Numerical Methods for Differential Equations
+    title: '06
 
-      Hongjie LI'
-    person: ''
-    time: ''
-    title: Numerical Methods for Differential Equations
-  page_title: 近期公开课-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
-- page_info:
+      2023-09
+
+      【学术报告】Interfacing Self-Assembly and External Stimuli to create Adaptive Behaviour'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4172.htm
-    info: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP 23-08-30
+    href: https://scce.sjtu.edu.cn/index_xsrl/3588.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Curved Supramolecular Polymers: Toward Mesoscale Architectures'
     person: ''
     time: ''
-    title: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP
+    title: '06
+
+      2023-09
+
+      【学术报告】Curved Supramolecular Polymers: Toward Mesoscale Architectures'
   - address: ''
-    href: http://cs.pku.edu.cn/info/1020/4164.htm
-    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
+    href: https://scce.sjtu.edu.cn/index_xsrl/3587.html
+    info: '06
+
+      2023-09
+
+      【学术报告】Supramolecular two-dimensional materials for biological applications'
     person: ''
     time: ''
-    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
-  page_title: 讲座信息-北京大学计算机学院
-  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
-- page_info:
+    title: '06
+
+      2023-09
+
+      【学术报告】Supramolecular two-dimensional materials for biological applications'
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3586.html
     info: '02
@@ -115,6 +115,97 @@
       【学术报告】肌腱损伤粘连的防治研究与转化'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGpKF2
+    info: 'DMITRII KARP
+
+      RATIOS OF THE GAUSS HYPERGEOMETRIC FUNCTIONS AS MARKOV AND NEVANLINNA FUNCTIONS
+
+      2023-09-01
+
+      13:30 — 14:30'
+    person: ''
+    time: ''
+    title: 'DMITRII KARP
+
+      RATIOS OF THE GAUSS HYPERGEOMETRIC FUNCTIONS AS MARKOV AND NEVANLINNA FUNCTIONS
+
+      2023-09-01
+
+      13:30 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGtKF2
+    info: 'YI ZHANG
+
+      RATIONAL SOLUTIONS OF FIRST-ORDER ALGEBRAIC ORDINARY DIFFERENCE EQUATIONS
+
+      2023-09-01
+
+      11:00 — 12:00'
+    person: ''
+    time: ''
+    title: 'YI ZHANG
+
+      RATIONAL SOLUTIONS OF FIRST-ORDER ALGEBRAIC ORDINARY DIFFERENCE EQUATIONS
+
+      2023-09-01
+
+      11:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeGyqF2
+    info: '向华 教授
+
+      AX=B，从消去法到量子算法
+
+      2023-08-28
+
+      19:00 — 20:00'
+    person: ''
+    time: ''
+    title: '向华 教授
+
+      AX=B，从消去法到量子算法
+
+      2023-08-28
+
+      19:00 — 20:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
+    info: 'Introduction to Geometric Langlands Theory
+
+      Lin Chen'
+    person: ''
+    time: ''
+    title: Introduction to Geometric Langlands Theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
+    info: 'Quantum information and computation
+
+      Zi-Wen Liu'
+    person: ''
+    time: ''
+    title: Quantum information and computation
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4172.htm
+    info: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP 23-08-30
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英论坛第16期——Effective and Efficient Knowledge-Intensive NLP
+  - address: ''
+    href: http://cs.pku.edu.cn/info/1020/4164.htm
+    info: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment 23-08-25
+    person: ''
+    time: ''
+    title: 计算机学院系列讲座菁英讲座第15期——Machine Learning for sensor-based health Assessment
+  page_title: 讲座信息-北京大学计算机学院
+  page_url: http://cs.pku.edu.cn/xwgg/jzxx.htm
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7de0299ffc574a13bff83ad1e89e6874.htm
@@ -223,28 +314,6 @@
       时间：2023-08-30 15:30–16:30
 
       报告人: Tianyi Zheng (UCSD)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/mathematical/152203.htm
-    info: '28
-
-      Aug
-
-      Some results related to Grothendieck ineguality
-
-      时间：2023-08-28 16:00-17:00
-
-      报告人: Boris Kashin (Steklov Mathematical Institute, Moscow, RUSSIA)'
-    person: ''
-    time: ''
-    title: '28
-
-      Aug
-
-      Some results related to Grothendieck ineguality
-
-      时间：2023-08-28 16:00-17:00
-
-      报告人: Boris Kashin (Steklov Mathematical Institute, Moscow, RUSSIA)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
