@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12524.htm
+    info: "On a Riemann-Hilbert problem\n 2023年09月04日 "
+    person: ''
+    time: ''
+    title: On a Riemann-Hilbert problem
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12503.htm
     info: "群论与双曲几何\n 2023年08月25日 "
     person: ''
@@ -60,14 +66,6 @@
     person: ''
     time: ''
     title: 人工智能中的点云配准问题研究
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12383.htm
-    info: "Efficient positivity/bound/length preserving schemes for complex nonlinear\
-      \ sy...\n 2023年07月01日 "
-    person: ''
-    time: ''
-    title: Efficient positivity/bound/length preserving schemes for complex nonlinear
-      systems
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -163,6 +161,22 @@
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3381.htm
+    info: 'The Hodge-Tate period map on the perfectoid Shimura variety
+
+      Yihang Zhu'
+    person: ''
+    time: ''
+    title: The Hodge-Tate period map on the perfectoid Shimura variety
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3380.htm
+    info: 'Econometric analysis of cross section and panel data
+
+      Per Johansson'
+    person: ''
+    time: ''
+    title: Econometric analysis of cross section and panel data
+  - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
     info: 'Introduction to Geometric Langlands Theory
 
@@ -234,24 +248,6 @@
     person: ''
     time: ''
     title: Statistical Topics with Missing Data
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3196.htm
-    info: '【2023春】Causal inference for statistics, social and biomedical sciences
-      I
-
-      Per Johansson'
-    person: ''
-    time: ''
-    title: 【2023春】Causal inference for statistics, social and biomedical sciences
-      I
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/2956.htm
-    info: 'Matched Sampling for Causal Inference
-
-      Donald Rubin'
-    person: ''
-    time: ''
-    title: Matched Sampling for Causal Inference
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -391,7 +387,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5403838
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5408706
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -712,6 +708,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/6c412368f883441dbd660464564c0d88.htm
+    info: '2023.09.04
+
+      Secondary metabolite biosynthesis in Aspergillus ustus'
+    person: ''
+    time: ''
+    title: Secondary metabolite biosynthesis in Aspergillus ustus
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7de0299ffc574a13bff83ad1e89e6874.htm
     info: '2023.08.28
 
@@ -797,14 +801,6 @@
     person: ''
     time: ''
     title: Adding More Chemistries to the Genetic Code
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/a56ef5370d3641da83469f7d7bb649bb.htm
-    info: '2023.07.04
-
-      “药学+X”学术报告'
-    person: ''
-    time: ''
-    title: “药学+X”学术报告
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1371,6 +1367,26 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152481.htm
+    info: '2023-09-04
+
+      【金属有机化学学术报告】From synthesis development to electronic situation and reactivity
+      investigation of four-membered group 4 metallacyclobutadienes'
+    person: ''
+    time: ''
+    title: 【金属有机化学学术报告】From synthesis development to electronic situation and reactivity
+      investigation of four-membered group 4 metallacyclobutadienes
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152480.htm
+    info: '2023-09-04
+
+      【金属有机化学学术报告】Cooperative late transition metal pincer complexes for manufacturing
+      B-N based main group polymers'
+    person: ''
+    time: ''
+    title: 【金属有机化学学术报告】Cooperative late transition metal pincer complexes for manufacturing
+      B-N based main group polymers
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/152261.htm
     info: '2023-08-28
 
@@ -1452,26 +1468,6 @@
     person: ''
     time: ''
     title: '【北京大学物理化学学术报告】Zeolite Nanotubes: Discovery, Structure & Applications'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151956.htm
-    info: '2023-07-24
-
-      【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite nanocrystals:
-      an exploration guided by time-resolved spectrsocopy'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Photocatalysis mediated by surface chemistry of perovskite
-      nanocrystals: an exploration guided by time-resolved spectrsocopy'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/151919.htm
-    info: '2023-07-18
-
-      【金属有机化学学术报告】Small Molecule Activation by Uranium complexes: Examples of Synergistic
-      Effects'
-    person: ''
-    time: ''
-    title: '【金属有机化学学术报告】Small Molecule Activation by Uranium complexes: Examples of
-      Synergistic Effects'
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -1497,6 +1493,52 @@
       时间：2023-09-05 16:00-17:00
 
       报告人: Qianxiao Li（National University of Singapore）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/152470.htm
+    info: '07
+
+      Sep
+
+      Expansion, quasi-conformality and ergodicity
+
+      时间：2023-09-07 15:00-17:00
+
+      报告人: Abbas Fakhari (Shahid Beheshti University)'
+    person: ''
+    time: ''
+    title: '07
+
+      Sep
+
+      Expansion, quasi-conformality and ergodicity
+
+      时间：2023-09-07 15:00-17:00
+
+      报告人: Abbas Fakhari (Shahid Beheshti University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152462.htm
+    info: '11
+
+      Sep
+
+      Generalization and robustness of over-parameterized neural networks - a function
+      space perspective
+
+      时间：2023-09-11 10:30-11:30
+
+      报告人: Fanghui Liu（EPFL, Switzerland）'
+    person: ''
+    time: ''
+    title: '11
+
+      Sep
+
+      Generalization and robustness of over-parameterized neural networks - a function
+      space perspective
+
+      时间：2023-09-11 10:30-11:30
+
+      报告人: Fanghui Liu（EPFL, Switzerland）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152243.htm
     info: '01
@@ -1677,50 +1719,6 @@
       时间：2023-08-16 16:00-17:00
 
       报告人: 罗俊教授（中山大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/152084.htm
-    info: '14
-
-      Aug
-
-      Recent progress on random multiplicative functions
-
-      时间：2023-08-14 14:00-15:00
-
-      报告人: Max Wenqiang Xu (Stanford)'
-    person: ''
-    time: ''
-    title: '14
-
-      Aug
-
-      Recent progress on random multiplicative functions
-
-      时间：2023-08-14 14:00-15:00
-
-      报告人: Max Wenqiang Xu (Stanford)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/152059.htm
-    info: '08
-
-      Aug
-
-      Towards axi-symmetrization of vortices in two dimensional flows
-
-      时间：2023-08-08 10:00-11:00
-
-      报告人: Prof. Hao Jia (University of Minnesota)'
-    person: ''
-    time: ''
-    title: '08
-
-      Aug
-
-      Towards axi-symmetrization of vortices in two dimensional flows
-
-      时间：2023-08-08 10:00-11:00
-
-      报告人: Prof. Hao Jia (University of Minnesota)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2030,19 +2028,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 18 days ago
+      2023-08-17 16:00, 19 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 18 days ago
+      2023-08-17 15:00, 19 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 21 days ago
+      2023-08-14 10:00, 22 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
@@ -2069,19 +2067,19 @@
 
       陈朦 , 南昌大学
 
-      2023-08-17 16:00, 18 days ago
+      2023-08-17 16:00, 19 days ago
 
       The pattern formations on evolving domains and on surfaces with arbitrary roughness
 
       Siqing LI , College of Mathematics, Taiyuan University of Technology
 
-      2023-08-17 15:00, 18 days ago
+      2023-08-17 15:00, 19 days ago
 
       Analysis and simulations of Maxwell''s equations in PMLs and graphene
 
       Jichun Li , University of Nevada Las Vegas
 
-      2023-08-14 10:00, 21 days ago
+      2023-08-14 10:00, 22 days ago
 
       Modeling effects of Intraocular pressure on eye oxygenation
 
