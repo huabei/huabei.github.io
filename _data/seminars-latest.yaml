@@ -372,7 +372,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5446822
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5451276
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -943,6 +943,32 @@
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/e8df8559f64d42489adafd8afbb87a3b.htm
+    info: '讲座主题
+
+      神经细胞脂滴研究
+
+      黄勋
+
+      主讲人研究员
+
+      2023年9月19日（星期二）下午4:00-5:30
+
+      北京大学综合科研二号楼B117室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      神经细胞脂滴研究
+
+      黄勋
+
+      主讲人研究员
+
+      2023年9月19日（星期二）下午4:00-5:30
+
+      北京大学综合科研二号楼B117室'
+  - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/b898bc6345d24276ad4eacf447df222e.htm
     info: '讲座主题
 
@@ -1200,32 +1226,6 @@
       主讲人教授
 
       2023年5月11日(星期四)上午10:00--11:30
-
-      北京大学综合科研二号楼 B117 室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/7752c6ce225842b09624dbe38b2f5482.htm
-    info: '讲座主题
-
-      葡萄糖控制代谢平衡、细胞命运与寿命
-
-      林圣彩
-
-      主讲人院士
-
-      2023年5月9日(星期二)下午 4:00--5:00
-
-      北京大学综合科研二号楼 B117 室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      葡萄糖控制代谢平衡、细胞命运与寿命
-
-      林圣彩
-
-      主讲人院士
-
-      2023年5月9日(星期二)下午 4:00--5:00
 
       北京大学综合科研二号楼 B117 室'
   page_title: 北京大学未来技术学院
@@ -1502,6 +1502,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/152728.htm
+    info: '2023-09-14
+
+      【无机化学论坛】Synthetic Porphyrinoidic Chemistry'
+    person: ''
+    time: ''
+    title: 【无机化学论坛】Synthetic Porphyrinoidic Chemistry
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/152696.htm
     info: '2023-09-12
 
@@ -1592,65 +1600,9 @@
     time: ''
     title: 【北京大学物理化学学术报告】Interfacial Adsorption and Solution Stability of Monoclonal
       Antibody Studied by Neutron Reflection and SANS
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152126.htm
-    info: '2023-08-15
-
-      【Soft Matter Lecture 137】The Rise and Promise of Artificial Molecular Machines
-      in Polymer Chemistry and Materials Science'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture 137】The Rise and Promise of Artificial Molecular Machines
-      in Polymer Chemistry and Materials Science
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152547.htm
-    info: '14
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
-      Approximation
-
-      时间：2023-09-14 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-    person: ''
-    time: ''
-    title: '14
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
-      Approximation
-
-      时间：2023-09-14 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/152607.htm
-    info: '14
-
-      Sep
-
-      Introduction to the half wave Schrödinger equation
-
-      时间：2023-09-14 15:00-16:00
-
-      报告人: 陈熙（Paris-Saclay University）'
-    person: ''
-    time: ''
-    title: '14
-
-      Sep
-
-      Introduction to the half wave Schrödinger equation
-
-      时间：2023-09-14 15:00-16:00
-
-      报告人: 陈熙（Paris-Saclay University）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/152574.htm
     info: '15
@@ -1761,6 +1713,52 @@
       时间：2023-09-25 16:00-17:00
 
       报告人: Xiaoyutao Luo (Morningside Center of Mathematics, Chinese Academy of Sciences)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/152607.htm
+    info: '14
+
+      Sep
+
+      Introduction to the half wave Schrödinger equation
+
+      时间：2023-09-14 15:00-16:00
+
+      报告人: 陈熙（Paris-Saclay University）'
+    person: ''
+    time: ''
+    title: '14
+
+      Sep
+
+      Introduction to the half wave Schrödinger equation
+
+      时间：2023-09-14 15:00-16:00
+
+      报告人: 陈熙（Paris-Saclay University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152547.htm
+    info: '14
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
+      Approximation
+
+      时间：2023-09-14 16:00-17:00
+
+      报告人: Yuze Han (PKU)'
+    person: ''
+    time: ''
+    title: '14
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
+      Approximation
+
+      时间：2023-09-14 16:00-17:00
+
+      报告人: Yuze Han (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/152613.htm
     info: '13
@@ -2000,6 +1998,223 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/1425
+    info: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+    person: ''
+    time: ''
+    title: '06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/1787.htm
+    info: '21
+
+      Sep
+
+      金属-CeO2催化剂的构效分析与制备革新
+
+      报告人：严涵 博士 特任副研究员
+
+      时间：2023年9月21号（星期四）16:00-17:30'
+    person: ''
+    time: ''
+    title: 金属-CeO2催化剂的构效分析与制备革新
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/1783.htm
     info: '8
 
@@ -2125,20 +2340,6 @@
     person: ''
     time: ''
     title: Publishing in Wiley Materials Science Journals
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1686.htm
-    info: '14
-
-      Jun
-
-      丰产金属氢中间体化学：结构、性质与催化
-
-      报告人：刘强 副教授，清华大学
-
-      时 间：2023年6月14日（星期三）16:30-18:00'
-    person: ''
-    time: ''
-    title: 丰产金属氢中间体化学：结构、性质与催化
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2162,7 +2363,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, in 5 days
+      2023-09-19 10:00, in 4 days
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -2200,7 +2401,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, in 5 days
+      2023-09-19 10:00, in 4 days
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -2242,7 +2443,92 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '美国物理学联合会《科学之光》（AIP Scilight）专访报道：上海交通大学Nana Liu 教授团队关于非破坏性地探测量子系统的热力学最新研究成果
+    info: '金石和Nana Liu 教授关于偏微分方程量子计算的工作受邀Journal of Computational Physics 月度演讲
+
+      近日，上海交通大学金石（自然科学研究院和数学科学学院教授）和Nana Liu（自然科学研究院和密西根学院副教授）应邀于2023年11月，在Journal
+      of Computational Physics月度演讲中进行两次联合演讲，介绍他们在偏微分方程量子模拟方面的最新研究工作。Journal of Computational
+      Physics（JCP）是科学计算和应用数学领域最具影响力的期刊之一，每年发表600多篇文章。2021年秋季启动了JCP月度演讲。入选的论文是由编委遴选过去五年内在该杂志发表的极具创新性或近年来产生过重要影响的（being
+      particularly innovative and/or having had significant recent impact）论文。该讲座系列通常每月一次，而这次是该杂志首次邀请两位演讲者在一个月内就同一个主题连续进行两次讲座。金石教授曾于2021年11月就他与合作者的多体粒子系统和分子动力学的Random
+      Batch 快速计算方法的论文发表了一次演讲。 他是自该系列推出以来唯一在JCP上发表过两次演讲的作者，上海交通大学也是世界上唯一一个有过三次演讲记录的学术机构。量子计算机根据量子力学原理设计，
+      适合求解量子力学的基本方程--薛定谔方程， 相应的算法被成为量子模拟。其它在科学和工程中有重要应用的偏微分方程（PDE）则不适合量子模拟。另一方面，由于高维和大规模PDE的经典计算方法有维度灾难，其计算成本随着PDE的维度呈指数级增长，因此人们希望量子计算能克服这些计算瓶颈。而要在量子器件上模拟偏微分方程，寻找将其它偏微分方程映射到薛定谔方程上的好方法至关重要。在与他们的博士后余越的工作中，他们提出了一种称为“薛定谔化”（Schrodingerization）的方法，通过引进一个简单的变换，
+      在高一维空间将任何线性偏微分方程转化为薛定谔方程的形式, 使得其适用于量子模拟。 这种方法基于连续变量，简单且普适，可以在有限维和无限维量子系统中应用。前者对应用量子比特(qubits)，后者对应于量子模(qumodes)。量子比特和量子模都可以通过光量子系统和超导体等物理平台来实现。基于连续变量的计算框架对于偏微分方程来说可能更自然，它与大多数计算方法不同，这里不需要首先离散偏微分方程，可以将D维线性PDE直接映射到（D+1）个量子模的量子系统上，并可以对（D+1）个量子模采用量子模拟。他们用薛定谔化的方法构造了对Liouville
+      方程, 热传导方程, Fokker-Planck 方程， Maxwell’s 方程和金融领域的 Black-Scholes方程的量子模拟方法。该方法还可以处理边界——包括物理和人工边界——以及界面问题，
+      也可以扩展到具有不确定性的线性偏微分方程，以减轻经典不确定性量化算法中存在的维数灾难。非线性偏微分方程一直是物理、化学、工程、生物学和金融等领域一些最重要问题建模的核心。然而，用量子模拟来模拟这些问题是困难的，因为量子力学本身基本上是线性的。目前求解非线性偏微分方程的量子算法均基于对这些方程做线性逼近。
+      这样会失去方程解的许多重要的非线性特征。利用水平集的方法，金石和Nana Liu将Hamilton-Jacobi和标量双曲型偏微分方程等非线性偏微分方程精确映射为维数不超过一倍的线性偏微分方程。经典计算方法会随着维度的增加计算量指数级地增加，但量子算法则避免了这样的维数灾难，从而使构造这些非线性问题的量子算法成为可能。这些方法如何扩展到更广泛的偏微分方程是未来工作的一个重要方向。团队的工作得到了国家自然科学基金委员会、上海市科委和上海市教委创新计划的支持。相关论文：
+      1.Quantum simulation of partial differential equations: applications and detailed
+      analysis, Shi Jin, Nana Liu, Yue Yu, Physical Review A, Vol 108, 032603, 2023
+      2.Time complexity analysis of quantum algorithms via linear representations
+      for nonlinear ordinary and partial differential equations, Shi Jin, Nana Liu,
+      Yue Yu, Journal of Computational Physics, Vol 487, 112149, 2023Journal of Computational
+      Physics (JCP) is one of the most influential journals in scientific computing
+      and applied mathematics, which publishes more than 600 articles each year. The
+      JCP Seminar Series, launched in Fall 2021, is held once a month, based on articles
+      published in JCP in recent years that are considered by the editorial board
+      as “particularly innovative and/or having had significant recent impact”. Prof.
+      Shi Jin and Prof. Nana Liu have been invited to give a joint series of two talks
+      on their recent body of work on quantum simulation for partial differential
+      equations (PDEs). This seminar series usually holds one lecture per month, and
+      this is the first time the journal invites two speakers to give two consecutive
+      lectures in one topic. Prof. Jin gave a lecture in this seminar serious in November
+      2021 on his work on Random Batch methods for interacting particle systems and
+      molecular dynamics. He is is the only author of JCP who has given two lectures
+      in this seminar series since its launch, and Shanghai Jiao Tong University is
+      the only institute in the world with more than two lectures given. Quantum simulation
+      — using a quantum system to simulate dynamics of another system — has been chiefly
+      of interest for the simulation of one PDE in particular: Schrodinger’s equations.
+      For other PDEs important in science and engineering, they are not suitable for
+      quantum simulation. On the other hand, classical computational methods for other
+      high-dimensional and large-scale PDEs often suffer from the curse-of-dimensionality,
+      where the cost scales exponentially in the dimension of the PDE, which a quantum
+      treatment might in certain cases may be able to mitigate. To enable the simulation
+      of PDEs on quantum devices in the first place, it is crucial to first develop
+      good methods for mapping other PDEs onto Schrodinger’s equations. In their work,
+      Prof. Jin and Prof. Liu, jointly with their postdoc Yue Yu, proposed a method
+      called Schrodingerisation, which is a simple and generic method for transforming
+      any linear partial differential equation into a Schrodinger-like form by the
+      inclusion of one extra spatial dimension. This formalism is flexible and simple
+      enough to be adopted on both finite dimensional and infinite-dimensional quantum
+      systems. The former are called qubits and the latter are called qumodes. Both
+      qubits and qumodes can be realized by physical platforms such as quantum photonic
+      systems and superconductors. Computation with these physical systems are the
+      quantum versions of classical bit-based and classical analogue computation respectively.
+      This continuous representation of information in the latter case can be more
+      natural for PDEs since, unlike most computational methods, here one does not
+      need to discretise the PDE first. In this way, one can directly map a D-dimensional
+      linear PDE onto a (D + 1)-qumode quantum system where quantum simulation on
+      (D + 1) qumodes can be used. In terms of spatial requirement, this is much more
+      efficient compared to the number of terms needed by a classical computer to
+      even describe the total number of lattice points in the discretised PDE, where
+      is the number of lattice points per spatial dimension. Linear PDEs like Liouville
+      equation, heat equation, Fokker-Planck, Maxwell’s equations and Black-Scholes
+      have been investigated. The method can also deal with boundary--both physical
+      and artificial boundary conditions--and interface problems. The quantum approach
+      can also be extended to consider linear PDEs with uncertainties, which can alleviate
+      the curse of dimensionality present in classical algorithms. Nonlinear PDEs
+      have been central to modelling of some of the most significant problems in physics,
+      chemistry, engineering, biology and finance. However, simulating these with
+      quantum simulation has proved difficult because quantum mechanics itself is
+      fundamentally linear and it is difficult to model nonlinear problems in a linear
+      way without significant approximations that no longer capture truly nonlinear
+      behaviour. By leveraging the concept of level sets, this team mapped nonlinear
+      PDEs like Hamilton-Jacobi and scalar hyperbolic PDEs exactly into linear transport
+      PDEs in at most twice the dimension. While classical methods would suffer from
+      the curse of dimensionality with this increase in dimension, a quantum algorithm
+      would not, thus making quantum algorithms for these nonlinear problems more
+      efficient. Extension to wider classes of PDEs is an important direction of future
+      work. The work of Prof. Shi Jin and Prof. Nana Liu’s team is sponsored by National
+      Natural Science Foundation of China, the Innovation Program of Shanghai Municipal
+      Education Commission, the Shanghai Science and Technology Program of Shanghai
+      and the Fundamental Research Funds for the Central Universities. Source: 1.Quantum
+      simulation of partial differential equations: applications and detailed analysis,
+      Shi Jin, Nana Liu, Yue Yu, Physical Review A, Vol 108, 032603, 2023 2.Time complexity
+      analysis of quantum algorithms via linear representations for nonlinear ordinary
+      and partial differential equations, Shi Jin, Nana Liu, Yue Yu, Journal of Computational
+      Physics, Vol 487, 112149, 2023
+
+      2023-09-14
+
+      美国物理学联合会《科学之光》（AIP Scilight）专访报道：上海交通大学Nana Liu 教授团队关于非破坏性地探测量子系统的热力学最新研究成果
 
       近期，上海交通大学自然科学研究院和密西根学院副教授Nana Liu及其合作者团队发表题为“Nondestructively probing the thermodynamics
       of quantum systems with qumodes”的研究论文。该研究成果被美国物理学联合会出版社（AIP）杂志AVS Quantum Science作为编委推荐（Editor’s
@@ -2354,57 +2640,95 @@
       CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
       Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。相关报道特奖风采｜李松挺：与学生一同“品茶”
 
-      2023-04-25
-
-      同“新”合力--自然科学研究院再添新力量
-
-      为加强科研力量，拓展数学、物理等学科领域的研究深度，上海交通大学自然科学研究院一直以高标准、全球视野招揽杰出青年人才。经过层层筛选，我们很荣幸地宣布，曹语教授于2023年4月加入我院。作为来自世界一流大学和科研机构的优秀青年学者，曹教授拥有丰富的学术经验和深厚的学科造诣。他的加入将为研究院注入新鲜血液，推动我们的科学研究更上一层楼，为学术界和社会做出更多突破性贡献。曹语：长聘教轨副教授上海交通大学自然科学研究院/数学科学学院最近迎来了一位新的长聘教轨副教授——曹语。曹教授于2020年毕业于杜克大学，获得哲学博士学位（数学），之后在纽约大学科朗数学研究所担任了两年的博士后(Courant
-      Instructor)。曹教授还曾在杜克大学数学系和香港城市大学数据科学学院担任过短期科研工作。他的研究方向是动力系统的分析和算法，包括量子动力系统的分析和算法、经典动力系统与深度学习的结合等。他的研究成果已发表在数学、物理类期刊，包括J.
-      Comput. Phys.、J. Math. Phys.、Quantum等，还被NeurIPS 2022收录。对于为什么选择动力系统这一研究方向，曹教授表示，动力系统可以被用来描述、刻画众多科学领域里的模型的变化。从大到天体的运行变化（经典系统），到小到电子的轨迹（量子系统），都可以通过动力系统来描述。对他来说，动力系统最有趣的能力在于用简洁的数学语言即可描述几乎所有事物的变化。当前的一个新挑战是将传统的动力系统分析和算法与新兴重要学科，例如深度学习和量子计算，结合起来。在深度学习领域，基于动力系统的生成模型（如Neural
-      ODE、扩散模型等）已经取得了瞩目的成就。从数学的角度，进一步理解相关动力系统以及如何更好地将已有的传统计算方法与生成模型结合，将有助于深入理解和提高生成模型的效能。随着量子信息的发展，如何更好地利用量子计算的优势，在经典动力系统的模拟中也是一个亟待系统研究的数学问题。上海交通大学自然科学研究院/数学科学学院表示，曹教授的加入将极大地丰富学院的科研团队和学术氛围，未来将会有更多的科研成果在动力系统领域得以实现。In
-      order to enhance our research capabilities and expand the depth of research
-      in fields such as mathematics and physics, the Institute of Natural Sciences
-      of Shanghai Jiao Tong University has been actively recruiting outstanding young
-      talents with high standards and a global perspective. After a rigorous selection
-      process, we are pleased to announce that Dr. Cao Yu will be joining our institute
-      in April 2023. As an excellent young scholar from a world-class university and
-      research institution, Dr. Cao has rich academic experience and profound expertise
-      in her field. Her addition will inject new vitality into our institute, propel
-      our scientific research to new heights, and make more breakthrough contributions
-      to academia and society.Cao Yu obtained a Ph.D. in Philosophy (Mathematics)
-      from Duke University in 2020. He has worked as a Courant Instructor for two
-      years at the Courant Institute of Mathematical Sciences at New York University,
-      as well as having short-term research experience at the Department of Mathematics
-      at Duke University and the School of Data Science at City University of Hong
-      Kong. In April 2023, he joined the the Institute of Natural Sciences and School
-      of Mathematical Sciences of Shanghai Jiao Tong University.His research focuses
-      on the analysis and algorithms of dynamical systems, including the analysis
-      and algorithms of quantum dynamical systems and the combination of classical
-      dynamical systems and deep learning. His previous work has been published in
-      mathematical and physical journals, including J. Comput. Phys., J. Math. Phys.,
-      and Quantum, and has been included in NeurIPS 2022.Cao chose this research direction
-      because dynamical systems can be used to describe and characterize the changes
-      in models in many scientific fields. For example, dynamical systems can be used
-      to describe the changes in the movements of celestial bodies (classical systems)
-      or the trajectories of electrons (quantum systems), among other things. For
-      him, the most interesting ability of dynamical systems is the ability to describe
-      the changes in almost everything with concise mathematical language. The current
-      new challenge is to combine traditional dynamical systems analysis and algorithms
-      with emerging important disciplines such as deep learning and quantum computing.
-      In the field of deep learning, generative models based on dynamical systems,
-      such as Neural ODEs and diffusion models, have achieved remarkable achievements.
-      From a mathematical perspective, further understanding of relevant dynamical
-      systems and how to better combine existing traditional computational methods
-      with generative models will help to deepen our understanding and improve the
-      effectiveness of generative models. With the development of quantum information,
-      how to better utilize the advantages of quantum computing in the simulation
-      of classical dynamical systems is also an urgent mathematical problem that requires
-      systematic research.
-
-      2023-04-18'
+      2023-04-25'
     person: ''
     time: ''
-    title: '美国物理学联合会《科学之光》（AIP Scilight）专访报道：上海交通大学Nana Liu 教授团队关于非破坏性地探测量子系统的热力学最新研究成果
+    title: '金石和Nana Liu 教授关于偏微分方程量子计算的工作受邀Journal of Computational Physics 月度演讲
+
+      近日，上海交通大学金石（自然科学研究院和数学科学学院教授）和Nana Liu（自然科学研究院和密西根学院副教授）应邀于2023年11月，在Journal
+      of Computational Physics月度演讲中进行两次联合演讲，介绍他们在偏微分方程量子模拟方面的最新研究工作。Journal of Computational
+      Physics（JCP）是科学计算和应用数学领域最具影响力的期刊之一，每年发表600多篇文章。2021年秋季启动了JCP月度演讲。入选的论文是由编委遴选过去五年内在该杂志发表的极具创新性或近年来产生过重要影响的（being
+      particularly innovative and/or having had significant recent impact）论文。该讲座系列通常每月一次，而这次是该杂志首次邀请两位演讲者在一个月内就同一个主题连续进行两次讲座。金石教授曾于2021年11月就他与合作者的多体粒子系统和分子动力学的Random
+      Batch 快速计算方法的论文发表了一次演讲。 他是自该系列推出以来唯一在JCP上发表过两次演讲的作者，上海交通大学也是世界上唯一一个有过三次演讲记录的学术机构。量子计算机根据量子力学原理设计，
+      适合求解量子力学的基本方程--薛定谔方程， 相应的算法被成为量子模拟。其它在科学和工程中有重要应用的偏微分方程（PDE）则不适合量子模拟。另一方面，由于高维和大规模PDE的经典计算方法有维度灾难，其计算成本随着PDE的维度呈指数级增长，因此人们希望量子计算能克服这些计算瓶颈。而要在量子器件上模拟偏微分方程，寻找将其它偏微分方程映射到薛定谔方程上的好方法至关重要。在与他们的博士后余越的工作中，他们提出了一种称为“薛定谔化”（Schrodingerization）的方法，通过引进一个简单的变换，
+      在高一维空间将任何线性偏微分方程转化为薛定谔方程的形式, 使得其适用于量子模拟。 这种方法基于连续变量，简单且普适，可以在有限维和无限维量子系统中应用。前者对应用量子比特(qubits)，后者对应于量子模(qumodes)。量子比特和量子模都可以通过光量子系统和超导体等物理平台来实现。基于连续变量的计算框架对于偏微分方程来说可能更自然，它与大多数计算方法不同，这里不需要首先离散偏微分方程，可以将D维线性PDE直接映射到（D+1）个量子模的量子系统上，并可以对（D+1）个量子模采用量子模拟。他们用薛定谔化的方法构造了对Liouville
+      方程, 热传导方程, Fokker-Planck 方程， Maxwell’s 方程和金融领域的 Black-Scholes方程的量子模拟方法。该方法还可以处理边界——包括物理和人工边界——以及界面问题，
+      也可以扩展到具有不确定性的线性偏微分方程，以减轻经典不确定性量化算法中存在的维数灾难。非线性偏微分方程一直是物理、化学、工程、生物学和金融等领域一些最重要问题建模的核心。然而，用量子模拟来模拟这些问题是困难的，因为量子力学本身基本上是线性的。目前求解非线性偏微分方程的量子算法均基于对这些方程做线性逼近。
+      这样会失去方程解的许多重要的非线性特征。利用水平集的方法，金石和Nana Liu将Hamilton-Jacobi和标量双曲型偏微分方程等非线性偏微分方程精确映射为维数不超过一倍的线性偏微分方程。经典计算方法会随着维度的增加计算量指数级地增加，但量子算法则避免了这样的维数灾难，从而使构造这些非线性问题的量子算法成为可能。这些方法如何扩展到更广泛的偏微分方程是未来工作的一个重要方向。团队的工作得到了国家自然科学基金委员会、上海市科委和上海市教委创新计划的支持。相关论文：
+      1.Quantum simulation of partial differential equations: applications and detailed
+      analysis, Shi Jin, Nana Liu, Yue Yu, Physical Review A, Vol 108, 032603, 2023
+      2.Time complexity analysis of quantum algorithms via linear representations
+      for nonlinear ordinary and partial differential equations, Shi Jin, Nana Liu,
+      Yue Yu, Journal of Computational Physics, Vol 487, 112149, 2023Journal of Computational
+      Physics (JCP) is one of the most influential journals in scientific computing
+      and applied mathematics, which publishes more than 600 articles each year. The
+      JCP Seminar Series, launched in Fall 2021, is held once a month, based on articles
+      published in JCP in recent years that are considered by the editorial board
+      as “particularly innovative and/or having had significant recent impact”. Prof.
+      Shi Jin and Prof. Nana Liu have been invited to give a joint series of two talks
+      on their recent body of work on quantum simulation for partial differential
+      equations (PDEs). This seminar series usually holds one lecture per month, and
+      this is the first time the journal invites two speakers to give two consecutive
+      lectures in one topic. Prof. Jin gave a lecture in this seminar serious in November
+      2021 on his work on Random Batch methods for interacting particle systems and
+      molecular dynamics. He is is the only author of JCP who has given two lectures
+      in this seminar series since its launch, and Shanghai Jiao Tong University is
+      the only institute in the world with more than two lectures given. Quantum simulation
+      — using a quantum system to simulate dynamics of another system — has been chiefly
+      of interest for the simulation of one PDE in particular: Schrodinger’s equations.
+      For other PDEs important in science and engineering, they are not suitable for
+      quantum simulation. On the other hand, classical computational methods for other
+      high-dimensional and large-scale PDEs often suffer from the curse-of-dimensionality,
+      where the cost scales exponentially in the dimension of the PDE, which a quantum
+      treatment might in certain cases may be able to mitigate. To enable the simulation
+      of PDEs on quantum devices in the first place, it is crucial to first develop
+      good methods for mapping other PDEs onto Schrodinger’s equations. In their work,
+      Prof. Jin and Prof. Liu, jointly with their postdoc Yue Yu, proposed a method
+      called Schrodingerisation, which is a simple and generic method for transforming
+      any linear partial differential equation into a Schrodinger-like form by the
+      inclusion of one extra spatial dimension. This formalism is flexible and simple
+      enough to be adopted on both finite dimensional and infinite-dimensional quantum
+      systems. The former are called qubits and the latter are called qumodes. Both
+      qubits and qumodes can be realized by physical platforms such as quantum photonic
+      systems and superconductors. Computation with these physical systems are the
+      quantum versions of classical bit-based and classical analogue computation respectively.
+      This continuous representation of information in the latter case can be more
+      natural for PDEs since, unlike most computational methods, here one does not
+      need to discretise the PDE first. In this way, one can directly map a D-dimensional
+      linear PDE onto a (D + 1)-qumode quantum system where quantum simulation on
+      (D + 1) qumodes can be used. In terms of spatial requirement, this is much more
+      efficient compared to the number of terms needed by a classical computer to
+      even describe the total number of lattice points in the discretised PDE, where
+      is the number of lattice points per spatial dimension. Linear PDEs like Liouville
+      equation, heat equation, Fokker-Planck, Maxwell’s equations and Black-Scholes
+      have been investigated. The method can also deal with boundary--both physical
+      and artificial boundary conditions--and interface problems. The quantum approach
+      can also be extended to consider linear PDEs with uncertainties, which can alleviate
+      the curse of dimensionality present in classical algorithms. Nonlinear PDEs
+      have been central to modelling of some of the most significant problems in physics,
+      chemistry, engineering, biology and finance. However, simulating these with
+      quantum simulation has proved difficult because quantum mechanics itself is
+      fundamentally linear and it is difficult to model nonlinear problems in a linear
+      way without significant approximations that no longer capture truly nonlinear
+      behaviour. By leveraging the concept of level sets, this team mapped nonlinear
+      PDEs like Hamilton-Jacobi and scalar hyperbolic PDEs exactly into linear transport
+      PDEs in at most twice the dimension. While classical methods would suffer from
+      the curse of dimensionality with this increase in dimension, a quantum algorithm
+      would not, thus making quantum algorithms for these nonlinear problems more
+      efficient. Extension to wider classes of PDEs is an important direction of future
+      work. The work of Prof. Shi Jin and Prof. Nana Liu’s team is sponsored by National
+      Natural Science Foundation of China, the Innovation Program of Shanghai Municipal
+      Education Commission, the Shanghai Science and Technology Program of Shanghai
+      and the Fundamental Research Funds for the Central Universities. Source: 1.Quantum
+      simulation of partial differential equations: applications and detailed analysis,
+      Shi Jin, Nana Liu, Yue Yu, Physical Review A, Vol 108, 032603, 2023 2.Time complexity
+      analysis of quantum algorithms via linear representations for nonlinear ordinary
+      and partial differential equations, Shi Jin, Nana Liu, Yue Yu, Journal of Computational
+      Physics, Vol 487, 112149, 2023
+
+      2023-09-14
+
+      美国物理学联合会《科学之光》（AIP Scilight）专访报道：上海交通大学Nana Liu 教授团队关于非破坏性地探测量子系统的热力学最新研究成果
 
       近期，上海交通大学自然科学研究院和密西根学院副教授Nana Liu及其合作者团队发表题为“Nondestructively probing the thermodynamics
       of quantum systems with qumodes”的研究论文。该研究成果被美国物理学联合会出版社（AIP）杂志AVS Quantum Science作为编委推荐（Editor’s
@@ -2516,54 +2840,7 @@
       CPAM, Cerebral Cortex, PLOS Computational Biology等国际期刊上。科研工作曾多次被国家自然科学基金委科学传播中心等遴选为重要的研究成果报道，被计算生物学权威期刊PLoS
       Computational Biology 选为亮点文章，并被神经科学权威期刊Cerebral Cortex选为封面文章。主持国家自然科学基金面上项目和青年项目，以及临港国家实验室“求索杰出青年”项目。入选国家级青年人才计划，上海市青年科技英才扬帆计划和上海市晨光计划。相关报道特奖风采｜李松挺：与学生一同“品茶”
 
-      2023-04-25
-
-      同“新”合力--自然科学研究院再添新力量
-
-      为加强科研力量，拓展数学、物理等学科领域的研究深度，上海交通大学自然科学研究院一直以高标准、全球视野招揽杰出青年人才。经过层层筛选，我们很荣幸地宣布，曹语教授于2023年4月加入我院。作为来自世界一流大学和科研机构的优秀青年学者，曹教授拥有丰富的学术经验和深厚的学科造诣。他的加入将为研究院注入新鲜血液，推动我们的科学研究更上一层楼，为学术界和社会做出更多突破性贡献。曹语：长聘教轨副教授上海交通大学自然科学研究院/数学科学学院最近迎来了一位新的长聘教轨副教授——曹语。曹教授于2020年毕业于杜克大学，获得哲学博士学位（数学），之后在纽约大学科朗数学研究所担任了两年的博士后(Courant
-      Instructor)。曹教授还曾在杜克大学数学系和香港城市大学数据科学学院担任过短期科研工作。他的研究方向是动力系统的分析和算法，包括量子动力系统的分析和算法、经典动力系统与深度学习的结合等。他的研究成果已发表在数学、物理类期刊，包括J.
-      Comput. Phys.、J. Math. Phys.、Quantum等，还被NeurIPS 2022收录。对于为什么选择动力系统这一研究方向，曹教授表示，动力系统可以被用来描述、刻画众多科学领域里的模型的变化。从大到天体的运行变化（经典系统），到小到电子的轨迹（量子系统），都可以通过动力系统来描述。对他来说，动力系统最有趣的能力在于用简洁的数学语言即可描述几乎所有事物的变化。当前的一个新挑战是将传统的动力系统分析和算法与新兴重要学科，例如深度学习和量子计算，结合起来。在深度学习领域，基于动力系统的生成模型（如Neural
-      ODE、扩散模型等）已经取得了瞩目的成就。从数学的角度，进一步理解相关动力系统以及如何更好地将已有的传统计算方法与生成模型结合，将有助于深入理解和提高生成模型的效能。随着量子信息的发展，如何更好地利用量子计算的优势，在经典动力系统的模拟中也是一个亟待系统研究的数学问题。上海交通大学自然科学研究院/数学科学学院表示，曹教授的加入将极大地丰富学院的科研团队和学术氛围，未来将会有更多的科研成果在动力系统领域得以实现。In
-      order to enhance our research capabilities and expand the depth of research
-      in fields such as mathematics and physics, the Institute of Natural Sciences
-      of Shanghai Jiao Tong University has been actively recruiting outstanding young
-      talents with high standards and a global perspective. After a rigorous selection
-      process, we are pleased to announce that Dr. Cao Yu will be joining our institute
-      in April 2023. As an excellent young scholar from a world-class university and
-      research institution, Dr. Cao has rich academic experience and profound expertise
-      in her field. Her addition will inject new vitality into our institute, propel
-      our scientific research to new heights, and make more breakthrough contributions
-      to academia and society.Cao Yu obtained a Ph.D. in Philosophy (Mathematics)
-      from Duke University in 2020. He has worked as a Courant Instructor for two
-      years at the Courant Institute of Mathematical Sciences at New York University,
-      as well as having short-term research experience at the Department of Mathematics
-      at Duke University and the School of Data Science at City University of Hong
-      Kong. In April 2023, he joined the the Institute of Natural Sciences and School
-      of Mathematical Sciences of Shanghai Jiao Tong University.His research focuses
-      on the analysis and algorithms of dynamical systems, including the analysis
-      and algorithms of quantum dynamical systems and the combination of classical
-      dynamical systems and deep learning. His previous work has been published in
-      mathematical and physical journals, including J. Comput. Phys., J. Math. Phys.,
-      and Quantum, and has been included in NeurIPS 2022.Cao chose this research direction
-      because dynamical systems can be used to describe and characterize the changes
-      in models in many scientific fields. For example, dynamical systems can be used
-      to describe the changes in the movements of celestial bodies (classical systems)
-      or the trajectories of electrons (quantum systems), among other things. For
-      him, the most interesting ability of dynamical systems is the ability to describe
-      the changes in almost everything with concise mathematical language. The current
-      new challenge is to combine traditional dynamical systems analysis and algorithms
-      with emerging important disciplines such as deep learning and quantum computing.
-      In the field of deep learning, generative models based on dynamical systems,
-      such as Neural ODEs and diffusion models, have achieved remarkable achievements.
-      From a mathematical perspective, further understanding of relevant dynamical
-      systems and how to better combine existing traditional computational methods
-      with generative models will help to deepen our understanding and improve the
-      effectiveness of generative models. With the development of quantum information,
-      how to better utilize the advantages of quantum computing in the simulation
-      of classical dynamical systems is also an urgent mathematical problem that requires
-      systematic research.
-
-      2023-04-18'
+      2023-04-25'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
@@ -2788,6 +3065,20 @@
 
       【霞光讲坛】重大突发公共卫生事件中的化学测量学'
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3610.html
+    info: '14
+
+      2023-09
+
+      上海交通大学化学化工学院/变革性分子前沿科学中心'
+    person: ''
+    time: ''
+    title: '14
+
+      2023-09
+
+      上海交通大学化学化工学院/变革性分子前沿科学中心'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3600.html
     info: '14
 
@@ -2899,23 +3190,49 @@
       2023-09
 
       【学术报告】Supramolecular two-dimensional materials for biological applications'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3582.html
-    info: '06
-
-      2023-09
-
-      【学术报告】Inside Nature journals'
-    person: ''
-    time: ''
-    title: '06
-
-      2023-09
-
-      【学术报告】Inside Nature journals'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFpKF2
+    info: '李起峰
+
+      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
+      NUMBERS
+
+      2023-09-24
+
+      13:30 — 14:30'
+    person: ''
+    time: ''
+    title: '李起峰
+
+      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
+      NUMBERS
+
+      2023-09-24
+
+      13:30 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFtKF2
+    info: '李起峰
+
+      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
+      NUMBERS
+
+      2023-09-24
+
+      13:30 — 14:30'
+    person: ''
+    time: ''
+    title: '李起峰
+
+      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
+      NUMBERS
+
+      2023-09-24
+
+      13:30 — 14:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeHtKF2
     info: '贾甲
@@ -2935,7 +3252,7 @@
 
       15:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpiHpKF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFyqF2
     info: 'PROF. WILDERICH TUSCHMANN
 
       MODULI SPACES OF RIEMANNIAN METRICS
@@ -3080,47 +3397,17 @@
       2023-09-12
 
       19:00 — 20:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpiFpKF2
-    info: 'VALERY ROMANOVSKI
-
-      COMPUTATION OF NORMAL FORMS OF ODES FOR SYSTEMS WITH MANY PARAMETERS
-
-      2023-09-10
-
-      14:30 — 15:30'
-    person: ''
-    time: ''
-    title: 'VALERY ROMANOVSKI
-
-      COMPUTATION OF NORMAL FORMS OF ODES FOR SYSTEMS WITH MANY PARAMETERS
-
-      2023-09-10
-
-      14:30 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpiFtKF2
-    info: 'BRIGITA FERCEC
-
-      A BLOW-UP METHOD FOR PROVING INTEGRABILITY AND LINEARIZABILITY OF SOME PLANAR
-      POLYNOMIAL SYSTEMS OF DIFFERENTIAL EQUATIONS
-
-      2023-09-10
-
-      15:30 — 16:30'
-    person: ''
-    time: ''
-    title: 'BRIGITA FERCEC
-
-      A BLOW-UP METHOD FOR PROVING INTEGRABILITY AND LINEARIZABILITY OF SOME PLANAR
-      POLYNOMIAL SYSTEMS OF DIFFERENTIAL EQUATIONS
-
-      2023-09-10
-
-      15:30 — 16:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0914/c33485a2801976/page.htm
+    info: '【化学系】启真化学论坛：逯乐慧研究员（中科院长春应化所）
+
+      [2023-09-14]'
+    person: ''
+    time: ''
+    title: 【化学系】启真化学论坛：逯乐慧研究员（中科院长春应化所）
   - address: ''
     href: https://www.zju.edu.cn/2023/0913/c33485a2801492/page.htm
     info: '【数学学院】章志飞教授：Sommerfeld paradoxes and Transit...
@@ -3204,14 +3491,6 @@
     person: ''
     time: ''
     title: 求是海洋学术论坛2023年13期（总29期）——Global Marine Technology Trends, Drivers and Challenges
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0815/c33485a2789707/page.htm
-    info: '【建工学院】安中讲坛第七十六期 ：香港工程科学院院士徐幼...
-
-      [2023-08-15]'
-    person: ''
-    time: ''
-    title: 【建工学院】安中讲坛第七十六期 ：香港工程科学院院士徐幼麟学术报告
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
