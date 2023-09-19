@@ -157,7 +157,7 @@
     person: ''
     time: ''
     title: 哈尔滨工业大学张岩教授学术报告
-  page_title: 学术信息-中南大学计算机学院
+  page_title: 学术信息-null
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
@@ -371,7 +371,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5465001
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5469860
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -692,6 +692,22 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/ab42673917ef4ce58c3ac17d99dcfa08.htm
+    info: '2023.09.19
+
+      肝外mRNA-LNP靶向纳米药物的研发及应用'
+    person: ''
+    time: ''
+    title: 肝外mRNA-LNP靶向纳米药物的研发及应用
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/d7049e82bded4b538c321827d10db44f.htm
+    info: '2023.09.19
+
+      面向临床转化的创新剂型工程'
+    person: ''
+    time: ''
+    title: 面向临床转化的创新剂型工程
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/6c412368f883441dbd660464564c0d88.htm
     info: '2023.09.04
 
@@ -769,22 +785,6 @@
     time: ''
     title: New Synthetic Methods in Carbohydrate Chemistry and Drug Discovery by Targeted
       Protein Degradation
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/433211214d8e4df7acc1f49136239723.htm
-    info: '2023.07.05
-
-      天然产物中的合成生物化学'
-    person: ''
-    time: ''
-    title: 天然产物中的合成生物化学
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/da148e648a7e4bb59ba1cf5722d5d9d8.htm
-    info: '2023.07.05
-
-      Adding More Chemistries to the Genetic Code'
-    person: ''
-    time: ''
-    title: Adding More Chemistries to the Genetic Code
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -941,6 +941,32 @@
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/722a04e1e6ad411bbb9142faecd667cd.htm
+    info: '讲座主题
+
+      RNA功能基因组学新技术及应用
+
+      薛愿超
+
+      主讲人研究员
+
+      2023年9月26日（星期二）下午4:00-5:30
+
+      北京大学综合科研二号楼B117室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      RNA功能基因组学新技术及应用
+
+      薛愿超
+
+      主讲人研究员
+
+      2023年9月26日（星期二）下午4:00-5:30
+
+      北京大学综合科研二号楼B117室'
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/e8df8559f64d42489adafd8afbb87a3b.htm
     info: '讲座主题
@@ -1201,36 +1227,24 @@
       2023年5月16日（星期二）下午4:00-5:00
 
       北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/a8f44d344b9b4e39a138aed7d37e437d.htm
-    info: '讲座主题
-
-      When dying is not the end: necroptosis’s physiolog...
-
-      孙丽明
-
-      主讲人教授
-
-      2023年5月11日(星期四)上午10:00--11:30
-
-      北京大学综合科研二号楼 B117 室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      When dying is not the end: necroptosis’s physiolog...
-
-      孙丽明
-
-      主讲人教授
-
-      2023年5月11日(星期四)上午10:00--11:30
-
-      北京大学综合科研二号楼 B117 室'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/5773.htm
+    info: '19
+
+      2023-09
+
+      信息科学技术学院“知存讲座”（第十期）——信息检索系统中的机器学习实践'
+    person: ''
+    time: ''
+    title: '19
+
+      2023-09
+
+      信息科学技术学院“知存讲座”（第十期）——信息检索系统中的机器学习实践'
+  - address: ''
     href: https://eecs.pku.edu.cn/info/1050/5771.htm
     info: '15
 
@@ -1370,178 +1384,120 @@
       2023-04
 
       信息科学技术学院“知存讲座”（第八期）'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5511.htm
-    info: '03
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
-    person: ''
-    time: ''
-    title: '03
-
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5771.htm
-    info: '15
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16727.html
+    info: '2023.09.15
 
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
+      表观遗传调控机理与作物遗传育种'
     person: ''
     time: ''
-    title: '15
+    title: '2023.09.15
 
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
+      表观遗传调控机理与作物遗传育种'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5683.htm
-    info: '08
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16596.html
+    info: '2023.06.09
 
-      2023-06
-
-      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+      Light and Life：光感受与生命过程调控'
     person: ''
     time: ''
-    title: '08
+    title: '2023.06.09
 
-      2023-06
-
-      信科“E席谈”青年学术沙龙（第十三期）——数字角色的建模与动画'
+      Light and Life：光感受与生命过程调控'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5673.htm
-    info: '05
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16582.html
+    info: '2023.06.02
 
-      2023-06
-
-      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+      Hippo signaling in organ size control and beyond'
     person: ''
     time: ''
-    title: '05
+    title: '2023.06.02
 
-      2023-06
-
-      北京大学显示技术系列讲座第2期——Micro-LED显示技术发展与产业进程'
+      Hippo signaling in organ size control and beyond'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5661.htm
-    info: '31
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16556.html
+    info: '2023.05.26
 
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+      NMDA receptor diversity: from atomic structure to brain function'
     person: ''
     time: ''
-    title: '31
+    title: '2023.05.26
 
-      2023-05
-
-      信息科学技术学院“知存讲座”（第十期）——5.5G若干技术演进方向的思考'
+      NMDA receptor diversity: from atomic structure to brain function'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5656.htm
-    info: '25
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16528.html
+    info: '2023.05.12
 
-      2023-05
-
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+      基因组时代的大豆分子设计育种探索'
     person: ''
     time: ''
-    title: '25
+    title: '2023.05.12
 
-      2023-05
-
-      信科“E席谈”青年学术沙龙（第十二期）——走向通用家用机器人的具身智能之路'
+      基因组时代的大豆分子设计育种探索'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5655.htm
-    info: '10
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16527.html
+    info: '2023.05.10
 
-      2023-05
-
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+      Phase separation in synapse formation and function'
     person: ''
     time: ''
-    title: '10
+    title: '2023.05.10
 
-      2023-05
-
-      信科“E席谈”青年学术沙龙(第十一期)——纳米材料与技术'
+      Phase separation in synapse formation and function'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5579.htm
-    info: '26
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16490.html
+    info: '2023.04.28
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第九期）——AI大模型带来算力基础的改变'
+      Enzymatic DNA Oxidation in the Control of Development and Adaptation'
     person: ''
     time: ''
-    title: '26
+    title: '2023.04.28
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第九期）——AI大模型带来算力基础的改变'
+      Enzymatic DNA Oxidation in the Control of Development and Adaptation'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5562.htm
-    info: '19
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16466.html
+    info: '2023.04.14
 
-      2023-04
-
-      信科“E席谈”青年学术沙龙（第十期）——芯片设计自动化—卡硬件“脖子”的软件技术'
+      哺乳动物第二极体在细胞命运决定和胚胎发育中的作用'
     person: ''
     time: ''
-    title: '19
+    title: '2023.04.14
 
-      2023-04
-
-      信科“E席谈”青年学术沙龙（第十期）——芯片设计自动化—卡硬件“脖子”的软件技术'
+      哺乳动物第二极体在细胞命运决定和胚胎发育中的作用'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5560.htm
-    info: '16
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16452.html
+    info: '2023.03.31
 
-      2023-04
-
-      北京大学显示技术系列讲座第1期——OLED显示技术前沿'
+      从载人深潜到MEER计划'
     person: ''
     time: ''
-    title: '16
+    title: '2023.03.31
 
-      2023-04
-
-      北京大学显示技术系列讲座第1期——OLED显示技术前沿'
+      从载人深潜到MEER计划'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5534.htm
-    info: '12
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16433.html
+    info: '2023.03.17
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第八期）'
+      南海海洋哺乳动物观测及其生态学和演化生物学研究'
     person: ''
     time: ''
-    title: '12
+    title: '2023.03.17
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第八期）'
+      南海海洋哺乳动物观测及其生态学和演化生物学研究'
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5511.htm
-    info: '03
+    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16341.html
+    info: '2022.11.18
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
+      野生动物演化与保护：基因组学与大数据视角'
     person: ''
     time: ''
-    title: '03
+    title: '2022.11.18
 
-      2023-04
-
-      信息科学技术学院“知存讲座”（第七期）'
-  page_title: 讲座信息-北京大学信息科学技术学院
+      野生动物演化与保护：基因组学与大数据视角'
+  page_title: 北京大学生命科学学院
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
@@ -2197,7 +2153,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, in 3 hours
+      2023-09-19 10:00, 21 hours ago
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -2235,7 +2191,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, in 3 hours
+      2023-09-19 10:00, 21 hours ago
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -2885,6 +2841,20 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3623.html
+    info: '21
+
+      2023-09
+
+      【学术报告】基于准金属纳米结构的表面增强拉曼光谱分析研究'
+    person: ''
+    time: ''
+    title: '21
+
+      2023-09
+
+      【学术报告】基于准金属纳米结构的表面增强拉曼光谱分析研究'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3604.html
     info: '15
 
@@ -3010,20 +2980,6 @@
       2023-09
 
       【学术报告】Curved Supramolecular Polymers: Toward Mesoscale Architectures'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3587.html
-    info: '06
-
-      2023-09
-
-      【学术报告】Supramolecular two-dimensional materials for biological applications'
-    person: ''
-    time: ''
-    title: '06
-
-      2023-09
-
-      【学术报告】Supramolecular two-dimensional materials for biological applications'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
