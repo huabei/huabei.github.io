@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12575.htm
+    info: "拟线性抛物型方程离散格式的稳定性\n 2023年09月21日 "
+    person: ''
+    time: ''
+    title: 拟线性抛物型方程离散格式的稳定性
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12554.htm
     info: "k-Entanglement witnesses\n 2023年09月16日 "
     person: ''
@@ -60,12 +66,6 @@
     person: ''
     time: ''
     title: 定量因果分析、信息流以及因果智能预报
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12417.htm
-    info: "Learning to Solve Parametric PDEs\n 2023年07月06日 "
-    person: ''
-    time: ''
-    title: 'Learning to Solve Parametric PDEs '
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -371,7 +371,7 @@
 
       电话：+86-10-62788604传真：+86-10-62788604邮编：100084
 
-      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5474619
+      地址：北京市海淀区清华园生命学院电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 5478025
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1645,6 +1645,80 @@
 
       报告人: Xiaoyutao Luo (Morningside Center of Mathematics, Chinese Academy of Sciences)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152884.htm
+    info: '27
+
+      Sep
+
+      C.F. Gauss and Geodesy
+
+      时间：2023-09-27 14:00-15:00
+
+      报告人: Prof. Dr. Gerald Warnecke (Institut fuer Analysis und Numerik,
+
+      Otto-von-Guericke-Universitaet Magdeburg, Germany)'
+    person: ''
+    time: ''
+    title: '27
+
+      Sep
+
+      C.F. Gauss and Geodesy
+
+      时间：2023-09-27 14:00-15:00
+
+      报告人: Prof. Dr. Gerald Warnecke (Institut fuer Analysis und Numerik,
+
+      Otto-von-Guericke-Universitaet Magdeburg, Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152887.htm
+    info: '27
+
+      Sep
+
+      What is a limit of numerical methods for compressible flows?
+
+      时间：2023-09-27 15:00-16:00
+
+      报告人: Prof. Dr. Maria Lukacova (Institut für Mathematik, Universität Mainz, Germany)'
+    person: ''
+    time: ''
+    title: '27
+
+      Sep
+
+      What is a limit of numerical methods for compressible flows?
+
+      时间：2023-09-27 15:00-16:00
+
+      报告人: Prof. Dr. Maria Lukacova (Institut für Mathematik, Universität Mainz, Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152891.htm
+    info: '27
+
+      Sep
+
+      On a structure preserving numerical method for multi-d hyperbolic conservation
+      laws
+
+      时间：2023-09-27 16:00-17:00
+
+      报告人: Prof. Dr. Christian Klingenberg (Department of Mathematics, Wuerzburg University,
+      Germany)'
+    person: ''
+    time: ''
+    title: '27
+
+      Sep
+
+      On a structure preserving numerical method for multi-d hyperbolic conservation
+      laws
+
+      时间：2023-09-27 16:00-17:00
+
+      报告人: Prof. Dr. Christian Klingenberg (Department of Mathematics, Wuerzburg University,
+      Germany)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/152821.htm
     info: '27
 
@@ -1688,6 +1762,30 @@
       时间：2023-09-25 14:00
 
       报告人: Ioanid Rosu (HEC Paris)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152894.htm
+    info: '28
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十八期）—— Estimation and Inference in Distributional Reinforcement
+      Learning
+
+      时间：2023-09-28 16:00-17:00
+
+      报告人: Liangyu Zhang (PKU)'
+    person: ''
+    time: ''
+    title: '28
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十八期）—— Estimation and Inference in Distributional Reinforcement
+      Learning
+
+      时间：2023-09-28 16:00-17:00
+
+      报告人: Liangyu Zhang (PKU)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/152688.htm
     info: '20
@@ -1754,96 +1852,6 @@
       时间：2023-09-18 16:00-17:00
 
       报告人: Haitian YUE (Shanghai Tech University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/152601.htm
-    info: '15
-
-      Sep
-
-      Semistability of pairs for projective toric varieties
-
-      时间：2023-09-15 09:30-10:30
-
-      报告人: Naoto Yotsutani(Kagawa University)'
-    person: ''
-    time: ''
-    title: '15
-
-      Sep
-
-      Semistability of pairs for projective toric varieties
-
-      时间：2023-09-15 09:30-10:30
-
-      报告人: Naoto Yotsutani(Kagawa University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/152574.htm
-    info: '15
-
-      Sep
-
-      Distinguished Lecture——Positive scalar curvature on manifolds and foliations
-
-      时间：2023-09-15 15:00-16:00
-
-      报告人: 张伟平 院士（南开大学）'
-    person: ''
-    time: ''
-    title: '15
-
-      Sep
-
-      Distinguished Lecture——Positive scalar curvature on manifolds and foliations
-
-      时间：2023-09-15 15:00-16:00
-
-      报告人: 张伟平 院士（南开大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/152607.htm
-    info: '14
-
-      Sep
-
-      Introduction to the half wave Schrödinger equation
-
-      时间：2023-09-14 15:00-16:00
-
-      报告人: 陈熙（Paris-Saclay University）'
-    person: ''
-    time: ''
-    title: '14
-
-      Sep
-
-      Introduction to the half wave Schrödinger equation
-
-      时间：2023-09-14 15:00-16:00
-
-      报告人: 陈熙（Paris-Saclay University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152547.htm
-    info: '14
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
-      Approximation
-
-      时间：2023-09-14 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
-    person: ''
-    time: ''
-    title: '14
-
-      Sep
-
-      机器学习与数据科学博士生系列论坛（第五十七期）—— On the Convergence Rates of Two-Time-Scale Stochastic
-      Approximation
-
-      时间：2023-09-14 16:00-17:00
-
-      报告人: Yuze Han (PKU)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2153,7 +2161,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, 2 days ago
+      2023-09-19 10:00, 3 days ago
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -2191,7 +2199,7 @@
 
       Christian Klingenberg , Wurzburg University
 
-      2023-09-19 10:00, 2 days ago
+      2023-09-19 10:00, 3 days ago
 
       Kernel-based meshless methods for solving PDEs on surfaces
 
@@ -3002,6 +3010,24 @@
 
       13:30 — 14:30'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmGyqF2
+    info: 'SHANG LULU
+
+      SPATIALLY AWARE DIMENSION REDUCTION FOR SPATIAL TRANSCRIPTOMICS
+
+      2023-09-22
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: 'SHANG LULU
+
+      SPATIALLY AWARE DIMENSION REDUCTION FOR SPATIAL TRANSCRIPTOMICS
+
+      2023-09-22
+
+      14:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpeHtKF2
     info: '贾甲
 
@@ -3167,27 +3193,35 @@
       2023-09-12
 
       09:00 — 10:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpiGyqF2
-    info: '曲鹏
-
-      NONUNIQUENESS OF WEAK SOLUTIONS TO COMPRESSIBLE EULER-MAXWELL EQUATIONS
-
-      2023-09-12
-
-      19:00 — 20:00'
-    person: ''
-    time: ''
-    title: '曲鹏
-
-      NONUNIQUENESS OF WEAK SOLUTIONS TO COMPRESSIBLE EULER-MAXWELL EQUATIONS
-
-      2023-09-12
-
-      19:00 — 20:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805325/page.htm
+    info: '物理学院陈晓松学术报告的通知（School of Physics Colloqui...
+
+      [2023-09-21]'
+    person: ''
+    time: ''
+    title: 物理学院陈晓松学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805089/page.htm
+    info: '【双脑中心系列学术报告】Input-output organization of the...
+
+      [2023-09-21]'
+    person: ''
+    time: ''
+    title: 【双脑中心系列学术报告】Input-output organization of the paraventricular nucleus of
+      the thalamus (PVT) and its anatomical position in the behavioral circuits——Dr.
+      Gilbert Kirouac
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805091/page.htm
+    info: '【双脑中心系列学术报告】从神经突触蛋白调控到认知障碍的可...
+
+      [2023-09-19]'
+    person: ''
+    time: ''
+    title: 【双脑中心系列学术报告】从神经突触蛋白调控到认知障碍的可能机理——欧阳雁南
   - address: ''
     href: https://www.zju.edu.cn/2023/0918/c33485a2803407/page.htm
     info: '建筑·艺术·科技 ——跨学科研讨会及可调适建筑装置艺术展
@@ -3254,31 +3288,6 @@
     time: ''
     title: '【基础医学】系统医学研究中心作学术报告——Toward Understanding Irregular Macromolecule Assembly
       at Molecular Resolution '
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0907/c33485a2798481/page.htm
-    info: '【人文与科学论坛第三期】（1）在自然语言推理问题中使用语...
-
-      [2023-09-07]'
-    person: ''
-    time: ''
-    title: 【人文与科学论坛第三期】（1）在自然语言推理问题中使用语言模型获取知识——基于逻辑与大语言模型的交叉视角（2）道义逻辑的打包算子进路——基于语言学与哲学的研究视角及其在人工智能中的应用
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0902/c33485a2796850/page.htm
-    info: '【双脑中心大讲堂】Wiring Specificity of Neural Circuits—...
-
-      [2023-09-02]'
-    person: ''
-    time: ''
-    title: 【双脑中心大讲堂】Wiring Specificity of Neural Circuits——骆利群 院士
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0902/c33485a2796848/page.htm
-    info: '【双脑中心系列学术报告】Functional differentiation and d...
-
-      [2023-09-02]'
-    person: ''
-    time: ''
-    title: 【双脑中心系列学术报告】Functional differentiation and development of cerebellar control
-      of movements——Dr. Martijn Schonewille
   page_title: 学术
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
