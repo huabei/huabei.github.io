@@ -1,546 +1,160 @@
 ﻿- page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8636.htm
-    info: '段思婧博士学术报告
-
-      2023-09-20'
+    href: https://math.csu.edu.cn/info/1736/12575.htm
+    info: "拟线性抛物型方程离散格式的稳定性\n 2023年09月21日 "
     person: ''
     time: ''
-    title: 段思婧博士学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8627.htm
-    info: '前沿信息技术（四期）二---万兴科技：神经网络模型轻量化设计与知识蒸馏的探索与应用
-
-      2023-09-20'
-    person: ''
-    time: ''
-    title: 前沿信息技术（四期）二---万兴科技：神经网络模型轻量化设计与知识蒸馏的探索与应用
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8616.htm
-    info: '前沿信息技术（四期）一---飞腾信息技术有限公司：芯科技•芯征程-我们一起谈谈“芯”
-
-      2023-09-18'
-    person: ''
-    time: ''
-    title: 前沿信息技术（四期）一---飞腾信息技术有限公司：芯科技•芯征程-我们一起谈谈“芯”
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/8612.htm
-    info: '中国科学院大学谢高岗教授学术报告
-
-      2023-09-15'
-    person: ''
-    time: ''
-    title: 中国科学院大学谢高岗教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: 拟线性抛物型方程离散格式的稳定性
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/152859.htm
-    info: '28
-
-      Sep
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Multi-Asset Market Making
-
-      时间：2023-09-25 14:00
-
-      报告人: Ioanid Rosu (HEC Paris)'
-    person: ''
-    time: ''
-    title: '28
-
-      Sep
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Multi-Asset Market Making
-
-      时间：2023-09-25 14:00
-
-      报告人: Ioanid Rosu (HEC Paris)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/152827.htm
-    info: '20
-
-      Sep
-
-      Geometry and Topology Seminar——On Hempel pairs and Turaev Viro invariants
-
-      时间：2023-09-20 15:10-17:00
-
-      报告人: Yi Liu (Peking University)'
-    person: ''
-    time: ''
-    title: '20
-
-      Sep
-
-      Geometry and Topology Seminar——On Hempel pairs and Turaev Viro invariants
-
-      时间：2023-09-20 15:10-17:00
-
-      报告人: Yi Liu (Peking University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/152793.htm
-    info: '22
-
-      Sep
-
-      School Colloquium——非静止介质中反常与非遍历多尺度模型及算法
-
-      时间：2023-09-22 14:00-15:00
-
-      报告人: 邓伟华（兰州大学）'
-    person: ''
-    time: ''
-    title: '22
-
-      Sep
-
-      School Colloquium——非静止介质中反常与非遍历多尺度模型及算法
-
-      时间：2023-09-22 14:00-15:00
-
-      报告人: 邓伟华（兰州大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/152821.htm
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152884.htm
     info: '27
 
       Sep
 
-      Mean Curvature Flow in Almost Fuchsian Manifold and Generalisations
+      C.F. Gauss and Geodesy
 
       时间：2023-09-27 14:00-15:00
 
-      报告人: 张州（悉尼大学）'
+      报告人: Prof. Dr. Gerald Warnecke (Institut fuer Analysis und Numerik,
+
+      Otto-von-Guericke-Universitaet Magdeburg, Germany)'
     person: ''
     time: ''
     title: '27
 
       Sep
 
-      Mean Curvature Flow in Almost Fuchsian Manifold and Generalisations
+      C.F. Gauss and Geodesy
 
       时间：2023-09-27 14:00-15:00
 
-      报告人: 张州（悉尼大学）'
+      报告人: Prof. Dr. Gerald Warnecke (Institut fuer Analysis und Numerik,
+
+      Otto-von-Guericke-Universitaet Magdeburg, Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152887.htm
+    info: '27
+
+      Sep
+
+      What is a limit of numerical methods for compressible flows?
+
+      时间：2023-09-27 15:00-16:00
+
+      报告人: Prof. Dr. Maria Lukacova (Institut für Mathematik, Universität Mainz, Germany)'
+    person: ''
+    time: ''
+    title: '27
+
+      Sep
+
+      What is a limit of numerical methods for compressible flows?
+
+      时间：2023-09-27 15:00-16:00
+
+      报告人: Prof. Dr. Maria Lukacova (Institut für Mathematik, Universität Mainz, Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/152891.htm
+    info: '27
+
+      Sep
+
+      On a structure preserving numerical method for multi-d hyperbolic conservation
+      laws
+
+      时间：2023-09-27 16:00-17:00
+
+      报告人: Prof. Dr. Christian Klingenberg (Department of Mathematics, Wuerzburg University,
+      Germany)'
+    person: ''
+    time: ''
+    title: '27
+
+      Sep
+
+      On a structure preserving numerical method for multi-d hyperbolic conservation
+      laws
+
+      时间：2023-09-27 16:00-17:00
+
+      报告人: Prof. Dr. Christian Klingenberg (Department of Mathematics, Wuerzburg University,
+      Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/152894.htm
+    info: '28
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十八期）—— Estimation and Inference in Distributional Reinforcement
+      Learning
+
+      时间：2023-09-28 16:00-17:00
+
+      报告人: Liangyu Zhang (PKU)'
+    person: ''
+    time: ''
+    title: '28
+
+      Sep
+
+      机器学习与数据科学博士生系列论坛（第五十八期）—— Estimation and Inference in Distributional Reinforcement
+      Learning
+
+      时间：2023-09-28 16:00-17:00
+
+      报告人: Liangyu Zhang (PKU)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4687.html
-    info: 'Inflammation-induced cognitive decline & prevention in obesity
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmGyqF2
+    info: 'SHANG LULU
 
-      2023-09-20'
+      SPATIALLY AWARE DIMENSION REDUCTION FOR SPATIAL TRANSCRIPTOMICS
+
+      2023-09-22
+
+      14:00 — 16:00'
     person: ''
     time: ''
-    title: Inflammation-induced cognitive decline & prevention in obesity
-  page_title: 上海交通大学药学院
-  page_url: https://pharm.sjtu.edu.cn/report.html
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/ab42673917ef4ce58c3ac17d99dcfa08.htm
-    info: '2023.09.19
+    title: 'SHANG LULU
 
-      肝外mRNA-LNP靶向纳米药物的研发及应用'
-    person: ''
-    time: ''
-    title: 肝外mRNA-LNP靶向纳米药物的研发及应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d7049e82bded4b538c321827d10db44f.htm
-    info: '2023.09.19
+      SPATIALLY AWARE DIMENSION REDUCTION FOR SPATIAL TRANSCRIPTOMICS
 
-      面向临床转化的创新剂型工程'
-    person: ''
-    time: ''
-    title: 面向临床转化的创新剂型工程
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/722a04e1e6ad411bbb9142faecd667cd.htm
-    info: '讲座主题
+      2023-09-22
 
-      RNA功能基因组学新技术及应用
-
-      薛愿超
-
-      主讲人研究员
-
-      2023年9月26日（星期二）下午4:00-5:30
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      RNA功能基因组学新技术及应用
-
-      薛愿超
-
-      主讲人研究员
-
-      2023年9月26日（星期二）下午4:00-5:30
-
-      北京大学综合科研二号楼B117室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/e8df8559f64d42489adafd8afbb87a3b.htm
-    info: '讲座主题
-
-      神经细胞脂滴研究
-
-      黄勋
-
-      主讲人研究员
-
-      2023年9月19日（星期二）下午4:00-5:30
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      神经细胞脂滴研究
-
-      黄勋
-
-      主讲人研究员
-
-      2023年9月19日（星期二）下午4:00-5:30
-
-      北京大学综合科研二号楼B117室'
-  page_title: 北京大学未来技术学院
-  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5773.htm
-    info: '19
-
-      2023-09
-
-      信息科学技术学院“知存讲座”（第十期）——信息检索系统中的机器学习实践'
-    person: ''
-    time: ''
-    title: '19
-
-      2023-09
-
-      信息科学技术学院“知存讲座”（第十期）——信息检索系统中的机器学习实践'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5771.htm
-    info: '15
-
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
-    person: ''
-    time: ''
-    title: '15
-
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3623.html
-    info: '21
-
-      2023-09
-
-      【学术报告】基于准金属纳米结构的表面增强拉曼光谱分析研究'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-09
-
-      【学术报告】基于准金属纳米结构的表面增强拉曼光谱分析研究'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3610.html
-    info: '14
-
-      2023-09
-
-      上海交通大学化学化工学院/变革性分子前沿科学中心'
-    person: ''
-    time: ''
-    title: '14
-
-      2023-09
-
-      上海交通大学化学化工学院/变革性分子前沿科学中心'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1660
-    info: '9月19日CQB seminar:Bacterial Replication Initiation as Precision Control
-      by Protein Cou..
-
-      2023-09-18'
-    person: ''
-    time: ''
-    title: 9月19日CQB seminar:Bacterial Replication Initiation as Precision Control
-      by Protein Cou..
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1659
-    info: '9月18日CQB seminar:空间组学技术算法和应用
-
-      2023-09-18'
-    person: ''
-    time: ''
-    title: 9月18日CQB seminar:空间组学技术算法和应用
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
-- page_info:
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5771.htm
-    info: '15
-
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
-    person: ''
-    time: ''
-    title: '15
-
-      2023-09
-
-      北京大学显示技术系列讲座第3期——OLED材料的发展和趋势分析'
-  - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16727.html
-    info: '2023.09.15
-
-      表观遗传调控机理与作物遗传育种'
-    person: ''
-    time: ''
-    title: '2023.09.15
-
-      表观遗传调控机理与作物遗传育种'
-  page_title: 北京大学生命科学学院
-  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152816.htm
-    info: '2023-09-18
-
-      【有机化学学术报告】低价态丰产金属铁、钴不对称催化'
-    person: ''
-    time: ''
-    title: 【有机化学学术报告】低价态丰产金属铁、钴不对称催化
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/152728.htm
-    info: '2023-09-14
-
-      【无机化学论坛】Synthetic Porphyrinoidic Chemistry'
-    person: ''
-    time: ''
-    title: 【无机化学论坛】Synthetic Porphyrinoidic Chemistry
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1790.htm
-    info: '28
-
-      Sep
-
-      甾体和萜类天然产物的高效合成
-
-      报告人：桂敬汉 研究员
-
-      时间：2023年09月28日15：30-16：40'
-    person: ''
-    time: ''
-    title: 甾体和萜类天然产物的高效合成
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1791.htm
-    info: '28
-
-      Sep
-
-      资源化学：概念与实践
-
-      报告人：田伟生 研究员
-
-      时间：2023年09月28日14：00-15：20'
-    person: ''
-    time: ''
-    title: 资源化学：概念与实践
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1789.htm
-    info: '22
-
-      Sep
-
-      变革性分子博士生学术论坛（第2期）
-
-      报告人：陈安荣 2021级博士生，高瑞横 2022级博士生
-
-      时间：2023年09月22日（星期五）15:00-17:00'
-    person: ''
-    time: ''
-    title: 变革性分子博士生学术论坛（第2期）
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/1787.htm
-    info: '21
-
-      Sep
-
-      金属-CeO2催化剂的构效分析与制备革新
-
-      报告人：严涵 博士 特任副研究员
-
-      时间：2023年9月21号（星期四）16:00-17:30'
-    person: ''
-    time: ''
-    title: 金属-CeO2催化剂的构效分析与制备革新
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0918/c33485a2803407/page.htm
-    info: '建筑·艺术·科技 ——跨学科研讨会及可调适建筑装置艺术展
-
-      [2023-09-18]'
-    person: ''
-    time: ''
-    title: 建筑·艺术·科技 ——跨学科研讨会及可调适建筑装置艺术展
-  - address: ''
-    href: https://www.zju.edu.cn/2023/0914/c33485a2801976/page.htm
-    info: '【化学系】启真化学论坛：逯乐慧研究员（中科院长春应化所）
-
-      [2023-09-14]'
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：逯乐慧研究员（中科院长春应化所）
-  page_title: 学术
-  page_url: https://www.zju.edu.cn/xs/list.htm
-- page_info:
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12554.htm
-    info: "k-Entanglement witnesses\n 2023年09月16日 "
-    person: ''
-    time: ''
-    title: k-Entanglement witnesses
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmGtKF2
-    info: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmGpKF2
-    info: '[特邀报告] YU JIANSHE
-
-      EXISTENCE AND STABILITY OF PERIODIC SOLUTIONS FOR A MOSQUITO SUPPRESSION MODEL
-      WITH INCOMPLETE CYTOPLASMIC INCOMPATIBILITY
-
-      2023-09-18
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] YU JIANSHE
-
-      EXISTENCE AND STABILITY OF PERIODIC SOLUTIONS FOR A MOSQUITO SUPPRESSION MODEL
-      WITH INCOMPLETE CYTOPLASMIC INCOMPATIBILITY
-
-      2023-09-18
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmF2qF2
-    info: 'JAUME LLIBRE
-
-      C^1 INTEGRABILITY VIA PERIODIC ORBITS
-
-      2023-09-21
-
-      10:15 — 11:30'
-    person: ''
-    time: ''
-    title: 'JAUME LLIBRE
-
-      C^1 INTEGRABILITY VIA PERIODIC ORBITS
-
-      2023-09-21
-
-      10:15 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFpKF2
-    info: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFtKF2
-    info: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '李起峰
-
-      FANO DEFORMATION RIGIDITY OF RATIONAL HOMOGENEOUS SPACES OF SUBMAXIMAL PICARD
-      NUMBERS
-
-      2023-09-24
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGudpmFyqF2
-    info: 'PROF. WILDERICH TUSCHMANN
-
-      MODULI SPACES OF RIEMANNIAN METRICS
-
-      2023-09-19
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: 'PROF. WILDERICH TUSCHMANN
-
-      MODULI SPACES OF RIEMANNIAN METRICS
-
-      2023-09-19
-
-      15:00 — 16:00'
+      14:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805325/page.htm
+    info: '物理学院陈晓松学术报告的通知（School of Physics Colloqui...
+
+      [2023-09-21]'
+    person: ''
+    time: ''
+    title: 物理学院陈晓松学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805089/page.htm
+    info: '【双脑中心系列学术报告】Input-output organization of the...
+
+      [2023-09-21]'
+    person: ''
+    time: ''
+    title: 【双脑中心系列学术报告】Input-output organization of the paraventricular nucleus of
+      the thalamus (PVT) and its anatomical position in the behavioral circuits——Dr.
+      Gilbert Kirouac
+  - address: ''
+    href: https://www.zju.edu.cn/2023/0921/c33485a2805091/page.htm
+    info: '【双脑中心系列学术报告】从神经突触蛋白调控到认知障碍的可...
+
+      [2023-09-19]'
+    person: ''
+    time: ''
+    title: 【双脑中心系列学术报告】从神经突触蛋白调控到认知障碍的可能机理——欧阳雁南
+  page_title: 学术
+  page_url: https://www.zju.edu.cn/xs/list.htm
