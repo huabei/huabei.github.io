@@ -389,7 +389,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6068860
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6072622
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1184,6 +1184,20 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/6059.htm
+    info: '07
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十四期）——如何满足自己的好奇心和激起别人的好奇心？'
+    person: ''
+    time: ''
+    title: '07
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十四期）——如何满足自己的好奇心和激起别人的好奇心？'
+  - address: ''
     href: https://eecs.pku.edu.cn/info/1050/6008.htm
     info: '27
 
@@ -1323,20 +1337,6 @@
       2023-10
 
       信息科学技术学院“知存讲座”（第十四期）——5G通信网络及未来技术展望'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5811.htm
-    info: '18
-
-      2023-10
-
-      信息科学技术学院“知存讲座”（第十三期）—— 解锁未来—硬科技时代的新机遇'
-    person: ''
-    time: ''
-    title: '18
-
-      2023-10
-
-      信息科学技术学院“知存讲座”（第十三期）—— 解锁未来—硬科技时代的新机遇'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
@@ -1549,98 +1549,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156672.htm
-    info: '07
-
-      Mar
-
-      Dynamic Models Augmented by Hierarchical Data
-
-      时间：2024-03-07 14:00-15:00
-
-      报告人: Le Bao (Penn State University)'
-    person: ''
-    time: ''
-    title: '07
-
-      Mar
-
-      Dynamic Models Augmented by Hierarchical Data
-
-      时间：2024-03-07 14:00-15:00
-
-      报告人: Le Bao (Penn State University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/156727.htm
-    info: '07
-
-      Mar
-
-      机器学习与数据科学博士生系列论坛（第六十七期）—— An Introduction to Scaling Laws of Deep Learning Models
-
-      时间：2024-03-07 14:00-15:00
-
-      报告人: 杨潇博（北京大学）'
-    person: ''
-    time: ''
-    title: '07
-
-      Mar
-
-      机器学习与数据科学博士生系列论坛（第六十七期）—— An Introduction to Scaling Laws of Deep Learning Models
-
-      时间：2024-03-07 14:00-15:00
-
-      报告人: 杨潇博（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/156747.htm
-    info: '07
-
-      Mar
-
-      Geometry and Topology Seminar ——Marked length spectrum rigidity in groups with
-      contracting elements
-
-      时间：2024-03-07 15:30-17:30
-
-      报告人: 万仁星（北京大学）'
-    person: ''
-    time: ''
-    title: '07
-
-      Mar
-
-      Geometry and Topology Seminar ——Marked length spectrum rigidity in groups with
-      contracting elements
-
-      时间：2024-03-07 15:30-17:30
-
-      报告人: 万仁星（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/156786.htm
-    info: '07
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——All AMMs are CFMMs. All DeFi markets have invariants.
-      A DeFi market is arbitrage-free if and only if it has an increasing invariant.
-
-      时间：2024-03-07 9:00-10:00
-
-      报告人: Roger Lee (University of Chicago)'
-    person: ''
-    time: ''
-    title: '07
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——All AMMs are CFMMs. All DeFi markets have invariants.
-      A DeFi market is arbitrage-free if and only if it has an increasing invariant.
-
-      时间：2024-03-07 9:00-10:00
-
-      报告人: Roger Lee (University of Chicago)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/156824.htm
     info: '08
 
@@ -1648,7 +1556,7 @@
 
       Distinguished Lecture——Random data theory for partial differential equations
 
-      时间：2024-03-08 14:00-15:00
+      时间：2024-03-08 15:00-16:00
 
       报告人: Nicolas Burq (Université Paris-Saclay）'
     person: ''
@@ -1659,7 +1567,7 @@
 
       Distinguished Lecture——Random data theory for partial differential equations
 
-      时间：2024-03-08 14:00-15:00
+      时间：2024-03-08 15:00-16:00
 
       报告人: Nicolas Burq (Université Paris-Saclay）'
   - address: ''
@@ -1731,6 +1639,50 @@
 
       报告人: 郭常予（山东大学数学与交叉科学研究中心）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156862.htm
+    info: '15
+
+      Mar
+
+      Holomorphicity of totally geodesic isometries between bounded symmetric domains
+
+      时间：2024-03-15 13:00-14:00
+
+      报告人: Sung-Yeon Kim（Institute for Basic Science, Korea）'
+    person: ''
+    time: ''
+    title: '15
+
+      Mar
+
+      Holomorphicity of totally geodesic isometries between bounded symmetric domains
+
+      时间：2024-03-15 13:00-14:00
+
+      报告人: Sung-Yeon Kim（Institute for Basic Science, Korea）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156849.htm
+    info: '18
+
+      Mar
+
+      Non-Markovian random walk models for intracellular transport: theory and experiments
+
+      时间：2024-03-18 14:00-15:00
+
+      报告人: Sergei Fedotov（University of Manchester）'
+    person: ''
+    time: ''
+    title: '18
+
+      Mar
+
+      Non-Markovian random walk models for intracellular transport: theory and experiments
+
+      时间：2024-03-18 14:00-15:00
+
+      报告人: Sergei Fedotov（University of Manchester）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/156669.htm
     info: '19
 
@@ -1800,6 +1752,50 @@
       时间：2024-03-28 14:00-15:00
 
       报告人: 戴国榕（复旦大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156672.htm
+    info: '07
+
+      Mar
+
+      Dynamic Models Augmented by Hierarchical Data
+
+      时间：2024-03-07 14:00-15:00
+
+      报告人: Le Bao (Penn State University)'
+    person: ''
+    time: ''
+    title: '07
+
+      Mar
+
+      Dynamic Models Augmented by Hierarchical Data
+
+      时间：2024-03-07 14:00-15:00
+
+      报告人: Le Bao (Penn State University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/156727.htm
+    info: '07
+
+      Mar
+
+      机器学习与数据科学博士生系列论坛（第六十七期）—— An Introduction to Scaling Laws of Deep Learning Models
+
+      时间：2024-03-07 14:00-15:00
+
+      报告人: 杨潇博（北京大学）'
+    person: ''
+    time: ''
+    title: '07
+
+      Mar
+
+      机器学习与数据科学博士生系列论坛（第六十七期）—— An Introduction to Scaling Laws of Deep Learning Models
+
+      时间：2024-03-07 14:00-15:00
+
+      报告人: 杨潇博（北京大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2306,7 +2302,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 8 days
+      2024-03-15 09:30, in 7 days
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2315,7 +2311,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 8 days
+      2024-03-15 10:30, in 7 days
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2323,7 +2319,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 20 days
+      2024-03-27 10:00, in 19 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2331,7 +2327,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 7 days ago
+      2024-02-29 15:00, 8 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2340,7 +2336,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 7 days ago
+      2024-02-29 13:00, 8 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2358,7 +2354,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 8 days
+      2024-03-15 09:30, in 7 days
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2367,7 +2363,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 8 days
+      2024-03-15 10:30, in 7 days
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2375,7 +2371,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 20 days
+      2024-03-27 10:00, in 19 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2383,7 +2379,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 7 days ago
+      2024-02-29 15:00, 8 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2392,7 +2388,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 7 days ago
+      2024-02-29 13:00, 8 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -3421,6 +3417,44 @@
 
       14:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt6FpKF2
+    info: '朱亦哲
+
+      DIFFERENTIALLY PRIVATE SYNTHETIC DATA GENERATION
+
+      2024-03-26
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '朱亦哲
+
+      DIFFERENTIALLY PRIVATE SYNTHETIC DATA GENERATION
+
+      2024-03-26
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt6FtKF2
+    info: '苏一鸣
+
+      CONSTRUCTION OF MULTI-BUBBLE BLOW-UP SOLUTIONS TO THE L2-CRITICAL HALF-WAVE
+      EQUATION
+
+      2024-03-26
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '苏一鸣
+
+      CONSTRUCTION OF MULTI-BUBBLE BLOW-UP SOLUTIONS TO THE L2-CRITICAL HALF-WAVE
+      EQUATION
+
+      2024-03-26
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt2GtKF2
     info: '[MINI COURSES] 马烺特
 
@@ -3456,42 +3490,6 @@
       2024-03-22
 
       10:00 — 12:15'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt2HtKF2
-    info: '温耀雄 (YAOXIONG WEN)
-
-      SHEAF/QUASI-SECTION CORRESPONDENCE AND VAFA-WITTEN INVARIANTS OF ELLIPTIC SURFACES
-
-      2024-03-21
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '温耀雄 (YAOXIONG WEN)
-
-      SHEAF/QUASI-SECTION CORRESPONDENCE AND VAFA-WITTEN INVARIANTS OF ELLIPTIC SURFACES
-
-      2024-03-21
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugtuF2qF2
-    info: '[特邀报告] PROFESSOR REINHARD RACKE
-
-      STABILIZATION OF MAGNETO-ELASTIC SYSTEMS
-
-      2024-03-20
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] PROFESSOR REINHARD RACKE
-
-      STABILIZATION OF MAGNETO-ELASTIC SYSTEMS
-
-      2024-03-20
-
-      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -3528,6 +3526,32 @@
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0307/c26342a2886897/page.htm
+    info: '全球气候变化及不同空间尺度碳循环研究方法讨论
+
+      【主讲人：徐六康】
+
+      时间：13:00
+
+      地点：生命科学学院245会议室
+
+      2024-03-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '全球气候变化及不同空间尺度碳循环研究方法讨论
+
+      【主讲人：徐六康】
+
+      时间：13:00
+
+      地点：生命科学学院245会议室
+
+      2024-03-11
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0227/c26342a2880918/page.htm
     info: '生命科学学院系列学术讲座--Judith Sluimer教授学术报告
@@ -3786,28 +3810,6 @@
       地点：生命科学学院123报告厅
 
       2023-12-13
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2023/1129/c26342a2832323/page.htm
-    info: '生命科学学院系列学术讲座--戴传超教授学术报告
-
-      【主讲人：12】
-
-      时间：
-
-      地点：08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--戴传超教授学术报告
-
-      【主讲人：12】
-
-      时间：
-
-      地点：08
 
       查看详情+'
   page_title: 活动预告
