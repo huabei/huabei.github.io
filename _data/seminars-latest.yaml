@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/12974.htm
+    info: "人工智能在大气科学中的应用概述及问题展望\n 2024年03月12日 "
+    person: ''
+    time: ''
+    title: 人工智能在大气科学中的应用概述及问题展望
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/12969.htm
     info: "Dimension datum of a subgroup\n 2024年03月11日 "
     person: ''
@@ -61,13 +67,6 @@
     person: ''
     time: ''
     title: Analysis of the singularity set of the 3D chemotaxis-Navier-Stokes equations
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12834.htm
-    info: "AI-enabled Differentiable Methods for Computer-aided Design and Engineering\n\
-      \ 2023年12月26日 "
-    person: ''
-    time: ''
-    title: AI-enabled Differentiable Methods for Computer-aided Design and Engineering
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -266,8 +265,14 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/5503.htm
+    href: https://life.tsinghua.edu.cn/info/1132/5527.htm
     info: '学术报告
+
+      12
+
+      MAR
+
+      Shp2, proliferative signaling, and intercellsome
 
       21
 
@@ -323,16 +328,10 @@
 
       植物低温感知机制与分子模块育种潜力
 
-      07
-
-      JUN
-
-      表型可塑性的调节机制
-
-      共13条 上页12下页'
+      共14条 上页12下页'
     person: ''
     time: ''
-    title: Organelle Biogenesis and Function in Plants
+    title: Shp2, proliferative signaling, and intercellsome
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -348,8 +347,6 @@
       会议室预定
 
       清华大学
-
-      结构生物学高精尖创新中心
 
       清华新闻
 
@@ -385,7 +382,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6087311
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6091745
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -463,6 +460,21 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/5855.htm
+    info: '12
+
+      三月
+
+      Overview of frontier AI safety issues and work from the UK
+
+      Abstract:Frontier Al systems that are approaching AGl could pose significant
+      risksto society. This talk will provide an overview of the work done by the
+      Ukgovernment''s Al safety institute on investigating potential risks posecby
+      these Al systems, and the work they are doing to address them.'
+    person: ''
+    time: ''
+    title: Overview of frontier AI safety issues and work from the UK
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/5838.htm
     info: '22
@@ -573,19 +585,6 @@
     person: ''
     time: ''
     title: 清华大学计算机学科高端战略研讨专家特邀报告会举行
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5347.htm
-    info: '28
-
-      十月
-
-      清华大学计算机学科高端战略研讨专家与师生座谈会举行
-
-      10月21日至23日，清华大学计算机学科高端战略研讨专家与师生座谈会通过线上线下相结合的方式在东主楼10区103会议室举行。图灵奖获得者约翰·郝普克若夫（John
-      Hopcroft），中国科学院院士张钹，中国工程院院士李国杰，计算机系前主任、中国工程院院士吴建平，计算机系校友、搜狗公司原CEO王小川等五位专家学者出席座谈会。清华大学计算机系、软件学院、交叉信息院、网研院、高等研究院...'
-    person: ''
-    time: ''
-    title: 清华大学计算机学科高端战略研讨专家与师生座谈会举行
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -1539,30 +1538,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/156497.htm
-    info: '12
-
-      Mar
-
-      A conjecture at the heart of Ramsey theory and related problems on tensors and
-      polynomials
-
-      时间：2024-03-12 16:00-17:00
-
-      报告人: Thomas Karam (University of Oxford)'
-    person: ''
-    time: ''
-    title: '12
-
-      Mar
-
-      A conjecture at the heart of Ramsey theory and related problems on tensors and
-      polynomials
-
-      时间：2024-03-12 16:00-17:00
-
-      报告人: Thomas Karam (University of Oxford)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156880.htm
     info: '14
 
@@ -1676,6 +1651,28 @@
       时间：2024-03-14 14:00-15:00
 
       报告人: 郭常予（山东大学数学与交叉科学研究中心）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/157004.htm
+    info: '15
+
+      Mar
+
+      Distinguished Lecture——Optimization with Least Constraint Violation
+
+      时间：2024-03-15 14:00-15:00
+
+      报告人: 戴彧虹 (中国科学院数学与系统科学研究院）'
+    person: ''
+    time: ''
+    title: '15
+
+      Mar
+
+      Distinguished Lecture——Optimization with Least Constraint Violation
+
+      时间：2024-03-15 14:00-15:00
+
+      报告人: 戴彧虹 (中国科学院数学与系统科学研究院）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156862.htm
     info: '15
@@ -2091,7 +2088,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 3 days
+      2024-03-15 09:30, in 2 days
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2100,7 +2097,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 3 days
+      2024-03-15 10:30, in 2 days
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2108,7 +2105,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 15 days
+      2024-03-27 10:00, in 14 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2116,7 +2113,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 12 days ago
+      2024-02-29 15:00, 13 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2125,7 +2122,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 12 days ago
+      2024-02-29 13:00, 13 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2143,7 +2140,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 3 days
+      2024-03-15 09:30, in 2 days
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2152,7 +2149,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 3 days
+      2024-03-15 10:30, in 2 days
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2160,7 +2157,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 15 days
+      2024-03-27 10:00, in 14 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2168,7 +2165,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 12 days ago
+      2024-02-29 15:00, 13 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2177,7 +2174,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 12 days ago
+      2024-02-29 13:00, 13 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -3296,6 +3293,12 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: “杏林·学者论坛”—高成江 教授报告会
+    person: ''
+    time: ''
+    title: “杏林·学者论坛”—高成江 教授报告会
+  - address: ''
+    href: null
     info: 物理学院何子山学术报告的通知（School of Physics Colloquium）
     person: ''
     time: ''
@@ -3306,12 +3309,6 @@
     person: ''
     time: ''
     title: 物理学院周昌松学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: null
-    info: 【数学学院】蔡剑锋：Interlacing Polynomial Method for Matrix Approximation
-    person: ''
-    time: ''
-    title: 【数学学院】蔡剑锋：Interlacing Polynomial Method for Matrix Approximation
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
