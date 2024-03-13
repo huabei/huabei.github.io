@@ -268,11 +268,12 @@
     href: https://life.tsinghua.edu.cn/info/1132/5527.htm
     info: '学术报告
 
-      12
+      13
 
       MAR
 
-      Shp2, proliferative signaling, and intercellsome
+      The directed and natural evolution of the molecular toolkit for pluripotent
+      s…
 
       21
 
@@ -331,7 +332,8 @@
       共14条 上页12下页'
     person: ''
     time: ''
-    title: Shp2, proliferative signaling, and intercellsome
+    title: ' The directed and natural evolution of the molecular toolkit for pluripotent
+      stem cells'
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -382,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6091745
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6095795
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -875,12 +877,76 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: javascript:;
-    info: Pre12345678910Next
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1710
+    info: '3月18日CQBseminar：Mechano-morphogenesis and Self-organization in Bacterial
+      Biofilms
+
+      2024-03-12'
     person: ''
     time: ''
-    title: Pre
-  page_title: 北京国际数学研究中心
+    title: 3月18日CQBseminar：Mechano-morphogenesis and Self-organization in Bacterial
+      Biofilms
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1706
+    info: '3月13日周三茶座：张晓刚主讲隐语之书
+
+      2024-03-04'
+    person: ''
+    time: ''
+    title: 3月13日周三茶座：张晓刚主讲隐语之书
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1697
+    info: '12月28日CQBseminar：Decoding Epithelial Tissue Mechanics: Structure, Fluidity,
+      and Rheol..
+
+      2023-12-25'
+    person: ''
+    time: ''
+    title: '12月28日CQBseminar：Decoding Epithelial Tissue Mechanics: Structure, Fluidity,
+      and Rheol..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1695
+    info: '12月22日CLS报告：A Transcription Factor Network Mediating Tumor Promotion and
+      Tumor Suppre..
+
+      2023-12-15'
+    person: ''
+    time: ''
+    title: 12月22日CLS报告：A Transcription Factor Network Mediating Tumor Promotion and
+      Tumor Suppre..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1694
+    info: '12月19日CLS报告：Epitranscriptic regulation in the mature nervous system
+
+      2023-12-15'
+    person: ''
+    time: ''
+    title: 12月19日CLS报告：Epitranscriptic regulation in the mature nervous system
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1693
+    info: '12月18日CLS报告：piRNA Protects the Germline Genome from Transposon Invasion
+
+      2023-12-15'
+    person: ''
+    time: ''
+    title: 12月18日CLS报告：piRNA Protects the Germline Genome from Transposon Invasion
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1692
+    info: '12月18日CQB seminar：The Regulation of Focal Adhesion Dynamics
+
+      2023-12-05'
+    person: ''
+    time: ''
+    title: 12月18日CQB seminar：The Regulation of Focal Adhesion Dynamics
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1691
+    info: '12月11日CQB seminar：生物分子相分离的智能解析与应用
+
+      2023-12-05'
+    person: ''
+    time: ''
+    title: 12月11日CQB seminar：生物分子相分离的智能解析与应用
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
@@ -1330,7 +1396,7 @@
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16938.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16938.html
     info: '2024.03.01
 
       超级疫苗--理论假说与研究实践'
@@ -1340,7 +1406,7 @@
 
       超级疫苗--理论假说与研究实践'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16888.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16888.html
     info: '2023.12.22
 
       Translational Chemical Biology'
@@ -1350,7 +1416,7 @@
 
       Translational Chemical Biology'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16875.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16875.html
     info: '2023.12.15
 
       阿尔茨海默病发病机制和药物研发进展'
@@ -1360,7 +1426,7 @@
 
       阿尔茨海默病发病机制和药物研发进展'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16862.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16862.html
     info: '2023.12.08
 
       Biochemical functions of plant NLR immune receptors -from resistosomes to second'
@@ -1370,7 +1436,7 @@
 
       Biochemical functions of plant NLR immune receptors -from resistosomes to second'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16857.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16857.html
     info: '2023.12.01
 
       The Hippo Pathway: Signaling and Cancer'
@@ -1380,7 +1446,7 @@
 
       The Hippo Pathway: Signaling and Cancer'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16836.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16836.html
     info: '2023.11.24
 
       Cryo-EM driven paradigm shift of ABC transporter mechanism'
@@ -1390,7 +1456,7 @@
 
       Cryo-EM driven paradigm shift of ABC transporter mechanism'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16833.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16833.html
     info: '2023.11.17
 
       氨基酸感应与肿瘤微环境'
@@ -1400,7 +1466,7 @@
 
       氨基酸感应与肿瘤微环境'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16816.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16816.html
     info: '2023.11.10
 
       Investigating and translating for potential clinical application of molecular
@@ -1412,7 +1478,7 @@
       Investigating and translating for potential clinical application of molecular
       me'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16802.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16802.html
     info: '2023.11.03
 
       父系吸烟/尼古丁暴露对小鼠及子代的影响'
@@ -1422,7 +1488,7 @@
 
       父系吸烟/尼古丁暴露对小鼠及子代的影响'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16801.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16801.html
     info: '2023.11.03
 
       把”冷门“焐热，让“热门“升华 ——我平凡科研案例背后的科学与人文思考'
@@ -1432,7 +1498,7 @@
 
       把”冷门“焐热，让“热门“升华 ——我平凡科研案例背后的科学与人文思考'
   - address: ''
-    href: https://bio.pku.edu.cn/homes/Index/news_cont/29/16779.html
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16779.html
     info: '2023.10.20
 
       Intergration of stress by transcriptional factors and its role in aging'
@@ -2088,7 +2154,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 2 days
+      2024-03-15 09:30, in a day
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2097,7 +2163,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 2 days
+      2024-03-15 10:30, in a day
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2105,7 +2171,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 14 days
+      2024-03-27 10:00, in 13 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2113,7 +2179,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 13 days ago
+      2024-02-29 15:00, 14 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2122,7 +2188,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 13 days ago
+      2024-02-29 13:00, 14 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2140,7 +2206,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in 2 days
+      2024-03-15 09:30, in a day
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2149,7 +2215,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in 2 days
+      2024-03-15 10:30, in a day
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2157,7 +2223,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 14 days
+      2024-03-27 10:00, in 13 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2165,7 +2231,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 13 days ago
+      2024-02-29 15:00, 14 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2174,7 +2240,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 13 days ago
+      2024-02-29 13:00, 14 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -3293,22 +3359,22 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 物理学院周树云学术报告的通知（School of Physics Colloquium）
+    person: ''
+    time: ''
+    title: 物理学院周树云学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: null
+    info: 2024年神经科学前沿论坛（2024 Frontiers in Neuroscience）
+    person: ''
+    time: ''
+    title: 2024年神经科学前沿论坛（2024 Frontiers in Neuroscience）
+  - address: ''
+    href: null
     info: “杏林·学者论坛”—高成江 教授报告会
     person: ''
     time: ''
     title: “杏林·学者论坛”—高成江 教授报告会
-  - address: ''
-    href: null
-    info: 物理学院何子山学术报告的通知（School of Physics Colloquium）
-    person: ''
-    time: ''
-    title: 物理学院何子山学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: null
-    info: 物理学院周昌松学术报告的通知（School of Physics Colloquium）
-    person: ''
-    time: ''
-    title: 物理学院周昌松学术报告的通知（School of Physics Colloquium）
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
