@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6095795
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6100185
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1511,6 +1511,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/157047.htm
+    info: '2024-03-14
+
+      【北京大学无机化学学术报告】催化微环境的精准调控提升人工光合效率'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】催化微环境的精准调控提升人工光合效率
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/156886.htm
     info: '2024-03-08
 
@@ -1592,131 +1600,9 @@
     person: ''
     time: ''
     title: 【北京大学应用化学学术报告】皮秒脉冲辐解技术及其应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/156322.htm
-    info: '2024-02-15
-
-      【北京大学海外名家讲座】——Prof. Kendall N. Houk'
-    person: ''
-    time: ''
-    title: 【北京大学海外名家讲座】——Prof. Kendall N. Houk
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156880.htm
-    info: '14
-
-      Mar
-
-      Hamiltonian-clustering Modernized Asymmetric Causality
-
-      时间：2024-03-14 14:00-15:00
-
-      报告人: 张正军（中国科学院大学）'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      Hamiltonian-clustering Modernized Asymmetric Causality
-
-      时间：2024-03-14 14:00-15:00
-
-      报告人: 张正军（中国科学院大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/156909.htm
-    info: '14
-
-      Mar
-
-      Geometry and Topology Seminar——Symmetry break behavior arising in energy maximizing
-      graphs
-
-      时间：2024-03-14 15:30-17:30
-
-      报告人: 蓝青（北京大学）'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      Geometry and Topology Seminar——Symmetry break behavior arising in energy maximizing
-      graphs
-
-      时间：2024-03-14 15:30-17:30
-
-      报告人: 蓝青（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156818.htm
-    info: '14
-
-      Mar
-
-      Palais--Smale Sequences for the Prescribed Ricci Curvature Functional
-
-      时间：2024-03-14 09:00-10:00
-
-      报告人: Artem Pulemotov (The University of Queensland)'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      Palais--Smale Sequences for the Prescribed Ricci Curvature Functional
-
-      时间：2024-03-14 09:00-10:00
-
-      报告人: Artem Pulemotov (The University of Queensland)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/156873.htm
-    info: '14
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Optimal Dynamic Asset Allocation with Transaction
-      Costs: The Role of Hedging Demands
-
-      时间：2024-03-14 9:00-10:00
-
-      报告人: Mehmet Sağlam (University of Cincinnati)'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Optimal Dynamic Asset Allocation with Transaction
-      Costs: The Role of Hedging Demands
-
-      时间：2024-03-14 9:00-10:00
-
-      报告人: Mehmet Sağlam (University of Cincinnati)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156773.htm
-    info: '14
-
-      Mar
-
-      几何与物理中的全局紧方法
-
-      时间：2024-03-14 14:00-15:00
-
-      报告人: 郭常予（山东大学数学与交叉科学研究中心）'
-    person: ''
-    time: ''
-    title: '14
-
-      Mar
-
-      几何与物理中的全局紧方法
-
-      时间：2024-03-14 14:00-15:00
-
-      报告人: 郭常予（山东大学数学与交叉科学研究中心）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/157004.htm
     info: '15
@@ -1739,6 +1625,30 @@
       时间：2024-03-15 14:00-15:00
 
       报告人: 戴彧虹 (中国科学院数学与系统科学研究院）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/157049.htm
+    info: '15
+
+      Mar
+
+      Distinguished Lecture——Deep Learning, Curse of Dimensionality and Numerical
+      PDEs
+
+      时间：2024-03-15 10:00-11:00
+
+      报告人: 许进超 (KAUST)'
+    person: ''
+    time: ''
+    title: '15
+
+      Mar
+
+      Distinguished Lecture——Deep Learning, Curse of Dimensionality and Numerical
+      PDEs
+
+      时间：2024-03-15 10:00-11:00
+
+      报告人: 许进超 (KAUST)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156862.htm
     info: '15
@@ -1851,6 +1761,98 @@
       时间：2024-03-21 14:00-15:00
 
       报告人: 李赛（中国人民大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/157055.htm
+    info: '21
+
+      Mar
+
+      机器学习与数据科学博士生系列论坛（第六十八期）—— Mathematical Perspectives of Neural Networks
+
+      时间：2024-03-21 14:00-15:00
+
+      报告人: 王迩东（北京大学）'
+    person: ''
+    time: ''
+    title: '21
+
+      Mar
+
+      机器学习与数据科学博士生系列论坛（第六十八期）—— Mathematical Perspectives of Neural Networks
+
+      时间：2024-03-21 14:00-15:00
+
+      报告人: 王迩东（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156755.htm
+    info: '28
+
+      Mar
+
+      Moving beyond Population Variable Importance: Concept, Theory and Applications
+      of Individual Variable Importance
+
+      时间：2024-03-28 14:00-15:00
+
+      报告人: 戴国榕（复旦大学）'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      Moving beyond Population Variable Importance: Concept, Theory and Applications
+      of Individual Variable Importance
+
+      时间：2024-03-28 14:00-15:00
+
+      报告人: 戴国榕（复旦大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/156773.htm
+    info: '14
+
+      Mar
+
+      几何与物理中的全局紧方法
+
+      时间：2024-03-14 14:00-15:00
+
+      报告人: 郭常予（山东大学数学与交叉科学研究中心）'
+    person: ''
+    time: ''
+    title: '14
+
+      Mar
+
+      几何与物理中的全局紧方法
+
+      时间：2024-03-14 14:00-15:00
+
+      报告人: 郭常予（山东大学数学与交叉科学研究中心）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/156873.htm
+    info: '14
+
+      Mar
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Optimal Dynamic Asset Allocation with Transaction
+      Costs: The Role of Hedging Demands
+
+      时间：2024-03-14 9:00-10:00
+
+      报告人: Mehmet Sağlam (University of Cincinnati)'
+    person: ''
+    time: ''
+    title: '14
+
+      Mar
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——Optimal Dynamic Asset Allocation with Transaction
+      Costs: The Role of Hedging Demands
+
+      时间：2024-03-14 9:00-10:00
+
+      报告人: Mehmet Sağlam (University of Cincinnati)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2154,7 +2156,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in a day
+      2024-03-15 09:30, in 2 hours
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2163,7 +2165,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in a day
+      2024-03-15 10:30, in 3 hours
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2171,7 +2173,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 13 days
+      2024-03-27 10:00, in 12 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2179,7 +2181,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 14 days ago
+      2024-02-29 15:00, 15 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2188,7 +2190,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 14 days ago
+      2024-02-29 13:00, 15 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2206,7 +2208,7 @@
 
       清华大学
 
-      2024-03-15 09:30, in a day
+      2024-03-15 09:30, in 2 hours
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2215,7 +2217,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, in a day
+      2024-03-15 10:30, in 3 hours
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -2223,7 +2225,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 13 days
+      2024-03-27 10:00, in 12 days
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2231,7 +2233,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 14 days ago
+      2024-02-29 15:00, 15 days ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2240,7 +2242,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 14 days ago
+      2024-02-29 13:00, 15 days ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2466,7 +2468,7 @@
       this is the first time the journal invites two speakers to give two consecutive
       lectures in one topic. Prof. Jin gave a lecture in this seminar serious in November
       2021 on his work on Random Batch methods for interacting particle systems and
-      molecular dynamics. He is is the only author of JCP who has given two lectures
+      molecular dynamics. He is the only author of JCP who has given two lectures
       in this seminar series since its launch, and Shanghai Jiao Tong University is
       the only institute in the world with more than two lectures given. Quantum simulation
       — using a quantum system to simulate dynamics of another system — has been chiefly
@@ -2730,7 +2732,7 @@
       this is the first time the journal invites two speakers to give two consecutive
       lectures in one topic. Prof. Jin gave a lecture in this seminar serious in November
       2021 on his work on Random Batch methods for interacting particle systems and
-      molecular dynamics. He is is the only author of JCP who has given two lectures
+      molecular dynamics. He is the only author of JCP who has given two lectures
       in this seminar series since its launch, and Shanghai Jiao Tong University is
       the only institute in the world with more than two lectures given. Quantum simulation
       — using a quantum system to simulate dynamics of another system — has been chiefly
@@ -2789,6 +2791,14 @@
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
+  - address: ''
+    href: https://pharm.sjtu.edu.cn/report/4881.html
+    info: '基于化学生物学策略的泛素化功能及机制研究
+
+      2024-03-14'
+    person: ''
+    time: ''
+    title: 基于化学生物学策略的泛素化功能及机制研究
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/4861.html
     info: 'C-C Activation of Unstrained Substrates:from Ketones to Amides
@@ -2873,14 +2883,6 @@
     person: ''
     time: ''
     title: 钠钾ATP酶与疾病靶向钠钾ATP酶的抗体药物研发
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4738.html
-    info: '天然产物、计算模拟与药物化学:一个多维度的研究旅程
-
-      2023-10-24'
-    person: ''
-    time: ''
-    title: 天然产物、计算模拟与药物化学:一个多维度的研究旅程
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
@@ -3000,6 +3002,34 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3870.html
+    info: '20
+
+      2024-03
+
+      【学术报告】Publishing with Wiley Journals'
+    person: ''
+    time: ''
+    title: '20
+
+      2024-03
+
+      【学术报告】Publishing with Wiley Journals'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3869.html
+    info: '18
+
+      2024-03
+
+      【学术报告】True molecular resolution imaging:  Fluorescence imaging with a spatial resolution in the one-digit nanometer range'
+    person: ''
+    time: ''
+    title: '18
+
+      2024-03
+
+      【学术报告】True molecular resolution imaging:  Fluorescence imaging with a spatial resolution in the one-digit nanometer range'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3865.html
     info: '15
 
@@ -3111,34 +3141,6 @@
       2024-01
 
       【学术报告】Molecular Carbon Imides and Beyond'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3832.html
-    info: '18
-
-      2024-01
-
-      【学术报告】动态化学可循环高分子材料'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-01
-
-      【学术报告】动态化学可循环高分子材料'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3831.html
-    info: '18
-
-      2024-01
-
-      【学术报告】弹性体分子链缠结与多层次网络的耦合作用'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-01
-
-      【学术报告】弹性体分子链缠结与多层次网络的耦合作用'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -3359,6 +3361,12 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 【生研院】学术讲座系列：黄勋研究员（中国科学院动物研究所）学术报告
+    person: ''
+    time: ''
+    title: ​【生研院】学术讲座系列：黄勋研究员（中国科学院动物研究所）学术报告
+  - address: ''
+    href: null
     info: 物理学院周树云学术报告的通知（School of Physics Colloquium）
     person: ''
     time: ''
@@ -3369,15 +3377,61 @@
     person: ''
     time: ''
     title: 2024年神经科学前沿论坛（2024 Frontiers in Neuroscience）
-  - address: ''
-    href: null
-    info: “杏林·学者论坛”—高成江 教授报告会
-    person: ''
-    time: ''
-    title: “杏林·学者论坛”—高成江 教授报告会
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0314/c26342a2890504/page.htm
+    info: '生命科学学院新媒体运用能力提升专题系列培训（2024年第一期）
+
+      【主讲人：柯溢能】
+
+      时间：18:30
+
+      地点：学院234会议室
+
+      2024-03-19
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院新媒体运用能力提升专题系列培训（2024年第一期）
+
+      【主讲人：柯溢能】
+
+      时间：18:30
+
+      地点：学院234会议室
+
+      2024-03-19
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0314/c26342a2890419/page.htm
+    info: '生命科学学院系列学术讲座--杜卫国研究员学术报告
+
+      【主讲人：杜卫国】
+
+      时间：13:30
+
+      地点：生命科学学院245报告厅
+
+      2024-03-18
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--杜卫国研究员学术报告
+
+      【主讲人：杜卫国】
+
+      时间：13:30
+
+      地点：生命科学学院245报告厅
+
+      2024-03-18
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0307/c26342a2886897/page.htm
     info: '全球气候变化及不同空间尺度碳循环研究方法讨论
@@ -3610,58 +3664,6 @@
       地点：生命科学学院245报告厅
 
       2023-12-25
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2023/1212/c26342a2837538/page.htm
-    info: '生命科学学院系列学术讲座--贺强研究员学术报告
-
-      【主讲人：贺强】
-
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2023-12-22
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--贺强研究员学术报告
-
-      【主讲人：贺强】
-
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2023-12-22
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2023/1210/c26342a2836631/page.htm
-    info: '生命科学学院系列学术讲座--杨运桂研究员学术报告
-
-      【主讲人：杨运桂】
-
-      时间：14:30
-
-      地点：生命科学学院123报告厅
-
-      2023-12-13
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--杨运桂研究员学术报告
-
-      【主讲人：杨运桂】
-
-      时间：14:30
-
-      地点：生命科学学院123报告厅
-
-      2023-12-13
 
       查看详情+'
   page_title: 活动预告
