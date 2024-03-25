@@ -382,7 +382,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6142344
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6147859
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -391,6 +391,26 @@
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3410.htm
+    info: 'Pushing the boundary of chemical syntheses of glycans and glycoconjugates
+
+      本次报告主要讲解我们长达18年对环状海星皂甙的全合成研究历程。该类分子含有由刚性甾体骨架和拥挤三糖链通过糖苷键和醚键构成的16元大环的独特结构。在此漫长过程中，我们陆续完成了所有主要结构类型海洋皂苷的…
+
+      2024.03.25'
+    person: ''
+    time: ''
+    title: Pushing the boundary of  chemical syntheses of glycans and glycoconjugates
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3409.htm
+    info: '分子定制介孔晶体
+
+      金属有机框架（metal-organic framework, MOF）和共价有机框架（covalent organic framework, COF）作为由分子构筑的新型晶态孔材料能够提供分子尺度的定制化孔道，在小分子的吸附，分离及转化中已展现出优异的性…
+
+      2024.03.25'
+    person: ''
+    time: ''
+    title: 分子定制介孔晶体
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3401.htm
     info: '新型核酸药物开发和生物医学应用
@@ -435,28 +455,6 @@
     person: ''
     time: ''
     title: Chemistry and Materials  at the atomic scale
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3362.htm
-    info: 'Optics and Photonics in Flatland
-
-      In the past few decades, research on two-dimensional materials have been driven
-      by unprecedented electronic and optical properties, which project new functionalities
-      that may impact future viable te…
-
-      2023.11.20'
-    person: ''
-    time: ''
-    title: Optics and Photonics in Flatland
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3354.htm
-    info: '电解水制氢耦合催化氧化
-
-      氢能是一种绿色低碳、应用前景广阔的二次能源，其利用已纳入我国《国家创新驱动发展战略纲要》等战略规划。相比石油裂解和水煤气法，电解水制氢纯度高、碳零排放，是实现双碳目标的关键技术。然而电解水制氢面临两…
-
-      2023.11.01'
-    person: ''
-    time: ''
-    title: 电解水制氢耦合催化氧化
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -1602,74 +1600,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157212.htm
-    info: '25
-
-      Mar
-
-      Control and stabilization of PDEs
-
-      时间：2024-03-25 14:50-15:50
-
-      报告人: Amaury Hayat (École des Ponts ParisTech)'
-    person: ''
-    time: ''
-    title: '25
-
-      Mar
-
-      Control and stabilization of PDEs
-
-      时间：2024-03-25 14:50-15:50
-
-      报告人: Amaury Hayat (École des Ponts ParisTech)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157272.htm
-    info: '25
-
-      Mar
-
-      Special Probability Seminar——Stochastic calculus aspects of the Vertex Reinforced
-      Jump process
-
-      时间：2024-03-25 13:15-14:15
-
-      报告人: Christophe Sabot(Université Lyon 1)'
-    person: ''
-    time: ''
-    title: '25
-
-      Mar
-
-      Special Probability Seminar——Stochastic calculus aspects of the Vertex Reinforced
-      Jump process
-
-      时间：2024-03-25 13:15-14:15
-
-      报告人: Christophe Sabot(Université Lyon 1)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157141.htm
-    info: '25
-
-      Mar
-
-      Regularity Mechanism of Nonlinear Schrodinger Equations with Rough Potential
-
-      时间：2024-03-25 16:00-17:00
-
-      报告人: 吴奕飞（天津大学）'
-    person: ''
-    time: ''
-    title: '25
-
-      Mar
-
-      Regularity Mechanism of Nonlinear Schrodinger Equations with Rough Potential
-
-      时间：2024-03-25 16:00-17:00
-
-      报告人: 吴奕飞（天津大学）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/157183.htm
     info: '26
 
@@ -1784,6 +1714,76 @@
 
       报告人: 戴国榕（复旦大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/157321.htm
+    info: '28
+
+      Mar
+
+      Geometry and Topology Seminar——Confined subgroups in groups with contracting
+      elements
+
+      时间：2024-03-28 15:30-17:30
+
+      报告人: 杨文元（北京大学）'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      Geometry and Topology Seminar——Confined subgroups in groups with contracting
+      elements
+
+      时间：2024-03-28 15:30-17:30
+
+      报告人: 杨文元（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/157352.htm
+    info: '28
+
+      Mar
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Economics of Automated Market Making and Decentralized
+      Exchanges
+
+      时间：2024-03-38 9:00-10:00
+
+      报告人: Ciamac C. Moallemi (Columbia University)'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Economics of Automated Market Making and Decentralized
+      Exchanges
+
+      时间：2024-03-38 9:00-10:00
+
+      报告人: Ciamac C. Moallemi (Columbia University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/157355.htm
+    info: '28
+
+      Mar
+
+      应用数学青年讨论班（午餐会）—— Subspace Newton Method for Sparse Group L0 Optimization Problem
+
+      时间：2024-03-28 11:45-13:30
+
+      报告人: 廖世晨 （中国科学院大学数学科学学院）'
+    person: ''
+    time: ''
+    title: '28
+
+      Mar
+
+      应用数学青年讨论班（午餐会）—— Subspace Newton Method for Sparse Group L0 Optimization Problem
+
+      时间：2024-03-28 11:45-13:30
+
+      报告人: 廖世晨 （中国科学院大学数学科学学院）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/157285.htm
     info: '29
 
@@ -1828,27 +1828,27 @@
 
       报告人: 吴建福（美国佐治亚理工学院）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/157236.htm
-    info: '22
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157212.htm
+    info: '25
 
       Mar
 
-      School Colloquium——An Introduction to Monoidal Triangular Geometry
+      Control and stabilization of PDEs
 
-      时间：2024-03-22 14:00-15:00
+      时间：2024-03-25 14:50-15:50
 
-      报告人: Daniel Nakano (University of Georgia）'
+      报告人: Amaury Hayat (École des Ponts ParisTech)'
     person: ''
     time: ''
-    title: '22
+    title: '25
 
       Mar
 
-      School Colloquium——An Introduction to Monoidal Triangular Geometry
+      Control and stabilization of PDEs
 
-      时间：2024-03-22 14:00-15:00
+      时间：2024-03-25 14:50-15:50
 
-      报告人: Daniel Nakano (University of Georgia）'
+      报告人: Amaury Hayat (École des Ponts ParisTech)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1994,209 +1994,6 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
-- page_info:
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2442
-    info: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2397
-    info: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2380
-    info: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-    person: ''
-    time: ''
-    title: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2325
-    info: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2275
-    info: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2268
-    info: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-    person: ''
-    time: ''
-    title: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2267
-    info: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2253
-    info: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2211
-    info: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-    person: ''
-    time: ''
-    title: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2199
-    info: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/2724.htm
@@ -2355,7 +2152,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 2 days
+      2024-03-27 10:00, in a day
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2364,7 +2161,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 10 days ago
+      2024-03-15 10:30, 11 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2372,7 +2169,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 10 days ago
+      2024-03-15 09:30, 11 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2380,7 +2177,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 25 days ago
+      2024-02-29 15:00, a month ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2389,7 +2186,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 25 days ago
+      2024-02-29 13:00, a month ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -2407,7 +2204,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 2 days
+      2024-03-27 10:00, in a day
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2416,7 +2213,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 10 days ago
+      2024-03-15 10:30, 11 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2424,7 +2221,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 10 days ago
+      2024-03-15 09:30, 11 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2432,7 +2229,7 @@
 
       Shanghai Artificial Intelligence Lab
 
-      2024-02-29 15:00, 25 days ago
+      2024-02-29 15:00, a month ago
 
       Enhancing Machine-Learned Interatomic Potentials in Materials Science: Progressing
       from Accuracy to Robustness.
@@ -2441,7 +2238,7 @@
 
       University of British Columbia
 
-      2024-02-29 13:00, 25 days ago
+      2024-02-29 13:00, a month ago
 
       Hermite spectral method for the Boltzmann equation and related application in
       kinetic theory
@@ -3272,6 +3069,26 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpWGyqF2
+    info: '冯悦
+
+      IMPROVED UNIFORM ERROR BOUNDS ON TIME-SPLITTING METHODS FOR LONG-TIME DYNAMICS
+      OF DISPERSIVE PDES
+
+      2024-04-11
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '冯悦
+
+      IMPROVED UNIFORM ERROR BOUNDS ON TIME-SPLITTING METHODS FOR LONG-TIME DYNAMICS
+      OF DISPERSIVE PDES
+
+      2024-04-11
+
+      10:00 — 11:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugtyFtKF2
     info: '[MINI COURSES] 韩青
 
@@ -3451,26 +3268,6 @@
       2024-03-26
 
       14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt6FtKF2
-    info: '苏一鸣
-
-      CONSTRUCTION OF MULTI-BUBBLE BLOW-UP SOLUTIONS TO THE L2-CRITICAL HALF-WAVE
-      EQUATION
-
-      2024-03-26
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '苏一鸣
-
-      CONSTRUCTION OF MULTI-BUBBLE BLOW-UP SOLUTIONS TO THE L2-CRITICAL HALF-WAVE
-      EQUATION
-
-      2024-03-26
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -3488,6 +3285,14 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 【数学学院】张登：Multi-bubble blow-ups and multi-solitons to stochastic nonlinear
+      Schrödinger equations
+    person: ''
+    time: ''
+    title: 【数学学院】张登：Multi-bubble blow-ups and multi-solitons to stochastic nonlinear
+      Schrödinger equations
+  - address: ''
+    href: null
     info: '【数学学院】Albrecht Klemm：Calabi-Yau Varieties: Enumerative Geometry, Arithmetic
       Geometry and Physics'
     person: ''
@@ -3500,15 +3305,61 @@
     person: ''
     time: ''
     title: “杏林·名师名家论坛”—宋保亮 院士报告会
-  - address: ''
-    href: null
-    info: 【数学学院】孙文昌：Nonuniform Sobolev Spaces
-    person: ''
-    time: ''
-    title: 【数学学院】孙文昌：Nonuniform Sobolev Spaces
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0325/c26342a2894251/page.htm
+    info: '生命科学学院系列学术讲座--吴志猛教授学术报告
+
+      【主讲人：吴志猛】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-03-28
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--吴志猛教授学术报告
+
+      【主讲人：吴志猛】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-03-28
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0319/c26342a2894274/page.htm
+    info: '生命科学学院“学业领航”系列讲座——周大明研究员学术报告
+
+      【主讲人：周大明】
+
+      时间：14:00
+
+      地点：245报告厅
+
+      2024-03-29
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院“学业领航”系列讲座——周大明研究员学术报告
+
+      【主讲人：周大明】
+
+      时间：14:00
+
+      地点：245报告厅
+
+      2024-03-29
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0319/c26342a2892318/page.htm
     info: '生命科学学院“学业领航”系列讲座——李甫隆研究员学术报告
@@ -3741,58 +3592,6 @@
       地点：生命科学学院250会议室
 
       2024-01-15
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0108/c26342a2856788/page.htm
-    info: '浙江大学现代生态学青年学者论坛
-
-      【主讲人：尹华军】
-
-      时间：09:10-09:45
-
-      地点：浙江大学紫金港校区圆正启真酒店4楼阳明厅
-
-      2024-01-09
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '浙江大学现代生态学青年学者论坛
-
-      【主讲人：尹华军】
-
-      时间：09:10-09:45
-
-      地点：浙江大学紫金港校区圆正启真酒店4楼阳明厅
-
-      2024-01-09
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2023/1229/c26342a2853579/page.htm
-    info: '生命科学学院系列学术讲座--徐成冉教授学术报告
-
-      【主讲人：徐成冉教授】
-
-      时间：16:00
-
-      地点：生命科学学院245报告厅
-
-      2024-01-04
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--徐成冉教授学术报告
-
-      【主讲人：徐成冉教授】
-
-      时间：16:00
-
-      地点：生命科学学院245报告厅
-
-      2024-01-04
 
       查看详情+'
   page_title: 活动预告
