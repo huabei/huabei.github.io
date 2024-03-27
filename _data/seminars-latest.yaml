@@ -383,7 +383,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6152575
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6157460
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1234,6 +1234,20 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/6104.htm
+    info: '27
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十七期）——STEEPPING OUT OF THE COMFORT ZONE TO CHALLENGE THE UNKNOWN'
+    person: ''
+    time: ''
+    title: '27
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十七期）——STEEPPING OUT OF THE COMFORT ZONE TO CHALLENGE THE UNKNOWN'
+  - address: ''
     href: https://eecs.pku.edu.cn/info/1050/6086.htm
     info: '20
 
@@ -1373,20 +1387,6 @@
       2023-11
 
       信息科学技术学院“知存讲座”（第十七期）—— XR行业的变化与机会一一唱吧开飞的探索与实践'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/5885.htm
-    info: '08
-
-      2023-11
-
-      信息科学技术学院“知存讲座”（第十六期）—— 自动驾驶挑战与Apollo开放平台'
-    person: ''
-    time: ''
-    title: '08
-
-      2023-11
-
-      信息科学技术学院“知存讲座”（第十六期）—— 自动驾驶挑战与Apollo开放平台'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
@@ -1506,6 +1506,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/157411.htm
+    info: '2024-03-26
+
+      【兴大报告654】Rare Earths for a Sustainable Earth'
+    person: ''
+    time: ''
+    title: 【兴大报告654】Rare Earths for a Sustainable Earth
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/157373.htm
     info: '2024-03-26
 
@@ -1591,61 +1599,9 @@
     time: ''
     title: '【兴大报告652】Van der Waals Heterostructures and Superlattices beyond 2D Atomic
       Layers: Boundless Opportunities at Bondless Boundaries'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/156650.htm
-    info: '2024-02-27
-
-      【北京大学元素和金属有机化学学术报告】硼代硅宾及二硅炔化学'
-    person: ''
-    time: ''
-    title: 【北京大学元素和金属有机化学学术报告】硼代硅宾及二硅炔化学
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157278.htm
-    info: '27
-
-      Mar
-
-      Minimal Surfaces in Spheres from Random Permutations
-
-      时间：2024-03-27 09:00-10:00
-
-      报告人: Antoine Song (California Institute of Technology)'
-    person: ''
-    time: ''
-    title: '27
-
-      Mar
-
-      Minimal Surfaces in Spheres from Random Permutations
-
-      时间：2024-03-27 09:00-10:00
-
-      报告人: Antoine Song (California Institute of Technology)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157303.htm
-    info: '27
-
-      Mar
-
-      Covariant derivative of eigenfunctions along parallel tensors
-
-      时间：2024-03-27 14:10-15:10
-
-      报告人: 齐飞（丹佛大学）'
-    person: ''
-    time: ''
-    title: '27
-
-      Mar
-
-      Covariant derivative of eigenfunctions along parallel tensors
-
-      时间：2024-03-27 14:10-15:10
-
-      报告人: 齐飞（丹佛大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156755.htm
     info: '28
@@ -1852,6 +1808,50 @@
       时间：2024-04-11 14:00-15:00
 
       报告人: 林振华(新加坡国立大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157303.htm
+    info: '27
+
+      Mar
+
+      Covariant derivative of eigenfunctions along parallel tensors
+
+      时间：2024-03-27 14:10-15:10
+
+      报告人: 齐飞（丹佛大学）'
+    person: ''
+    time: ''
+    title: '27
+
+      Mar
+
+      Covariant derivative of eigenfunctions along parallel tensors
+
+      时间：2024-03-27 14:10-15:10
+
+      报告人: 齐飞（丹佛大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157278.htm
+    info: '27
+
+      Mar
+
+      Minimal Surfaces in Spheres from Random Permutations
+
+      时间：2024-03-27 09:00-10:00
+
+      报告人: Antoine Song (California Institute of Technology)'
+    person: ''
+    time: ''
+    title: '27
+
+      Mar
+
+      Minimal Surfaces in Spheres from Random Permutations
+
+      时间：2024-03-27 09:00-10:00
+
+      报告人: Antoine Song (California Institute of Technology)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2358,7 +2358,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 3 hours
+      2024-03-27 10:00, 21 hours ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2367,7 +2367,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 12 days ago
+      2024-03-15 10:30, 13 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2375,7 +2375,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 12 days ago
+      2024-03-15 09:30, 13 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2410,7 +2410,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, in 3 hours
+      2024-03-27 10:00, 21 hours ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2419,7 +2419,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 12 days ago
+      2024-03-15 10:30, 13 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2427,7 +2427,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 12 days ago
+      2024-03-15 09:30, 13 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -3349,6 +3349,24 @@
 
       14:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpWHpKF2
+    info: '[特邀报告] PROF. JÜRGEN JOST
+
+      MINIMAL GRAPHS OF HIGHER CODIMENSION
+
+      2024-04-02
+
+      16:30 — 17:30'
+    person: ''
+    time: ''
+    title: '[特邀报告] PROF. JÜRGEN JOST
+
+      MINIMAL GRAPHS OF HIGHER CODIMENSION
+
+      2024-04-02
+
+      16:30 — 17:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugt2GpKF2
     info: '[MINI COURSES] 马烺特
 
@@ -3456,24 +3474,6 @@
       2024-03-27
 
       09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugtyF2qF2
-    info: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-03-26
-
-      14:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-03-26
-
-      14:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -3491,6 +3491,12 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 【信电学院】John H Lau教授（Unimicron Technology Corporation）学术报告
+    person: ''
+    time: ''
+    title: 【信电学院】John H Lau教授（Unimicron Technology Corporation）学术报告
+  - address: ''
+    href: null
     info: 【数学学院】张登：Multi-bubble blow-ups and multi-solitons to stochastic nonlinear
       Schrödinger equations
     person: ''
@@ -3505,12 +3511,6 @@
     time: ''
     title: '【数学学院】Albrecht Klemm：Calabi-Yau Varieties: Enumerative Geometry, Arithmetic
       Geometry and Physics'
-  - address: ''
-    href: null
-    info: “杏林·名师名家论坛”—宋保亮 院士报告会
-    person: ''
-    time: ''
-    title: “杏林·名师名家论坛”—宋保亮 院士报告会
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
