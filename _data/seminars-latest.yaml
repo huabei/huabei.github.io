@@ -265,15 +265,8 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/5620.htm
+    href: https://life.tsinghua.edu.cn/info/1132/5614.htm
     info: '学术报告
-
-      26
-
-      MAR
-
-      Molecular mechanism and machinery driving unconventional secretion of FGF2,
-      a …
 
       20
 
@@ -330,11 +323,16 @@
 
       The Multitasking TMEM16F
 
-      共16条 上页12下页'
+      18
+
+      OCT
+
+      Mechano-sensitive Channels in Sensory Physiology and Development
+
+      共15条 上页12下页'
     person: ''
     time: ''
-    title: Molecular mechanism and machinery driving unconventional secretion of FGF2,
-      a potent cell survival factor mediating tumor-induced angiogenesis
+    title: Shp2, proliferative signaling, and intercellsome
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -385,7 +383,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6162870
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6168068
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -461,6 +459,16 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6017.htm
+    info: '29
+
+      三月
+
+      AI''s Certain Uncertainty Problem'
+    person: ''
+    time: ''
+    title: AI's Certain Uncertainty Problem
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/5862.htm
     info: '18
@@ -572,18 +580,6 @@
     person: ''
     time: ''
     title: 第25届全国高校计算机系主任（院长）论坛举行
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5346.htm
-    info: '29
-
-      十月
-
-      清华大学举办第三届全球计算机学科发展论坛
-
-      10月28日晚，第三届全球计算机学科发展论坛通过线上线下相结合的方式在清华大学主楼接待厅举办，并面向全球进行双语直播。全国政协第十二届委员会副主席陈元通过视频向论坛致辞，清华大学副校长王宏伟出席论坛并致辞。论坛由交叉信息研究院院长、图灵奖获得者姚期智先生和计算机系主任尹霞主持。本次论坛的主题为“新时代下计算机学科的挑战和机遇”。来自美国伊利诺伊大学香槟分校、...'
-    person: ''
-    time: ''
-    title: 清华大学举办第三届全球计算机学科发展论坛
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -707,6 +703,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/b063fcd6ad9845118fb4c33d7d69293d.htm
+    info: '2024.03.29
+
+      高尖端微量生理活性物质的质量分析'
+    person: ''
+    time: ''
+    title: 高尖端微量生理活性物质的质量分析
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/3c8dd140978c41f2a2ea341889838018.htm
     info: '2024.03.26
 
@@ -787,14 +791,6 @@
     person: ''
     time: ''
     title: “糖科学青年论坛”系列学术报告第2期
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/8cfa364d389942e5b149b072fff06f82.htm
-    info: '2024.01.10
-
-      “糖科学青年论坛”系列学术报告第1期'
-    person: ''
-    time: ''
-    title: “糖科学青年论坛”系列学术报告第1期
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1393,6 +1389,16 @@
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16987.html
+    info: '2024.03.29
+
+      The roles and features of microglia in the brain: the expected and unexpected'
+    person: ''
+    time: ''
+    title: '2024.03.29
+
+      The roles and features of microglia in the brain: the expected and unexpected'
+  - address: ''
     href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16938.html
     info: '2024.03.01
 
@@ -1494,16 +1500,6 @@
     title: '2023.11.03
 
       把”冷门“焐热，让“热门“升华 ——我平凡科研案例背后的科学与人文思考'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16779.html
-    info: '2023.10.20
-
-      Intergration of stress by transcriptional factors and its role in aging'
-    person: ''
-    time: ''
-    title: '2023.10.20
-
-      Intergration of stress by transcriptional factors and its role in aging'
   page_title: 北京大学生命科学学院
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
@@ -1605,50 +1601,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/157285.htm
-    info: '29
-
-      Mar
-
-      School Colloquium——Ergodic Theory Motivated by Conjectures in Number Theory
-
-      时间：2024-03-29 14:00-15:00
-
-      报告人: 蒋云平 (City University of New York)'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      School Colloquium——Ergodic Theory Motivated by Conjectures in Number Theory
-
-      时间：2024-03-29 14:00-15:00
-
-      报告人: 蒋云平 (City University of New York)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157296.htm
-    info: '29
-
-      Mar
-
-      A hierarchical expected improvement method for Bayesian optimization
-
-      时间：2024-03-29 16:00-17:00
-
-      报告人: 吴建福（美国佐治亚理工学院）'
-    person: ''
-    time: ''
-    title: '29
-
-      Mar
-
-      A hierarchical expected improvement method for Bayesian optimization
-
-      时间：2024-03-29 16:00-17:00
-
-      报告人: 吴建福（美国佐治亚理工学院）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157364.htm
     info: '01
 
@@ -1658,7 +1610,7 @@
 
       时间：2024-04-01 14:00-15:00
 
-      报告人: 肖惠（中国科学院）'
+      报告人: 肖惠（中国科学院数学与系统科学研究院）'
     person: ''
     time: ''
     title: '01
@@ -1669,7 +1621,7 @@
 
       时间：2024-04-01 14:00-15:00
 
-      报告人: 肖惠（中国科学院）'
+      报告人: 肖惠（中国科学院数学与系统科学研究院）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157385.htm
     info: '01
@@ -1717,6 +1669,28 @@
 
       报告人: Matthew Welsh (University of Maryland)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157496.htm
+    info: '03
+
+      Apr
+
+      Calabi-Yau Metrics on Complex Symmetric Spaces
+
+      时间：2024-04-03 09:00-10:00
+
+      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
+    person: ''
+    time: ''
+    title: '03
+
+      Apr
+
+      Calabi-Yau Metrics on Complex Symmetric Spaces
+
+      时间：2024-04-03 09:00-10:00
+
+      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157367.htm
     info: '11
 
@@ -1738,6 +1712,50 @@
       时间：2024-04-11 14:00-15:00
 
       报告人: 林振华(新加坡国立大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/157285.htm
+    info: '29
+
+      Mar
+
+      School Colloquium——Ergodic Theory Motivated by Conjectures in Number Theory
+
+      时间：2024-03-29 14:00-15:00
+
+      报告人: 蒋云平 (City University of New York)'
+    person: ''
+    time: ''
+    title: '29
+
+      Mar
+
+      School Colloquium——Ergodic Theory Motivated by Conjectures in Number Theory
+
+      时间：2024-03-29 14:00-15:00
+
+      报告人: 蒋云平 (City University of New York)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157296.htm
+    info: '29
+
+      Mar
+
+      A hierarchical expected improvement method for Bayesian optimization
+
+      时间：2024-03-29 16:00-17:00
+
+      报告人: 吴建福（美国佐治亚理工学院）'
+    person: ''
+    time: ''
+    title: '29
+
+      Mar
+
+      A hierarchical expected improvement method for Bayesian optimization
+
+      时间：2024-03-29 16:00-17:00
+
+      报告人: 吴建福（美国佐治亚理工学院）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/156755.htm
     info: '28
@@ -1832,28 +1850,6 @@
       时间：2024-03-28 11:45-13:30
 
       报告人: 廖世晨 （中国科学院大学数学科学学院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157303.htm
-    info: '27
-
-      Mar
-
-      Covariant derivative of eigenfunctions along parallel tensors
-
-      时间：2024-03-27 14:10-15:10
-
-      报告人: 齐飞（丹佛大学）'
-    person: ''
-    time: ''
-    title: '27
-
-      Mar
-
-      Covariant derivative of eigenfunctions along parallel tensors
-
-      时间：2024-03-27 14:10-15:10
-
-      报告人: 齐飞（丹佛大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2157,7 +2153,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 2 days ago
+      2024-03-27 10:00, 3 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2166,7 +2162,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 14 days ago
+      2024-03-15 10:30, 15 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2174,7 +2170,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 14 days ago
+      2024-03-15 09:30, 15 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2209,7 +2205,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 2 days ago
+      2024-03-27 10:00, 3 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2218,7 +2214,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 14 days ago
+      2024-03-15 10:30, 15 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2226,7 +2222,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 14 days ago
+      2024-03-15 09:30, 15 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2931,6 +2927,34 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3900.html
+    info: '02
+
+      2024-04
+
+      【SCCE学者讲坛（2024年3期）】有机功能材料的精确构筑及其光电性质研究'
+    person: ''
+    time: ''
+    title: '02
+
+      2024-04
+
+      【SCCE学者讲坛（2024年3期）】有机功能材料的精确构筑及其光电性质研究'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3899.html
+    info: '02
+
+      2024-04
+
+      【SCCE学者讲坛（2024年2期）】利用单粒子示踪揭示多孔介质中的传递过程'
+    person: ''
+    time: ''
+    title: '02
+
+      2024-04
+
+      【SCCE学者讲坛（2024年2期）】利用单粒子示踪揭示多孔介质中的传递过程'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3894.html
     info: '29
 
@@ -3042,37 +3066,45 @@
       2024-03
 
       【学术报告】基于有机材料的高性能电池设计'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3847.html
-    info: '01
-
-      2024-03
-
-      【学术报告】机理认知驱动的多环吲哚衍生物可控合成：从基态到激发态'
-    person: ''
-    time: ''
-    title: '01
-
-      2024-03
-
-      【学术报告】机理认知驱动的多环吲哚衍生物可控合成：从基态到激发态'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3836.html
-    info: '22
-
-      2024-01
-
-      【学术报告】微流控技术应用研究'
-    person: ''
-    time: ''
-    title: '22
-
-      2024-01
-
-      【学术报告】微流控技术应用研究'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpaFpKF2
+    info: '[吴文俊数学中心综合报告] 周天寿
+
+      基因表达全过程的模拟与分析
+
+      2024-04-19
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[吴文俊数学中心综合报告] 周天寿
+
+      基因表达全过程的模拟与分析
+
+      2024-04-19
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpWHtKF2
+    info: '[MINI COURSES] 韩青
+
+      LOEWNER-NIRENBERG问题
+
+      2024-04-16
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 韩青
+
+      LOEWNER-NIRENBERG问题
+
+      2024-04-16
+
+      14:00 — 16:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpWGyqF2
     info: '冯悦
@@ -3129,24 +3161,6 @@
       2024-04-08
 
       14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugtyFyqF2
-    info: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-04-02
-
-      14:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-04-02
-
-      14:00 — 16:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpWHpKF2
     info: '[特邀报告] PROF. JÜRGEN JOST
@@ -3255,24 +3269,6 @@
       2024-03-27
 
       09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugtyF2qF2
-    info: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-03-26
-
-      14:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 韩青
-
-      LOEWNER-NIRENBERG问题
-
-      2024-03-26
-
-      14:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
