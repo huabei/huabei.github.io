@@ -265,8 +265,21 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/5614.htm
+    href: https://life.tsinghua.edu.cn/info/1132/5674.htm
     info: '学术报告
+
+      01
+
+      APR
+
+      Roles of UFMylation in conventional and unconventional protein secretion
+
+      26
+
+      MAR
+
+      Molecular mechanism and machinery driving unconventional secretion of FGF2,
+      a …
 
       20
 
@@ -317,22 +330,10 @@
 
       Mechanism of autophagy in health and disease
 
-      18
-
-      OCT
-
-      The Multitasking TMEM16F
-
-      18
-
-      OCT
-
-      Mechano-sensitive Channels in Sensory Physiology and Development
-
-      共15条 上页12下页'
+      共17条 上页12下页'
     person: ''
     time: ''
-    title: Shp2, proliferative signaling, and intercellsome
+    title: Roles of UFMylation in conventional and unconventional protein secretion
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -383,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6173943
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6179254
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1506,6 +1507,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/157554.htm
+    info: '2024-04-01
+
+      【北京大学物理化学学术报告】上海光源材料与能源部线站及其实验方法'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】上海光源材料与能源部线站及其实验方法
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/157482.htm
     info: '2024-03-28
 
@@ -1591,17 +1600,143 @@
     person: ''
     time: ''
     title: 【北京大学物理化学学术报告】二维半导体材料超快激发态耦合动力学
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/156793.htm
-    info: '2024-03-05
-
-      【兴大报告653】Advanced Materials for Rechargeable Zinc-Air Battery'
-    person: ''
-    time: ''
-    title: 【兴大报告653】Advanced Materials for Rechargeable Zinc-Air Battery
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157464.htm
+    info: '02
+
+      Apr
+
+      The Kesten problem in higher dimensions
+
+      时间：2024-04-02 10:00-11:00
+
+      报告人: Matthew Welsh (University of Maryland)'
+    person: ''
+    time: ''
+    title: '02
+
+      Apr
+
+      The Kesten problem in higher dimensions
+
+      时间：2024-04-02 10:00-11:00
+
+      报告人: Matthew Welsh (University of Maryland)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157496.htm
+    info: '03
+
+      Apr
+
+      Calabi-Yau Metrics on Complex Symmetric Spaces
+
+      时间：2024-04-03 09:00-10:00
+
+      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
+    person: ''
+    time: ''
+    title: '03
+
+      Apr
+
+      Calabi-Yau Metrics on Complex Symmetric Spaces
+
+      时间：2024-04-03 09:00-10:00
+
+      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157538.htm
+    info: '04
+
+      Apr
+
+      Singularity Formation in Geometric Wave Equations
+
+      时间：2024-04-04 15:00-17:00
+
+      报告人: Joachim Krieger (Ecole polytechnique fédérale de Lausanne)'
+    person: ''
+    time: ''
+    title: '04
+
+      Apr
+
+      Singularity Formation in Geometric Wave Equations
+
+      时间：2024-04-04 15:00-17:00
+
+      报告人: Joachim Krieger (Ecole polytechnique fédérale de Lausanne)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/157517.htm
+    info: '08
+
+      Apr
+
+      Minimax optimality and generalization mechanism of foundation models
+
+      时间：2024-04-08 14:00-15:00pm
+
+      报告人: Taiji Suzuki (The University of Tokyo)'
+    person: ''
+    time: ''
+    title: '08
+
+      Apr
+
+      Minimax optimality and generalization mechanism of foundation models
+
+      时间：2024-04-08 14:00-15:00pm
+
+      报告人: Taiji Suzuki (The University of Tokyo)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157532.htm
+    info: '08
+
+      Apr
+
+      Branching Brownian motion, branching random walks, and the Fisher-KPP equation
+      in spatially random environment
+
+      时间：2024-04-08 14:00-15:00
+
+      报告人: Alexander Drewitz (University of Cologne)'
+    person: ''
+    time: ''
+    title: '08
+
+      Apr
+
+      Branching Brownian motion, branching random walks, and the Fisher-KPP equation
+      in spatially random environment
+
+      时间：2024-04-08 14:00-15:00
+
+      报告人: Alexander Drewitz (University of Cologne)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157367.htm
+    info: '11
+
+      Apr
+
+      Statistical Inference for High-Dimensional and Functional Data via Bootstrapping
+
+      时间：2024-04-11 14:00-15:00
+
+      报告人: 林振华(新加坡国立大学)'
+    person: ''
+    time: ''
+    title: '11
+
+      Apr
+
+      Statistical Inference for High-Dimensional and Functional Data via Bootstrapping
+
+      时间：2024-04-11 14:00-15:00
+
+      报告人: 林振华(新加坡国立大学)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157364.htm
     info: '01
@@ -1648,72 +1783,6 @@
       时间：2024-04-01 16:00-17:00
 
       报告人: 周书涵（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157464.htm
-    info: '02
-
-      Apr
-
-      The Kesten problem in higher dimensions
-
-      时间：2024-04-02 10:00-11:00
-
-      报告人: Matthew Welsh (University of Maryland)'
-    person: ''
-    time: ''
-    title: '02
-
-      Apr
-
-      The Kesten problem in higher dimensions
-
-      时间：2024-04-02 10:00-11:00
-
-      报告人: Matthew Welsh (University of Maryland)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157496.htm
-    info: '03
-
-      Apr
-
-      Calabi-Yau Metrics on Complex Symmetric Spaces
-
-      时间：2024-04-03 09:00-10:00
-
-      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
-    person: ''
-    time: ''
-    title: '03
-
-      Apr
-
-      Calabi-Yau Metrics on Complex Symmetric Spaces
-
-      时间：2024-04-03 09:00-10:00
-
-      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157367.htm
-    info: '11
-
-      Apr
-
-      Statistical Inference for High-Dimensional and Functional Data via Bootstrapping
-
-      时间：2024-04-11 14:00-15:00
-
-      报告人: 林振华(新加坡国立大学)'
-    person: ''
-    time: ''
-    title: '11
-
-      Apr
-
-      Statistical Inference for High-Dimensional and Functional Data via Bootstrapping
-
-      时间：2024-04-11 14:00-15:00
-
-      报告人: 林振华(新加坡国立大学)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/157285.htm
     info: '29
@@ -1782,76 +1851,6 @@
       时间：2024-03-28 14:00-15:00
 
       报告人: 戴国榕（复旦大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/157321.htm
-    info: '28
-
-      Mar
-
-      Geometry and Topology Seminar——Confined subgroups in groups with contracting
-      elements
-
-      时间：2024-03-28 15:30-17:30
-
-      报告人: 杨文元（北京大学）'
-    person: ''
-    time: ''
-    title: '28
-
-      Mar
-
-      Geometry and Topology Seminar——Confined subgroups in groups with contracting
-      elements
-
-      时间：2024-03-28 15:30-17:30
-
-      报告人: 杨文元（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/157352.htm
-    info: '28
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Economics of Automated Market Making and Decentralized
-      Exchanges
-
-      时间：2024-03-28 9:00-10:00
-
-      报告人: Ciamac C. Moallemi (Columbia University)'
-    person: ''
-    time: ''
-    title: '28
-
-      Mar
-
-      (北京大学数量经济与数理金融教育部重点实验室)学术报告——The Economics of Automated Market Making and Decentralized
-      Exchanges
-
-      时间：2024-03-28 9:00-10:00
-
-      报告人: Ciamac C. Moallemi (Columbia University)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/157355.htm
-    info: '28
-
-      Mar
-
-      应用数学青年讨论班（午餐会）—— Subspace Newton Method for Sparse Group L0 Optimization Problem
-
-      时间：2024-03-28 11:45-13:30
-
-      报告人: 廖世晨 （中国科学院大学数学科学学院）'
-    person: ''
-    time: ''
-    title: '28
-
-      Mar
-
-      应用数学青年讨论班（午餐会）—— Subspace Newton Method for Sparse Group L0 Optimization Problem
-
-      时间：2024-03-28 11:45-13:30
-
-      报告人: 廖世晨 （中国科学院大学数学科学学院）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1997,209 +1996,6 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
-- page_info:
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2442
-    info: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2397
-    info: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2380
-    info: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-    person: ''
-    time: ''
-    title: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2325
-    info: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2275
-    info: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2268
-    info: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-    person: ''
-    time: ''
-    title: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2267
-    info: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2253
-    info: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2211
-    info: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-    person: ''
-    time: ''
-    title: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2199
-    info: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/2744.htm
@@ -2358,7 +2154,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 5 days ago
+      2024-03-27 10:00, 6 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2367,7 +2163,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 17 days ago
+      2024-03-15 10:30, 18 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2375,7 +2171,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 17 days ago
+      2024-03-15 09:30, 18 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2410,7 +2206,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 5 days ago
+      2024-03-27 10:00, 6 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2419,7 +2215,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 17 days ago
+      2024-03-15 10:30, 18 days ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2427,7 +2223,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 17 days ago
+      2024-03-15 09:30, 18 days ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2464,7 +2260,91 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '丁奎岭校长赴自然科学研究院调研
+    info: '上海交通大学周栋焯和李松挺团队及其合作者在大脑神经元网络的结构连接重构方面取得重要进展
+
+      近日，上海交通大学自然科学研究院、数学科学学院周栋焯，李松挺和他们的博士毕业生田中棋，博士研究生陈开及其合作者推导了不同因果性度量之间的定量数学关系，并将其运用于脉冲输出的时间序列系统，成功建立了重构脉冲输出网络的连接结构的理论与计算框架。此项研究成果以"Causal
+      connectivity measures for pulse-output network reconstruction: analysis and
+      applications"为题，于2024年3月29日在美国科学院院刊Proceedings of the National Academy of Sciences
+      of the United States of America（PNAS）上在线发表。在神经科学中，准确测量神经元网络的突触连接结构信息对于理解网络结构、动力学和认知功能等均具有重要意义。然而，由于大脑神经元网络具有跨尺度的高度复杂连接结构，基于目前的神经科学实验技术，大规模直接测量神经元网络内的完整突触连接结构存在较大困难。不过，随着如神经像素电极、双光子钙成像等实验测量技术的出现与发展，人们可以同时记录数以万计的神经元活动数据。而基于这些数据，是否能够结合和发展因果性分析的数学工具，从而准确高效地推断网络的结构连接是计算神经科学领域尚未解决的重要科学问题。通常，人们将基于因果性度量计算得到的连接关系称作网络的因果连接，而将神经元之间的突触连接称作网络的结构连接。前期研究发现，网络的因果连接与结构连接不完全相同，且不同因果性度量一般会得到不同的因果连接关系。然而，目前对于不同因果性度量之间的关系，以及因果连接与结构连接之间的关系仍缺乏定量且实用的数学理论。本研究关注神经元的脉冲信号分析，首先推导了四种常用因果性度量（时滞相关系数、时滞互信息、格兰杰因果关系和传递熵）在计算神经元脉冲输出信号的因果连接时彼此之间的数学理论关系，并且在经典的霍奇金-赫胥黎神经元模型网络（HH网络）和真实的小鼠脑网络中，验证了理论的有效性。此外，研究证明了上述四种因果性度量计算的因果连接都与网络的结构连接高度一致，理论上揭示了因果连接和结构连接之间的定量关系（图A）。随后，本研究建立了基于因果连接重构网络的结构连接的计算框架（图B）。该框架准确地重构了HH网络（图C）、LIF兴奋抑制均衡态网络等多种神经元网络模型的结构连接，且重构广泛适用于不同动力学区域的网络。需特别指出的是，在该框架中，结构连接的重构不需要知晓网络的全局活动信息，从而规避了传统重构方法中的“维数灾难”问题。最后，本研究展示了重构框架在真实实验数据中的有效应用。根据对小鼠观看不同种类视觉影像时记录得到的神经元活动的脉冲序列数据（图D）进行结构连接的重构，取得了较好的重构效果（图E）。并且对比同一老鼠在不同视觉刺激条件下所重构的结构连接，其相互一致性程度较高。本工作提出了适用于多种因果性度量来重构网络结构连接的理论和算法框架，为理解不同因果性度量之间关系以及因果连接与结构连接之间关系奠定了数学理论基础，并对研究以脉冲信号为输出的一般非线性网络的因果连接与结构连接关系具有重要意义。A.
+      四种因果连接强度与结构连接强度的定量关系，其中灰色星标曲线为二次函数拟合曲线。B. 基于因果连接的结构连接重构框架流程图。C. HH网络的结构连接重构。图中为网络内所有神经元对的因果连接强度在对数坐标下的统计分布（呈现明显的双峰结构），其中左侧较宽的分布为没有直接结构连接的神经元对的因果连接强度的分布，而右侧较窄的分布为有直接结构连接的神经元对的因果连接强度的分布。D.
+      实验中小鼠接受不同视觉影像刺激时记录大脑神经元活动的示意图。E. 四种视觉刺激条件下分别重构的因果连接强度在对数坐标下的统计分布（内嵌子图）以及结构连接的重构效果（ROC曲线）。上海交通大学博士毕业生田中棋和在读博士生陈开为论文共同第一作者，上海交通大学李松挺教授，纽约大学David
+      W. McLaughlin教授，上海交通大学周栋焯教授为论文共同通讯作者。工作得到了国家自然科学基金委、科技部、上海市科委等基金支持。Recently,
+      Douglas Zhou and Songting Li from the Institute of Natural Sciences and the
+      School of Mathematical Sciences at Shanghai Jiao Tong University, along with
+      their students Zhong-qi Tian, Kai Chen, and their collaborators, have derived
+      quantitative mathematical relationships between different causality measures
+      and applied them to pulse-output time series systems. They have successfully
+      established a framework for reconstructing the connectivity structure of pulse-output
+      networks. This research work, titled "Causal connectivity measures for pulse-output
+      network reconstruction: analysis and applications", was published online in
+      PNAS on March 29, 2024.In neuroscience, accessing the structural connectivity
+      of cortical networks at the synaptic level is of great significance for understanding
+      the network structure, dynamics, and cognitive functions. However, due to the
+      complexity of the multi-scale cortical network structure, it is very difficult
+      to directly measure the complete synaptic structural connectivity in the cortical
+      network with current experimental technology. However, with the emergence and
+      development of measuring technologies, such as Neuropixel electrodes and two-photon
+      calcium imaging, it is possible to simultaneously record neural activity data
+      from tens of thousands of neurons. The critical scientific inquiry in computational
+      neuroscience is whether we can adapt and develop mathematical tools for causality
+      analysis that would allow us to accurately and effectively infer the structural
+      connectivity of a network from its neural activity data.According to previous
+      studies, the connectivity directly calculated by the causality measure, denoted
+      as causal connectivity, differs from that of measured actual synaptic connectivity,
+      referred to as structural connectivity. Different causality measures might result
+      in different causal connectivities. However, there is a lack of quantitative
+      and applicable mathematical theory regarding the relationship between different
+      causality measures, as well as the relationship between causal connectivity
+      and structure connectivity.This work focuses on the analysis of neuronal pulse-output
+      spike signals. It first provides the theoretical proof of the quantitative relationship
+      between four commonly used causality measures (time-delay correlation coefficient,
+      time-delay mutual information, Granger causality, and transfer entropy) in calculating
+      the causal connectivity based on neuronal pulse-output spike signals, and verifies
+      the validity of the theory in the classical Hodgkin-Huxley (HH) neuronal networks
+      and a real mouse brain network. In addition, the research proves that the causal
+      connectivity inferred by any of the four measures is highly consistent with
+      the underlying structural connectivity of the network, theoretically revealing
+      the relation between causal connectivity and structural connectivity (Fig. A).
+      Subsequently, based on the theory above, this research established a framework
+      for reconstructing structural connectivity based on causal connectivity (Fig.
+      B). The framework has accurately reconstructed the structural connectivity of
+      various types of neuronal networks, including HH networks (Fig. C), LIF excitatory-inhibitory
+      balanced networks, etc., and is applicable to pulse-output networks in different
+      dynamical regimes. It is worth noting that the structural connectivity in the
+      pulse-output network can be reconstructed pairwise without conditioning on the
+      global information of all other nodes in the network, thereby circumventing
+      the curse of dimensionality. Finally, this research shows the effective application
+      of the reconstruction framework in the real experimental data. The structural
+      connectivity is reconstructed based on the spike-train data of neuronal activities
+      simultaneously recorded from mouse cortex when the mouse was watching various
+      types of visual stimuli (Fig. D), achieving good reconstruction results (Fig.
+      E). The consistency of the reconstructed structural connectivities under different
+      visual stimuli for the same mouse is quite high.This work proposes a theoretical
+      and algorithmic framework for reconstructing structural connectivity that is
+      applicable to various causality measures. It lays a mathematical theoretical
+      foundation for understanding the quantitative relationships between different
+      causality measures as well as the relationships between causal and structural
+      connectivity. This is of great significance for better understanding the relationships
+      between the causal and structural connectivity of general nonlinear pulse-output
+      networks.A. The relation between the strengths of causal and structural connectivity.
+      The gray star curve is the quadratic fit. B. The pipeline of reconstruction.
+      C. Performance of reconstruction in HH network. The distribution of causal values
+      shows a clear bimodal distribution in the log scale, with the left peak indicating
+      the pairs without direct connections and the right peak indicating pairs with
+      direct synaptic connections. D. The sketch of recording neural activity in a
+      mouse cortical network using Neuropixels. E. Performance of reconstruction using
+      spike-train data recorded in different visual stimuli (ROC curves). Insets are
+      the distributions of causal values.Former PhD student Zhong-qi Tian and PhD
+      student Kai Chen from SJTU are the co-first authors of the paper. Prof. Songting
+      Li from SJTU, Prof. David W. McLaughlin from New York University, and Prof.
+      Douglas Zhou from SJTU are the co-corresponding authors of the paper. The work
+      has been supported by the National Natural Science Foundation of China, the
+      Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
+      Commission.
+
+      2024-04-01
+
+      丁奎岭校长赴自然科学研究院调研
 
       2024年3月21日上午，上海交通大学校长、中国科学院院士丁奎岭赴自然科学研究院调研。学校党委常委、副校长徐学敏，改革与发展研究室、研究生院、科研院、人力资源处等部门主要负责同志随从调研。自然科学研究院领导班子成员、教师代表等参加座谈交流。会议由自然科学研究院常务副院长王维克主持。交流会上，自然科学研究院院长金石首先介绍了研究院的发展历史、人才培养、主要研究方向以及取得的重要研究成果。他尤其强调，近五年来，研究院在人工智能、生命科学和量子计算领域引进了一批优秀青年人才，并在相关领域取得了一批重要成果。这些领域与刚结束的2024年全国两会《政府工作报告》关于国家未来新产业发展布局高度吻合。随后，副校长徐学敏主持了交流环节，与会人员就研究院的发展目标、学科交叉特色、科研平台的建设规划、国际合作与交流等议题进行了深入探讨。在总结讲话中，丁奎岭校长对自然科学研究院所取得的成绩给予了高度评价，并对研究院的未来发展提出了殷切期望。他强调，自然科学研究院应当继续发挥其在跨学科研究中的独特优势，抓住人工智能技术快速发展的机遇，以世界一流的标准来规划布局，不断提升科研创新能力。丁校长特别指出，人才队伍的建设是推动研究院向前发展的关键所在，应坚持引进与培养并重的策略，持续吸引和培育顶尖人才及有潜力的青年学者，为他们的成长提供良好的环境，从而打造出一支国际领先的人才团队。他同时鼓励研究院的教师们不仅要致力于原创性的学术研究，还要主动对接国家发展战略需求，努力在国际学术界取得突破性研究成果，以推动研究院的长远发展。
 
@@ -2632,68 +2512,94 @@
       Young 教授讲座孙若愚教授讲座1月16日上午，上海交通大学博士生杜雪兴围绕“基于BrainPy的神经元网络动力学建模模拟与参数拟合”进行第一次Tutorial。下午，北京师范大学柳昀哲教授围绕“学习和发育过程中认知地图的建立”专题作主题演讲报告，介绍相关研究的最新进展，并与现场参会师生就报告内容进行问答与探讨。博士生杜雪兴Tutorial柳昀哲教授讲座1月17日，麻省理工学院杨光宇教授围绕“认知神经科学的多系统网络模型”主题作演讲报告，并在线与参会听众进行讨论与交流。随后上海交通大学博士生杨博然围绕“人脑连接组图谱数据的可视化与建模实践”进行第二次Tutorial。杨光宇教授讲座博士生杨博然Tutorial1月18日，参会的老师同学们通过个人展示的方式，分享了各自的学术背景和研究兴趣。并在随后的午餐会中围绕相关议题进行了深入的交流，促进了学术思想的碰撞和融合。参会的老师，同学们个人展示1月19日，中科院深圳先进技术研究院的周鹏程教授围绕“现代神经数据处理：神经科学与机器学习交叉”主题作演讲报告，西安交通大学黄子罡教授围绕“神经调质系统的作用及其动力学建模”主题作演讲报告，并与现场听众进行精彩的互动。
       周鹏程教授讲座黄子罡教授讲座1月20日，以“皮层多脑区的分布式动力学与认知功能”为主题，纽约大学全球杰出教授汪小京教授作主题演讲报告，上海临港实验室李澄宇教授以“认知相关的动态细胞集群”为主题，作主题演讲报告，并与参会听众进行了热烈的讨论与交流。汪小京教授讲座李澄宇教授讲座本次冬季班课程涵盖了实验神经科学和理论计算神经科学两个领域，授课老师均是神经科学领域的前沿研究者，他们渊博的学识和精彩的讲座给学员们留下了深刻的印象。在课程交流环节，来自各地、具有不同学科背景的学员们提出的问题，既激发了授课老师的思考，也促进了课程的深入开展。这与计算神经科学冬季班的办学初衷，即促进学科交叉融合、培养创新人才的目标高度契合。冬季班旨在搭建神经科学与其他自然科学学科及工程学科的交流合作平台，通过学科交叉融合，促进神经科学研究的创新发展，为国家脑计划与类脑人工智能计划的实施提供有力的人才支撑。
 
-      2024-01-21
-
-      上海交大张小群教授、丁乔乔博士和博士生赵煜中提出的“基于标准化流的自编码器医疗图像异常检测算法”入选“2023年度中国医学人工智能代表性算法”
-
-      2023年12月5日，备受关注的“2023年度中国医学人工智能代表性算法”评选结果揭晓，上海交通大学自然科学研究院、数学科学学院张小群教授、上海国家应用数学中心（上海交通大学分中心）丁乔乔博士和数学科学学院博士生赵煜中提出的“基于标准化流的自编码器医疗图像异常检测算法”入选。中国医学人工智能代表性算法每年评选一次，每年仅认定不超过三项代表性算法，由拥有法人资质的单位或相关领域的专业权威提名。本届评选由中国生物医学工程学会医学人工智能分会、中国工业与应用数学学会数学与医学交叉学科专业委员会、数学图像联盟于2023年12月5日联合主办，由同行专家组成评审团队。最终结果获得全国科学技术名词审定委员会医学人工智能名词审定委员会的审批通过。12月22日，2023中国医学人工智能大会举行颁奖仪式，浙江省科协党组成员、副主席武传宇为张小群教授颁发荣誉证书。关于2023中国医学人工智能大会
-      中国生物医学工程学会于2023年12月21-23日在浙江省杭州市举办“2023中国医学人工智能大会”。开幕式上，大会主席万遂人致欢迎辞，浙江省副省长杨青玖，杭州市委常委胥伟华，西湖区区委书记董毓民、副区长陆夏峰等重要领导出席会议并发表讲话。本次大会以“医学人工智能赋能大健康创新发展”为主题，邀请国内外医学人工智能的知名专家及学者深入探讨医学人工智能发展的前沿趋势，助推医学人工智能创新发展。基于标准化流的自编码器医疗图像异常检测算法在医学领域，异常图像的检测对于临床筛查和诊断具有至关重要的作用。然而，异常样本在临床实践中数量较少，为开发一个有效的人工智能模型带来了挑战。为了解决样本不平衡这一问题，张小群教授、丁乔乔博士和博士生赵煜中提出了“基于标准化流的自编码器算法”。该算法旨在模拟放射科医生诊断异常的过程，采用基于标准化流的自编码器架构，训练过程中仅使用正常样本，通过学习正常医学图像特征到标准正态分布的映射，实现图像级别和像素级别的异常检测。不同于传统的基于重建的方法，该网络模型通过多尺度建模在像素级别层级和特征层级进行特征建模，设计基于特征似然分数与图像重构误差的损失函数与异常分数计算，提升了异常检测的准确性，同时也增加了模型对于异常特征的解释能力。经过多个公开数据集的综合评估，本模型在检测准确性方面均展现出较其他模型更加优越的性能。相关论文发表于ICLR2023。
-      On December 5, 2023, the results of the selection for the "2023 Representative
-      Algorithms in Chinese Medical Artificial Intelligence" were announced, and the
-      "AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection"
-      proposed by Professor Zhang Xiaoqun (School of Mathematical Sciences and Institute
-      of Natural Sciences), Dr. Ding Qiaoqiao (Shanghai National Center for Applied
-      Mathematics (SJTU Center)), and Dr. Zhao Yuzhong (School of Mathematical Sciences)
-      from Shanghai Jiao Tong University was included.According to reports, the selection
-      of representative artificial intelligence (AI) algorithms in Chinese medicine
-      takes place annually, with no more than three algorithms recognized each year.
-      Nominations are submitted by entities with legal qualifications or authoritative
-      professionals in relevant fields. The current selection, jointly organized by
-      the Chinese Biomedical Engineering Society''s Medical Artificial Intelligence
-      Branch, the Chinese Society of Industrial and Applied Mathematics'' Committee
-      on Mathematics and Medical Interdisciplinary Studies, and the Mathematical Image
-      Alliance, took place on December 5, 2023, attracting peer experts to form the
-      judging panel. The final results received approval from the Medical Artificial
-      Intelligence Nomenclature Committee of the National Committee on Science and
-      Technology Terms.On December 22, 2023, the Award Ceremony of the 2023 China
-      Medical Artificial Intelligence Conference was held. Wu Chuanyu, a member of
-      the Party Group and Vice Chairman of the Zhejiang Provincial Association for
-      Science and Technology, presented Professor Zhang Xiaoqun with an honorary certificate.About
-      the 2023 China Medical Artificial Intelligence ConferenceThe 2023 China Medical
-      Artificial Intelligence Conference was organized by the Chinese Society of Biomedical
-      Engineering and took place in Hangzhou, Zhejiang Province, from December 21
-      to 23. The opening ceremony featured a welcome address by the conference chairman,
-      Wan Suiren. Important leaders such as Yang Qingjiu, Vice Governor of Zhejiang
-      Province, Xu Weihua, Member of the Hangzhou Municipal Party Committee, Dong
-      Yumin, Secretary of the West Lake District Party Committee, and Lu Xiafeng,
-      Deputy District Mayor, attended the conference and delivered speeches.The theme
-      of this conference was "Empowering Healthcare Innovation through Medical Artificial
-      Intelligence." Renowned experts and scholars in the field of medical artificial
-      intelligence from both domestic and international backgrounds were invited to
-      delve into the cutting-edge trends in the development of medical artificial
-      intelligence. The aim was to contribute to the innovative development of medical
-      artificial intelligence by fostering in-depth discussions and insights into
-      its future prospects.AE-FLOW: Autoencoders with Normalizing Flows for Medical
-      Images Anomaly DetectionAnomaly detection from medical images is an important
-      task for clinical screening and diagnosis. In general, a large dataset of normal
-      images are available while only few abnormal images can be collected in clinical
-      practice. By mimicking the diagnosis process of radiologists, we attempt to
-      tackle this problem by learning a tractable distribution of normal images and
-      identify anomalies by differentiating the original image and the reconstructed
-      normal image. More specifically, we propose a normalizing flow-based autoencoder
-      for an efficient and tractable representation of normal medical images. The
-      anomaly score consists of the likelihood originated from the normalizing flow
-      and the reconstruction error of the autoencoder, which allows to identify the
-      abnormality and provide an interpretability at both image and pixel levels.
-      Experimental evaluation on two medical images datasets showed that the proposed
-      model outperformed the other approaches by a large margin, which validated the
-      effectiveness and robustness of the proposed method. The relevant paper was
-      published at ICLR 2023 (International Conference on Learning Representations).
-
-      2023-12-22'
+      2024-01-21'
     person: ''
     time: ''
-    title: '丁奎岭校长赴自然科学研究院调研
+    title: '上海交通大学周栋焯和李松挺团队及其合作者在大脑神经元网络的结构连接重构方面取得重要进展
+
+      近日，上海交通大学自然科学研究院、数学科学学院周栋焯，李松挺和他们的博士毕业生田中棋，博士研究生陈开及其合作者推导了不同因果性度量之间的定量数学关系，并将其运用于脉冲输出的时间序列系统，成功建立了重构脉冲输出网络的连接结构的理论与计算框架。此项研究成果以"Causal
+      connectivity measures for pulse-output network reconstruction: analysis and
+      applications"为题，于2024年3月29日在美国科学院院刊Proceedings of the National Academy of Sciences
+      of the United States of America（PNAS）上在线发表。在神经科学中，准确测量神经元网络的突触连接结构信息对于理解网络结构、动力学和认知功能等均具有重要意义。然而，由于大脑神经元网络具有跨尺度的高度复杂连接结构，基于目前的神经科学实验技术，大规模直接测量神经元网络内的完整突触连接结构存在较大困难。不过，随着如神经像素电极、双光子钙成像等实验测量技术的出现与发展，人们可以同时记录数以万计的神经元活动数据。而基于这些数据，是否能够结合和发展因果性分析的数学工具，从而准确高效地推断网络的结构连接是计算神经科学领域尚未解决的重要科学问题。通常，人们将基于因果性度量计算得到的连接关系称作网络的因果连接，而将神经元之间的突触连接称作网络的结构连接。前期研究发现，网络的因果连接与结构连接不完全相同，且不同因果性度量一般会得到不同的因果连接关系。然而，目前对于不同因果性度量之间的关系，以及因果连接与结构连接之间的关系仍缺乏定量且实用的数学理论。本研究关注神经元的脉冲信号分析，首先推导了四种常用因果性度量（时滞相关系数、时滞互信息、格兰杰因果关系和传递熵）在计算神经元脉冲输出信号的因果连接时彼此之间的数学理论关系，并且在经典的霍奇金-赫胥黎神经元模型网络（HH网络）和真实的小鼠脑网络中，验证了理论的有效性。此外，研究证明了上述四种因果性度量计算的因果连接都与网络的结构连接高度一致，理论上揭示了因果连接和结构连接之间的定量关系（图A）。随后，本研究建立了基于因果连接重构网络的结构连接的计算框架（图B）。该框架准确地重构了HH网络（图C）、LIF兴奋抑制均衡态网络等多种神经元网络模型的结构连接，且重构广泛适用于不同动力学区域的网络。需特别指出的是，在该框架中，结构连接的重构不需要知晓网络的全局活动信息，从而规避了传统重构方法中的“维数灾难”问题。最后，本研究展示了重构框架在真实实验数据中的有效应用。根据对小鼠观看不同种类视觉影像时记录得到的神经元活动的脉冲序列数据（图D）进行结构连接的重构，取得了较好的重构效果（图E）。并且对比同一老鼠在不同视觉刺激条件下所重构的结构连接，其相互一致性程度较高。本工作提出了适用于多种因果性度量来重构网络结构连接的理论和算法框架，为理解不同因果性度量之间关系以及因果连接与结构连接之间关系奠定了数学理论基础，并对研究以脉冲信号为输出的一般非线性网络的因果连接与结构连接关系具有重要意义。A.
+      四种因果连接强度与结构连接强度的定量关系，其中灰色星标曲线为二次函数拟合曲线。B. 基于因果连接的结构连接重构框架流程图。C. HH网络的结构连接重构。图中为网络内所有神经元对的因果连接强度在对数坐标下的统计分布（呈现明显的双峰结构），其中左侧较宽的分布为没有直接结构连接的神经元对的因果连接强度的分布，而右侧较窄的分布为有直接结构连接的神经元对的因果连接强度的分布。D.
+      实验中小鼠接受不同视觉影像刺激时记录大脑神经元活动的示意图。E. 四种视觉刺激条件下分别重构的因果连接强度在对数坐标下的统计分布（内嵌子图）以及结构连接的重构效果（ROC曲线）。上海交通大学博士毕业生田中棋和在读博士生陈开为论文共同第一作者，上海交通大学李松挺教授，纽约大学David
+      W. McLaughlin教授，上海交通大学周栋焯教授为论文共同通讯作者。工作得到了国家自然科学基金委、科技部、上海市科委等基金支持。Recently,
+      Douglas Zhou and Songting Li from the Institute of Natural Sciences and the
+      School of Mathematical Sciences at Shanghai Jiao Tong University, along with
+      their students Zhong-qi Tian, Kai Chen, and their collaborators, have derived
+      quantitative mathematical relationships between different causality measures
+      and applied them to pulse-output time series systems. They have successfully
+      established a framework for reconstructing the connectivity structure of pulse-output
+      networks. This research work, titled "Causal connectivity measures for pulse-output
+      network reconstruction: analysis and applications", was published online in
+      PNAS on March 29, 2024.In neuroscience, accessing the structural connectivity
+      of cortical networks at the synaptic level is of great significance for understanding
+      the network structure, dynamics, and cognitive functions. However, due to the
+      complexity of the multi-scale cortical network structure, it is very difficult
+      to directly measure the complete synaptic structural connectivity in the cortical
+      network with current experimental technology. However, with the emergence and
+      development of measuring technologies, such as Neuropixel electrodes and two-photon
+      calcium imaging, it is possible to simultaneously record neural activity data
+      from tens of thousands of neurons. The critical scientific inquiry in computational
+      neuroscience is whether we can adapt and develop mathematical tools for causality
+      analysis that would allow us to accurately and effectively infer the structural
+      connectivity of a network from its neural activity data.According to previous
+      studies, the connectivity directly calculated by the causality measure, denoted
+      as causal connectivity, differs from that of measured actual synaptic connectivity,
+      referred to as structural connectivity. Different causality measures might result
+      in different causal connectivities. However, there is a lack of quantitative
+      and applicable mathematical theory regarding the relationship between different
+      causality measures, as well as the relationship between causal connectivity
+      and structure connectivity.This work focuses on the analysis of neuronal pulse-output
+      spike signals. It first provides the theoretical proof of the quantitative relationship
+      between four commonly used causality measures (time-delay correlation coefficient,
+      time-delay mutual information, Granger causality, and transfer entropy) in calculating
+      the causal connectivity based on neuronal pulse-output spike signals, and verifies
+      the validity of the theory in the classical Hodgkin-Huxley (HH) neuronal networks
+      and a real mouse brain network. In addition, the research proves that the causal
+      connectivity inferred by any of the four measures is highly consistent with
+      the underlying structural connectivity of the network, theoretically revealing
+      the relation between causal connectivity and structural connectivity (Fig. A).
+      Subsequently, based on the theory above, this research established a framework
+      for reconstructing structural connectivity based on causal connectivity (Fig.
+      B). The framework has accurately reconstructed the structural connectivity of
+      various types of neuronal networks, including HH networks (Fig. C), LIF excitatory-inhibitory
+      balanced networks, etc., and is applicable to pulse-output networks in different
+      dynamical regimes. It is worth noting that the structural connectivity in the
+      pulse-output network can be reconstructed pairwise without conditioning on the
+      global information of all other nodes in the network, thereby circumventing
+      the curse of dimensionality. Finally, this research shows the effective application
+      of the reconstruction framework in the real experimental data. The structural
+      connectivity is reconstructed based on the spike-train data of neuronal activities
+      simultaneously recorded from mouse cortex when the mouse was watching various
+      types of visual stimuli (Fig. D), achieving good reconstruction results (Fig.
+      E). The consistency of the reconstructed structural connectivities under different
+      visual stimuli for the same mouse is quite high.This work proposes a theoretical
+      and algorithmic framework for reconstructing structural connectivity that is
+      applicable to various causality measures. It lays a mathematical theoretical
+      foundation for understanding the quantitative relationships between different
+      causality measures as well as the relationships between causal and structural
+      connectivity. This is of great significance for better understanding the relationships
+      between the causal and structural connectivity of general nonlinear pulse-output
+      networks.A. The relation between the strengths of causal and structural connectivity.
+      The gray star curve is the quadratic fit. B. The pipeline of reconstruction.
+      C. Performance of reconstruction in HH network. The distribution of causal values
+      shows a clear bimodal distribution in the log scale, with the left peak indicating
+      the pairs without direct connections and the right peak indicating pairs with
+      direct synaptic connections. D. The sketch of recording neural activity in a
+      mouse cortical network using Neuropixels. E. Performance of reconstruction using
+      spike-train data recorded in different visual stimuli (ROC curves). Insets are
+      the distributions of causal values.Former PhD student Zhong-qi Tian and PhD
+      student Kai Chen from SJTU are the co-first authors of the paper. Prof. Songting
+      Li from SJTU, Prof. David W. McLaughlin from New York University, and Prof.
+      Douglas Zhou from SJTU are the co-corresponding authors of the paper. The work
+      has been supported by the National Natural Science Foundation of China, the
+      Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
+      Commission.
+
+      2024-04-01
+
+      丁奎岭校长赴自然科学研究院调研
 
       2024年3月21日上午，上海交通大学校长、中国科学院院士丁奎岭赴自然科学研究院调研。学校党委常委、副校长徐学敏，改革与发展研究室、研究生院、科研院、人力资源处等部门主要负责同志随从调研。自然科学研究院领导班子成员、教师代表等参加座谈交流。会议由自然科学研究院常务副院长王维克主持。交流会上，自然科学研究院院长金石首先介绍了研究院的发展历史、人才培养、主要研究方向以及取得的重要研究成果。他尤其强调，近五年来，研究院在人工智能、生命科学和量子计算领域引进了一批优秀青年人才，并在相关领域取得了一批重要成果。这些领域与刚结束的2024年全国两会《政府工作报告》关于国家未来新产业发展布局高度吻合。随后，副校长徐学敏主持了交流环节，与会人员就研究院的发展目标、学科交叉特色、科研平台的建设规划、国际合作与交流等议题进行了深入探讨。在总结讲话中，丁奎岭校长对自然科学研究院所取得的成绩给予了高度评价，并对研究院的未来发展提出了殷切期望。他强调，自然科学研究院应当继续发挥其在跨学科研究中的独特优势，抓住人工智能技术快速发展的机遇，以世界一流的标准来规划布局，不断提升科研创新能力。丁校长特别指出，人才队伍的建设是推动研究院向前发展的关键所在，应坚持引进与培养并重的策略，持续吸引和培育顶尖人才及有潜力的青年学者，为他们的成长提供良好的环境，从而打造出一支国际领先的人才团队。他同时鼓励研究院的教师们不仅要致力于原创性的学术研究，还要主动对接国家发展战略需求，努力在国际学术界取得突破性研究成果，以推动研究院的长远发展。
 
@@ -2861,65 +2767,7 @@
       Young 教授讲座孙若愚教授讲座1月16日上午，上海交通大学博士生杜雪兴围绕“基于BrainPy的神经元网络动力学建模模拟与参数拟合”进行第一次Tutorial。下午，北京师范大学柳昀哲教授围绕“学习和发育过程中认知地图的建立”专题作主题演讲报告，介绍相关研究的最新进展，并与现场参会师生就报告内容进行问答与探讨。博士生杜雪兴Tutorial柳昀哲教授讲座1月17日，麻省理工学院杨光宇教授围绕“认知神经科学的多系统网络模型”主题作演讲报告，并在线与参会听众进行讨论与交流。随后上海交通大学博士生杨博然围绕“人脑连接组图谱数据的可视化与建模实践”进行第二次Tutorial。杨光宇教授讲座博士生杨博然Tutorial1月18日，参会的老师同学们通过个人展示的方式，分享了各自的学术背景和研究兴趣。并在随后的午餐会中围绕相关议题进行了深入的交流，促进了学术思想的碰撞和融合。参会的老师，同学们个人展示1月19日，中科院深圳先进技术研究院的周鹏程教授围绕“现代神经数据处理：神经科学与机器学习交叉”主题作演讲报告，西安交通大学黄子罡教授围绕“神经调质系统的作用及其动力学建模”主题作演讲报告，并与现场听众进行精彩的互动。
       周鹏程教授讲座黄子罡教授讲座1月20日，以“皮层多脑区的分布式动力学与认知功能”为主题，纽约大学全球杰出教授汪小京教授作主题演讲报告，上海临港实验室李澄宇教授以“认知相关的动态细胞集群”为主题，作主题演讲报告，并与参会听众进行了热烈的讨论与交流。汪小京教授讲座李澄宇教授讲座本次冬季班课程涵盖了实验神经科学和理论计算神经科学两个领域，授课老师均是神经科学领域的前沿研究者，他们渊博的学识和精彩的讲座给学员们留下了深刻的印象。在课程交流环节，来自各地、具有不同学科背景的学员们提出的问题，既激发了授课老师的思考，也促进了课程的深入开展。这与计算神经科学冬季班的办学初衷，即促进学科交叉融合、培养创新人才的目标高度契合。冬季班旨在搭建神经科学与其他自然科学学科及工程学科的交流合作平台，通过学科交叉融合，促进神经科学研究的创新发展，为国家脑计划与类脑人工智能计划的实施提供有力的人才支撑。
 
-      2024-01-21
-
-      上海交大张小群教授、丁乔乔博士和博士生赵煜中提出的“基于标准化流的自编码器医疗图像异常检测算法”入选“2023年度中国医学人工智能代表性算法”
-
-      2023年12月5日，备受关注的“2023年度中国医学人工智能代表性算法”评选结果揭晓，上海交通大学自然科学研究院、数学科学学院张小群教授、上海国家应用数学中心（上海交通大学分中心）丁乔乔博士和数学科学学院博士生赵煜中提出的“基于标准化流的自编码器医疗图像异常检测算法”入选。中国医学人工智能代表性算法每年评选一次，每年仅认定不超过三项代表性算法，由拥有法人资质的单位或相关领域的专业权威提名。本届评选由中国生物医学工程学会医学人工智能分会、中国工业与应用数学学会数学与医学交叉学科专业委员会、数学图像联盟于2023年12月5日联合主办，由同行专家组成评审团队。最终结果获得全国科学技术名词审定委员会医学人工智能名词审定委员会的审批通过。12月22日，2023中国医学人工智能大会举行颁奖仪式，浙江省科协党组成员、副主席武传宇为张小群教授颁发荣誉证书。关于2023中国医学人工智能大会
-      中国生物医学工程学会于2023年12月21-23日在浙江省杭州市举办“2023中国医学人工智能大会”。开幕式上，大会主席万遂人致欢迎辞，浙江省副省长杨青玖，杭州市委常委胥伟华，西湖区区委书记董毓民、副区长陆夏峰等重要领导出席会议并发表讲话。本次大会以“医学人工智能赋能大健康创新发展”为主题，邀请国内外医学人工智能的知名专家及学者深入探讨医学人工智能发展的前沿趋势，助推医学人工智能创新发展。基于标准化流的自编码器医疗图像异常检测算法在医学领域，异常图像的检测对于临床筛查和诊断具有至关重要的作用。然而，异常样本在临床实践中数量较少，为开发一个有效的人工智能模型带来了挑战。为了解决样本不平衡这一问题，张小群教授、丁乔乔博士和博士生赵煜中提出了“基于标准化流的自编码器算法”。该算法旨在模拟放射科医生诊断异常的过程，采用基于标准化流的自编码器架构，训练过程中仅使用正常样本，通过学习正常医学图像特征到标准正态分布的映射，实现图像级别和像素级别的异常检测。不同于传统的基于重建的方法，该网络模型通过多尺度建模在像素级别层级和特征层级进行特征建模，设计基于特征似然分数与图像重构误差的损失函数与异常分数计算，提升了异常检测的准确性，同时也增加了模型对于异常特征的解释能力。经过多个公开数据集的综合评估，本模型在检测准确性方面均展现出较其他模型更加优越的性能。相关论文发表于ICLR2023。
-      On December 5, 2023, the results of the selection for the "2023 Representative
-      Algorithms in Chinese Medical Artificial Intelligence" were announced, and the
-      "AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection"
-      proposed by Professor Zhang Xiaoqun (School of Mathematical Sciences and Institute
-      of Natural Sciences), Dr. Ding Qiaoqiao (Shanghai National Center for Applied
-      Mathematics (SJTU Center)), and Dr. Zhao Yuzhong (School of Mathematical Sciences)
-      from Shanghai Jiao Tong University was included.According to reports, the selection
-      of representative artificial intelligence (AI) algorithms in Chinese medicine
-      takes place annually, with no more than three algorithms recognized each year.
-      Nominations are submitted by entities with legal qualifications or authoritative
-      professionals in relevant fields. The current selection, jointly organized by
-      the Chinese Biomedical Engineering Society''s Medical Artificial Intelligence
-      Branch, the Chinese Society of Industrial and Applied Mathematics'' Committee
-      on Mathematics and Medical Interdisciplinary Studies, and the Mathematical Image
-      Alliance, took place on December 5, 2023, attracting peer experts to form the
-      judging panel. The final results received approval from the Medical Artificial
-      Intelligence Nomenclature Committee of the National Committee on Science and
-      Technology Terms.On December 22, 2023, the Award Ceremony of the 2023 China
-      Medical Artificial Intelligence Conference was held. Wu Chuanyu, a member of
-      the Party Group and Vice Chairman of the Zhejiang Provincial Association for
-      Science and Technology, presented Professor Zhang Xiaoqun with an honorary certificate.About
-      the 2023 China Medical Artificial Intelligence ConferenceThe 2023 China Medical
-      Artificial Intelligence Conference was organized by the Chinese Society of Biomedical
-      Engineering and took place in Hangzhou, Zhejiang Province, from December 21
-      to 23. The opening ceremony featured a welcome address by the conference chairman,
-      Wan Suiren. Important leaders such as Yang Qingjiu, Vice Governor of Zhejiang
-      Province, Xu Weihua, Member of the Hangzhou Municipal Party Committee, Dong
-      Yumin, Secretary of the West Lake District Party Committee, and Lu Xiafeng,
-      Deputy District Mayor, attended the conference and delivered speeches.The theme
-      of this conference was "Empowering Healthcare Innovation through Medical Artificial
-      Intelligence." Renowned experts and scholars in the field of medical artificial
-      intelligence from both domestic and international backgrounds were invited to
-      delve into the cutting-edge trends in the development of medical artificial
-      intelligence. The aim was to contribute to the innovative development of medical
-      artificial intelligence by fostering in-depth discussions and insights into
-      its future prospects.AE-FLOW: Autoencoders with Normalizing Flows for Medical
-      Images Anomaly DetectionAnomaly detection from medical images is an important
-      task for clinical screening and diagnosis. In general, a large dataset of normal
-      images are available while only few abnormal images can be collected in clinical
-      practice. By mimicking the diagnosis process of radiologists, we attempt to
-      tackle this problem by learning a tractable distribution of normal images and
-      identify anomalies by differentiating the original image and the reconstructed
-      normal image. More specifically, we propose a normalizing flow-based autoencoder
-      for an efficient and tractable representation of normal medical images. The
-      anomaly score consists of the likelihood originated from the normalizing flow
-      and the reconstruction error of the autoencoder, which allows to identify the
-      abnormality and provide an interpretability at both image and pixel levels.
-      Experimental evaluation on two medical images datasets showed that the proposed
-      model outperformed the other approaches by a large margin, which validated the
-      effectiveness and robustness of the proposed method. The relevant paper was
-      published at ICLR 2023 (International Conference on Learning Representations).
-
-      2023-12-22'
+      2024-01-21'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
@@ -3515,6 +3363,58 @@
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0401/c26342a2896789/page.htm
+    info: '生命科学学院“学业领航”系列讲座——解亭教授学术报告
+
+      【主讲人：解亭】
+
+      时间：16:00
+
+      地点：123会议室
+
+      2024-04-10
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院“学业领航”系列讲座——解亭教授学术报告
+
+      【主讲人：解亭】
+
+      时间：16:00
+
+      地点：123会议室
+
+      2024-04-10
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0401/c26342a2896748/page.htm
+    info: '生涯启航 | 中国科学院分子细胞科学卓越创新中心招生宣讲
+
+      【主讲人：许琛琦等】
+
+      时间：18:30
+
+      地点：245报告厅
+
+      2024-04-02
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生涯启航 | 中国科学院分子细胞科学卓越创新中心招生宣讲
+
+      【主讲人：许琛琦等】
+
+      时间：18:30
+
+      地点：245报告厅
+
+      2024-04-02
+
+      查看详情+'
+  - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0325/c26342a2894251/page.htm
     info: '生命科学学院系列学术讲座--吴志猛教授学术报告
 
@@ -3746,58 +3646,6 @@
       地点：浙大生科院245报告厅
 
       2024-01-19
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0111/c26342a2858103/page.htm
-    info: '生命科学学院系列学术讲座--冉进华研究员学术报告
-
-      【主讲人：冉进华】
-
-      时间：15:00
-
-      地点：生命科学学院250会议室
-
-      2024-01-15
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--冉进华研究员学术报告
-
-      【主讲人：冉进华】
-
-      时间：15:00
-
-      地点：生命科学学院250会议室
-
-      2024-01-15
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0111/c26342a2858102/page.htm
-    info: '生命科学学院系列学术讲座--孔航辉研究员学术报告
-
-      【主讲人：孔航辉】
-
-      时间：15:00
-
-      地点：生命科学学院250会议室
-
-      2024-01-15
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--孔航辉研究员学术报告
-
-      【主讲人：孔航辉】
-
-      时间：15:00
-
-      地点：生命科学学院250会议室
-
-      2024-01-15
 
       查看详情+'
   page_title: 活动预告
