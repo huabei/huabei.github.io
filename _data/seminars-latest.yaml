@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13018.htm
+    info: "The Graph theoretical methods in coding theory\n 2024年04月09日 "
+    person: ''
+    time: ''
+    title: The Graph theoretical methods in coding theory
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13016.htm
+    info: "2024年度中南大学名师名家学术论坛Radulescu Vicentiu 教授学术报告\n 2024年04月09日 "
+    person: ''
+    time: ''
+    title: 2024年度中南大学名师名家学术论坛Radulescu Vicentiu 教授学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13014.htm
     info: "Cluster algebras from surfaces and Markov numbers\n 2024年04月08日 "
     person: ''
@@ -55,18 +67,6 @@
     person: ''
     time: ''
     title: Dimension datum of a subgroup
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12964.htm
-    info: "Workshop on Functional analysis\n 2024年03月10日 "
-    person: ''
-    time: ''
-    title: Workshop on Functional analysis
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/12913.htm
-    info: "统计及相关领域研讨会会议议程\n 2024年01月30日 "
-    person: ''
-    time: ''
-    title: 统计及相关领域研讨会会议议程
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6209057
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6213351
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1768,6 +1768,28 @@
 
       报告人: Michel Boileau (Aix-Marseille Université)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/157735.htm
+    info: '22
+
+      Apr
+
+      Fractional Sobolev Isometric Immersions of Planar Domains
+
+      时间：2024-04-22 16:00-17:00
+
+      报告人: 李思然 (上海交通大学)'
+    person: ''
+    time: ''
+    title: '22
+
+      Apr
+
+      Fractional Sobolev Isometric Immersions of Planar Domains
+
+      时间：2024-04-22 16:00-17:00
+
+      报告人: 李思然 (上海交通大学)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/157517.htm
     info: '08
 
@@ -1835,28 +1857,6 @@
       时间：2024-04-04 15:00-17:00
 
       报告人: Joachim Krieger (Ecole polytechnique fédérale de Lausanne)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157496.htm
-    info: '03
-
-      Apr
-
-      Calabi-Yau Metrics on Complex Symmetric Spaces
-
-      时间：2024-04-03 09:00-10:00
-
-      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
-    person: ''
-    time: ''
-    title: '03
-
-      Apr
-
-      Calabi-Yau Metrics on Complex Symmetric Spaces
-
-      时间：2024-04-03 09:00-10:00
-
-      报告人: Tran-Trung Nghiem (蒙彼利埃大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2002,6 +2002,149 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+    person: ''
+    time: ''
+    title: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+    person: ''
+    time: ''
+    title: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+  page_title: 上海交通大学人工智能研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/2804.htm
@@ -2168,7 +2311,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 13 days ago
+      2024-03-27 10:00, 14 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2177,7 +2320,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 25 days ago
+      2024-03-15 10:30, a month ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2185,7 +2328,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 25 days ago
+      2024-03-15 09:30, a month ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -2220,7 +2363,7 @@
 
       南洋理工大学
 
-      2024-03-27 10:00, 13 days ago
+      2024-03-27 10:00, 14 days ago
 
       Structure-preserving Direct Discontinuous Galerkin methods for Fokker-Planck
       type equations
@@ -2229,7 +2372,7 @@
 
       湘潭大学
 
-      2024-03-15 10:30, 25 days ago
+      2024-03-15 10:30, a month ago
 
       Robust Full Waveform Inversion: A Source Wavelet Manipulation Perspective
 
@@ -2237,7 +2380,7 @@
 
       清华大学
 
-      2024-03-15 09:30, 25 days ago
+      2024-03-15 09:30, a month ago
 
       基于扩散模型的大规模生成式视频生成大模型回顾与分析
 
@@ -3036,19 +3179,61 @@
 
       【学术报告】碳碳键氮化反应研究'
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3914.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/3921.html
     info: '11
 
       2024-04
 
-      【学术报告】新催化剂，新反应及新功能材料'
+      【学术报告】光镊技术在分析化学中的应用'
     person: ''
     time: ''
     title: '11
 
       2024-04
 
-      【学术报告】新催化剂，新反应及新功能材料'
+      【学术报告】光镊技术在分析化学中的应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3920.html
+    info: '11
+
+      2024-04
+
+      【学术报告】微流控芯片技术与生物医学应用'
+    person: ''
+    time: ''
+    title: '11
+
+      2024-04
+
+      【学术报告】微流控芯片技术与生物医学应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3919.html
+    info: '11
+
+      2024-04
+
+      【学术报告】纳米电化学单细胞实时探测'
+    person: ''
+    time: ''
+    title: '11
+
+      2024-04
+
+      【学术报告】纳米电化学单细胞实时探测'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3914.html
+    info: '11
+
+      2024-04
+
+      【学术报告】新催化剂、新反应及新功能材料'
+    person: ''
+    time: ''
+    title: '11
+
+      2024-04
+
+      【学术报告】新催化剂、新反应及新功能材料'
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3916.html
     info: '10
@@ -3091,48 +3276,6 @@
       2024-04
 
       【SCCE学者讲坛（2024年3期）】有机功能材料的精确构筑及其光电性质研究'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3899.html
-    info: '02
-
-      2024-04
-
-      【SCCE学者讲坛（2024年2期）】利用单粒子示踪揭示多孔介质中的传递过程'
-    person: ''
-    time: ''
-    title: '02
-
-      2024-04
-
-      【SCCE学者讲坛（2024年2期）】利用单粒子示踪揭示多孔介质中的传递过程'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3894.html
-    info: '29
-
-      2024-03
-
-      【SCCE学者讲坛（2024年1期）】DNA折纸仿生核孔解码核孔运输'
-    person: ''
-    time: ''
-    title: '29
-
-      2024-03
-
-      【SCCE学者讲坛（2024年1期）】DNA折纸仿生核孔解码核孔运输'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3884.html
-    info: '28
-
-      2024-03
-
-      【学术报告】Photochemical Approach to Green Fabrication of Polymer Materials'
-    person: ''
-    time: ''
-    title: '28
-
-      2024-03
-
-      【学术报告】Photochemical Approach to Green Fabrication of Polymer Materials'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -3353,25 +3496,103 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
-    info: 【化学系】启真化学论坛：向导教授（上海交通大学）
+    info: 【生科院】Yury D. Nechipurenko教授学术报告
     person: ''
     time: ''
-    title: 【化学系】启真化学论坛：向导教授（上海交通大学）
+    title: 【生科院】Yury D. Nechipurenko教授学术报告
   - address: ''
     href: null
-    info: 【化学系】启真化学大讲堂：谢作伟院士（南方科技大学）
+    info: 【生科院】Yuriy L. Orlov教授学术报告
     person: ''
     time: ''
-    title: 【化学系】启真化学大讲堂：谢作伟院士（南方科技大学）
+    title: 【生科院】Yuriy L. Orlov教授学术报告
   - address: ''
     href: null
-    info: 【化学系】启真化学论坛：张浩力教授（兰州大学）
+    info: 【生科院】Anastasia A. Anashkina研究员学术报告
     person: ''
     time: ''
-    title: 【化学系】启真化学论坛：张浩力教授（兰州大学）
+    title: 【生科院】Anastasia A. Anashkina研究员学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0409/c26342a2899467/page.htm
+    info: '生命科学学院系列学术讲座--Yuriy L. Orlov教授学术报告
+
+      【主讲人：Yuriy L. Orlov】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Yuriy L. Orlov教授学术报告
+
+      【主讲人：Yuriy L. Orlov】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0409/c26342a2899465/page.htm
+    info: '生命科学学院系列学术讲座--Anastasia A. Anashkina研究员学术报告
+
+      【主讲人：Anastasia A. Anashkina】
+
+      时间：10:30
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Anastasia A. Anashkina研究员学术报告
+
+      【主讲人：Anastasia A. Anashkina】
+
+      时间：10:30
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0409/c26342a2899463/page.htm
+    info: '生命科学学院系列学术讲座--Yury D. Nechipurenko教授学术报告
+
+      【主讲人：Yury D. Nechipurenko】
+
+      时间：9:30
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Yury D. Nechipurenko教授学术报告
+
+      【主讲人：Yury D. Nechipurenko】
+
+      时间：9:30
+
+      地点：生命科学学院245报告厅
+
+      2024-04-12
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0406/c26342a2898091/page.htm
     info: '生命科学学院系列学术讲座--徐肖江教授学术报告
@@ -3578,84 +3799,6 @@
       地点：紫金港校区西教学区1-209
 
       2024-03-27
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0314/c26342a2890419/page.htm
-    info: '生命科学学院系列学术讲座--杜卫国研究员学术报告
-
-      【主讲人：杜卫国】
-
-      时间：13:30
-
-      地点：生命科学学院245报告厅
-
-      2024-03-18
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--杜卫国研究员学术报告
-
-      【主讲人：杜卫国】
-
-      时间：13:30
-
-      地点：生命科学学院245报告厅
-
-      2024-03-18
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0307/c26342a2886897/page.htm
-    info: '全球气候变化及不同空间尺度碳循环研究方法讨论
-
-      【主讲人：徐六康】
-
-      时间：13:00
-
-      地点：生命科学学院245会议室
-
-      2024-03-11
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '全球气候变化及不同空间尺度碳循环研究方法讨论
-
-      【主讲人：徐六康】
-
-      时间：13:00
-
-      地点：生命科学学院245会议室
-
-      2024-03-11
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0227/c26342a2880918/page.htm
-    info: '生命科学学院系列学术讲座--Judith Sluimer教授学术报告
-
-      【主讲人：Judith Sluimer】
-
-      时间：10:30
-
-      地点：生命科学学院245报告厅
-
-      2024-02-28
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--Judith Sluimer教授学术报告
-
-      【主讲人：Judith Sluimer】
-
-      时间：10:30
-
-      地点：生命科学学院245报告厅
-
-      2024-02-28
 
       查看详情+'
   page_title: 活动预告
