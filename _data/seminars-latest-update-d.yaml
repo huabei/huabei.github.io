@@ -1,186 +1,353 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13037.htm
-    info: "Some open problems for p-Laplacian equations\n 2024年04月17日 "
+    href: https://math.csu.edu.cn/info/1736/13047.htm
+    info: "偏微分系列报告：关于三维理想磁流体和Navier-Stokes方程组的一点发现\n 2024年04月18日 "
     person: ''
     time: ''
-    title: Some open problems for p-Laplacian equations
+    title: 偏微分系列报告：关于三维理想磁流体和Navier-Stokes方程组的一点发现
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13034.htm
-    info: "Well-posedness results on an oncolytic virotherapy model\n 2024年04月17日 "
+    href: https://math.csu.edu.cn/info/1736/13046.htm
+    info: "偏微分系列报告：Global boundedness and large time behavior in a higher-dimens...\n\
+      \ 2024年04月18日 "
     person: ''
     time: ''
-    title: Well-posedness results on an oncolytic virotherapy model
+    title: 偏微分系列报告：Global boundedness and large time behavior in a higher-dimensional
+      quasilinear chemotaxis system with consumption of chemoattractant
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1744
-    info: '4月25日CLS:Biodiversity and the stability of ecological systems: resolving
-      an old debat..
+    href: https://cse.csu.edu.cn/info/1041/9497.htm
+    info: '中山大学王昌栋副教授学术报告
 
-      2024-04-17'
+      2024-04-18'
     person: ''
     time: ''
-    title: '4月25日CLS:Biodiversity and the stability of ecological systems: resolving
-      an old debat..'
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+    title: 中山大学王昌栋副教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157922.htm
-    info: '30
+    href: https://eecs.pku.edu.cn/info/1050/6174.htm
+    info: '18
 
-      May
+      2024-04
 
-      Evaluating the Effectiveness of COVID-19 Vaccines
-
-      时间：2024-05-30 14:00-15:00
-
-      报告人: Danyu Lin(The University of North Carolina at Chapel Hill)'
+      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
     person: ''
     time: ''
-    title: '30
+    title: '18
+
+      2024-04
+
+      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
+  page_title: 讲座信息-北京大学信息科学技术学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/157950.htm
+    info: '2024-04-16
+
+      【兴大报告658】Catalysis using gold containing materials'
+    person: ''
+    time: ''
+    title: 【兴大报告658】Catalysis using gold containing materials
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/157949.htm
+    info: '2024-04-15
+
+      【兴大报告657】Adventures in Chemical Biology From in vivo chemistry to real-time
+      optical medical imaging'
+    person: ''
+    time: ''
+    title: 【兴大报告657】Adventures in Chemical Biology From in vivo chemistry to real-time
+      optical medical imaging
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157968.htm
+    info: '24
+
+      Apr
+
+      Inverse Mean Curvature Flow with Outer Obstacle
+
+      时间：2024-04-24 09:00-10:00
+
+      报告人: 徐恺（杜克大学）'
+    person: ''
+    time: ''
+    title: '24
+
+      Apr
+
+      Inverse Mean Curvature Flow with Outer Obstacle
+
+      时间：2024-04-24 09:00-10:00
+
+      报告人: 徐恺（杜克大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/157953.htm
+    info: '25
+
+      Apr
+
+      机器学习与数据科学博士生系列论坛（第七十期）—— Near Minimax Optimal Distributional Reinforcement Learning
+
+      时间：2024-04-25 16:00-17:00
+
+      报告人: 彭洋（北京大学）'
+    person: ''
+    time: ''
+    title: '25
+
+      Apr
+
+      机器学习与数据科学博士生系列论坛（第七十期）—— Near Minimax Optimal Distributional Reinforcement Learning
+
+      时间：2024-04-25 16:00-17:00
+
+      报告人: 彭洋（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157946.htm
+    info: '06
 
       May
 
-      Evaluating the Effectiveness of COVID-19 Vaccines
+      Continuous-time quantum walk
 
-      时间：2024-05-30 14:00-15:00
+      时间：2024-05-06 14:00-15:00
 
-      报告人: Danyu Lin(The University of North Carolina at Chapel Hill)'
+      报告人: 李彤阳（北京大学前沿计算研究中心）'
+    person: ''
+    time: ''
+    title: '06
+
+      May
+
+      Continuous-time quantum walk
+
+      时间：2024-05-06 14:00-15:00
+
+      报告人: 李彤阳（北京大学前沿计算研究中心）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/2844.htm
-    info: '29
-
-      Apr
-
-      ATRP三十年：跨学科和研究方向 点点相连发现发明ATRP
-
-      报告人：王锦山 博士
-
-      报告时间：2024年4月29日 15:00-16:30'
-    person: ''
-    time: ''
-    title: ATRP三十年：跨学科和研究方向 点点相连发现发明ATRP
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/2854.htm
-    info: "29\nApr\n杂原子自由基可控聚合\n报告人：潘翔城 研究员 \n报告时间：2024年4月29日 13:30-15:00"
-    person: ''
-    time: ''
-    title: 杂原子自由基可控聚合
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3929.html
-    info: '17
+    href: https://scce.sjtu.edu.cn/index_xsrl/3931.html
+    info: '19
 
       2024-04
 
-      【学术报告】聚乙氧基硅氧烷：用于制备纳米结构二氧化硅粒子的独特前驱体聚合物'
+      《霞光讲坛》电子化学品-光刻胶技术介绍'
     person: ''
     time: ''
-    title: '17
+    title: '19
 
       2024-04
 
-      【学术报告】聚乙氧基硅氧烷：用于制备纳米结构二氧化硅粒子的独特前驱体聚合物'
+      《霞光讲坛》电子化学品-光刻胶技术介绍'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiFtKF2
-    info: '钟昌龙 (CHANGLONG ZHONG)
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiG2qF2
+    info: '[MINI COURSES] ANRU ZHANG
 
-      ELLIPTIC CLASSES VIA THE PERIODIC MODULE
+      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
+      MODERN MACHINE LEARNING ADVANCES (2)
 
-      2024-05-21
+      2024-06-27
 
-      10:30 — 11:30'
+      09:00 — 16:00'
     person: ''
     time: ''
-    title: '钟昌龙 (CHANGLONG ZHONG)
+    title: '[MINI COURSES] ANRU ZHANG
 
-      ELLIPTIC CLASSES VIA THE PERIODIC MODULE
+      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
+      MODERN MACHINE LEARNING ADVANCES (2)
 
-      2024-05-21
+      2024-06-27
 
-      10:30 — 11:30'
+      09:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiFpKF2
-    info: '罗志君
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiHpKF2
+    info: '[MINI COURSES] ANRU ZHANG
 
-      SMOOTH EULER-SYMMETRIC VARIETIES GENERATED BY A SINGLE POLYNOMIAL
+      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
+      MODERN MACHINE LEARNING ADVANCES (1)
 
-      2024-04-27
+      2024-06-25
 
-      14:00 — 15:00'
+      09:00 — 16:00'
     person: ''
     time: ''
-    title: '罗志君
+    title: '[MINI COURSES] ANRU ZHANG
 
-      SMOOTH EULER-SYMMETRIC VARIETIES GENERATED BY A SINGLE POLYNOMIAL
+      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
+      MODERN MACHINE LEARNING ADVANCES (1)
 
-      2024-04-27
+      2024-06-25
 
-      14:00 — 15:00'
+      09:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGpKF2
+    info: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (3)
+
+      2024-05-17
+
+      08:30 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (3)
+
+      2024-05-17
+
+      08:30 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFyqF2
+    info: '易利军
+
+      A UNIFIED SUPERCONVERGENT POSTPROCESSING TECHNIQUE FOR GALERKIN TIME-STEPPING
+      METHODS
+
+      2024-05-16
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '易利军
+
+      A UNIFIED SUPERCONVERGENT POSTPROCESSING TECHNIQUE FOR GALERKIN TIME-STEPPING
+      METHODS
+
+      2024-05-16
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGtKF2
+    info: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (2)
+
+      2024-05-10
+
+      08:30 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (2)
+
+      2024-05-10
+
+      08:30 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFtKF2
+    info: '[吴文俊数学中心综合报告] PROF. DEFENG SUN
+
+      NONSMOOTH ANALYSIS AND SPARSE OPTIMIZATION
+
+      2024-04-26
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[吴文俊数学中心综合报告] PROF. DEFENG SUN
+
+      NONSMOOTH ANALYSIS AND SPARSE OPTIMIZATION
+
+      2024-04-26
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGyqF2
+    info: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (1)
+
+      2024-04-19
+
+      08:30 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] YUE-JUN PENG
+
+      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (1)
+
+      2024-04-19
+
+      08:30 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiHtKF2
+    info: '[COLLOQUIUM] 沈捷
+
+      A NEW CLASS OF HIGHER-ORDER STIFFLY STABLE SCHEMES WITH APPLICATION TO THE NAVIER-STOKES
+      EQUATIONS
+
+      2024-04-19
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[COLLOQUIUM] 沈捷
+
+      A NEW CLASS OF HIGHER-ORDER STIFFLY STABLE SCHEMES WITH APPLICATION TO THE NAVIER-STOKES
+      EQUATIONS
+
+      2024-04-19
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFpKF2
+    info: '毛志平
+
+      SAV-BASED OPTIMIZATION METHODS FOR THE TRAINING IN DEEP LEARNING
+
+      2024-04-19
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '毛志平
+
+      SAV-BASED OPTIMIZATION METHODS FOR THE TRAINING IN DEEP LEARNING
+
+      2024-04-19
+
+      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0417/c26342a2902549/page.htm
-    info: '关于举办第二期生命科学学院宣传思想工作队伍能力提升工作坊的通知
+    href: http://www.cls.zju.edu.cn/clscn/2024/0418/c26342a2902804/page.htm
+    info: '生涯启航 | 2024届生命大健康领域毕业生专场（学科交叉）招聘会
 
-      【主讲人：周伊晨】
+      【主讲人：各用人单位】
 
-      时间：18:30
+      时间：13:30
 
-      地点：生命科学学院234室
+      地点：尧坤楼2楼
 
-      2024-04-23
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '关于举办第二期生命科学学院宣传思想工作队伍能力提升工作坊的通知
-
-      【主讲人：周伊晨】
-
-      时间：18:30
-
-      地点：生命科学学院234室
-
-      2024-04-23
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0417/c26342a2902360/page.htm
-    info: '生涯启航 | 北京生命科学研究所招生宣讲会
-
-      【主讲人：王文晓】
-
-      时间：18:00
-
-      地点：生科学院245报告厅
-
-      2024-04-21
+      2024-04-19
 
       查看详情+'
     person: ''
     time: ''
-    title: '生涯启航 | 北京生命科学研究所招生宣讲会
+    title: '生涯启航 | 2024届生命大健康领域毕业生专场（学科交叉）招聘会
 
-      【主讲人：王文晓】
+      【主讲人：各用人单位】
 
-      时间：18:00
+      时间：13:30
 
-      地点：生科学院245报告厅
+      地点：尧坤楼2楼
 
-      2024-04-21
+      2024-04-19
 
       查看详情+'
   page_title: 活动预告
