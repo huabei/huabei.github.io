@@ -1,354 +1,92 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13047.htm
-    info: "偏微分系列报告：关于三维理想磁流体和Navier-Stokes方程组的一点发现\n 2024年04月18日 "
+    href: https://math.csu.edu.cn/info/1736/13048.htm
+    info: "微分方程数值方法及相关领域学术报告\n 2024年04月19日 "
     person: ''
     time: ''
-    title: 偏微分系列报告：关于三维理想磁流体和Navier-Stokes方程组的一点发现
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13046.htm
-    info: "偏微分系列报告：Global boundedness and large time behavior in a higher-dimens...\n\
-      \ 2024年04月18日 "
-    person: ''
-    time: ''
-    title: 偏微分系列报告：Global boundedness and large time behavior in a higher-dimensional
-      quasilinear chemotaxis system with consumption of chemoattractant
+    title: 微分方程数值方法及相关领域学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9497.htm
-    info: '中山大学王昌栋副教授学术报告
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17041.html
+    info: '2024.04.19
 
-      2024-04-18'
+      哺乳动物生命孕育'
     person: ''
     time: ''
-    title: 中山大学王昌栋副教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: '2024.04.19
+
+      哺乳动物生命孕育'
+  page_title: 北京大学生命科学学院
+  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6174.htm
-    info: '18
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/157950.htm
-    info: '2024-04-16
-
-      【兴大报告658】Catalysis using gold containing materials'
-    person: ''
-    time: ''
-    title: 【兴大报告658】Catalysis using gold containing materials
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/157949.htm
-    info: '2024-04-15
-
-      【兴大报告657】Adventures in Chemical Biology From in vivo chemistry to real-time
-      optical medical imaging'
-    person: ''
-    time: ''
-    title: 【兴大报告657】Adventures in Chemical Biology From in vivo chemistry to real-time
-      optical medical imaging
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/157968.htm
-    info: '24
-
-      Apr
-
-      Inverse Mean Curvature Flow with Outer Obstacle
-
-      时间：2024-04-24 09:00-10:00
-
-      报告人: 徐恺（杜克大学）'
-    person: ''
-    time: ''
-    title: '24
-
-      Apr
-
-      Inverse Mean Curvature Flow with Outer Obstacle
-
-      时间：2024-04-24 09:00-10:00
-
-      报告人: 徐恺（杜克大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/157953.htm
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/157974.htm
     info: '25
 
       Apr
 
-      机器学习与数据科学博士生系列论坛（第七十期）—— Near Minimax Optimal Distributional Reinforcement Learning
+      Geometry and Topology Seminar——Cofiber of Tau Method for C-Motivic Modular Forms
+      and Multiplicative Structure
 
-      时间：2024-04-25 16:00-17:00
+      时间：2024-04-25 15:30-17:30
 
-      报告人: 彭洋（北京大学）'
+      报告人: 孔嘉（Harvard University）'
     person: ''
     time: ''
     title: '25
 
       Apr
 
-      机器学习与数据科学博士生系列论坛（第七十期）—— Near Minimax Optimal Distributional Reinforcement Learning
+      Geometry and Topology Seminar——Cofiber of Tau Method for C-Motivic Modular Forms
+      and Multiplicative Structure
 
-      时间：2024-04-25 16:00-17:00
+      时间：2024-04-25 15:30-17:30
 
-      报告人: 彭洋（北京大学）'
+      报告人: 孔嘉（Harvard University）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/157946.htm
-    info: '06
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/157979.htm
+    info: '26
 
-      May
+      Apr
 
-      Continuous-time quantum walk
+      Distinguished Lecture——Geometry of Neighborhoods of Rational Curves
 
-      时间：2024-05-06 14:00-15:00
+      时间：2024-04-26 14:00-15:00
 
-      报告人: 李彤阳（北京大学前沿计算研究中心）'
+      报告人: Jun-Muk Hwang (IBS Center for Complex Geometry)'
     person: ''
     time: ''
-    title: '06
+    title: '26
 
-      May
+      Apr
 
-      Continuous-time quantum walk
+      Distinguished Lecture——Geometry of Neighborhoods of Rational Curves
 
-      时间：2024-05-06 14:00-15:00
+      时间：2024-04-26 14:00-15:00
 
-      报告人: 李彤阳（北京大学前沿计算研究中心）'
+      报告人: Jun-Muk Hwang (IBS Center for Complex Geometry)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3931.html
-    info: '19
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmF2qF2
+    info: '[COLLOQUIUM] 缪爽
 
-      2024-04
-
-      《霞光讲坛》电子化学品-光刻胶技术介绍'
-    person: ''
-    time: ''
-    title: '19
-
-      2024-04
-
-      《霞光讲坛》电子化学品-光刻胶技术介绍'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiG2qF2
-    info: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (2)
-
-      2024-06-27
-
-      09:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (2)
-
-      2024-06-27
-
-      09:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiHpKF2
-    info: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (1)
-
-      2024-06-25
-
-      09:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (1)
-
-      2024-06-25
-
-      09:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGpKF2
-    info: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (3)
-
-      2024-05-17
-
-      08:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (3)
-
-      2024-05-17
-
-      08:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFyqF2
-    info: '易利军
-
-      A UNIFIED SUPERCONVERGENT POSTPROCESSING TECHNIQUE FOR GALERKIN TIME-STEPPING
-      METHODS
-
-      2024-05-16
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '易利军
-
-      A UNIFIED SUPERCONVERGENT POSTPROCESSING TECHNIQUE FOR GALERKIN TIME-STEPPING
-      METHODS
-
-      2024-05-16
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGtKF2
-    info: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (2)
-
-      2024-05-10
-
-      08:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (2)
-
-      2024-05-10
-
-      08:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFtKF2
-    info: '[吴文俊数学中心综合报告] PROF. DEFENG SUN
-
-      NONSMOOTH ANALYSIS AND SPARSE OPTIMIZATION
+      ON MATHEMATICAL ANALYSIS OF HARD PHASE FLUID WITH FREE BOUNDARY IN RELATIVITY
 
       2024-04-26
 
-      16:00 — 17:00'
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: '[吴文俊数学中心综合报告] PROF. DEFENG SUN
+    title: '[COLLOQUIUM] 缪爽
 
-      NONSMOOTH ANALYSIS AND SPARSE OPTIMIZATION
+      ON MATHEMATICAL ANALYSIS OF HARD PHASE FLUID WITH FREE BOUNDARY IN RELATIVITY
 
       2024-04-26
 
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiGyqF2
-    info: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (1)
-
-      2024-04-19
-
-      08:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] YUE-JUN PENG
-
-      FOURIER TRANSFORM IN L^P SPACES AND APPLICATIONS TO PDE (1)
-
-      2024-04-19
-
-      08:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiHtKF2
-    info: '[COLLOQUIUM] 沈捷
-
-      A NEW CLASS OF HIGHER-ORDER STIFFLY STABLE SCHEMES WITH APPLICATION TO THE NAVIER-STOKES
-      EQUATIONS
-
-      2024-04-19
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 沈捷
-
-      A NEW CLASS OF HIGHER-ORDER STIFFLY STABLE SCHEMES WITH APPLICATION TO THE NAVIER-STOKES
-      EQUATIONS
-
-      2024-04-19
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmFpKF2
-    info: '毛志平
-
-      SAV-BASED OPTIMIZATION METHODS FOR THE TRAINING IN DEEP LEARNING
-
-      2024-04-19
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '毛志平
-
-      SAV-BASED OPTIMIZATION METHODS FOR THE TRAINING IN DEEP LEARNING
-
-      2024-04-19
-
-      16:00 — 17:00'
+      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0418/c26342a2902804/page.htm
-    info: '生涯启航 | 2024届生命大健康领域毕业生专场（学科交叉）招聘会
-
-      【主讲人：各用人单位】
-
-      时间：13:30
-
-      地点：尧坤楼2楼
-
-      2024-04-19
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生涯启航 | 2024届生命大健康领域毕业生专场（学科交叉）招聘会
-
-      【主讲人：各用人单位】
-
-      时间：13:30
-
-      地点：尧坤楼2楼
-
-      2024-04-19
-
-      查看详情+'
-  page_title: 活动预告
-  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
