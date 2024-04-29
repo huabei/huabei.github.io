@@ -1,48 +1,156 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158219.htm
-    info: '06
-
-      May
-
-      Asymptotic dynamics near ground state for mass critical Zakharov-Kuznetsov equations
-      in dimension two
-
-      时间：2024-05-06 16:00-17:00
-
-      报告人: 兰洋（清华大学）'
+    href: https://math.csu.edu.cn/info/1736/13071.htm
+    info: "Sinai-Ruelle-Bowen measures of mostly expanding systems\n 2024年04月29日 "
     person: ''
     time: ''
-    title: '06
-
-      May
-
-      Asymptotic dynamics near ground state for mass critical Zakharov-Kuznetsov equations
-      in dimension two
-
-      时间：2024-05-06 16:00-17:00
-
-      报告人: 兰洋（清华大学）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+    title: Sinai-Ruelle-Bowen measures of mostly expanding systems
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuGyqF2
-    info: '[特邀报告] YUAN YUAN
+    href: https://www.chem.pku.edu.cn/xzjz/158232.htm
+    info: '2024-04-29
 
-      PATTERN FORMATION IN MATHEMATICAL BIOLOGY
-
-      2024-05-08
-
-      10:15 — 11:30'
+      【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations'
     person: ''
     time: ''
-    title: '[特邀报告] YUAN YUAN
+    title: 【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158231.htm
+    info: '2024-04-29
 
-      PATTERN FORMATION IN MATHEMATICAL BIOLOGY
+      【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines and Mild
+      Hydrogenations of Nitroarenes for Innovative Syntheses'
+    person: ''
+    time: ''
+    title: 【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines
+      and Mild Hydrogenations of Nitroarenes for Innovative Syntheses
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3955.html
+    info: '29
 
-      2024-05-08
+      2024-04
 
-      10:15 — 11:30'
+      【霞光讲坛】跨越化学与生物前沿的仿生化学固氮科学'
+    person: ''
+    time: ''
+    title: '29
+
+      2024-04
+
+      【霞光讲坛】跨越化学与生物前沿的仿生化学固氮科学'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/3954.html
+    info: '29
+
+      2024-04
+
+      【霞光讲坛】From Trial-and-Error Serendipity to Atomically Precise Heterogeneous Catalysis
+      (APCat)'
+    person: ''
+    time: ''
+    title: '29
+
+      2024-04
+
+      【霞光讲坛】From Trial-and-Error Serendipity to Atomically Precise Heterogeneous Catalysis
+      (APCat)'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuG2qF2
+    info: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE IV
+
+      2024-06-18
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE IV
+
+      2024-06-18
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuHpKF2
+    info: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE II
+
+      2024-06-13
+
+      08:30 — 09:30'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE II
+
+      2024-06-13
+
+      08:30 — 09:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuHtKF2
+    info: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE III
+
+      2024-06-13
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE III
+
+      2024-06-13
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtyFpKF2
+    info: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE I
+
+      2024-06-11
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] DAISUKE MATSUSHITA
+
+      ON SYZ CONJECURE I
+
+      2024-06-11
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtyFtKF2
+    info: 'RISTE SKREKOVSKI
+
+      SELECTED TOPICS ON WIENER INDEX
+
+      2024-05-16
+
+      10:00 — 12:00'
+    person: ''
+    time: ''
+    title: 'RISTE SKREKOVSKI
+
+      SELECTED TOPICS ON WIENER INDEX
+
+      2024-05-16
+
+      10:00 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
