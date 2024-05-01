@@ -1,44 +1,34 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158239.htm
-    info: '07
-
-      May
-
-      深度学习在药物发现和开发中的应用
-
-      时间：2024-05-07 10:00-11:00
-
-      报告人: 符天凡（伦斯勒理工学院）'
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
     person: ''
     time: ''
-    title: '07
+    title: ''
+  - address: ''
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://cse.csu.edu.cn/English.htm
+    info: 'CHINESE
 
-      May
+      |
 
-      深度学习在药物发现和开发中的应用
-
-      时间：2024-05-07 10:00-11:00
-
-      报告人: 符天凡（伦斯勒理工学院）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+      ENGLISH'
+    person: ''
+    time: ''
+    title: ENGLISH
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3956.html
-    info: '02
-
-      2024-05
-
-      【学术报告】Oligonucleotide conjugates: From carrier-free intracellular delivery to
-      extension of blood circulation'
+    href: https://ymsc.tsinghua.edu.cn/index.htm
+    info: ENGLISH
     person: ''
     time: ''
-    title: '02
-
-      2024-05
-
-      【学术报告】Oligonucleotide conjugates: From carrier-free intracellular delivery to
-      extension of blood circulation'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+    title: 丘成桐数学科学中心
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
