@@ -1,5 +1,39 @@
 ﻿- page_info:
   - address: ''
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://cse.csu.edu.cn/English.htm
+    info: 'CHINESE
+
+      |
+
+      ENGLISH'
+    person: ''
+    time: ''
+    title: ENGLISH
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/index.htm
+    info: ENGLISH
+    person: ''
+    time: ''
+    title: 丘成桐数学科学中心
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+- page_info:
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158239.htm
     info: '07
 
@@ -53,74 +87,6 @@
     time: ''
     title: "06\nMay\n Phase transitions with Allen-Cahn mean curvature bounded in\
       \ Lp.\n时间：2024-05-06 10:00-11:00\n报告人: 王盛文（伦敦玛丽女王大学）"
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/158095.htm
-    info: '25
-
-      Apr
-
-      $C^1$-robust homoclinic tangencies
-
-      时间：2024-04-25 15:10-17:00
-
-      报告人: 李东宸 (Imperial College London)'
-    person: ''
-    time: ''
-    title: '25
-
-      Apr
-
-      $C^1$-robust homoclinic tangencies
-
-      时间：2024-04-25 15:10-17:00
-
-      报告人: 李东宸 (Imperial College London)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158112.htm
-    info: '09
-
-      May
-
-      A New and Unified Family of Covariate Adaptive Randomization Procedures and
-      Their Properties
-
-      时间：2024-05-09 14:00-15:00
-
-      报告人: 马维（中国人民大学）'
-    person: ''
-    time: ''
-    title: '09
-
-      May
-
-      A New and Unified Family of Covariate Adaptive Randomization Procedures and
-      Their Properties
-
-      时间：2024-05-09 14:00-15:00
-
-      报告人: 马维（中国人民大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158116.htm
-    info: '09
-
-      May
-
-      Fighting Noise with Noise: Causal Inference with Many Candidate Instruments
-
-      时间：2024-05-09 15:00-16:00
-
-      报告人: 王林勃（多伦多大学）'
-    person: ''
-    time: ''
-    title: '09
-
-      May
-
-      Fighting Noise with Noise: Causal Inference with Many Candidate Instruments
-
-      时间：2024-05-09 15:00-16:00
-
-      报告人: 王林勃（多伦多大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -228,14 +194,6 @@
     time: ''
     title: 【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines
       and Mild Hydrogenations of Nitroarenes for Innovative Syntheses
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158124.htm
-    info: '2024-04-23
-
-      【兴大报告659】催化水分解——从天然到人工光合作用'
-    person: ''
-    time: ''
-    title: 【兴大报告659】催化水分解——从天然到人工光合作用
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -441,60 +399,6 @@
       2024-05-08
 
       15:30 — 16:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmHpKF2
-    info: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS III
-
-      2024-05-14
-
-      14:30 — 17:00'
-    person: ''
-    time: ''
-    title: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS III
-
-      2024-05-14
-
-      14:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpmHtKF2
-    info: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS II
-
-      2024-05-09
-
-      14:30 — 17:00'
-    person: ''
-    time: ''
-    title: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS II
-
-      2024-05-09
-
-      14:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuFpKF2
-    info: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS I
-
-      2024-05-07
-
-      14:30 — 17:00'
-    person: ''
-    time: ''
-    title: '岳海天
-
-      RANDOM DATA THEORY FOR NONLINEAR SCHRÖDINGER EQUATIONS I
-
-      2024-05-07
-
-      14:30 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -506,14 +410,6 @@
     person: ''
     time: ''
     title: 微生物细胞工厂的基因编辑方法及代谢工程改造
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/8cda5f4ea1cb460993989fae7d83b757.htm
-    info: '2024.04.24
-
-      医药领域的知识产权保护'
-    person: ''
-    time: ''
-    title: 医药领域的知识产权保护
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -551,14 +447,6 @@
     person: ''
     time: ''
     title: 5月6日CQBseminar：细胞内的非平衡输运、调控及功能
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1750
-    info: '4月25日科学史讲座：从沉箱法到管柱钻孔法：新中国大型桥梁建设中的协同创新研究
-
-      2024-04-24'
-    person: ''
-    time: ''
-    title: 4月25日科学史讲座：从沉箱法到管柱钻孔法：新中国大型桥梁建设中的协同创新研究
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
@@ -578,14 +466,3 @@
       信科“E席谈”青年学术沙龙（第二十期）——集成光学与光电融合'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4921.html
-    info: '激发态过渡金属不对称催化
-
-      2024-04-24'
-    person: ''
-    time: ''
-    title: 激发态过渡金属不对称催化
-  page_title: 上海交通大学药学院
-  page_url: https://pharm.sjtu.edu.cn/report.html

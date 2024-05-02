@@ -75,36 +75,184 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://cse.csu.edu.cn/English.htm
-    info: 'CHINESE
+    href: https://cse.csu.edu.cn/info/1041/9497.htm
+    info: '中山大学王昌栋副教授学术报告
 
-      |
-
-      ENGLISH'
+      2024-04-18'
     person: ''
     time: ''
-    title: ENGLISH
+    title: 中山大学王昌栋副教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9475.htm
+    info: '浙江大学郑能干教授学术报告
+
+      2024-04-11'
+    person: ''
+    time: ''
+    title: 浙江大学郑能干教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9454.htm
+    info: '清华大学古槿副教授学术报告
+
+      2024-04-03'
+    person: ''
+    time: ''
+    title: 清华大学古槿副教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9441.htm
+    info: '上海交通大学田晓华教授学术报告
+
+      2024-04-02'
+    person: ''
+    time: ''
+    title: 上海交通大学田晓华教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9276.htm
+    info: '上海交通大学魏红江副教授、上海科技大学张玉瑶助理教授学术报告
+
+      2024-01-25'
+    person: ''
+    time: ''
+    title: 上海交通大学魏红江副教授、上海科技大学张玉瑶助理教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9239.htm
+    info: '加拿大工程院院士、维多利亚大学Lin Cai教授 和伦敦国王学院(KCL) Yansha Deng准教授学术报告
+
+      2024-01-14'
+    person: ''
+    time: ''
+    title: 加拿大工程院院士、维多利亚大学Lin Cai教授 和伦敦国王学院(KCL) Yansha Deng准教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9222.htm
+    info: '武汉大学何德彪教授学术报告
+
+      2024-01-05'
+    person: ''
+    time: ''
+    title: 武汉大学何德彪教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9219.htm
+    info: '“大数据智能及应用”名家系列讲座
+
+      2024-01-03'
+    person: ''
+    time: ''
+    title: “大数据智能及应用”名家系列讲座
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9216.htm
+    info: '马萨诸塞大学洛厄尔分校Yimin Chen博士学术报告
+
+      2024-01-02'
+    person: ''
+    time: ''
+    title: 马萨诸塞大学洛厄尔分校Yimin Chen博士学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9187.htm
+    info: 'University of Texas at Austin Prof. QiXing Huang学术报告
+
+      2023-12-27'
+    person: ''
+    time: ''
+    title: University of Texas at Austin Prof. QiXing Huang学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9176.htm
+    info: '中国科学院邓燚研究员学术报告
+
+      2023-12-24'
+    person: ''
+    time: ''
+    title: 中国科学院邓燚研究员学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/index.htm
-    info: ENGLISH
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3618.htm
+    info: '【2024春】Causal inference
+
+      Per Johansson'
     person: ''
     time: ''
-    title: 丘成桐数学科学中心
+    title: 【2024春】Causal inference
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3381.htm
+    info: 'The Hodge-Tate period map on the perfectoid Shimura variety
+
+      Yihang Zhu'
+    person: ''
+    time: ''
+    title: The Hodge-Tate period map on the perfectoid Shimura variety
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3380.htm
+    info: 'Econometric analysis of cross section and panel data
+
+      Per Johansson'
+    person: ''
+    time: ''
+    title: Econometric analysis of cross section and panel data
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
+    info: 'Introduction to Geometric Langlands Theory
+
+      Lin Chen'
+    person: ''
+    time: ''
+    title: Introduction to Geometric Langlands Theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3360.htm
+    info: 'Quantum information and computation
+
+      Zi-Wen Liu'
+    person: ''
+    time: ''
+    title: Quantum information and computation
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3341.htm
+    info: 'Mathematical study on metamaterial and its applications
+
+      Hongjie LI'
+    person: ''
+    time: ''
+    title: Mathematical study on metamaterial and its applications
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
+    info: 'High-Dimensional Statistical Learning Theory
+
+      Yuhong Yang'
+    person: ''
+    time: ''
+    title: High-Dimensional Statistical Learning Theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3339.htm
+    info: 'Introduction to cluster algebras
+
+      Dylan Allegretti'
+    person: ''
+    time: ''
+    title: Introduction to cluster algebras
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3337.htm
+    info: '【2023秋】Game theory
+
+      Yuval Peres'
+    person: ''
+    time: ''
+    title: 【2023秋】Game theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/2976.htm
+    info: 'Birational Geometry II
+
+      Caucher Birkar'
+    person: ''
+    time: ''
+    title: Birational Geometry II
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3198.htm
+    info: 'Topics in Statistical Theory
+
+      Yannis Yatracos'
+    person: ''
+    time: ''
+    title: Topics in Statistical Theory
   page_title: 近期公开课-清华丘成桐数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -240,7 +388,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6319348
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6322672
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1684,6 +1832,149 @@
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+    person: ''
+    time: ''
+    title: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+    person: ''
+    time: ''
+    title: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+  page_title: 上海交通大学人工智能研究院
+  page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
     href: http://www.bio-x.cn/Web/Show/2442
     info: '21
 
@@ -1887,11 +2178,137 @@
   page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
-    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-    info: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2914.htm
+    info: '6
+
+      May
+
+      激发态过渡金属不对称催化
+
+      报告人：俞寿云 教授
+
+      报告时间：2024年5月6日 15:00-17:00'
     person: ''
     time: ''
-    title: ''
+    title: 激发态过渡金属不对称催化
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2894.htm
+    info: '30
+
+      Apr
+
+      变革性分子博士生学术论坛（第15期）
+
+      报告人：马江山、李壮 、柯富妹
+
+      报告时间：2024年4月30日（星期二）9:15-12:00'
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第15期）
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2844.htm
+    info: '29
+
+      Apr
+
+      ATRP三十年：跨学科和研究方向 点点相连发现发明ATRP
+
+      报告人：王锦山 博士
+
+      报告时间：2024年4月29日 15:00-16:30'
+    person: ''
+    time: ''
+    title: ATRP三十年：跨学科和研究方向 点点相连发现发明ATRP
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2854.htm
+    info: "29\nApr\n杂原子自由基可控聚合\n报告人：潘翔城 研究员 \n报告时间：2024年4月29日 13:30-15:00"
+    person: ''
+    time: ''
+    title: 杂原子自由基可控聚合
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2834.htm
+    info: '23
+
+      Apr
+
+      变革性分子博士生学术论坛（第14期）
+
+      报告人：石道 、谢天 、张宇轩
+
+      报告时间：2024年4月23日（星期二）14:00-17:00'
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第14期）
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2824.htm
+    info: '16
+
+      Apr
+
+      变革性分子博士生学术论坛（第13期）
+
+      报告人：张权 2023级博士研究生 陈港 2023级博士研究生
+
+      报告时间：2024年4月16日（星期二）14:00-16:00 '
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第13期）
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2804.htm
+    info: '15
+
+      Apr
+
+      细节影响成败——论文数据图勿马虎
+
+      报告人：刘田宇  博士
+
+      报告时间：2024年4月15日15:00-17:00'
+    person: ''
+    time: ''
+    title: 细节影响成败——论文数据图勿马虎
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2784.htm
+    info: '12
+
+      Apr
+
+      New design of heterogeneous catalysts for green ammonia
+
+      报告人：Masaaki Kitano 教授
+
+      报告时间：2024年4月12号（星期五）16:00-17:00'
+    person: ''
+    time: ''
+    title: New design of heterogeneous catalysts for green ammonia
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2794.htm
+    info: '12
+
+      Apr
+
+      富电子材料智能设计及其在催化和能源领域的应用
+
+      报告人：王俊杰 教授
+
+      报告时间：2024年4月12号（星期五）15:00-16:00'
+    person: ''
+    time: ''
+    title: 富电子材料智能设计及其在催化和能源领域的应用
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/2754.htm
+    info: '9
+
+      Apr
+
+      变革性分子博士生学术论坛（第12期）
+
+      报告人：杨蕊、钱开龙、季冠军
+
+      报告时间：2024年4月9日（星期二）14:00-17:00'
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第12期）
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -1918,7 +2335,7 @@
 
       Harvard University
 
-      2024-04-30 10:00, 2 days ago
+      2024-04-30 10:00, 3 days ago
 
       High-resolution Tomographic Reconstruction of Optical Absorbance through Scattering
       Media Using Neural Fields
@@ -1927,7 +2344,7 @@
 
       英国伯明翰大学
 
-      2024-04-24 11:00, 8 days ago
+      2024-04-24 11:00, 9 days ago
 
       Hybrid protein language models for functional protein design
 
@@ -1935,7 +2352,7 @@
 
       Harvard Medical School
 
-      2024-04-24 10:00, 8 days ago
+      2024-04-24 10:00, 9 days ago
 
       5′ UTR语言模型为蛋白质表达的预测和优化提供了新的视角
 
@@ -1943,7 +2360,7 @@
 
       斯坦福医学院、普林斯顿电气与计算机工程系
 
-      2024-04-17 10:00, 15 days ago
+      2024-04-17 10:00, 16 days ago
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
@@ -1970,7 +2387,7 @@
 
       Harvard University
 
-      2024-04-30 10:00, 2 days ago
+      2024-04-30 10:00, 3 days ago
 
       High-resolution Tomographic Reconstruction of Optical Absorbance through Scattering
       Media Using Neural Fields
@@ -1979,7 +2396,7 @@
 
       英国伯明翰大学
 
-      2024-04-24 11:00, 8 days ago
+      2024-04-24 11:00, 9 days ago
 
       Hybrid protein language models for functional protein design
 
@@ -1987,7 +2404,7 @@
 
       Harvard Medical School
 
-      2024-04-24 10:00, 8 days ago
+      2024-04-24 10:00, 9 days ago
 
       5′ UTR语言模型为蛋白质表达的预测和优化提供了新的视角
 
@@ -1995,7 +2412,7 @@
 
       斯坦福医学院、普林斯顿电气与计算机工程系
 
-      2024-04-17 10:00, 15 days ago
+      2024-04-17 10:00, 16 days ago
 
       Linker-mediated assembly: from colloidal LEGOs to COVID testing
 
