@@ -1,38 +1,68 @@
 ﻿- page_info:
   - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://cse.csu.edu.cn/English.htm
-    info: 'CHINESE
+    href: https://sps.bjmu.edu.cn/xsbg/9671c039791345699a4d0fd7aa0af78a.htm
+    info: '2024.05.04
 
-      |
-
-      ENGLISH'
+      神经疾病致病基因功能与转化研究'
     person: ''
     time: ''
-    title: ENGLISH
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: 神经疾病致病基因功能与转化研究
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/index.htm
-    info: ENGLISH
+    href: https://www.chem.pku.edu.cn/xzjz/158252.htm
+    info: '2024-05-04
+
+      【北京大学分析化学学术报告】Wiley物质科学期刊论文写作与发表'
     person: ''
     time: ''
-    title: 丘成桐数学科学中心
-  page_title: 近期公开课-清华丘成桐数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+    title: 【北京大学分析化学学术报告】Wiley物质科学期刊论文写作与发表
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158232.htm
+    info: '2024-04-29
+
+      【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations'
+    person: ''
+    time: ''
+    title: 【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158231.htm
+    info: '2024-04-29
+
+      【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines and Mild
+      Hydrogenations of Nitroarenes for Innovative Syntheses'
+    person: ''
+    time: ''
+    title: 【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines
+      and Mild Hydrogenations of Nitroarenes for Innovative Syntheses
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/158249.htm
+    info: '10
+
+      May
+
+      Distinguished Lecture——PDE systems describing the motion of solids in a viscous
+      fluid: wellposedness, control and long-time behaviour
+
+      时间：2024-05-10 14:00-15:00
+
+      报告人: Marius Tucsnak (University of Bordeaux)'
+    person: ''
+    time: ''
+    title: '10
+
+      May
+
+      Distinguished Lecture——PDE systems describing the motion of solids in a viscous
+      fluid: wellposedness, control and long-time behaviour
+
+      时间：2024-05-10 14:00-15:00
+
+      报告人: Marius Tucsnak (University of Bordeaux)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158239.htm
     info: '07
@@ -81,6 +111,40 @@
       报告人: 兰洋（清华大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: javascript:$('.nav li a').first()[0].click()
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://cse.csu.edu.cn/English.htm
+    info: 'CHINESE
+
+      |
+
+      ENGLISH'
+    person: ''
+    time: ''
+    title: ENGLISH
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/index.htm
+    info: ENGLISH
+    person: ''
+    time: ''
+    title: 丘成桐数学科学中心
+  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/3956.html
@@ -139,27 +203,6 @@
     title: Sinai-Ruelle-Bowen measures of mostly expanding systems
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158232.htm
-    info: '2024-04-29
-
-      【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158231.htm
-    info: '2024-04-29
-
-      【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines and Mild
-      Hydrogenations of Nitroarenes for Innovative Syntheses'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines
-      and Mild Hydrogenations of Nitroarenes for Innovative Syntheses
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtuG2qF2
@@ -271,14 +314,3 @@
       10:15 — 11:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d730c94c29684d558e4f7008f4b3c730.htm
-    info: '2024.04.27
-
-      微生物细胞工厂的基因编辑方法及代谢工程改造'
-    person: ''
-    time: ''
-    title: 微生物细胞工厂的基因编辑方法及代谢工程改造
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
