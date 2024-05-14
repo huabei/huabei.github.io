@@ -1,99 +1,335 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13081.htm
-    info: "Hilbert 空间上有界线性算子的迹类小扰动\n 2024年05月12日 "
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3421.htm
+    info: '核能放射化学应用基础研究
+
+      本报告将简要介绍核能放射化学学科的发展历程、国家需求、科学问题以及苏州大学放射化学团队近期取得的相关研究进展。
+
+      2024.05.13'
     person: ''
     time: ''
-    title: Hilbert 空间上有界线性算子的迹类小扰动
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13079.htm
-    info: "The story of the Rogers-Ramanujan identities\n 2024年05月08日 "
-    person: ''
-    time: ''
-    title: The story of the Rogers-Ramanujan identities
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13078.htm
-    info: "Nonasymptotic Properties of α-Subexponential Structured Random Matrices\n\
-      \ 2024年05月08日 "
-    person: ''
-    time: ''
-    title: 'Nonasymptotic Properties of α-Subexponential Structured Random Matrices  '
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13077.htm
-    info: "周向宇院士学术报告\n 2024年05月08日 "
-    person: ''
-    time: ''
-    title: 周向宇院士学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13076.htm
-    info: "The CMPP conjectures\n 2024年05月08日 "
-    person: ''
-    time: ''
-    title: The CMPP conjectures
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13075.htm
-    info: "泛函分析及相关领域学术报告\n 2024年05月06日 "
-    person: ''
-    time: ''
-    title: 泛函分析及相关领域学术报告
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+    title: 核能放射化学应用基础研究
+  page_title: 学术讲座-清华大学化学系
+  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0512/c26342a2914677/page.htm
-    info: '生命科学学院系列学术讲座--Maurizio Mencuccini教授学术报告
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6090.htm
+    info: '13
 
-      【主讲人：Maurizio Mencuccini】
+      五月
 
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2024-05-13
-
-      查看详情+'
+      Data Attribution: A Principled Data-Centric Approach for Trustworthy AI'
     person: ''
     time: ''
-    title: '生命科学学院系列学术讲座--Maurizio Mencuccini教授学术报告
-
-      【主讲人：Maurizio Mencuccini】
-
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2024-05-13
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0511/c26342a2913923/page.htm
-    info: '生命科学学院系列学术讲座--Jesús Julio Camarero研究员学术报告
-
-      【主讲人：Jesús Julio Camarero】
-
-      时间：11:00
-
-      地点：生命科学学院245报告厅
-
-      2024-05-13
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--Jesús Julio Camarero研究员学术报告
-
-      【主讲人：Jesús Julio Camarero】
-
-      时间：11:00
-
-      地点：生命科学学院245报告厅
-
-      2024-05-13
-
-      查看详情+'
-  page_title: 活动预告
-  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
+    title: 'Data Attribution: A Principled Data-Centric Approach for Trustworthy AI'
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1764
+    info: '5月30日CLS学术报告：Structure-based design of an a-synuclein PET tracer for diagnosis
+      of Par..
+
+      2024-05-13'
+    person: ''
+    time: ''
+    title: 5月30日CLS学术报告：Structure-based design of an a-synuclein PET tracer for diagnosis
+      of Par..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1763
+    info: '5月15日CQBseminar：The Next Generation of Single Cell and Spatial Genomics
+      Technologies
+
+      2024-05-13'
+    person: ''
+    time: ''
+    title: 5月15日CQBseminar：The Next Generation of Single Cell and Spatial Genomics
+      Technologies
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1762
+    info: '6月13日CLS学术报告：线粒体融合与肿瘤免疫
+
+      2024-05-10'
+    person: ''
+    time: ''
+    title: 6月13日CLS学术报告：线粒体融合与肿瘤免疫
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1760
+    info: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
+      escape ..
+
+      2024-05-08'
+    person: ''
+    time: ''
+    title: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
+      escape ..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1759
+    info: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
+      of Scie..
+
+      2024-05-08'
+    person: ''
+    time: ''
+    title: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
+      of Scie..'
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+- page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/b22e213e50ff457880f5a9c7a30595fa.htm
+    info: '讲座主题
+
+      TRPC channels: activators, signals, and decoders
+
+      Michael Xi Zhu
+
+      主讲人PhD.
+
+      2024年5月27日（星期一） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      TRPC channels: activators, signals, and decoders
+
+      Michael Xi Zhu
+
+      主讲人PhD.
+
+      2024年5月27日（星期一） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/f2b1391f85674b249100401766c05d81.htm
+    info: '讲座主题
+
+      Decoding the transcription circuitry when the life...
+
+      颉伟
+
+      主讲人教授
+
+      2024年5月21日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Decoding the transcription circuitry when the life...
+
+      颉伟
+
+      主讲人教授
+
+      2024年5月21日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/dc1e7588f9ee4b7b896ca91ea320d047.htm
+    info: '讲座主题
+
+      Gut-liver axis calibrates intestinal stem cell fit...
+
+      Chuan Wu
+
+      主讲人MD, PhD
+
+      2024年5月16日（星期四） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Gut-liver axis calibrates intestinal stem cell fit...
+
+      Chuan Wu
+
+      主讲人MD, PhD
+
+      2024年5月16日（星期四） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+  page_title: 北京大学未来技术学院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158549.htm
+    info: '2024-05-12
+
+      【北京大学应用化学学术报告】Multi-Disciplinary Validation of CNS and Cancer Biomarkers and
+      Imaging Probes'
+    person: ''
+    time: ''
+    title: 【北京大学应用化学学术报告】Multi-Disciplinary Validation of CNS and Cancer Biomarkers
+      and Imaging Probes
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158540.htm
+    info: '2024-05-13
+
+      【北京大学理论与计算化学学术报告】非绝热动力学，时间分辨光谱和机器学习'
+    person: ''
+    time: ''
+    title: 【北京大学理论与计算化学学术报告】非绝热动力学，时间分辨光谱和机器学习
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158402.htm
+    info: '2024-05-07
+
+      【北京大学物理化学学术报告】原位透射电镜表征过程中辐射分解效应及抑制策略'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】原位透射电镜表征过程中辐射分解效应及抑制策略
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/158401.htm
+    info: '2024-05-07
+
+      【兴大报告670】Glycan centric strategies for targeting solid tumors'
+    person: ''
+    time: ''
+    title: 【兴大报告670】Glycan centric strategies for targeting solid tumors
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/158565.htm
+    info: '15
+
+      May
+
+      应用数学青年讨论班（午餐会）—— Computation of two-dimensional Stokes flows via lightning and
+      AAA rational approximation
+
+      时间：2024-05-15 11:45-13:30
+
+      报告人: 薛逸丹（卡迪夫大学）'
+    person: ''
+    time: ''
+    title: '15
+
+      May
+
+      应用数学青年讨论班（午餐会）—— Computation of two-dimensional Stokes flows via lightning and
+      AAA rational approximation
+
+      时间：2024-05-15 11:45-13:30
+
+      报告人: 薛逸丹（卡迪夫大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/158542.htm
+    info: '15
+
+      May
+
+      Global Curvature Estimates for Hessian Type Equations
+
+      时间：2024-05-15 09:00-10:00
+
+      报告人: 王斌（香港中文大学）'
+    person: ''
+    time: ''
+    title: '15
+
+      May
+
+      Global Curvature Estimates for Hessian Type Equations
+
+      时间：2024-05-15 09:00-10:00
+
+      报告人: 王斌（香港中文大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/158533.htm
+    info: '16
+
+      May
+
+      Geometry and Topology Seminar——曲面同胚的边界不可压缩协边
+
+      时间：2024-05-16 15:30-17:30
+
+      报告人: 王诗宬（北京大学）'
+    person: ''
+    time: ''
+    title: '16
+
+      May
+
+      Geometry and Topology Seminar——曲面同胚的边界不可压缩协边
+
+      时间：2024-05-16 15:30-17:30
+
+      报告人: 王诗宬（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/158562.htm
+    info: '17
+
+      May
+
+      School Colloquium——可压缩流体方程的适定性及极限行为
+
+      时间：2024-05-17 14:00-15:00
+
+      报告人: 黄飞敏 ( 中国科学院数学与系统科学研究院)'
+    person: ''
+    time: ''
+    title: '17
+
+      May
+
+      School Colloquium——可压缩流体方程的适定性及极限行为
+
+      时间：2024-05-17 14:00-15:00
+
+      报告人: 黄飞敏 ( 中国科学院数学与系统科学研究院)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/158546.htm
+    info: '20
+
+      May
+
+      Navier-Stokes Equations of Non-Newtonian Fluids and their Applications in Polymer
+      Processing
+
+      时间：2024-05-20 15:00-16:00
+
+      报告人: 韦东明 (Nazarbayev University)'
+    person: ''
+    time: ''
+    title: '20
+
+      May
+
+      Navier-Stokes Equations of Non-Newtonian Fluids and their Applications in Polymer
+      Processing
+
+      时间：2024-05-20 15:00-16:00
+
+      报告人: 韦东明 (Nazarbayev University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/158559.htm
+    info: '24
+
+      May
+
+      School Colloquium——Transferable Neural Networks for Partial Differential Equations
+
+      时间：2024-05-24 14:00-15:00
+
+      报告人: 鞠立力 ( University of South Carolina)'
+    person: ''
+    time: ''
+    title: '24
+
+      May
+
+      School Colloquium——Transferable Neural Networks for Partial Differential Equations
+
+      时间：2024-05-24 14:00-15:00
+
+      报告人: 鞠立力 ( University of South Carolina)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/158528.htm
     info: '16
@@ -210,197 +446,27 @@
       时间：2024-05-09 16:00-17:00
 
       报告人: 张宇航（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/158264.htm
-    info: '08
-
-      May
-
-      Tian''s Stabilization Problem - Algebraic Meets Complex & Convex Geometry
-
-      时间：2024-05-08 09:00-10:00
-
-      报告人: Yanir A. Rubinstein (马里兰大学)'
-    person: ''
-    time: ''
-    title: '08
-
-      May
-
-      Tian''s Stabilization Problem - Algebraic Meets Complex & Convex Geometry
-
-      时间：2024-05-08 09:00-10:00
-
-      报告人: Yanir A. Rubinstein (马里兰大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/158313.htm
-    info: '08
-
-      May
-
-      An introduction to the optimal degeneration of Fano varieties
-
-      时间：2024-05-08 15:10-16:10
-
-      报告人: 韩骥原（西湖大学）'
-    person: ''
-    time: ''
-    title: '08
-
-      May
-
-      An introduction to the optimal degeneration of Fano varieties
-
-      时间：2024-05-08 15:10-16:10
-
-      报告人: 韩骥原（西湖大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/158260.htm
-    info: '09
-
-      May
-
-      Geometry and Topology Seminar——Shortest filling geodesics on hyperbolic surfaces
-
-      时间：2024-05-09 15:30-17:30
-
-      报告人: 高悦（安徽师范大学）'
-    person: ''
-    time: ''
-    title: '09
-
-      May
-
-      Geometry and Topology Seminar——Shortest filling geodesics on hyperbolic surfaces
-
-      时间：2024-05-09 15:30-17:30
-
-      报告人: 高悦（安徽师范大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158271.htm
-    info: '16
-
-      May
-
-      Profile electoral college cross-validation
-
-      时间：2024-05-16 14:00-15:00
-
-      报告人: 杨宇红（清华大学）'
-    person: ''
-    time: ''
-    title: '16
-
-      May
-
-      Profile electoral college cross-validation
-
-      时间：2024-05-16 14:00-15:00
-
-      报告人: 杨宇红（清华大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158289.htm
-    info: '20
-
-      May
-
-      Global Solutions of the Compressible Euler and Euler-Poisson Equations with
-      Large Initial Data of Spherical Symmetry
-
-      时间：2024-05-20 15:45-16:45
-
-      报告人: 王勇 (中国科学院数学与系统科学研究院)'
-    person: ''
-    time: ''
-    title: '20
-
-      May
-
-      Global Solutions of the Compressible Euler and Euler-Poisson Equations with
-      Large Initial Data of Spherical Symmetry
-
-      时间：2024-05-20 15:45-16:45
-
-      报告人: 王勇 (中国科学院数学与系统科学研究院)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b68f59550d4a4103b3f2c49926c2f164.htm
-    info: '2024.05.10
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuht2HtKF2
+    info: '黄学海教授
 
-      药学大讲堂第47期：人工智能驱动的生物分子相分离研究'
+      ANALYSIS OF DIVERGENCE FREE CONFORMING VIRTUAL ELEMENTS FOR THE BRINKMAN PROBLEM
+
+      2024-05-16
+
+      10:00 — 11:30'
     person: ''
     time: ''
-    title: 药学大讲堂第47期：人工智能驱动的生物分子相分离研究
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c9b4547ebc9f4a3baa5a72b609a7233e.htm
-    info: '2024.05.07
+    title: '黄学海教授
 
-      药物仿生定向生物合成'
-    person: ''
-    time: ''
-    title: 药物仿生定向生物合成
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b3d2b19d3c50494f8e2aaa82e6a88bc9.htm
-    info: '2024.05.01
+      ANALYSIS OF DIVERGENCE FREE CONFORMING VIRTUAL ELEMENTS FOR THE BRINKMAN PROBLEM
 
-      新颖小型核酶的结构催化机制和潜在的生物医药应用'
-    person: ''
-    time: ''
-    title: 新颖小型核酶的结构催化机制和潜在的生物医药应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d65f6ab426474670bd5546eafa4e62dd.htm
-    info: '2024.05.06
+      2024-05-16
 
-      微流控细胞分析'
-    person: ''
-    time: ''
-    title: 微流控细胞分析
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/e251f88062154adc9563ceb61c2fd9d1.htm
-    info: '2024.05.03
-
-      Revitalizing exhausted T Cells with IL-10: a journey from lab discovery to clinical
-      application for enhanced cancer immunotherapy'
-    person: ''
-    time: ''
-    title: 'Revitalizing exhausted T Cells with IL-10: a journey from lab discovery
-      to clinical application for enhanced cancer immunotherapy'
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1762
-    info: '6月13日CLS学术报告：线粒体融合与肿瘤免疫
-
-      2024-05-10'
-    person: ''
-    time: ''
-    title: 6月13日CLS学术报告：线粒体融合与肿瘤免疫
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1760
-    info: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
-      escape ..
-
-      2024-05-08'
-    person: ''
-    time: ''
-    title: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
-      escape ..'
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1759
-    info: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
-      of Scie..
-
-      2024-05-08'
-    person: ''
-    time: ''
-    title: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
-      of Scie..'
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
-- page_info:
+      10:00 — 11:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuht2GpKF2
     info: '[吴文俊数学中心综合报告] 苏中根
@@ -567,28 +633,187 @@
       2024-05-09
 
       13:30 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhtyFyqF2
-    info: '石亚龙
-
-      GREEN FUNCTIONS OF GJMS OPERATORS ON SPHERES, GEGENBAUER POLYNOMIALS AND THE
-      RIGIDITY PROBLEM
-
-      2024-05-17
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '石亚龙
-
-      GREEN FUNCTIONS OF GJMS OPERATORS ON SPHERES, GEGENBAUER POLYNOMIALS AND THE
-      RIGIDITY PROBLEM
-
-      2024-05-17
-
-      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0513/c26342a2914874/page.htm
+    info: '生命科学学院系列学术讲座--Andreas Huth教授学术报告
+
+      【主讲人：Andreas Huth】
+
+      时间：15:00
+
+      地点：生命科学学院123会议室
+
+      2024-05-14
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Andreas Huth教授学术报告
+
+      【主讲人：Andreas Huth】
+
+      时间：15:00
+
+      地点：生命科学学院123会议室
+
+      2024-05-14
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0513/c26342a2914872/page.htm
+    info: '生命科学学院系列学术讲座--Thorsten Wiegand教授学术报告
+
+      【主讲人：Thorsten Wiegand】
+
+      时间：14:00
+
+      地点：生命科学学院123会议室
+
+      2024-05-14
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Thorsten Wiegand教授学术报告
+
+      【主讲人：Thorsten Wiegand】
+
+      时间：14:00
+
+      地点：生命科学学院123会议室
+
+      2024-05-14
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0512/c26342a2914677/page.htm
+    info: '生命科学学院系列学术讲座--Maurizio Mencuccini教授学术报告
+
+      【主讲人：Maurizio Mencuccini】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-05-13
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Maurizio Mencuccini教授学术报告
+
+      【主讲人：Maurizio Mencuccini】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-05-13
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0511/c26342a2913923/page.htm
+    info: '生命科学学院系列学术讲座--Jesús Julio Camarero研究员学术报告
+
+      【主讲人：Jesús Julio Camarero】
+
+      时间：11:00
+
+      地点：生命科学学院245报告厅
+
+      2024-05-13
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--Jesús Julio Camarero研究员学术报告
+
+      【主讲人：Jesús Julio Camarero】
+
+      时间：11:00
+
+      地点：生命科学学院245报告厅
+
+      2024-05-13
+
+      查看详情+'
+  page_title: 活动预告
+  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
+- page_info:
+  - address: ''
+    href: http://www.isee.zju.edu.cn/2024/0513/c51065a2914850/page.htm
+    info: '关于香港中文大学薛昊冉教授学术报告的通知
+
+      2024-05-13'
+    person: ''
+    time: ''
+    title: 关于香港中文大学薛昊冉教授学术报告的通知
+  page_title: 学术报告
+  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13081.htm
+    info: "Hilbert 空间上有界线性算子的迹类小扰动\n 2024年05月12日 "
+    person: ''
+    time: ''
+    title: Hilbert 空间上有界线性算子的迹类小扰动
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13079.htm
+    info: "The story of the Rogers-Ramanujan identities\n 2024年05月08日 "
+    person: ''
+    time: ''
+    title: The story of the Rogers-Ramanujan identities
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13078.htm
+    info: "Nonasymptotic Properties of α-Subexponential Structured Random Matrices\n\
+      \ 2024年05月08日 "
+    person: ''
+    time: ''
+    title: 'Nonasymptotic Properties of α-Subexponential Structured Random Matrices  '
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13077.htm
+    info: "周向宇院士学术报告\n 2024年05月08日 "
+    person: ''
+    time: ''
+    title: 周向宇院士学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13076.htm
+    info: "The CMPP conjectures\n 2024年05月08日 "
+    person: ''
+    time: ''
+    title: The CMPP conjectures
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/b68f59550d4a4103b3f2c49926c2f164.htm
+    info: '2024.05.10
+
+      药学大讲堂第47期：人工智能驱动的生物分子相分离研究'
+    person: ''
+    time: ''
+    title: 药学大讲堂第47期：人工智能驱动的生物分子相分离研究
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/c9b4547ebc9f4a3baa5a72b609a7233e.htm
+    info: '2024.05.07
+
+      药物仿生定向生物合成'
+    person: ''
+    time: ''
+    title: 药物仿生定向生物合成
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/b3d2b19d3c50494f8e2aaa82e6a88bc9.htm
+    info: '2024.05.01
+
+      新颖小型核酶的结构催化机制和潜在的生物医药应用'
+    person: ''
+    time: ''
+    title: 新颖小型核酶的结构催化机制和潜在的生物医药应用
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/5775.htm
@@ -745,18 +970,6 @@
     title: '2024-05-08
 
       Special Seminar-2024.5.15(10：00-12：00，C105)-北京大学药学院-黄卓研究员'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3530.htm
-    info: '2024-05-06
-
-      Special Seminar-2024.5.7(11:00-12:10，F东101)-Brigham Young University-Steven
-      L. Castle'
-    person: ''
-    time: ''
-    title: '2024-05-06
-
-      Special Seminar-2024.5.7(11:00-12:10，F东101)-Brigham Young University-Steven
-      L. Castle'
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
@@ -774,41 +987,8 @@
       2024-05
 
       信科“E席谈”青年学术沙龙（第二十一期）——既然是梦想，干脆做大点的！'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6210.htm
-    info: '06
-
-      2024-05
-
-      北京大学显示技术系列讲座第6期——Micro-LED芯片技术与集成技术'
-    person: ''
-    time: ''
-    title: '06
-
-      2024-05
-
-      北京大学显示技术系列讲座第6期——Micro-LED芯片技术与集成技术'
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158402.htm
-    info: '2024-05-07
-
-      【北京大学物理化学学术报告】原位透射电镜表征过程中辐射分解效应及抑制策略'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】原位透射电镜表征过程中辐射分解效应及抑制策略
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158401.htm
-    info: '2024-05-07
-
-      【兴大报告670】Glycan centric strategies for targeting solid tumors'
-    person: ''
-    time: ''
-    title: 【兴大报告670】Glycan centric strategies for targeting solid tumors
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/2954.htm
@@ -883,71 +1063,5 @@
       2024-05
 
       【学术报告】Structure Study on Nano-porous Crystals'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3961.html
-    info: '24
-
-      2024-05
-
-      【学术报告】Vibronic Couplings in Solar Energy Conversion and Environmental Issues'
-    person: ''
-    time: ''
-    title: '24
-
-      2024-05
-
-      【学术报告】Vibronic Couplings in Solar Energy Conversion and Environmental Issues'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3960.html
-    info: '17
-
-      2024-05
-
-      【学术报告】光学探针与成像分析'
-    person: ''
-    time: ''
-    title: '17
-
-      2024-05
-
-      【学术报告】光学探针与成像分析'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/3959.html
-    info: '13
-
-      2024-05
-
-      【学术报告】Breaking and Reforming: The Key to Structurally Ordered Polymeric Architectures and Recyclable Materials via Dynamic Covalent Chemistry'
-    person: ''
-    time: ''
-    title: '13
-
-      2024-05
-
-      【学术报告】Breaking and Reforming: The Key to Structurally Ordered Polymeric Architectures and Recyclable Materials via Dynamic Covalent Chemistry'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9533.htm
-    info: '新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
-
-      2024-05-06'
-    person: ''
-    time: ''
-    title: 新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3418.htm
-    info: 'P动态高分子网络：从形状记忆、拓扑异构到化学升值回收
-
-      动态高分子网络因在形状记忆材料、自修复材料及可重加工交联网络方面的独特用途而得到广泛的关注。本报告将从基于相转变的形状记忆动态高分子出发，首先介绍无需外界刺激实现高分子定时变形的最新进展。以此为基础…
-
-      2024.05.06'
-    person: ''
-    time: ''
-    title: P动态高分子网络：从形状记忆、拓扑异构到化学升值回收
-  page_title: 学术讲座-清华大学化学系
-  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
