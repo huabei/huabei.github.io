@@ -1,90 +1,93 @@
 ﻿- page_info:
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/5817.htm
-    info: '学术报告
-
-      22
-
-      MAY
-
-      Lysosomal dynamics: Regulation and Function
-
-      22
-
-      MAY
-
-      Lysosomal quality control in health and disease
-
-      10
-
-      MAY
-
-      Molecular Genetic Basis of Congenital Disorders of the Immune System Yields
-      Pr…
-
-      08
-
-      MAY
-
-      CD8+ T cells with an exhaustion phenotype are tumor-specific killers
-
-      17
-
-      APR
-
-      Epigenetics：remember the past & prepare for the future
-
-      17
-
-      APR
-
-      Lipid switches in cell physiology: From nutrient signals to disease
-
-      17
-
-      APR
-
-      Developing structural interactomics and its application in cell biology
-
-      17
-
-      APR
-
-      Autophagy and Lysosomes: From Molecular Acrobatics to Neurodegeneration
-
-      01
-
-      APR
-
-      Roles of UFMylation in conventional and unconventional protein secretion
-
-      26
-
-      MAR
-
-      Molecular mechanism and machinery driving unconventional secretion of FGF2,
-      a …
-
-      共25条 上页123下页'
+    href: https://math.csu.edu.cn/info/1736/13101.htm
+    info: "朱克和教授学术报告\n 2024年05月23日 "
     person: ''
     time: ''
-    title: 'Lysosomal dynamics: Regulation and Function'
-  page_title: 学术报告-清华大学生命科学学院
-  page_url: https://life.tsinghua.edu.cn/xsbg.htm
+    title: 朱克和教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13100.htm
+    info: "Reduced order method for the stochastic parameter optimization of nonlinear\
+      \ p...\n 2024年05月23日 "
+    person: ''
+    time: ''
+    title: Reduced order method for the stochastic parameter optimization of nonlinear
+      parabolic equations
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6251.htm
-    info: '22
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6109.htm
+    info: '23
 
-      2024-05
+      五月
 
-      信科“E席谈”青年学术沙龙（第二十三期）——压电超声传感器：小尺寸，大作为'
+      大模型技术在快手AI的应用与落地'
     person: ''
     time: ''
-    title: '22
+    title: 大模型技术在快手AI的应用与落地
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+- page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1769
+    info: '5月30日CQBseminar：代谢物的生化与数字网络
 
-      2024-05
+      2024-05-23'
+    person: ''
+    time: ''
+    title: 5月30日CQBseminar：代谢物的生化与数字网络
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1768
+    info: '5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
 
-      信科“E席谈”青年学术沙龙（第二十三期）——压电超声传感器：小尺寸，大作为'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+      2024-05-22'
+    person: ''
+    time: ''
+    title: 5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159092.htm
+    info: '2024-05-23
+
+      【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159037.htm
+    info: '2024-05-23
+
+      【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/158960.htm
+    info: '30
+
+      May
+
+      Rigidity of postively curved steady ricci solitons on manifolds and orbifolds.
+
+      时间：2024-05-30 14:00-15:00
+
+      报告人: 邓宇星（北京理工大学）'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Rigidity of postively curved steady ricci solitons on manifolds and orbifolds.
+
+      时间：2024-05-30 14:00-15:00
+
+      报告人: 邓宇星（北京理工大学）'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm

@@ -1,5 +1,19 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13101.htm
+    info: "朱克和教授学术报告\n 2024年05月23日 "
+    person: ''
+    time: ''
+    title: 朱克和教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13100.htm
+    info: "Reduced order method for the stochastic parameter optimization of nonlinear\
+      \ p...\n 2024年05月23日 "
+    person: ''
+    time: ''
+    title: Reduced order method for the stochastic parameter optimization of nonlinear
+      parabolic equations
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13097.htm
     info: "偏微分系列报告：消元法与偏微分方程的求解\n 2024年05月20日 "
     person: ''
@@ -56,18 +70,6 @@
     person: ''
     time: ''
     title: The CMPP conjectures
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13075.htm
-    info: "泛函分析及相关领域学术报告\n 2024年05月06日 "
-    person: ''
-    time: ''
-    title: 泛函分析及相关领域学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13071.htm
-    info: "Sinai-Ruelle-Bowen measures of mostly expanding systems\n 2024年04月29日 "
-    person: ''
-    time: ''
-    title: Sinai-Ruelle-Bowen measures of mostly expanding systems
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -385,7 +387,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6406528
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6411159
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -461,6 +463,16 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6109.htm
+    info: '23
+
+      五月
+
+      大模型技术在快手AI的应用与落地'
+    person: ''
+    time: ''
+    title: 大模型技术在快手AI的应用与落地
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6090.htm
     info: '13
@@ -564,18 +576,6 @@
     person: ''
     time: ''
     title: 首届紫荆计算机学科发展论坛召开
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5518.htm
-    info: '06
-
-      七月
-
-      第二届量子软件论坛召开
-
-      5月7日，第二届量子软件论坛以线上线下相结合的方式在京召开，来自国内外学术界和工业界的知名专家学者相聚一堂，共话量子软件研究前沿。本届论坛由清华大学（计算机系）量子软件研究中心主办，北京中科弧光量子软件技术有限公司承办。清华大学计算机系党委书记贾珈为本次论坛致开幕辞。贾珈在开幕辞中回顾了清华大学计算机系在量子计算与软件领域二十多年的学科发展与人才培养历程。...'
-    person: ''
-    time: ''
-    title: 第二届量子软件论坛召开
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -861,6 +861,81 @@
     title: Pre
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
+- page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1769
+    info: '5月30日CQBseminar：代谢物的生化与数字网络
+
+      2024-05-23'
+    person: ''
+    time: ''
+    title: 5月30日CQBseminar：代谢物的生化与数字网络
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1768
+    info: '5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
+
+      2024-05-22'
+    person: ''
+    time: ''
+    title: 5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1764
+    info: '5月30日CLS学术报告：Structure-based design of an a-synuclein PET tracer for diagnosis
+      of Par..
+
+      2024-05-13'
+    person: ''
+    time: ''
+    title: 5月30日CLS学术报告：Structure-based design of an a-synuclein PET tracer for diagnosis
+      of Par..
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1763
+    info: '5月15日CQBseminar：The Next Generation of Single Cell and Spatial Genomics
+      Technologies
+
+      2024-05-13'
+    person: ''
+    time: ''
+    title: 5月15日CQBseminar：The Next Generation of Single Cell and Spatial Genomics
+      Technologies
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1762
+    info: '6月13日CLS学术报告：线粒体融合与肿瘤免疫
+
+      2024-05-10'
+    person: ''
+    time: ''
+    title: 6月13日CLS学术报告：线粒体融合与肿瘤免疫
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1760
+    info: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
+      escape ..
+
+      2024-05-08'
+    person: ''
+    time: ''
+    title: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
+      escape ..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1759
+    info: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
+      of Scie..
+
+      2024-05-08'
+    person: ''
+    time: ''
+    title: '5月9日科学史系报告：Defining Nature’s Limits: The Roman Inquisition and the Boundaries
+      of Scie..'
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1751
+    info: '5月6日CQBseminar：细胞内的非平衡输运、调控及功能
+
+      2024-04-25'
+    person: ''
+    time: ''
+    title: 5月6日CQBseminar：细胞内的非平衡输运、调控及功能
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/b22e213e50ff457880f5a9c7a30595fa.htm
@@ -1418,6 +1493,22 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159092.htm
+    info: '2024-05-23
+
+      【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159037.htm
+    info: '2024-05-23
+
+      【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/158882.htm
     info: '2024-05-21
 
@@ -1497,127 +1588,9 @@
     person: ''
     time: ''
     title: 【北京大学分析化学学术报告】Wiley物质科学期刊论文写作与发表
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158232.htm
-    info: '2024-04-29
-
-      【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Abundant Metal-Catalyzed Carbonylation Transformations
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158231.htm
-    info: '2024-04-29
-
-      【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines and Mild
-      Hydrogenations of Nitroarenes for Innovative Syntheses'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Catalytic Functionalisations of Pyridines and Phosphines
-      and Mild Hydrogenations of Nitroarenes for Innovative Syntheses
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158586.htm
-    info: '23
-
-      May
-
-      Selective predictive inference
-
-      时间：2024-05-23 14:00-15:00
-
-      报告人: 邹长亮（南开大学）'
-    person: ''
-    time: ''
-    title: '23
-
-      May
-
-      Selective predictive inference
-
-      时间：2024-05-23 14:00-15:00
-
-      报告人: 邹长亮（南开大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/158701.htm
-    info: '23
-
-      May
-
-      Geometry and Topology Seminar——Seifert 流形的模 2 Thurston 范数
-
-      时间：2024-05-23 15:00-16:00
-
-      报告人: 杜晓明（华南理工大学）'
-    person: ''
-    time: ''
-    title: '23
-
-      May
-
-      Geometry and Topology Seminar——Seifert 流形的模 2 Thurston 范数
-
-      时间：2024-05-23 15:00-16:00
-
-      报告人: 杜晓明（华南理工大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/158705.htm
-    info: '23
-
-      May
-
-      Geometry and Topology Seminar——On the homology of big mapping class groups
-
-      时间：2024-05-23 16:00-18:00
-
-      报告人: 伍晓磊（复旦大学）'
-    person: ''
-    time: ''
-    title: '23
-
-      May
-
-      Geometry and Topology Seminar——On the homology of big mapping class groups
-
-      时间：2024-05-23 16:00-18:00
-
-      报告人: 伍晓磊（复旦大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/158709.htm
-    info: '23
-
-      May
-
-      机器学习与数据科学博士生系列论坛（第七十二期）—— Federated Reinforcement Learning with Heterogeneity
-      among Agents
-
-      时间：2024-05-23 16:00-17:00
-
-      报告人: 金昊 (北京大学)'
-    person: ''
-    time: ''
-    title: '23
-
-      May
-
-      机器学习与数据科学博士生系列论坛（第七十二期）—— Federated Reinforcement Learning with Heterogeneity
-      among Agents
-
-      时间：2024-05-23 16:00-17:00
-
-      报告人: 金昊 (北京大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/158679.htm
-    info: "23\nMay\n(北京大学数量经济与数理金融教育部重点实验室)学术报告——An optimal transport approach to\
-      \ generative modeling for time series \n时间：2024-05-23 15:00-16:00\n报告人: Huyên\
-      \ PHAM (Université Paris Cité)"
-    person: ''
-    time: ''
-    title: "23\nMay\n(北京大学数量经济与数理金融教育部重点实验室)学术报告——An optimal transport approach to\
-      \ generative modeling for time series \n时间：2024-05-23 15:00-16:00\n报告人: Huyên\
-      \ PHAM (Université Paris Cité)"
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/158559.htm
     info: '24
@@ -1709,6 +1682,28 @@
 
       报告人: Danyu Lin(The University of North Carolina at Chapel Hill)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/158960.htm
+    info: '30
+
+      May
+
+      Rigidity of postively curved steady ricci solitons on manifolds and orbifolds.
+
+      时间：2024-05-30 14:00-15:00
+
+      报告人: 邓宇星（北京理工大学）'
+    person: ''
+    time: ''
+    title: '30
+
+      May
+
+      Rigidity of postively curved steady ricci solitons on manifolds and orbifolds.
+
+      时间：2024-05-30 14:00-15:00
+
+      报告人: 邓宇星（北京理工大学）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/158652.htm
     info: '03
 
@@ -1752,6 +1747,82 @@
       时间：2024-06-17 09:00-11:00
 
       报告人: 郑有权教授 (天津大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158858.htm
+    info: '19
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（二）
+
+      时间：2024-06-19 14:00-16:00
+
+      报告人: 郑有权教授 (天津大学)'
+    person: ''
+    time: ''
+    title: '19
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（二）
+
+      时间：2024-06-19 14:00-16:00
+
+      报告人: 郑有权教授 (天津大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158862.htm
+    info: '21
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（三）
+
+      时间：2024-06-21 09:00-11:00
+
+      报告人: 郑有权教授 (天津大学)'
+    person: ''
+    time: ''
+    title: '21
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（三）
+
+      时间：2024-06-21 09:00-11:00
+
+      报告人: 郑有权教授 (天津大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/158679.htm
+    info: "23\nMay\n(北京大学数量经济与数理金融教育部重点实验室)学术报告——An optimal transport approach to\
+      \ generative modeling for time series \n时间：2024-05-23 15:00-16:00\n报告人: Huyên\
+      \ PHAM (Université Paris Cité)"
+    person: ''
+    time: ''
+    title: "23\nMay\n(北京大学数量经济与数理金融教育部重点实验室)学术报告——An optimal transport approach to\
+      \ generative modeling for time series \n时间：2024-05-23 15:00-16:00\n报告人: Huyên\
+      \ PHAM (Université Paris Cité)"
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/158586.htm
+    info: '23
+
+      May
+
+      Selective predictive inference
+
+      时间：2024-05-23 14:00-15:00
+
+      报告人: 邹长亮（南开大学）'
+    person: ''
+    time: ''
+    title: '23
+
+      May
+
+      Selective predictive inference
+
+      时间：2024-05-23 14:00-15:00
+
+      报告人: 邹长亮（南开大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1897,6 +1968,209 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2442
+    info: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/2984.htm
@@ -2055,7 +2329,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 3 days ago
+      2024-05-20 10:00, 4 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2064,7 +2338,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, in a day
+      2024-05-24 10:00, in 3 hours
 
       掌控分子秘密：AlphaFold 3 的突破
 
@@ -2072,7 +2346,7 @@
 
       上海交通大学自然科学研究院
 
-      2024-05-13 15:00, 10 days ago
+      2024-05-13 15:00, 11 days ago
 
       Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach
 
@@ -2080,7 +2354,7 @@
 
       Harvard University
 
-      2024-04-30 10:00, 23 days ago
+      2024-04-30 10:00, 24 days ago
 
       High-resolution Tomographic Reconstruction of Optical Absorbance through Scattering
       Media Using Neural Fields
@@ -2106,7 +2380,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 3 days ago
+      2024-05-20 10:00, 4 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2115,7 +2389,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, in a day
+      2024-05-24 10:00, in 3 hours
 
       掌控分子秘密：AlphaFold 3 的突破
 
@@ -2123,7 +2397,7 @@
 
       上海交通大学自然科学研究院
 
-      2024-05-13 15:00, 10 days ago
+      2024-05-13 15:00, 11 days ago
 
       Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach
 
@@ -2131,7 +2405,7 @@
 
       Harvard University
 
-      2024-04-30 10:00, 23 days ago
+      2024-04-30 10:00, 24 days ago
 
       High-resolution Tomographic Reconstruction of Optical Absorbance through Scattering
       Media Using Neural Fields
@@ -3286,6 +3560,12 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 物理学院杜瑞瑞学术报告的通知（School of Physics Colloquium）
+    person: ''
+    time: ''
+    title: 物理学院杜瑞瑞学术报告的通知（School of Physics Colloquium）
+  - address: ''
+    href: null
     info: “杏林·专题论坛”—Ben W. Mol 教授 报告会
     person: ''
     time: ''
@@ -3296,12 +3576,6 @@
     person: ''
     time: ''
     title: 【生仪学院】第六期吕维雪院长论坛--骆清铭院士报告会
-  - address: ''
-    href: null
-    info: “杏林·名师名家论坛”—时玉舫 院士报告会
-    person: ''
-    time: ''
-    title: “杏林·名师名家论坛”—时玉舫 院士报告会
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
