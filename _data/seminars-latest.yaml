@@ -253,7 +253,7 @@
     person: ''
     time: ''
     title: Topics in Statistical Theory
-  page_title: 近期公开课-清华丘成桐数学科学中心
+  page_title: 近期公开课-清华大学数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
@@ -1592,50 +1592,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159137.htm
-    info: '03
-
-      Jun
-
-      傅里叶限制性理论中的Hormander问题以及最新进展
-
-      时间：2024-06-03 16:00-17:00
-
-      报告人: 郭少明 (威斯康辛大学、南开大学)'
-    person: ''
-    time: ''
-    title: '03
-
-      Jun
-
-      傅里叶限制性理论中的Hormander问题以及最新进展
-
-      时间：2024-06-03 16:00-17:00
-
-      报告人: 郭少明 (威斯康辛大学、南开大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/158652.htm
-    info: '03
-
-      Jun
-
-      Efficient quantum algorithms for state preparation: ground and thermal state
-
-      时间：2024-06-03 10:00-11:00
-
-      报告人: 丁智彦 （加州大学伯克利分校）'
-    person: ''
-    time: ''
-    title: '03
-
-      Jun
-
-      Efficient quantum algorithms for state preparation: ground and thermal state
-
-      时间：2024-06-03 10:00-11:00
-
-      报告人: 丁智彦 （加州大学伯克利分校）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/159325.htm
     info: '05
 
@@ -1657,6 +1613,50 @@
       时间：2024-06-05 16:00-17:00
 
       报告人: 石磊(云南财经大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159385.htm
+    info: '05
+
+      Jun
+
+      应用数学青年讨论班（午餐会）—— 神经偏微分方程求解器：拟合、求解和泛化
+
+      时间：2024-06-05 11:45-13:30
+
+      报告人: 吴海旭（清华大学软件学院）'
+    person: ''
+    time: ''
+    title: '05
+
+      Jun
+
+      应用数学青年讨论班（午餐会）—— 神经偏微分方程求解器：拟合、求解和泛化
+
+      时间：2024-06-05 11:45-13:30
+
+      报告人: 吴海旭（清华大学软件学院）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/159372.htm
+    info: '05
+
+      Jun
+
+      Immortal Solutions of the Kähler-Ricci Flow
+
+      时间：2024-06-05 14:00-15:00
+
+      报告人: Hans-Joachim Hein (Universität Münster)'
+    person: ''
+    time: ''
+    title: '05
+
+      Jun
+
+      Immortal Solutions of the Kähler-Ricci Flow
+
+      时间：2024-06-05 14:00-15:00
+
+      报告人: Hans-Joachim Hein (Universität Münster)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159319.htm
     info: '06
@@ -1858,6 +1858,12 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
+    info: 【动科学院】傅静远教授学术报告
+    person: ''
+    time: ''
+    title: 【动科学院】傅静远教授学术报告
+  - address: ''
+    href: null
     info: 【生仪学院】第八期吕维雪学术论坛——张凡教授报告会
     person: ''
     time: ''
@@ -1868,12 +1874,6 @@
     person: ''
     time: ''
     title: 物理学院赵鸿学术报告的通知（School of Physics Colloquium）
-  - address: ''
-    href: null
-    info: 物理学院吴飙学术报告的通知（School of Physics Colloquium）
-    person: ''
-    time: ''
-    title: 物理学院吴飙学术报告的通知（School of Physics Colloquium）
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
