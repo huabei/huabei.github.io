@@ -1,45 +1,173 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13127.htm
-    info: "Sun-Sig Byun教授学术报告\n 2024年06月06日 "
+    href: https://math.csu.edu.cn/info/1736/13139.htm
+    info: "林平教授学术报告\n 2024年06月07日 "
     person: ''
     time: ''
-    title: Sun-Sig Byun教授学术报告
+    title: 林平教授学术报告
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13126.htm
-    info: "Stability Problems in fluids and astrophysics (I,II)\n 2024年06月06日 "
+    href: https://math.csu.edu.cn/info/1736/13136.htm
+    info: "Raphaël Ponge教授学术报告II\n 2024年06月07日 "
     person: ''
     time: ''
-    title: Stability Problems in fluids and astrophysics (I,II)
+    title: Raphaël Ponge教授学术报告II
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13135.htm
+    info: "Raphaël Ponge教授学术报告I\n 2024年06月07日 "
+    person: ''
+    time: ''
+    title: Raphaël Ponge教授学术报告I
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13134.htm
+    info: "李承治教授学术报告II\n 2024年06月07日 "
+    person: ''
+    time: ''
+    title: 李承治教授学术报告II
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13133.htm
+    info: "李承治教授学术报告I\n 2024年06月07日 "
+    person: ''
+    time: ''
+    title: 李承治教授学术报告I
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6142.htm
-    info: '06
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17144.html
+    info: '2024.06.07
 
-      六月
-
-      Our Model Achieves Excellent Performance on MovieLens: What Does It Mean?'
+      Decipher the Epigenetic Code in Health and Disease'
     person: ''
     time: ''
-    title: 'Our Model Achieves Excellent Performance on MovieLens: What Does It Mean? '
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+    title: '2024.06.07
+
+      Decipher the Epigenetic Code in Health and Disease'
+  page_title: 北京大学生命科学学院
+  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6291.htm
-    info: '06
+    href: https://www.chem.pku.edu.cn/xzjz/159534.htm
+    info: '2024-06-07
 
-      2024-06
-
-      信科“E席谈”青年学术沙龙（第二十五期）——科研创新的钥匙：如何提问'
+      【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and Lighting
+      Applications'
     person: ''
     time: ''
-    title: '06
+    title: 【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and
+      Lighting Applications
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159535.htm
+    info: '2024-06-05
 
-      2024-06
+      : 【北京大学理论与计算化学学术报告】电子激发态与非绝热效应'
+    person: ''
+    time: ''
+    title: ': 【北京大学理论与计算化学学术报告】电子激发态与非绝热效应'
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159513.htm
+    info: '13
 
-      信科“E席谈”青年学术沙龙（第二十五期）——科研创新的钥匙：如何提问'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+      Jun
+
+      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
+      Complexes of Not 2-Connected Graphs
+
+      时间：2024-06-13 15:30-17:30
+
+      报告人: 段智鹏（南京师范大学）'
+    person: ''
+    time: ''
+    title: '13
+
+      Jun
+
+      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
+      Complexes of Not 2-Connected Graphs
+
+      时间：2024-06-13 15:30-17:30
+
+      报告人: 段智鹏（南京师范大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159502.htm
+    info: '24
+
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
+    person: ''
+    time: ''
+    title: '24
+
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeG2qF2
+    info: '[MINI COURSES] 陈伊凡
+
+      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES
+
+      2024-06-27
+
+      09:00 — 10:30'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 陈伊凡
+
+      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES
+
+      2024-06-27
+
+      09:00 — 10:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeHpKF2
+    info: '[MINI COURSES] 陈亦飞
+
+      典范丛公式II（第一讲）
+
+      2024-06-27
+
+      10:30 — 12:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 陈亦飞
+
+      典范丛公式II（第一讲）
+
+      2024-06-27
+
+      10:30 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeHtKF2
+    info: '[MINI COURSES] 陈亦飞
+
+      典范丛公式II（第二讲）
+
+      2024-06-27
+
+      14:00 — 15:30'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 陈亦飞
+
+      典范丛公式II（第二讲）
+
+      2024-06-27
+
+      14:00 — 15:30'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
