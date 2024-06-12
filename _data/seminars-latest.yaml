@@ -1,5 +1,23 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13144.htm
+    info: "周沛劼研究员学术报告\n 2024年06月12日 "
+    person: ''
+    time: ''
+    title: 周沛劼研究员学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13143.htm
+    info: "史际帆研究员学术报告\n 2024年06月12日 "
+    person: ''
+    time: ''
+    title: 史际帆研究员学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13142.htm
+    info: "周达教授学术报告\n 2024年06月12日 "
+    person: ''
+    time: ''
+    title: 周达教授学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13139.htm
     info: "林平教授学术报告\n 2024年06月07日 "
     person: ''
@@ -47,24 +65,6 @@
     person: ''
     time: ''
     title: 熊捷教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13123.htm
-    info: "张莹博士学术报告\n 2024年06月04日 "
-    person: ''
-    time: ''
-    title: 张莹博士学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13119.htm
-    info: "王冀鲁教授学术报告\n 2024年05月29日 "
-    person: ''
-    time: ''
-    title: 王冀鲁教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13118.htm
-    info: "刘建州教授学术报告\n 2024年05月29日 "
-    person: ''
-    time: ''
-    title: 刘建州教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6458791
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6464430
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -457,6 +457,16 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6152.htm
+    info: '12
+
+      六月
+
+      Understanding the Training and Inference of Reinforcement Learning'
+    person: ''
+    time: ''
+    title: ' Understanding the Training and Inference of Reinforcement Learning'
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6151.htm
     info: '11
@@ -553,19 +563,6 @@
     person: ''
     time: ''
     title: Overview of frontier AI safety issues and work from the UK
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5838.htm
-    info: '22
-
-      二月
-
-      清华大学举办第四届全球计算机学科发展论坛
-
-      1月20日，第四届全球计算机学科发展论坛通过线上线下相结合的方式在清华三亚国际数学论坛举行。第十二届全国政协副主席陈元，清华大学校长李路明，海南省委常委、三亚市委书记周红波，清华大学交叉信息研究院院长、图灵奖获得者姚期智分别致辞。本届论坛以“计算机学科在大学发展战略中的作用”为主题，邀请图灵奖获得者、田纳西大学教授杰克·唐加拉（Jack
-      Dongarra），麻省理工学院计...'
-    person: ''
-    time: ''
-    title: 清华大学举办第四届全球计算机学科发展论坛
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -685,6 +682,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/7824a78a2075404fa72fb3c576e610d8.htm
+    info: '2024.06.12
+
+      利用真实世界证据指导药品的合理和公平使用'
+    person: ''
+    time: ''
+    title: 利用真实世界证据指导药品的合理和公平使用
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/c99aa67c04314bd39d95631bfe65610c.htm
     info: '2024.06.09
 
@@ -766,14 +771,6 @@
     time: ''
     title: 'Revitalizing exhausted T Cells with IL-10: a journey from lab discovery
       to clinical application for enhanced cancer immunotherapy'
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b68f59550d4a4103b3f2c49926c2f164.htm
-    info: '2024.05.09
-
-      药学大讲堂第47期：人工智能驱动的生物分子相分离研究'
-    person: ''
-    time: ''
-    title: 药学大讲堂第47期：人工智能驱动的生物分子相分离研究
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1580,28 +1577,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159552.htm
-    info: '12
-
-      Jun
-
-      应用数学青年讨论班（午餐会）—— Convergence Analysis of Forward-Backward Accelerated Algorithms
-
-      时间：2024-06-12 11:45-13:30
-
-      报告人: 李博文（中国科学院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '12
-
-      Jun
-
-      应用数学青年讨论班（午餐会）—— Convergence Analysis of Forward-Backward Accelerated Algorithms
-
-      时间：2024-06-12 11:45-13:30
-
-      报告人: 李博文（中国科学院数学与系统科学研究院）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159513.htm
     info: '13
 
@@ -1626,6 +1601,50 @@
 
       报告人: 段智鹏（南京师范大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometric/159585.htm
+    info: '13
+
+      Jun
+
+      Capacity and regularity for domain in R^n
+
+      时间：2024-06-13 15:30-16:30
+
+      报告人: 王立河（University of Iowa）'
+    person: ''
+    time: ''
+    title: '13
+
+      Jun
+
+      Capacity and regularity for domain in R^n
+
+      时间：2024-06-13 15:30-16:30
+
+      报告人: 王立河（University of Iowa）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometric/159589.htm
+    info: '13
+
+      Jun
+
+      Global Wellposedness and Traveling Waves of Chemotaxis Models
+
+      时间：2024-06-13 14:30-15:30
+
+      报告人: 李彤（University of Iowa）'
+    person: ''
+    time: ''
+    title: '13
+
+      Jun
+
+      Global Wellposedness and Traveling Waves of Chemotaxis Models
+
+      时间：2024-06-13 14:30-15:30
+
+      报告人: 李彤（University of Iowa）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/159442.htm
     info: '13
 
@@ -1647,6 +1666,28 @@
       时间：2024-06-13 14:00-15:00
 
       报告人: 刘芃（Iowa State University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159580.htm
+    info: '14
+
+      Jun
+
+      Hardy spaces on open subsets of $\mathbb R^n$
+
+      时间：2024-06-14 16:00-17:00
+
+      报告人: 林钦诚（台湾中央大学）'
+    person: ''
+    time: ''
+    title: '14
+
+      Jun
+
+      Hardy spaces on open subsets of $\mathbb R^n$
+
+      时间：2024-06-14 16:00-17:00
+
+      报告人: 林钦诚（台湾中央大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/159567.htm
     info: '15
@@ -1779,50 +1820,6 @@
       时间：2024-06-24 16:00-17:00
 
       报告人: Diogo Gomes (KAUST)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159168.htm
-    info: '24
-
-      Jun
-
-      系列学术讲座——Parabolic gluing method and its applications（四）
-
-      时间：2024-06-24 14:00-16:00
-
-      报告人: 郑有权教授 (天津大学)'
-    person: ''
-    time: ''
-    title: '24
-
-      Jun
-
-      系列学术讲座——Parabolic gluing method and its applications（四）
-
-      时间：2024-06-24 14:00-16:00
-
-      报告人: 郑有权教授 (天津大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159172.htm
-    info: '26
-
-      Jun
-
-      系列学术讲座——Parabolic gluing method and its applications（五）
-
-      时间：2024-06-26 14:00-16:00
-
-      报告人: 郑有权教授 (天津大学)'
-    person: ''
-    time: ''
-    title: '26
-
-      Jun
-
-      系列学术讲座——Parabolic gluing method and its applications（五）
-
-      时间：2024-06-26 14:00-16:00
-
-      报告人: 郑有权教授 (天津大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2331,13 +2328,29 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '从玻尔兹曼方程到宏观流体力学模型
+    info: 'Toward a cell-type-specific understanding of complex diseases
+
+      Boxiang Liu
+
+      National University of Singapore
+
+      2024-06-17 09:30, in 4 days
+
+      The M-Operator for Inhomogeneous Kinetic Equations
+
+      Weiran Sun
+
+      Simon Fraser University
+
+      2024-06-19 10:00, in 6 days
+
+      从玻尔兹曼方程到宏观流体力学模型
 
       李若
 
       北京大学
 
-      2024-05-31 10:00, 12 days ago
+      2024-05-31 10:00, 13 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2346,7 +2359,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 13 days ago
+      2024-05-30 10:00, 14 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2355,7 +2368,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 19 days ago
+      2024-05-24 10:00, 20 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2363,32 +2376,32 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 23 days ago
-
-      掌控分子秘密：AlphaFold 3 的突破
-
-      钟博子韬
-
-      上海交通大学自然科学研究院
-
-      2024-05-13 15:00, a month ago
-
-      Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach
-
-      Zixiao Wang
-
-      Harvard University
-
-      2024-04-30 10:00, a month ago'
+      2024-05-20 10:00, 24 days ago'
     person: ''
     time: ''
-    title: '从玻尔兹曼方程到宏观流体力学模型
+    title: 'Toward a cell-type-specific understanding of complex diseases
+
+      Boxiang Liu
+
+      National University of Singapore
+
+      2024-06-17 09:30, in 4 days
+
+      The M-Operator for Inhomogeneous Kinetic Equations
+
+      Weiran Sun
+
+      Simon Fraser University
+
+      2024-06-19 10:00, in 6 days
+
+      从玻尔兹曼方程到宏观流体力学模型
 
       李若
 
       北京大学
 
-      2024-05-31 10:00, 12 days ago
+      2024-05-31 10:00, 13 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2397,7 +2410,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 13 days ago
+      2024-05-30 10:00, 14 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2406,7 +2419,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 19 days ago
+      2024-05-24 10:00, 20 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2414,23 +2427,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 23 days ago
-
-      掌控分子秘密：AlphaFold 3 的突破
-
-      钟博子韬
-
-      上海交通大学自然科学研究院
-
-      2024-05-13 15:00, a month ago
-
-      Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach
-
-      Zixiao Wang
-
-      Harvard University
-
-      2024-04-30 10:00, a month ago'
+      2024-05-20 10:00, 24 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/news
     info: '近期新闻
@@ -3568,22 +3565,22 @@
     title: 王勇教授为您揭秘最in电镜技术
   - address: ''
     href: null
-    info: 【化学系】启真化学论坛：王欣然教授（南京大学）
+    info: “十大考古”进校园 | 朱光华：汶到永城、玉见王庄——河南永城王庄遗址2023年度考古新发现&李罡：山东跋山遗址群考古新发现
     person: ''
     time: ''
-    title: 【化学系】启真化学论坛：王欣然教授（南京大学）
+    title: “十大考古”进校园 | 朱光华：汶到永城、玉见王庄——河南永城王庄遗址2023年度考古新发现&李罡：山东跋山遗址群考古新发现
+  - address: ''
+    href: null
+    info: 【化学系】启真化学论坛：王欣然教授（南京大学，苏州实验室）
+    person: ''
+    time: ''
+    title: 【化学系】启真化学论坛：王欣然教授（南京大学，苏州实验室）
   - address: ''
     href: null
     info: 【数学学院】刘若川：p进霍奇理论及其应用
     person: ''
     time: ''
     title: 【数学学院】刘若川：p进霍奇理论及其应用
-  - address: ''
-    href: null
-    info: 物理学院高喆学术报告的通知（School of Physics Colloquium）
-    person: ''
-    time: ''
-    title: 物理学院高喆学术报告的通知（School of Physics Colloquium）
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
