@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13146.htm
+    info: "概率统计学术报告\n 2024年06月13日 "
+    person: ''
+    time: ''
+    title: 概率统计学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13145.htm
+    info: "Arnulf Jentzen教授学术报告\n 2024年06月13日 "
+    person: ''
+    time: ''
+    title: Arnulf Jentzen教授学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13144.htm
     info: "周沛劼研究员学术报告\n 2024年06月12日 "
     person: ''
@@ -53,18 +65,6 @@
     person: ''
     time: ''
     title: Sun-Sig Byun教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13126.htm
-    info: "Stability Problems in fluids and astrophysics (I,II)\n 2024年06月06日 "
-    person: ''
-    time: ''
-    title: Stability Problems in fluids and astrophysics (I,II)
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13124.htm
-    info: "熊捷教授学术报告\n 2024年06月05日 "
-    person: ''
-    time: ''
-    title: 熊捷教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6464430
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6470740
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -457,6 +457,16 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6153.htm
+    info: '13
+
+      六月
+
+      Revisiting Scalarization in Multi-Task Learning'
+    person: ''
+    time: ''
+    title: Revisiting Scalarization in Multi-Task Learning
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6152.htm
     info: '12
@@ -548,24 +558,19 @@
     time: ''
     title: From Simulated Subjectivity to Collective Consciousness in Large Language
       Models
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/5855.htm
-    info: '12
-
-      三月
-
-      Overview of frontier AI safety issues and work from the UK
-
-      Abstract:Frontier Al systems that are approaching AGl could pose significant
-      risksto society. This talk will provide an overview of the work done by the
-      Ukgovernment''s Al safety institute on investigating potential risks posecby
-      these Al systems, and the work they are doing to address them.'
-    person: ''
-    time: ''
-    title: Overview of frontier AI safety issues and work from the UK
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://scbb.pkusz.edu.cn/info/1027/3545.htm
+    info: '2024-06-13
+
+      Special Seminar-2024.6.19(10:30-12:00，F东101)-南方科技大学-徐明华 教授'
+    person: ''
+    time: ''
+    title: '2024-06-13
+
+      Special Seminar-2024.6.19(10:30-12:00，F东101)-南方科技大学-徐明华 教授'
   - address: ''
     href: https://scbb.pkusz.edu.cn/info/1027/3538.htm
     info: '2024-05-20
@@ -668,16 +673,6 @@
     title: '2023-11-13
 
       催化化学前沿讲座-2023.11.15(15:30-17:00，F东101)-新加坡国立大学化学系-赵宇教授'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3456.htm
-    info: '2023-11-03
-
-      邀请报告-2023.11.8(15:00-17:00,E104)-南开大学-余志林研究员'
-    person: ''
-    time: ''
-    title: '2023-11-03
-
-      邀请报告-2023.11.8(15:00-17:00,E104)-南开大学-余志林研究员'
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
@@ -787,6 +782,21 @@
     time: ''
     title: 人工智能学科交叉讲座系列第【28】期：走向灵活推理  将大语言模型作为非正式逻辑程序
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2793.htm
+    info: '人工智能学科交叉讲座系列第【27】期：From Deep Reinforcement Learning to LLM-ba…
+
+      报  告 人：Stefano V. Albrecht                         Associate Professor                         University
+      of Edinburgh主  持 人：杨耀东 教授                     北京大学人工智能研究院时      间：2024年6月14日
+      10:00-11:00地      址：北京大学镜春园 79 号甲多功能教室        腾讯会议：186-375-430报告题目： From Deep
+      Reinforcement Learning to LLM-based Agents:   Perspectives on Current Research
+      ...
+
+      2024-06-06'
+    person: ''
+    time: ''
+    title: '人工智能学科交叉讲座系列第【27】期：From Deep Reinforcement Learning to LLM-based Agents:   Perspectives
+      on Current Research'
+  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2705.htm
     info: '人工智能学科交叉讲座系列第【23】期： 神经网络的高效训练算法
 
@@ -825,18 +835,6 @@
     time: ''
     title: '人工智能学科交叉讲座系列第【21】期：Taming the Digital Dragon:  Textbases, Datafication,
       and the Study of Modern China'
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2684.htm
-    info: '人工智能学科交叉讲座系列第【20】期：组合式与协作式生成人工智能设计
-
-      报告人：王威廉             讲席教授                加利福尼亚大学圣塔芭芭拉分校主持人：刘利斌 助理教授             北京大学智能学院时   间：2023/12/19  14:00
-      - 16:00地   址：燕园校区理科二号楼2736报告厅 ； 新燕园校区教学楼 102教室        腾讯会议：613 263 265                 报告题目：组合式与协作式生成人工智能设计
-      报告摘要:   目前大多数大型语言模型和生成人工智能系统的研究重点在于数据与参数级别...
-
-      2023-12-14'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【20】期：组合式与协作式生成人工智能设计
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
@@ -849,6 +847,14 @@
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1783
+    info: '6月17日CLS学术报告：Joshua Berke
+
+      2024-06-13'
+    person: ''
+    time: ''
+    title: 6月17日CLS学术报告：Joshua Berke
   - address: ''
     href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1780
     info: '6月13日CLS学术报告：线粒体融合与肿瘤免疫
@@ -909,16 +915,6 @@
     time: ''
     title: 5月15日CQBseminar：The Next Generation of Single Cell and Spatial Genomics
       Technologies
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1760
-    info: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
-      escape ..
-
-      2024-05-08'
-    person: ''
-    time: ''
-    title: '5月13日CQBseminar：MD simulations at the material-cell interface: from endosomal
-      escape ..'
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
@@ -1478,6 +1474,16 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159664.htm
+    info: '2024-06-13
+
+      【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
+      of bioinspired peptides and proteins'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
+      of bioinspired peptides and proteins
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/159544.htm
     info: '2024-06-08
 
@@ -1563,109 +1569,9 @@
     person: ''
     time: ''
     title: 【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/158882.htm
-    info: '2024-05-21
-
-      【北京大学物理化学学术报告】Non-centrosymmetric and Chiral Quantum Materials through Screw
-      Dislocations and Structural Tuning'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Non-centrosymmetric and Chiral Quantum Materials through
-      Screw Dislocations and Structural Tuning
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159513.htm
-    info: '13
-
-      Jun
-
-      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
-      Complexes of Not 2-Connected Graphs
-
-      时间：2024-06-13 15:30-17:30
-
-      报告人: 段智鹏（南京师范大学）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
-      Complexes of Not 2-Connected Graphs
-
-      时间：2024-06-13 15:30-17:30
-
-      报告人: 段智鹏（南京师范大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometric/159585.htm
-    info: '13
-
-      Jun
-
-      Capacity and regularity for domain in R^n
-
-      时间：2024-06-13 15:30-16:30
-
-      报告人: 王立河（University of Iowa）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Capacity and regularity for domain in R^n
-
-      时间：2024-06-13 15:30-16:30
-
-      报告人: 王立河（University of Iowa）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometric/159589.htm
-    info: '13
-
-      Jun
-
-      Global Wellposedness and Traveling Waves of Chemotaxis Models
-
-      时间：2024-06-13 14:30-15:30
-
-      报告人: 李彤（University of Iowa）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Global Wellposedness and Traveling Waves of Chemotaxis Models
-
-      时间：2024-06-13 14:30-15:30
-
-      报告人: 李彤（University of Iowa）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/159442.htm
-    info: '13
-
-      Jun
-
-      Model-based Bicluster Algorithm for Microbiome
-
-      时间：2024-06-13 14:00-15:00
-
-      报告人: 刘芃（Iowa State University）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Model-based Bicluster Algorithm for Microbiome
-
-      时间：2024-06-13 14:00-15:00
-
-      报告人: 刘芃（Iowa State University）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159580.htm
     info: '14
@@ -1742,7 +1648,7 @@
 
       时间：2024-06-17 14:00-16:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
     title: '17
@@ -1753,7 +1659,29 @@
 
       时间：2024-06-17 14:00-16:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159637.htm
+    info: '18
+
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-18 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
+    person: ''
+    time: ''
+    title: '18
+
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-18 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158858.htm
     info: '19
@@ -1764,7 +1692,7 @@
 
       时间：2024-06-19 14:00-16:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
     title: '19
@@ -1775,7 +1703,77 @@
 
       时间：2024-06-19 14:00-16:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159641.htm
+    info: '19
+
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-19 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
+    person: ''
+    time: ''
+    title: '19
+
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-19 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159655.htm
+    info: '20
+
+      Jun
+
+      机器学习与数据科学博士生系列论坛（第七十四期）—— Non-Asymptotic Convergence Analysis for Nonsmooth
+      Nonconvex Optimization
+
+      时间：2024-06-20 16:00-17:00
+
+      报告人: 陈坤 (北京大学)'
+    person: ''
+    time: ''
+    title: '20
+
+      Jun
+
+      机器学习与数据科学博士生系列论坛（第七十四期）—— Non-Asymptotic Convergence Analysis for Nonsmooth
+      Nonconvex Optimization
+
+      时间：2024-06-20 16:00-17:00
+
+      报告人: 陈坤 (北京大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159659.htm
+    info: '20
+
+      Jun
+
+      Geometry and Topology Seminar——Discrete uniformization problem for polyhedral
+      surfaces
+
+      时间：2024-06-20 15:30-17:30
+
+      报告人: 罗锋（Rutgers University）'
+    person: ''
+    time: ''
+    title: '20
+
+      Jun
+
+      Geometry and Topology Seminar——Discrete uniformization problem for polyhedral
+      surfaces
+
+      时间：2024-06-20 15:30-17:30
+
+      报告人: 罗锋（Rutgers University）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158862.htm
     info: '21
@@ -1786,7 +1784,7 @@
 
       时间：2024-06-21 09:00-11:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
     title: '21
@@ -1797,29 +1795,29 @@
 
       时间：2024-06-21 09:00-11:00
 
-      报告人: 郑有权教授 (天津大学)'
+      报告人: 郑有泉教授 (天津大学)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159502.htm
-    info: '24
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159645.htm
+    info: '21
 
       Jun
 
-      Weak-strong uniqueness for mean-field games
+      系列报告——三维流形上的Heegaard分解
 
-      时间：2024-06-24 16:00-17:00
+      时间：2024-06-21 10:10-12:00
 
-      报告人: Diogo Gomes (KAUST)'
+      报告人: 邱瑞锋（华东师范大学）'
     person: ''
     time: ''
-    title: '24
+    title: '21
 
       Jun
 
-      Weak-strong uniqueness for mean-field games
+      系列报告——三维流形上的Heegaard分解
 
-      时间：2024-06-24 16:00-17:00
+      时间：2024-06-21 10:10-12:00
 
-      报告人: Diogo Gomes (KAUST)'
+      报告人: 邱瑞锋（华东师范大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2334,7 +2332,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, in 4 days
+      2024-06-17 09:30, in 3 days
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2342,7 +2340,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, in 6 days
+      2024-06-19 10:00, in 5 days
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2350,7 +2348,7 @@
 
       北京大学
 
-      2024-05-31 10:00, 13 days ago
+      2024-05-31 10:00, 14 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2359,7 +2357,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 14 days ago
+      2024-05-30 10:00, 15 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2368,7 +2366,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 20 days ago
+      2024-05-24 10:00, 21 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2376,7 +2374,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 24 days ago'
+      2024-05-20 10:00, 25 days ago'
     person: ''
     time: ''
     title: 'Toward a cell-type-specific understanding of complex diseases
@@ -2385,7 +2383,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, in 4 days
+      2024-06-17 09:30, in 3 days
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2393,7 +2391,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, in 6 days
+      2024-06-19 10:00, in 5 days
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2401,7 +2399,7 @@
 
       北京大学
 
-      2024-05-31 10:00, 13 days ago
+      2024-05-31 10:00, 14 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2410,7 +2408,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 14 days ago
+      2024-05-30 10:00, 15 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2419,7 +2417,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 20 days ago
+      2024-05-24 10:00, 21 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2427,7 +2425,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 24 days ago'
+      2024-05-20 10:00, 25 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/news
     info: '近期新闻
@@ -3435,6 +3433,60 @@
 
       15:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFtKF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-29
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-29
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFyqF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-28
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-28
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituF2qF2
+    info: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-06-28
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-06-28
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiG2qF2
     info: '[MINI COURSES] ANRU ZHANG
 
@@ -3490,64 +3542,6 @@
       2024-06-27
 
       10:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeHtKF2
-    info: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第二讲）
-
-      2024-06-27
-
-      14:00 — 15:30'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第二讲）
-
-      2024-06-27
-
-      14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpaGpKF2
-    info: '[MINI COURSES] XIAOWU DAI
-
-      MINI-COURSE: ECONOMICS AND MACHINE LEARNING: MATCHING, AUCTION, AND CONTRACT
-      THEORY
-
-      2024-06-26
-
-      09:00 — 16:45'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] XIAOWU DAI
-
-      MINI-COURSE: ECONOMICS AND MACHINE LEARNING: MATCHING, AUCTION, AND CONTRACT
-      THEORY
-
-      2024-06-26
-
-      09:00 — 16:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiHpKF2
-    info: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (1)
-
-      2024-06-25
-
-      09:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] ANRU ZHANG
-
-      STATISTICS MEETS TENSORS: METHODS, THEORY, AND APPLICATIONS IN THE CONTEXT OF
-      MODERN MACHINE LEARNING ADVANCES (1)
-
-      2024-06-25
-
-      09:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
