@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13148.htm
+    info: "夏志明教授学术报告\n 2024年06月14日 "
+    person: ''
+    time: ''
+    title: 夏志明教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13147.htm
+    info: "刘学副研究员学术报告\n 2024年06月14日 "
+    person: ''
+    time: ''
+    title: 刘学副研究员学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13146.htm
     info: "概率统计学术报告\n 2024年06月13日 "
     person: ''
@@ -53,21 +65,17 @@
     person: ''
     time: ''
     title: 李承治教授学术报告II
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13133.htm
-    info: "李承治教授学术报告I\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: 李承治教授学术报告I
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13127.htm
-    info: "Sun-Sig Byun教授学术报告\n 2024年06月06日 "
-    person: ''
-    time: ''
-    title: Sun-Sig Byun教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9641.htm
+    info: '“边缘智能技术论坛”名家系列讲座
+
+      2024-06-14'
+    person: ''
+    time: ''
+    title: “边缘智能技术论坛”名家系列讲座
   - address: ''
     href: https://cse.csu.edu.cn/info/1041/9590.htm
     info: '华南理工大学陈伟能教授学术报告
@@ -148,14 +156,6 @@
     person: ''
     time: ''
     title: 清华大学古槿副教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9441.htm
-    info: '上海交通大学田晓华教授学术报告
-
-      2024-04-02'
-    person: ''
-    time: ''
-    title: 上海交通大学田晓华教授学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6470740
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6475755
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1474,6 +1474,26 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159681.htm
+    info: '2024-06-14
+
+      【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
+      of biomolecular condensates'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
+      of biomolecular condensates
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159669.htm
+    info: '2024-06-14
+
+      【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
+      to Methanol: The Role of Formaldehyde'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
+      to Methanol: The Role of Formaldehyde'
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/159664.htm
     info: '2024-06-13
 
@@ -1553,47 +1573,9 @@
     person: ''
     time: ''
     title: 【北京大学物理化学学术报告】有机聚集体中能量/电荷转移动力学理论方法与应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159092.htm
-    info: '2024-05-23
-
-      【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors'
-    person: ''
-    time: ''
-    title: 【北京大学无机化学学术论坛】Efficient storage mechanisms for building better supercapacitors
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159037.htm
-    info: '2024-05-23
-
-      【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Imitating biomolecular machinery with a coarse-grained approach
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159580.htm
-    info: '14
-
-      Jun
-
-      Hardy spaces on open subsets of $\mathbb R^n$
-
-      时间：2024-06-14 16:00-17:00
-
-      报告人: 林钦诚（台湾中央大学）'
-    person: ''
-    time: ''
-    title: '14
-
-      Jun
-
-      Hardy spaces on open subsets of $\mathbb R^n$
-
-      时间：2024-06-14 16:00-17:00
-
-      报告人: 林钦诚（台湾中央大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/159567.htm
     info: '15
@@ -1818,6 +1800,28 @@
       时间：2024-06-21 10:10-12:00
 
       报告人: 邱瑞锋（华东师范大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159502.htm
+    info: '24
+
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
+    person: ''
+    time: ''
+    title: '24
+
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2168,6 +2172,36 @@
   page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3144.htm
+    info: '8
+
+      Jul
+
+      X-Boration and Hydrofunctionalizations of 1,3-enynes catalyzed by Pd/Senphos
+      complexes: Reaction development and mechanism elucidation
+
+      报告人：Prof. Shih-Yuan Liu Department of Chemistry, Boston College
+
+      报告时间：2024年7月8日 15:30-17:00'
+    person: ''
+    time: ''
+    title: 'X-Boration and Hydrofunctionalizations of 1,3-enynes catalyzed by Pd/Senphos
+      complexes: Reaction development and mechanism elucidation'
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3134.htm
+    info: '18
+
+      Jun
+
+      变革性分子博士生学术论坛（第21期）
+
+      报告人：许瑶瑶、 杨越、唐伟
+
+      报告时间：2024年6月18日（星期二）14:00-17:00'
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第21期）
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/3024.htm
     info: '7
 
@@ -2279,34 +2313,6 @@
     person: ''
     time: ''
     title: 三元纳米层状 MAX 和 MAB 相陶瓷的新相合成 及性能择优设计
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/2984.htm
-    info: '28
-
-      May
-
-      变革性分子博士生学术论坛（第 19 期）
-
-      报告人：韦杰、唐凯、陈帅
-
-      报告时间：2024年5月28日（星期二）14:00-17:00'
-    person: ''
-    time: ''
-    title: 变革性分子博士生学术论坛（第 19 期）
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/2994.htm
-    info: '21
-
-      May
-
-      变革性分子博士生学术论坛（第 18 期）
-
-      报告人：季明航、杨惠文、李柱
-
-      报告时间：2024 年 5 月 21 日（星期二）14:00-17:00'
-    person: ''
-    time: ''
-    title: 变革性分子博士生学术论坛（第 18 期）
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2332,7 +2338,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, in 3 days
+      2024-06-17 09:30, in 2 days
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2340,7 +2346,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, in 5 days
+      2024-06-19 10:00, in 4 days
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2348,7 +2354,7 @@
 
       北京大学
 
-      2024-05-31 10:00, 14 days ago
+      2024-05-31 10:00, 15 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2357,7 +2363,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 15 days ago
+      2024-05-30 10:00, 16 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2366,7 +2372,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 21 days ago
+      2024-05-24 10:00, 22 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2374,7 +2380,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 25 days ago'
+      2024-05-20 10:00, a month ago'
     person: ''
     time: ''
     title: 'Toward a cell-type-specific understanding of complex diseases
@@ -2383,7 +2389,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, in 3 days
+      2024-06-17 09:30, in 2 days
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2391,7 +2397,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, in 5 days
+      2024-06-19 10:00, in 4 days
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2399,7 +2405,7 @@
 
       北京大学
 
-      2024-05-31 10:00, 14 days ago
+      2024-05-31 10:00, 15 days ago
 
       A Second-Order IIM-PFEM Hybrid Method for Solving Two-dimensional Moving Contact
       Line Problems
@@ -2408,7 +2414,7 @@
 
       南方科技大学
 
-      2024-05-30 10:00, 15 days ago
+      2024-05-30 10:00, 16 days ago
 
       Optimal and parameter-free gradient minimization methods for convex and nonconvex
       optimization
@@ -2417,7 +2423,7 @@
 
       Purdue University
 
-      2024-05-24 10:00, 21 days ago
+      2024-05-24 10:00, 22 days ago
 
       Multiscale topology optimization method for lattice materials
 
@@ -2425,7 +2431,7 @@
 
       西安交通大学
 
-      2024-05-20 10:00, 25 days ago'
+      2024-05-20 10:00, a month ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/news
     info: '近期新闻
@@ -3433,12 +3439,12 @@
 
       15:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFtKF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituGtKF2
     info: '[MINI COURSES] 薛庆源
 
       MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
 
-      2024-06-29
+      2024-07-03
 
       10:00 — 11:00'
     person: ''
@@ -3447,45 +3453,45 @@
 
       MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
 
-      2024-06-29
+      2024-07-03
 
       10:00 — 11:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFyqF2
-    info: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-28
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-28
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituF2qF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituGyqF2
     info: '[MINI COURSES] 薛庆源
 
       F-REGULARITY, +-REGULARITY, AND TEST IDEALS
 
-      2024-06-28
+      2024-07-02
 
-      15:00 — 16:00'
+      10:00 — 11:00'
     person: ''
     time: ''
     title: '[MINI COURSES] 薛庆源
 
       F-REGULARITY, +-REGULARITY, AND TEST IDEALS
 
-      2024-06-28
+      2024-07-02
 
-      15:00 — 16:00'
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituG2qF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-01
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-01
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGugpiG2qF2
     info: '[MINI COURSES] ANRU ZHANG
@@ -3544,39 +3550,6 @@
       10:30 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: null
-    info: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
-    person: ''
-    time: ''
-    title: “实验技术工坊”系列讲座 —— 与张岩教授共话冷冻电镜，展望应用未来
-  - address: ''
-    href: null
-    info: 王勇教授为您揭秘最in电镜技术
-    person: ''
-    time: ''
-    title: 王勇教授为您揭秘最in电镜技术
-  - address: ''
-    href: null
-    info: “十大考古”进校园 | 朱光华：汶到永城、玉见王庄——河南永城王庄遗址2023年度考古新发现&李罡：山东跋山遗址群考古新发现
-    person: ''
-    time: ''
-    title: “十大考古”进校园 | 朱光华：汶到永城、玉见王庄——河南永城王庄遗址2023年度考古新发现&李罡：山东跋山遗址群考古新发现
-  - address: ''
-    href: null
-    info: 【化学系】启真化学论坛：王欣然教授（南京大学，苏州实验室）
-    person: ''
-    time: ''
-    title: 【化学系】启真化学论坛：王欣然教授（南京大学，苏州实验室）
-  - address: ''
-    href: null
-    info: 【数学学院】刘若川：p进霍奇理论及其应用
-    person: ''
-    time: ''
-    title: 【数学学院】刘若川：p进霍奇理论及其应用
-  page_title: 列表页
-  page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0608/c26342a2931150/page.htm
