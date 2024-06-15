@@ -1,5 +1,17 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13148.htm
+    info: "夏志明教授学术报告\n 2024年06月14日 "
+    person: ''
+    time: ''
+    title: 夏志明教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13147.htm
+    info: "刘学副研究员学术报告\n 2024年06月14日 "
+    person: ''
+    time: ''
+    title: 刘学副研究员学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13146.htm
     info: "概率统计学术报告\n 2024年06月13日 "
     person: ''
@@ -29,38 +41,368 @@
     person: ''
     time: ''
     title: 周达教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13139.htm
-    info: "林平教授学术报告\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: 林平教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13136.htm
-    info: "Raphaël Ponge教授学术报告II\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: Raphaël Ponge教授学术报告II
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13135.htm
-    info: "Raphaël Ponge教授学术报告I\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: Raphaël Ponge教授学术报告I
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13134.htm
-    info: "李承治教授学术报告II\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: 李承治教授学术报告II
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13133.htm
-    info: "李承治教授学术报告I\n 2024年06月07日 "
-    person: ''
-    time: ''
-    title: 李承治教授学术报告I
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9641.htm
+    info: '“边缘智能技术论坛”名家系列讲座
+
+      2024-06-14'
+    person: ''
+    time: ''
+    title: “边缘智能技术论坛”名家系列讲座
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159681.htm
+    info: '2024-06-14
+
+      【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
+      of biomolecular condensates'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
+      of biomolecular condensates
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159669.htm
+    info: '2024-06-14
+
+      【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
+      to Methanol: The Role of Formaldehyde'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
+      to Methanol: The Role of Formaldehyde'
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159664.htm
+    info: '2024-06-13
+
+      【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
+      of bioinspired peptides and proteins'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
+      of bioinspired peptides and proteins
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159544.htm
+    info: '2024-06-08
+
+      【其他讲座】Mobility programs to support Franco-Chinese cooperation'
+    person: ''
+    time: ''
+    title: 【其他讲座】Mobility programs to support Franco-Chinese cooperation
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3144.htm
+    info: '8
+
+      Jul
+
+      X-Boration and Hydrofunctionalizations of 1,3-enynes catalyzed by Pd/Senphos
+      complexes: Reaction development and mechanism elucidation
+
+      报告人：Prof. Shih-Yuan Liu Department of Chemistry, Boston College
+
+      报告时间：2024年7月8日 15:30-17:00'
+    person: ''
+    time: ''
+    title: 'X-Boration and Hydrofunctionalizations of 1,3-enynes catalyzed by Pd/Senphos
+      complexes: Reaction development and mechanism elucidation'
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3134.htm
+    info: '18
+
+      Jun
+
+      变革性分子博士生学术论坛（第21期）
+
+      报告人：许瑶瑶、 杨越、唐伟
+
+      报告时间：2024年6月18日（星期二）14:00-17:00'
+    person: ''
+    time: ''
+    title: 变革性分子博士生学术论坛（第21期）
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituGtKF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-03
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-03
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituGyqF2
+    info: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-07-02
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-07-02
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituG2qF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-01
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-07-01
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFtKF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-29
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-29
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFyqF2
+    info: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-28
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
+
+      2024-06-28
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituF2qF2
+    info: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-06-28
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 薛庆源
+
+      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
+
+      2024-06-28
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFpKF2
+    info: '[MINI COURSES] HERMANO FRID
+
+      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (4)
+
+      2024-06-26
+
+      14:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HERMANO FRID
+
+      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (4)
+
+      2024-06-26
+
+      14:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFtKF2
+    info: '[MINI COURSES] HERMANO FRID
+
+      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (3)
+
+      2024-06-26
+
+      09:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] HERMANO FRID
+
+      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (3)
+
+      2024-06-26
+
+      09:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFyqF2
+    info: '[动力系统] 刘为世
+
+      向列液晶的POISEUILLE流
+
+      2024-06-26
+
+      08:30 — 11:30'
+    person: ''
+    time: ''
+    title: '[动力系统] 刘为世
+
+      向列液晶的POISEUILLE流
+
+      2024-06-26
+
+      08:30 — 11:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmHpKF2
+    info: '[MINI COURSES] 许劲松
+
+      CANONICAL BUNDLE FORMULA REVISITED I
+
+      2024-06-26
+
+      13:30 — 15:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 许劲松
+
+      CANONICAL BUNDLE FORMULA REVISITED I
+
+      2024-06-26
+
+      13:30 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmHtKF2
+    info: '[MINI COURSES] 许劲松
+
+      CANONICAL BUNDLE FORMULA REVISITED II
+
+      2024-06-26
+
+      15:30 — 17:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 许劲松
+
+      CANONICAL BUNDLE FORMULA REVISITED II
+
+      2024-06-26
+
+      15:30 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiGtKF2
+    info: '[应用与计算] 胡耀华
+
+      LINEARIZED PROXIMAL ALGORITHMS FOR CONVEX COMPOSITE OPTIMIZATION WITH APPLICATIONS
+
+      2024-06-21
+
+      14:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[应用与计算] 胡耀华
+
+      LINEARIZED PROXIMAL ALGORITHMS FOR CONVEX COMPOSITE OPTIMIZATION WITH APPLICATIONS
+
+      2024-06-21
+
+      14:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiGyqF2
+    info: '[代数几何与拓扑] SHUNYU WAN
+
+      NEGATIVE CONTACT SURGERY ON LEGENDRIAN NON-SIMPLE KNOT
+
+      2024-06-17
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[代数几何与拓扑] SHUNYU WAN
+
+      NEGATIVE CONTACT SURGERY ON LEGENDRIAN NON-SIMPLE KNOT
+
+      2024-06-17
+
+      14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiFpKF2
+    info: '[应用与计算] MINGJI ZHANG
+
+      RECENT STUDIES ON ION CHANNEL PROBLEMS VIA POISSON-NERNST-PLANCK MODELS
+
+      2024-06-17
+
+      10:30 — 12:00'
+    person: ''
+    time: ''
+    title: '[应用与计算] MINGJI ZHANG
+
+      RECENT STUDIES ON ION CHANNEL PROBLEMS VIA POISSON-NERNST-PLANCK MODELS
+
+      2024-06-17
+
+      10:30 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiFtKF2
+    info: '[几何与分析] 吴金洋
+
+      REGULARITY OF VISCOSITY SOLUTIONS OF THE SIGMA-K YAMABE PROBLEM FOR K ) N/2
+      ON CONFORMALLY FLAT MANIFOLDS
+
+      2024-06-14
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[几何与分析] 吴金洋
+
+      REGULARITY OF VISCOSITY SOLUTIONS OF THE SIGMA-K YAMABE PROBLEM FOR K ) N/2
+      ON CONFORMALLY FLAT MANIFOLDS
+
+      2024-06-14
+
+      10:00 — 11:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6153.htm
@@ -148,45 +490,6 @@
     title: 6月17日CLS学术报告：Joshua Berke
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159664.htm
-    info: '2024-06-13
-
-      【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
-      of bioinspired peptides and proteins'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
-      of bioinspired peptides and proteins
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159544.htm
-    info: '2024-06-08
-
-      【其他讲座】Mobility programs to support Franco-Chinese cooperation'
-    person: ''
-    time: ''
-    title: 【其他讲座】Mobility programs to support Franco-Chinese cooperation
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159534.htm
-    info: '2024-06-07
-
-      【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and Lighting
-      Applications'
-    person: ''
-    time: ''
-    title: 【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and
-      Lighting Applications
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159535.htm
-    info: '2024-06-05
-
-      : 【北京大学理论与计算化学学术报告】电子激发态与非绝热效应'
-    person: ''
-    time: ''
-    title: ': 【北京大学理论与计算化学学术报告】电子激发态与非绝热效应'
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159637.htm
@@ -458,329 +761,8 @@
       时间：2024-06-11 14:00-15:00
 
       报告人: 谢金翰（特聘研究员，北京大学工学院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159513.htm
-    info: '13
-
-      Jun
-
-      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
-      Complexes of Not 2-Connected Graphs
-
-      时间：2024-06-13 15:30-17:30
-
-      报告人: 段智鹏（南京师范大学）'
-    person: ''
-    time: ''
-    title: '13
-
-      Jun
-
-      Geometry and Topology Seminar——On the Equivalence Between Spaces of Trees and
-      Complexes of Not 2-Connected Graphs
-
-      时间：2024-06-13 15:30-17:30
-
-      报告人: 段智鹏（南京师范大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159502.htm
-    info: '24
-
-      Jun
-
-      Weak-strong uniqueness for mean-field games
-
-      时间：2024-06-24 16:00-17:00
-
-      报告人: Diogo Gomes (KAUST)'
-    person: ''
-    time: ''
-    title: '24
-
-      Jun
-
-      Weak-strong uniqueness for mean-field games
-
-      时间：2024-06-24 16:00-17:00
-
-      报告人: Diogo Gomes (KAUST)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFtKF2
-    info: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-29
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-29
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituFyqF2
-    info: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-28
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-06-28
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuituF2qF2
-    info: '[MINI COURSES] 薛庆源
-
-      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
-
-      2024-06-28
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 薛庆源
-
-      F-REGULARITY, +-REGULARITY, AND TEST IDEALS
-
-      2024-06-28
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFpKF2
-    info: '[MINI COURSES] HERMANO FRID
-
-      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (4)
-
-      2024-06-26
-
-      14:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] HERMANO FRID
-
-      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (4)
-
-      2024-06-26
-
-      14:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFtKF2
-    info: '[MINI COURSES] HERMANO FRID
-
-      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (3)
-
-      2024-06-26
-
-      09:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] HERMANO FRID
-
-      A CONCISE INTRODUCTION TO CONSERVATION LAWS: DETERMINISTIC AND STOCHASTIC (3)
-
-      2024-06-26
-
-      09:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmFyqF2
-    info: '[动力系统] 刘为世
-
-      向列液晶的POISEUILLE流
-
-      2024-06-26
-
-      08:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[动力系统] 刘为世
-
-      向列液晶的POISEUILLE流
-
-      2024-06-26
-
-      08:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmHpKF2
-    info: '[MINI COURSES] 许劲松
-
-      CANONICAL BUNDLE FORMULA REVISITED I
-
-      2024-06-26
-
-      13:30 — 15:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 许劲松
-
-      CANONICAL BUNDLE FORMULA REVISITED I
-
-      2024-06-26
-
-      13:30 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpmHtKF2
-    info: '[MINI COURSES] 许劲松
-
-      CANONICAL BUNDLE FORMULA REVISITED II
-
-      2024-06-26
-
-      15:30 — 17:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 许劲松
-
-      CANONICAL BUNDLE FORMULA REVISITED II
-
-      2024-06-26
-
-      15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiGtKF2
-    info: '[应用与计算] 胡耀华
-
-      LINEARIZED PROXIMAL ALGORITHMS FOR CONVEX COMPOSITE OPTIMIZATION WITH APPLICATIONS
-
-      2024-06-21
-
-      14:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[应用与计算] 胡耀华
-
-      LINEARIZED PROXIMAL ALGORITHMS FOR CONVEX COMPOSITE OPTIMIZATION WITH APPLICATIONS
-
-      2024-06-21
-
-      14:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiGyqF2
-    info: '[代数几何与拓扑] SHUNYU WAN
-
-      NEGATIVE CONTACT SURGERY ON LEGENDRIAN NON-SIMPLE KNOT
-
-      2024-06-17
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] SHUNYU WAN
-
-      NEGATIVE CONTACT SURGERY ON LEGENDRIAN NON-SIMPLE KNOT
-
-      2024-06-17
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiFpKF2
-    info: '[应用与计算] MINGJI ZHANG
-
-      RECENT STUDIES ON ION CHANNEL PROBLEMS VIA POISSON-NERNST-PLANCK MODELS
-
-      2024-06-17
-
-      10:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[应用与计算] MINGJI ZHANG
-
-      RECENT STUDIES ON ION CHANNEL PROBLEMS VIA POISSON-NERNST-PLANCK MODELS
-
-      2024-06-17
-
-      10:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpiFtKF2
-    info: '[几何与分析] 吴金洋
-
-      REGULARITY OF VISCOSITY SOLUTIONS OF THE SIGMA-K YAMABE PROBLEM FOR K ) N/2
-      ON CONFORMALLY FLAT MANIFOLDS
-
-      2024-06-14
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[几何与分析] 吴金洋
-
-      REGULARITY OF VISCOSITY SOLUTIONS OF THE SIGMA-K YAMABE PROBLEM FOR K ) N/2
-      ON CONFORMALLY FLAT MANIFOLDS
-
-      2024-06-14
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeG2qF2
-    info: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES
-
-      2024-06-27
-
-      09:00 — 10:30'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES
-
-      2024-06-27
-
-      09:00 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeHpKF2
-    info: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第一讲）
-
-      2024-06-27
-
-      10:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第一讲）
-
-      2024-06-27
-
-      10:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuhpeHtKF2
-    info: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第二讲）
-
-      2024-06-27
-
-      14:00 — 15:30'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈亦飞
-
-      典范丛公式II（第二讲）
-
-      2024-06-27
-
-      14:00 — 15:30'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7824a78a2075404fa72fb3c576e610d8.htm
@@ -912,16 +894,3 @@
       查看详情+'
   page_title: 活动预告
   page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
-- page_info:
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17144.html
-    info: '2024.06.07
-
-      Decipher the Epigenetic Code in Health and Disease'
-    person: ''
-    time: ''
-    title: '2024.06.07
-
-      Decipher the Epigenetic Code in Health and Disease'
-  page_title: 北京大学生命科学学院
-  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
