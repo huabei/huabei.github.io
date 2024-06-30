@@ -1,5 +1,98 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6182.htm
+    info: '28
+
+      六月
+
+      Introduction to Verified NN4Sys: the What, Why, and How'
+    person: ''
+    time: ''
+    title: 'Introduction to Verified NN4Sys: the What, Why, and How'
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6172.htm
+    info: '24
+
+      六月
+
+      Empowering Large Language Models with Faithful Reasoning'
+    person: ''
+    time: ''
+    title: Empowering Large Language Models with Faithful Reasoning
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6170.htm
+    info: '24
+
+      六月
+
+      Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
+      Decision Making'
+    person: ''
+    time: ''
+    title: 'Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
+      Decision Making'
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159988.htm
+    info: '2024-06-28
+
+      【北京大学物理化学学术报告】Product distribution control guided by microkinetic analysis for
+      CO and CO2 reduction at high-flux electrocatalysis using gas-diffusion electrodes'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Product distribution control guided by microkinetic analysis
+      for CO and CO2 reduction at high-flux electrocatalysis using gas-diffusion electrodes
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159931.htm
+    info: '2024-06-27
+
+      【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations of
+      Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
+    person: ''
+    time: ''
+    title: '【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations
+      of Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/159930.htm
+    info: '2024-06-27
+
+      【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide and
+      Molecular Adsorption on the Surface by Neural Network Potentials'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide
+      and Molecular Adsorption on the Surface by Neural Network Potentials
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159964.htm
+    info: '04
+
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
+    person: ''
+    time: ''
+    title: '04
+
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
     info: '2024.06.27
 
@@ -74,29 +167,6 @@
       oscillator hold..'
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159931.htm
-    info: '2024-06-27
-
-      【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations of
-      Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations
-      of Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159930.htm
-    info: '2024-06-27
-
-      【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide and
-      Molecular Adsorption on the Surface by Neural Network Potentials'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide
-      and Molecular Adsorption on the Surface by Neural Network Potentials
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/5032.html
@@ -211,24 +281,6 @@
       2024-06-28
 
       13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuit6G2qF2
-    info: '[MINI COURSES] TAILEN HSING
-
-      FUNCTIONAL DATA ANALYSIS (三)
-
-      2024-09-24
-
-      09:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] TAILEN HSING
-
-      FUNCTIONAL DATA ANALYSIS (三)
-
-      2024-09-24
-
-      09:00 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -328,28 +380,3 @@
     title: 张三国教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6172.htm
-    info: '24
-
-      六月
-
-      Empowering Large Language Models with Faithful Reasoning'
-    person: ''
-    time: ''
-    title: Empowering Large Language Models with Faithful Reasoning
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6170.htm
-    info: '24
-
-      六月
-
-      Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
-      Decision Making'
-    person: ''
-    time: ''
-    title: 'Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
-      Decision Making'
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
