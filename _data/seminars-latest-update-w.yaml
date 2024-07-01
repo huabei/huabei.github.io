@@ -1,5 +1,102 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSHpKF2
+    info: '[概率与统计] 苗旺
+
+      CAUSAL INFERENCE FOR DYADIC DATA WITH INTERFERENCE
+
+      2024-07-03
+
+      14:00 — 15:30'
+    person: ''
+    time: ''
+    title: '[概率与统计] 苗旺
+
+      CAUSAL INFERENCE FOR DYADIC DATA WITH INTERFERENCE
+
+      2024-07-03
+
+      14:00 — 15:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSG2qF2
+    info: '[MINI COURSES] 陈伊凡
+
+      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
+
+      2024-06-27
+
+      12:30 — 14:00'
+    person: ''
+    time: ''
+    title: '[MINI COURSES] 陈伊凡
+
+      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
+
+      2024-06-27
+
+      12:30 — 14:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSGyqF2
+    info: '[应用与计算] 王东
+
+      A PREDICTION-CORRECTION BASED ITERATIVE CONVOLUTION-THRESHOLDING METHOD FOR
+      TOPOLOGY OPTIMIZATION OF HEAT TRANSFER PROBLEMS
+
+      2024-06-28
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[应用与计算] 王东
+
+      A PREDICTION-CORRECTION BASED ITERATIVE CONVOLUTION-THRESHOLDING METHOD FOR
+      TOPOLOGY OPTIMIZATION OF HEAT TRANSFER PROBLEMS
+
+      2024-06-28
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSFtKF2
+    info: '[特邀报告] ALBERTO BRESSAN
+
+      UNIQUENESS DOMAINS FOR NONLINEAR CONSERVATION LAWS
+
+      2024-07-13
+
+      10:30 — 11:30'
+    person: ''
+    time: ''
+    title: '[特邀报告] ALBERTO BRESSAN
+
+      UNIQUENESS DOMAINS FOR NONLINEAR CONSERVATION LAWS
+
+      2024-07-13
+
+      10:30 — 11:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSF2qF2
+    info: '[特邀报告] PROF. KENG DENG
+
+      ASYMPTOTIC BEHAVIOR OF A DIFFUSIVE SIS EPIDEMIC MODEL WITH MASS ACTION INFECTION
+      MECHANISM
+
+      2024-06-28
+
+      14:45 — 15:45'
+    person: ''
+    time: ''
+    title: '[特邀报告] PROF. KENG DENG
+
+      ASYMPTOTIC BEHAVIOR OF A DIFFUSIVE SIS EPIDEMIC MODEL WITH MASS ACTION INFECTION
+      MECHANISM
+
+      2024-06-28
+
+      14:45 — 15:45'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6182.htm
     info: '28
 
@@ -186,103 +283,6 @@
     title: 吲哚甲醇平各分子参与的催化不对称反应
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSG2qF2
-    info: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
-
-      2024-06-27
-
-      12:30 — 14:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
-
-      2024-06-27
-
-      12:30 — 14:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSGyqF2
-    info: '[应用与计算] 王东
-
-      A PREDICTION-CORRECTION BASED ITERATIVE CONVOLUTION-THRESHOLDING METHOD FOR
-      TOPOLOGY OPTIMIZATION OF HEAT TRANSFER PROBLEMS
-
-      2024-06-28
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[应用与计算] 王东
-
-      A PREDICTION-CORRECTION BASED ITERATIVE CONVOLUTION-THRESHOLDING METHOD FOR
-      TOPOLOGY OPTIMIZATION OF HEAT TRANSFER PROBLEMS
-
-      2024-06-28
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSFtKF2
-    info: '[特邀报告] ALBERTO BRESSAN
-
-      UNIQUENESS DOMAINS FOR NONLINEAR CONSERVATION LAWS
-
-      2024-07-13
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] ALBERTO BRESSAN
-
-      UNIQUENESS DOMAINS FOR NONLINEAR CONSERVATION LAWS
-
-      2024-07-13
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSF2qF2
-    info: '[特邀报告] PROF. KENG DENG
-
-      ASYMPTOTIC BEHAVIOR OF A DIFFUSIVE SIS EPIDEMIC MODEL WITH MASS ACTION INFECTION
-      MECHANISM
-
-      2024-06-28
-
-      14:45 — 15:45'
-    person: ''
-    time: ''
-    title: '[特邀报告] PROF. KENG DENG
-
-      ASYMPTOTIC BEHAVIOR OF A DIFFUSIVE SIS EPIDEMIC MODEL WITH MASS ACTION INFECTION
-      MECHANISM
-
-      2024-06-28
-
-      14:45 — 15:45'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuit6HtKF2
-    info: '[COLLOQUIUM] 苑立平
-
-      ON SOME PROPERTIES OF ARCHIMEDEAN TILINGS
-
-      2024-06-28
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 苑立平
-
-      ON SOME PROPERTIES OF ARCHIMEDEAN TILINGS
-
-      2024-06-28
-
-      13:30 — 14:30'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4039.html
