@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13167.htm
+    info: "地震学主题报告会\n 2024年07月02日 "
+    person: ''
+    time: ''
+    title: 地震学主题报告会
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13158.htm
     info: "张三国教授学术报告\n 2024年06月24日 "
     person: ''
@@ -59,14 +65,99 @@
     person: ''
     time: ''
     title: 概率统计学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13145.htm
-    info: "Arnulf Jentzen教授学术报告\n 2024年06月13日 "
-    person: ''
-    time: ''
-    title: Arnulf Jentzen教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9641.htm
+    info: '“边缘智能技术论坛”名家系列讲座
+
+      2024-06-14'
+    person: ''
+    time: ''
+    title: “边缘智能技术论坛”名家系列讲座
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9590.htm
+    info: '华南理工大学陈伟能教授学术报告
+
+      2024-05-31'
+    person: ''
+    time: ''
+    title: 华南理工大学陈伟能教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9589.htm
+    info: '浙江工商大学王勋教授学术报告
+
+      2024-05-31'
+    person: ''
+    time: ''
+    title: 浙江工商大学王勋教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9588.htm
+    info: '中国地质大学（武汉）张洪艳教授学术报告
+
+      2024-05-31'
+    person: ''
+    time: ''
+    title: 中国地质大学（武汉）张洪艳教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9555.htm
+    info: '英国巴斯大学张捷副教授学术报告
+
+      2024-05-21'
+    person: ''
+    time: ''
+    title: 英国巴斯大学张捷副教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9553.htm
+    info: '德克萨斯大学奥斯汀分校Qixing Huang副教授学术报告
+
+      2024-05-20'
+    person: ''
+    time: ''
+    title: 德克萨斯大学奥斯汀分校Qixing Huang副教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9543.htm
+    info: '西安交通大学苏洲教授学术报告
+
+      2024-05-14'
+    person: ''
+    time: ''
+    title: 西安交通大学苏洲教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9533.htm
+    info: '新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
+
+      2024-05-06'
+    person: ''
+    time: ''
+    title: 新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9497.htm
+    info: '中山大学王昌栋副教授学术报告
+
+      2024-04-18'
+    person: ''
+    time: ''
+    title: 中山大学王昌栋副教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9475.htm
+    info: '浙江大学郑能干教授学术报告
+
+      2024-04-11'
+    person: ''
+    time: ''
+    title: 浙江大学郑能干教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9454.htm
+    info: '清华大学古槿副教授学术报告
+
+      2024-04-03'
+    person: ''
+    time: ''
+    title: 清华大学古槿副教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3618.htm
@@ -290,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6582584
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6588153
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1490,110 +1581,252 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159988.htm
-    info: '2024-06-28
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159964.htm
+    info: '04
 
-      【北京大学物理化学学术报告】Product distribution control guided by microkinetic analysis for
-      CO and CO2 reduction at high-flux electrocatalysis using gas-diffusion electrodes'
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
     person: ''
     time: ''
-    title: 【北京大学物理化学学术报告】Product distribution control guided by microkinetic analysis
-      for CO and CO2 reduction at high-flux electrocatalysis using gas-diffusion electrodes
+    title: '04
+
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159931.htm
-    info: '2024-06-27
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159176.htm
+    info: '28
 
-      【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations of
-      Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（六）
+
+      时间：2024-06-28 09:00-11:00
+
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
-    title: '【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations
-      of Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
+    title: '28
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（六）
+
+      时间：2024-06-28 09:00-11:00
+
+      报告人: 郑有泉教授 (天津大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159930.htm
-    info: '2024-06-27
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/159808.htm
+    info: '27
 
-      【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide and
-      Molecular Adsorption on the Surface by Neural Network Potentials'
+      Jun
+
+      A Semiparametric Perspective on Unsupervised Domain Adaptation
+
+      时间：2024-06-27 14:00-15:00
+
+      报告人: 赵继伟(University of Wisconsin-Madison)'
     person: ''
     time: ''
-    title: 【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide
-      and Molecular Adsorption on the Surface by Neural Network Potentials
+    title: '27
+
+      Jun
+
+      A Semiparametric Perspective on Unsupervised Domain Adaptation
+
+      时间：2024-06-27 14:00-15:00
+
+      报告人: 赵继伟(University of Wisconsin-Madison)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159681.htm
-    info: '2024-06-14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/159811.htm
+    info: '26
 
-      【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
-      of biomolecular condensates'
+      Jun
+
+      Some Results on Probabilities of Moderate Deviations
+
+      时间：2024-06-26 14:00-15:00
+
+      报告人: 祁永成(University of Minnesota Duluth)'
     person: ''
     time: ''
-    title: 【北京大学物理化学学术报告】Atomistic view of the phase equilibrium and material properties
-      of biomolecular condensates
+    title: '26
+
+      Jun
+
+      Some Results on Probabilities of Moderate Deviations
+
+      时间：2024-06-26 14:00-15:00
+
+      报告人: 祁永成(University of Minnesota Duluth)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159669.htm
-    info: '2024-06-14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159172.htm
+    info: '26
 
-      【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
-      to Methanol: The Role of Formaldehyde'
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（五）
+
+      时间：2024-06-26 14:00-16:00
+
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
-    title: '【北京大学物理化学学术报告】Cobalt Phthalocyanine Catalyzed Carbon Dioxide Electroreduction
-      to Methanol: The Role of Formaldehyde'
+    title: '26
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（五）
+
+      时间：2024-06-26 14:00-16:00
+
+      报告人: 郑有泉教授 (天津大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159664.htm
-    info: '2024-06-13
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/159502.htm
+    info: '24
 
-      【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
-      of bioinspired peptides and proteins'
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
     person: ''
     time: ''
-    title: 【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
-      of bioinspired peptides and proteins
+    title: '24
+
+      Jun
+
+      Weak-strong uniqueness for mean-field games
+
+      时间：2024-06-24 16:00-17:00
+
+      报告人: Diogo Gomes (KAUST)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159544.htm
-    info: '2024-06-08
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159815.htm
+    info: '24
 
-      【讲座】Mobility programs to support Franco-Chinese cooperation'
+      Jun
+
+      The linear stability of weakly charged and slowly rotating Kerr-Newman family
+      of charged black holes
+
+      时间：2024-06-24 16:15-17:15
+
+      报告人: 何丽丽 (Princeton University)'
     person: ''
     time: ''
-    title: 【讲座】Mobility programs to support Franco-Chinese cooperation
+    title: '24
+
+      Jun
+
+      The linear stability of weakly charged and slowly rotating Kerr-Newman family
+      of charged black holes
+
+      时间：2024-06-24 16:15-17:15
+
+      报告人: 何丽丽 (Princeton University)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159534.htm
-    info: '2024-06-07
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/159168.htm
+    info: '24
 
-      【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and Lighting
-      Applications'
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（四）
+
+      时间：2024-06-24 14:00-16:00
+
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
-    title: 【北京大学无机化学学术论坛】Blue Emitting Tetradentate Pt Complexes for Displays and
-      Lighting Applications
+    title: '24
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（四）
+
+      时间：2024-06-24 14:00-16:00
+
+      报告人: 郑有泉教授 (天津大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159535.htm
-    info: '2024-06-05
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/158862.htm
+    info: '21
 
-      【北京大学理论与计算化学学术报告】电子激发态与非绝热效应'
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（三）
+
+      时间：2024-06-21 09:00-11:00
+
+      报告人: 郑有泉教授 (天津大学)'
     person: ''
     time: ''
-    title: 【北京大学理论与计算化学学术报告】电子激发态与非绝热效应
+    title: '21
+
+      Jun
+
+      系列学术讲座——Parabolic gluing method and its applications（三）
+
+      时间：2024-06-21 09:00-11:00
+
+      报告人: 郑有泉教授 (天津大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159221.htm
-    info: '2024-05-28
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/159645.htm
+    info: '21
 
-      【兴大报告664】ATR-Far-ultraviolet Spectroscopy-Towards New σ Chemistry'
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-21 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
     person: ''
     time: ''
-    title: 【兴大报告664】ATR-Far-ultraviolet Spectroscopy-Towards New σ Chemistry
+    title: '21
+
+      Jun
+
+      系列报告——三维流形上的Heegaard分解
+
+      时间：2024-06-21 10:10-12:00
+
+      报告人: 邱瑞锋（华东师范大学）'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159272.htm
-    info: '2024-05-29
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159655.htm
+    info: '20
 
-      【兴大报告663】Efficient, Selective and Modular Electrochemical Synthesis of Chemicals
-      and Fuels to Decarbonize Manufacturing and Electricity Grid'
+      Jun
+
+      机器学习与数据科学博士生系列论坛（第七十四期）—— Non-Asymptotic Convergence Analysis for Nonsmooth
+      Nonconvex Optimization
+
+      时间：2024-06-20 16:00-17:00
+
+      报告人: 陈坤 (北京大学)'
     person: ''
     time: ''
-    title: 【兴大报告663】Efficient, Selective and Modular Electrochemical Synthesis of
-      Chemicals and Fuels to Decarbonize Manufacturing and Electricity Grid
-  page_title: 学术讲座_北京大学化学与分子工程学院
+    title: '20
+
+      Jun
+
+      机器学习与数据科学博士生系列论坛（第七十四期）—— Non-Asymptotic Convergence Analysis for Nonsmooth
+      Nonconvex Optimization
+
+      时间：2024-06-20 16:00-17:00
+
+      报告人: 陈坤 (北京大学)'
+  page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
@@ -1738,6 +1971,209 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2442
+    info: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/3234.htm
@@ -1906,7 +2342,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 4 days ago
+      2024-06-28 14:00, 5 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -1914,7 +2350,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 7 days ago
+      2024-06-25 15:30, 8 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -1922,7 +2358,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 13 days ago
+      2024-06-19 10:00, 14 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -1930,7 +2366,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 15 days ago
+      2024-06-17 09:30, 16 days ago
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -1956,7 +2392,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 4 days ago
+      2024-06-28 14:00, 5 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -1964,7 +2400,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 7 days ago
+      2024-06-25 15:30, 8 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -1972,7 +2408,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 13 days ago
+      2024-06-19 10:00, 14 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -1980,7 +2416,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 15 days ago
+      2024-06-17 09:30, 16 days ago
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2008,7 +2444,16 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
+    info: '第十九届国际双曲问题大会在上海交大召开
+
+      7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
+      Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
+      Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，由上海交通大学数学科学学院和自然科学研究院主办，由中科院数学与系统科学研究院、北京大学数学科学学院、首都师范大学数学科学学院、复旦大学数学科学学院、武汉大学数学与统计学院，以及上海大学数学系协办。开幕式由李亚纯教授主持。丁奎岭致开幕词，他向参会嘉宾表示热烈欢迎。他表示，数学作为基础学科在推动科技革命、引领创新发展中扮演着越来越重要的基础与先导作用，几乎所有的重大科学发现都与数学的发展相关。他希望通过此次大会，专家学者们可以深入交流偏微分方程研究领域新成果，推动前沿领域学术交流，深化不同研究机构之间的科研合作，促进数学领域更广泛、更深入的国际合作。楼元介绍了上海交通大学数学学科的发展历史、现状，以及近年来在国际化建设方面取得的成绩，表示将通过系列的高水平科研活动，汇聚全球顶尖学者，开展前沿研究，有效推动数学学科国际化进程，加快建设世界一流数学学科的步伐。金石教授代表大会学术委员会向参会专家介绍了大会的发展历程、本次会议重要的学术意义及深远的国际影响，他同时感谢了会议组织者和志愿者在会议筹备期间的辛勤付出。金石教授也是本次会议的大会报告人，分享了题目为"Quantum
+      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。稿件来源：数学科学学院
+
+      2024-07-02
+
+      上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
 
       近日，上海国家应用数学中心（上海交通大学分中心）、自然科学研究院周冰心博士及其合作者结合谱图卷积算法和交替方向乘子算法开发开发双项优化机制，为含有大量节点和边噪音的图数据寻找可靠的向量表示方法，显著提升深度图神经网络在分类任务上的预测效果。此项研究成果以“Graph
       Denoising with Framelet Regularizers”为题，于2024年4月24日发表在机器学习和人工智能领域顶级期刊IEEE Transactions
@@ -2278,16 +2723,19 @@
       Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
       Commission.
 
-      2024-04-01
-
-      丁奎岭校长赴自然科学研究院调研
-
-      2024年3月21日上午，上海交通大学校长、中国科学院院士丁奎岭赴自然科学研究院调研。学校党委常委、副校长徐学敏，改革与发展研究室、研究生院、科研院、人力资源处等部门主要负责同志随从调研。自然科学研究院领导班子成员、教师代表等参加座谈交流。会议由自然科学研究院常务副院长王维克主持。交流会上，自然科学研究院院长金石首先介绍了研究院的发展历史、人才培养、主要研究方向以及取得的重要研究成果。他尤其强调，近五年来，研究院在人工智能、生命科学和量子计算领域引进了一批优秀青年人才，并在相关领域取得了一批重要成果。这些领域与刚结束的2024年全国两会《政府工作报告》关于国家未来新产业发展布局高度吻合。随后，副校长徐学敏主持了交流环节，与会人员就研究院的发展目标、学科交叉特色、科研平台的建设规划、国际合作与交流等议题进行了深入探讨。在总结讲话中，丁奎岭校长对自然科学研究院所取得的成绩给予了高度评价，并对研究院的未来发展提出了殷切期望。他强调，自然科学研究院应当继续发挥其在跨学科研究中的独特优势，抓住人工智能技术快速发展的机遇，以世界一流的标准来规划布局，不断提升科研创新能力。丁校长特别指出，人才队伍的建设是推动研究院向前发展的关键所在，应坚持引进与培养并重的策略，持续吸引和培育顶尖人才及有潜力的青年学者，为他们的成长提供良好的环境，从而打造出一支国际领先的人才团队。他同时鼓励研究院的教师们不仅要致力于原创性的学术研究，还要主动对接国家发展战略需求，努力在国际学术界取得突破性研究成果，以推动研究院的长远发展。
-
-      2024-03-21'
+      2024-04-01'
     person: ''
     time: ''
-    title: '上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
+    title: '第十九届国际双曲问题大会在上海交大召开
+
+      7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
+      Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
+      Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，由上海交通大学数学科学学院和自然科学研究院主办，由中科院数学与系统科学研究院、北京大学数学科学学院、首都师范大学数学科学学院、复旦大学数学科学学院、武汉大学数学与统计学院，以及上海大学数学系协办。开幕式由李亚纯教授主持。丁奎岭致开幕词，他向参会嘉宾表示热烈欢迎。他表示，数学作为基础学科在推动科技革命、引领创新发展中扮演着越来越重要的基础与先导作用，几乎所有的重大科学发现都与数学的发展相关。他希望通过此次大会，专家学者们可以深入交流偏微分方程研究领域新成果，推动前沿领域学术交流，深化不同研究机构之间的科研合作，促进数学领域更广泛、更深入的国际合作。楼元介绍了上海交通大学数学学科的发展历史、现状，以及近年来在国际化建设方面取得的成绩，表示将通过系列的高水平科研活动，汇聚全球顶尖学者，开展前沿研究，有效推动数学学科国际化进程，加快建设世界一流数学学科的步伐。金石教授代表大会学术委员会向参会专家介绍了大会的发展历程、本次会议重要的学术意义及深远的国际影响，他同时感谢了会议组织者和志愿者在会议筹备期间的辛勤付出。金石教授也是本次会议的大会报告人，分享了题目为"Quantum
+      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。稿件来源：数学科学学院
+
+      2024-07-02
+
+      上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
 
       近日，上海国家应用数学中心（上海交通大学分中心）、自然科学研究院周冰心博士及其合作者结合谱图卷积算法和交替方向乘子算法开发开发双项优化机制，为含有大量节点和边噪音的图数据寻找可靠的向量表示方法，显著提升深度图神经网络在分类任务上的预测效果。此项研究成果以“Graph
       Denoising with Framelet Regularizers”为题，于2024年4月24日发表在机器学习和人工智能领域顶级期刊IEEE Transactions
@@ -2557,13 +3005,7 @@
       Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
       Commission.
 
-      2024-04-01
-
-      丁奎岭校长赴自然科学研究院调研
-
-      2024年3月21日上午，上海交通大学校长、中国科学院院士丁奎岭赴自然科学研究院调研。学校党委常委、副校长徐学敏，改革与发展研究室、研究生院、科研院、人力资源处等部门主要负责同志随从调研。自然科学研究院领导班子成员、教师代表等参加座谈交流。会议由自然科学研究院常务副院长王维克主持。交流会上，自然科学研究院院长金石首先介绍了研究院的发展历史、人才培养、主要研究方向以及取得的重要研究成果。他尤其强调，近五年来，研究院在人工智能、生命科学和量子计算领域引进了一批优秀青年人才，并在相关领域取得了一批重要成果。这些领域与刚结束的2024年全国两会《政府工作报告》关于国家未来新产业发展布局高度吻合。随后，副校长徐学敏主持了交流环节，与会人员就研究院的发展目标、学科交叉特色、科研平台的建设规划、国际合作与交流等议题进行了深入探讨。在总结讲话中，丁奎岭校长对自然科学研究院所取得的成绩给予了高度评价，并对研究院的未来发展提出了殷切期望。他强调，自然科学研究院应当继续发挥其在跨学科研究中的独特优势，抓住人工智能技术快速发展的机遇，以世界一流的标准来规划布局，不断提升科研创新能力。丁校长特别指出，人才队伍的建设是推动研究院向前发展的关键所在，应坚持引进与培养并重的策略，持续吸引和培育顶尖人才及有潜力的青年学者，为他们的成长提供良好的环境，从而打造出一支国际领先的人才团队。他同时鼓励研究院的教师们不仅要致力于原创性的学术研究，还要主动对接国家发展战略需求，努力在国际学术界取得突破性研究成果，以推动研究院的长远发展。
-
-      2024-03-21'
+      2024-04-01'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
