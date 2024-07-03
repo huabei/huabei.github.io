@@ -69,6 +69,14 @@
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9671.htm
+    info: '上海财经大学陆品燕教授学术报告
+
+      2024-07-03'
+    person: ''
+    time: ''
+    title: 上海财经大学陆品燕教授学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/9641.htm
     info: '“边缘智能技术论坛”名家系列讲座
 
@@ -148,14 +156,6 @@
     person: ''
     time: ''
     title: 浙江大学郑能干教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9454.htm
-    info: '清华大学古槿副教授学术报告
-
-      2024-04-03'
-    person: ''
-    time: ''
-    title: 清华大学古槿副教授学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6588153
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6594997
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -686,14 +686,6 @@
     time: ''
     title: Strategies and Tactics for the Rapid Synthesis of Molecular Complexity
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
-    info: '2024.06.27
-
-      非离子型mRNA递送系统'
-    person: ''
-    time: ''
-    title: 非离子型mRNA递送系统
-  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/3213a51e57d24f2b99833d651f00919c.htm
     info: '2024.06.24
 
@@ -711,6 +703,14 @@
     time: ''
     title: Determinants of non-prescription antibiotic dispensing in Chinese community
       pharmacies from socio-ecological and health system perspectives
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
+    info: '2024.06.23
+
+      非离子型mRNA递送系统'
+    person: ''
+    time: ''
+    title: 非离子型mRNA递送系统
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/8149806daedd462cb202ba17698f03af.htm
     info: '2024.06.23
@@ -2342,7 +2342,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 5 days ago
+      2024-06-28 14:00, 6 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2350,7 +2350,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 8 days ago
+      2024-06-25 15:30, 9 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2358,7 +2358,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 14 days ago
+      2024-06-19 10:00, 15 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -2366,7 +2366,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 16 days ago
+      2024-06-17 09:30, 17 days ago
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2392,7 +2392,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 5 days ago
+      2024-06-28 14:00, 6 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2400,7 +2400,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 8 days ago
+      2024-06-25 15:30, 9 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2408,7 +2408,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 14 days ago
+      2024-06-19 10:00, 15 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -2416,7 +2416,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 16 days ago
+      2024-06-17 09:30, 17 days ago
 
       从玻尔兹曼方程到宏观流体力学模型
 
@@ -2444,12 +2444,148 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '第十九届国际双曲问题大会在上海交大召开
+    info: '上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
+
+      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
+      the efficiency of protein language models with minimal wet-lab data through
+      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Nature Communications论文链接：https://www.nature.com/articles/s41467-024-49798-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240702&utm_content=10.1038/s41467-024-49798-61.研究背景酶工程或者蛋白质工程是要对蛋白质做突变并筛选得到性质更优的蛋白质产品。传统的湿实验方法是类似于贪婪算法式的搜索方法，需要进行多轮实验迭代并反复进行实验验证。这些湿实验方法需要耗费大量的人力和时间，做出一个满足需求的蛋白质产品往往需要数年的时间，而且湿实验方法能够筛选遍历的蛋白质突变序列库非常有限。目前有一些深度学习的方法来加速这个蛋白质突变改造进程，但是这些深度学习模型想要得到很高的准确率的话，需要利用成千上万的蛋白质突变数据来训练模型。而这个大规模高质量的突变数据的获取，反过来也是传统湿实验的巨大门槛。因而，行业内急需一种在不需要大量湿实验数据情况下，依然能够对蛋白质突变-功能做出准确预测的方法。目前的蛋白质无监督预训练模型能在完全没有湿实验的情况，以零样本(zero-shot)预测蛋白质突变-性质的变化，但是这种预测方法往往精度较低，且上述无监督模型无法直接利用有限的湿实验数据对上面无监督模型进行微调。2.研究方法在本研究工作中，我们提出了一种解决方法(FSFP)，综合利用元学习，排序学习和参数高效的微调方法，在只利用任意几十个湿实验数据下便可以训练蛋白质预训练模型，并大幅提高对蛋白质突变-性质预测的效果。在包含87个高通量突变数据集
+      ProteinGym的测试中，FSFP方法先利用蛋白质预训练模型评估目标蛋白质与ProteinGym中的蛋白质的相似度，并从ProteinGym中取出与目标蛋白质最相近的两个蛋白质数据集作为元学习的两个辅助任务，同时利用GEMME对目标蛋白质的打分数据作为第三个辅助任务。最后利用排序学习损失函数和Lora训练方法，在极少量（几十个）的真实湿实验数据上训练蛋白质预训练模型。我们的测试结果表明，即便是在原始的蛋白质预训练模型对突变-性质预测的
+      spearman相关性低于0.1的情况下，FSFP方法只利用任意20个湿实验数据训练模型，也能将上述的预测相关性大幅提高到0.5以上。3.研究结果同时，为了研究FSFP的有效性。我们在一个具体的蛋白质Phi29改造案例中进行了湿实验验证，FSFP在只使用20个湿实验数据训练模型的情况下，能够将原始蛋白质预训练模型ESM-1v的top-20的单点突变预测阳性率提高25%，并且能找到将近10个全新的阳性单点突变。4.总结在本工作中，作者提出了一个基于蛋白质预训练模型的全新的微调训练方法FSFP。FSFP综合利用元学习，排序学习以及高效参数微调技术，能在只利用20个随机湿实验数据的情况下，高效训练蛋白质预训练模型，且能大幅提高模型的单点突变预测阳性率。上述结果表明，FSFP方法对解决现在蛋白质工程的高实验周期，降低实验成本具有重要意义。自然科学研究院/物理与天文学院/张江高等研究院洪亮教授，和上海人工智能实验室青年研究员谈攀为通讯作者。上海交大物理天文学院博士后周子宜，硕士生张良，博士生余元玺，以及生命科学技术学院博士生吴邦昊为共同第一作者。本研究获得了国家自然科学基金(12104295)，上海市科委计算生物学项目(23JS1400600)，上海交通大学科技创新基金(21X010200843)以及重庆市科技创新重大项目(CSTB2022TIAD-STX0017)
+      ，上海人工智能实验室以及上海交通大学高性能计算和学生创新中心的支持。FSFP: A Few-Shot Prediction Method for Protein
+      Function Based on Language ModelsRecently, a research team led by Professor
+      Liang Hong from the Institute of Natural Sciences/School of Physics and Astronomy/Zhangjiang
+      Advanced Institute/School of Pharmacy at Shanghai Jiao Tong University, in collaboration
+      with Dr. Pan Tan, a young researcher at the Shanghai Artificial Intelligence
+      Laboratory, has made a significant breakthrough in predicting protein mutation
+      properties. This work employs a novel training strategy that greatly enhances
+      the performance of traditional pre-trained protein models in mutation-property
+      prediction using minimal wet-lab data. The research results, titled "Enhancing
+      the efficiency of protein language models with minimal wet-lab data through
+      few-shot learning," were published in Nature Communications, a journal under
+      the Springer Nature group.1. Research BackgroundEnzyme engineering or protein
+      engineering involves mutating proteins and screening for improved protein products.
+      Traditional wet-lab methods are akin to greedy algorithms, requiring multiple
+      rounds of experimental iterations and validations. These methods are labor-intensive
+      and time-consuming, often taking years to produce a satisfactory protein product.
+      Moreover, the protein mutation sequence library that these wet-lab methods can
+      screen is very limited. Some deep learning methods currently accelerate this
+      protein mutation modification process. However, to achieve high accuracy, these
+      deep learning models require training with tens of thousands of protein mutation
+      data, which is another significant barrier due to the need for large-scale,
+      high-quality mutation data. Thus, there is an urgent need in the industry for
+      a method that can accurately predict protein mutation functions without requiring
+      extensive wet-lab data. Current unsupervised pre-trained protein models can
+      predict mutation properties with zero-shot learning, but these predictions are
+      often less accurate, and the unsupervised models cannot directly use limited
+      wet-lab data to fine-tune the model.2. Research MethodIn this study, we propose
+      a solution (FSFP) that combines meta-learning, ranking learning, and parameter-efficient
+      fine-tuning methods. This approach allows training of pre-trained protein models
+      using only a few dozen wet-lab data, significantly improving the prediction
+      of protein mutation properties. In tests involving 87 high-throughput mutation
+      datasets from ProteinGym, the FSFP method first evaluates the similarity between
+      the target protein and proteins in ProteinGym using the pre-trained model, selecting
+      the two most similar protein datasets from ProteinGym as auxiliary tasks for
+      meta-learning, and uses GEMME scoring data for the target protein as the third
+      auxiliary task. Finally, using a ranking loss function and Lora training method,
+      the pre-trained protein model is trained on a minimal amount (dozens) of real
+      wet-lab data. Our test results indicate that even when the original pre-trained
+      protein model''s Spearman correlation for mutation-property prediction is below
+      0.1, the FSFP method can increase the prediction correlation to above 0.5 using
+      only 20 wet-lab data for training.3. Research ResultsTo validate the effectiveness
+      of FSFP, we conducted wet-lab validation in a specific protein Phi29 modification
+      case. FSFP, using only 20 wet-lab data for training, improved the top-20 single-point
+      mutation prediction positive rate of the original pre-trained protein model
+      ESM-1v by 25% and identified nearly 10 new positive single-point mutations.4.
+      ConclusionIn this work, the authors proposed a novel fine-tuning training method
+      FSFP for pre-trained protein models. FSFP effectively trains pre-trained protein
+      models using only 20 random wet-lab data, significantly improving the model''s
+      single-point mutation prediction positive rate by leveraging meta-learning,
+      ranking learning, and efficient parameter fine-tuning techniques. These results
+      indicate that the FSFP method has significant implications for reducing experimental
+      cycles and costs in current protein engineering.Professor Liang Hong from the
+      School of Natural Sciences/School of Physics and Astronomy/Zhangjiang Advanced
+      Institute at Shanghai Jiao Tong University, and Dr. Pan Tan, a young researcher
+      at the Shanghai Artificial Intelligence Laboratory, are the corresponding authors.
+      Postdoctoral researcher Ziyi Zhou, master''s student Liang Zhang, doctoral student
+      Yuanxi Yu from the School of Physics and Astronomy, and doctoral student Banghao
+      Wu from the School of Life Sciences and Technology are the co-first authors.
+      This research was supported by the National Natural Science Foundation of China
+      (12104295), the Shanghai Municipal Science and Technology Commission Computational
+      Biology Project (23JS1400600), the Science and Technology Innovation Fund of
+      Shanghai Jiao Tong University (21X010200843), and the Major Science and Technology
+      Innovation Project of Chongqing (CSTB2022TIAD-STX0017), as well as support from
+      the Shanghai Artificial Intelligence Laboratory and the High-Performance Computing
+      and Student Innovation Center at Shanghai Jiao Tong University.
+
+      2024-07-03
+
+      第十九届国际双曲问题大会在上海交大召开
 
       7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
       Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
       Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，由上海交通大学数学科学学院和自然科学研究院主办，由中科院数学与系统科学研究院、北京大学数学科学学院、首都师范大学数学科学学院、复旦大学数学科学学院、武汉大学数学与统计学院，以及上海大学数学系协办。开幕式由李亚纯教授主持。丁奎岭致开幕词，他向参会嘉宾表示热烈欢迎。他表示，数学作为基础学科在推动科技革命、引领创新发展中扮演着越来越重要的基础与先导作用，几乎所有的重大科学发现都与数学的发展相关。他希望通过此次大会，专家学者们可以深入交流偏微分方程研究领域新成果，推动前沿领域学术交流，深化不同研究机构之间的科研合作，促进数学领域更广泛、更深入的国际合作。楼元介绍了上海交通大学数学学科的发展历史、现状，以及近年来在国际化建设方面取得的成绩，表示将通过系列的高水平科研活动，汇聚全球顶尖学者，开展前沿研究，有效推动数学学科国际化进程，加快建设世界一流数学学科的步伐。金石教授代表大会学术委员会向参会专家介绍了大会的发展历程、本次会议重要的学术意义及深远的国际影响，他同时感谢了会议组织者和志愿者在会议筹备期间的辛勤付出。金石教授也是本次会议的大会报告人，分享了题目为"Quantum
-      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。稿件来源：数学科学学院
+      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。The
+      19th International Conference on Hyperbolic Problems Held at Shanghai Jiao Tong
+      UniversityOn July 1, the 19th International Conference on Hyperbolic Problems
+      opened in Room 100 of the Chen Ruiqiu Building at the Minhang Campus of Shanghai
+      Jiao Tong University. Attendees included Ding Kuiling, President of Shanghai
+      Jiao Tong University; Lou Yuan, Dean of the School of Mathematical Sciences;
+      Hong Mei, Party Secretary of the School of Mathematical Sciences; Jin Shi, Director
+      of the Institute of Natural Sciences; members of the conference''s academic
+      committee including academicians of the Chinese Academy of Sciences, Fudan University''s
+      Chen Shuxing, Oxford University''s Gui-Qiang Chen and Jose Carrillo, University
+      of Zurich''s Remi Abgrall, Pennsylvania State University''s Alberto Bressan,
+      International School for Advanced Studies of Trieste''s Stefano Bianchini, and
+      University of Würzburg''s Professor Christian Klingenberg. More than 300 experts
+      and scholars in partial differential equations from over 110 universities and
+      research institutions in more than 20 countries and regions attended the opening
+      ceremony. This conference, the 19th in the series of international hyperbolic
+      problems conferences, was hosted by the School of Mathematical Sciences and
+      the Institute of Natural Sciences of Shanghai Jiao Tong University, and co-organized
+      by the Academy of Mathematics and Systems Science of the Chinese Academy of
+      Sciences, the School of Mathematical Sciences of Peking University, the School
+      of Mathematical Sciences of Capital Normal University, the School of Mathematical
+      Sciences of Fudan University, the School of Mathematics and Statistics of Wuhan
+      University, and the Department of Mathematics of Shanghai University. The opening
+      ceremony was presided over by Professor Li Yachun.Ding Kuiling delivered the
+      opening speech, warmly welcoming the guests. He emphasized that mathematics,
+      as a fundamental discipline, plays an increasingly important foundational and
+      pioneering role in driving technological revolutions and leading innovative
+      development. Almost all major scientific discoveries are related to the development
+      of mathematics. He expressed hope that this conference would allow experts and
+      scholars to deeply exchange new research findings in the field of partial differential
+      equations, promote academic exchanges in frontier fields, deepen scientific
+      cooperation between different research institutions, and foster broader and
+      deeper international cooperation in the field of mathematics.Lou Yuan introduced
+      the history and current status of the mathematics discipline at Shanghai Jiao
+      Tong University, as well as the achievements in internationalization in recent
+      years. He stated that through a series of high-level scientific research activities,
+      the university aims to gather top scholars from around the world to conduct
+      cutting-edge research, effectively promote the internationalization process
+      of the mathematics discipline, and accelerate the pace of building a world-class
+      mathematics discipline.On behalf of the conference''s academic committee, Professor
+      Jin Shi introduced the development history of the conference, the significant
+      academic importance of this meeting, and its far-reaching international impact.
+      He also thanked the conference organizers and volunteers for their hard work
+      during the preparation of the conference. Professor Jin Shi, also a keynote
+      speaker at this conference, shared a report titled "Quantum Computation of Partial
+      Differential Equations and Related Problems."The conference also invited the
+      Shanghai Jiao Tong University Student Chinese Orchestra to present a wonderful
+      performance of traditional Chinese music for the attendees.The International
+      Conference on Hyperbolic Problems is the most important international conference
+      in the field of hyperbolic partial differential equations. Since its first meeting
+      in France in 1986, it has been held 18 times. Over nearly 40 years, it has played
+      a crucial role in promoting academic exchanges and scientific research cooperation
+      in the theory, computation, and applications of hyperbolic partial differential
+      equations. This conference will continue to provide attendees with a grand academic
+      feast and a platform to showcase their achievements and exchange ideas, thus
+      promoting theoretical and applied research in partial differential equations.The
+      sponsors of this conference include the National Natural Science Foundation
+      of China, the Ministry of Education''s Key Laboratory of Scientific and Engineering
+      Computing, the Shanghai Frontiers Science Research Base of Modern Analysis,
+      and the Shanghai National Applied Mathematics Center (Shanghai Jiao Tong University
+      Branch).The homepage of the conference is https://www.hyp2024.sjtu.edu.cn.The
+      conference will last for five days and will conclude on July 5.稿件来源：数学科学学院
 
       2024-07-02
 
@@ -2639,99 +2775,151 @@
       image processing, medical imaging, and data science. Zhang has published over
       70 SCI papers in applied mathematics journals and interdisciplinary journals.
 
-      2024-04-17
-
-      上海交通大学周栋焯和李松挺团队及其合作者在大脑神经元网络的结构连接重构方面取得重要进展
-
-      近日，上海交通大学自然科学研究院、数学科学学院周栋焯，李松挺和他们的博士毕业生田中棋，博士研究生陈开及其合作者推导了不同因果性度量之间的定量数学关系，并将其运用于脉冲输出的时间序列系统，成功建立了重构脉冲输出网络的连接结构的理论与计算框架。此项研究成果以"Causal
-      connectivity measures for pulse-output network reconstruction: analysis and
-      applications"为题，于2024年3月29日在美国科学院院刊Proceedings of the National Academy of Sciences
-      of the United States of America（PNAS）上在线发表。在神经科学中，准确测量神经元网络的突触连接结构信息对于理解网络结构、动力学和认知功能等均具有重要意义。然而，由于大脑神经元网络具有跨尺度的高度复杂连接结构，基于目前的神经科学实验技术，大规模直接测量神经元网络内的完整突触连接结构存在较大困难。不过，随着如神经像素电极、双光子钙成像等实验测量技术的出现与发展，人们可以同时记录数以万计的神经元活动数据。而基于这些数据，是否能够结合和发展因果性分析的数学工具，从而准确高效地推断网络的结构连接是计算神经科学领域尚未解决的重要科学问题。通常，人们将基于因果性度量计算得到的连接关系称作网络的因果连接，而将神经元之间的突触连接称作网络的结构连接。前期研究发现，网络的因果连接与结构连接不完全相同，且不同因果性度量一般会得到不同的因果连接关系。然而，目前对于不同因果性度量之间的关系，以及因果连接与结构连接之间的关系仍缺乏定量且实用的数学理论。本研究关注神经元的脉冲信号分析，首先推导了四种常用因果性度量（时滞相关系数、时滞互信息、格兰杰因果关系和传递熵）在计算神经元脉冲输出信号的因果连接时彼此之间的数学理论关系，并且在经典的霍奇金-赫胥黎神经元模型网络（HH网络）和真实的小鼠脑网络中，验证了理论的有效性。此外，研究证明了上述四种因果性度量计算的因果连接都与网络的结构连接高度一致，理论上揭示了因果连接和结构连接之间的定量关系（图A）。随后，本研究建立了基于因果连接重构网络的结构连接的计算框架（图B）。该框架准确地重构了HH网络（图C）、LIF兴奋抑制均衡态网络等多种神经元网络模型的结构连接，且重构广泛适用于不同动力学区域的网络。需特别指出的是，在该框架中，结构连接的重构不需要知晓网络的全局活动信息，从而规避了传统重构方法中的“维数灾难”问题。最后，本研究展示了重构框架在真实实验数据中的有效应用。根据对小鼠观看不同种类视觉影像时记录得到的神经元活动的脉冲序列数据（图D）进行结构连接的重构，取得了较好的重构效果（图E）。并且对比同一老鼠在不同视觉刺激条件下所重构的结构连接，其相互一致性程度较高。本工作提出了适用于多种因果性度量来重构网络结构连接的理论和算法框架，为理解不同因果性度量之间关系以及因果连接与结构连接之间关系奠定了数学理论基础，并对研究以脉冲信号为输出的一般非线性网络的因果连接与结构连接关系具有重要意义。A.
-      四种因果连接强度与结构连接强度的定量关系，其中灰色星标曲线为二次函数拟合曲线。B. 基于因果连接的结构连接重构框架流程图。C. HH网络的结构连接重构。图中为网络内所有神经元对的因果连接强度在对数坐标下的统计分布（呈现明显的双峰结构），其中左侧较宽的分布为没有直接结构连接的神经元对的因果连接强度的分布，而右侧较窄的分布为有直接结构连接的神经元对的因果连接强度的分布。D.
-      实验中小鼠接受不同视觉影像刺激时记录大脑神经元活动的示意图。E. 四种视觉刺激条件下分别重构的因果连接强度在对数坐标下的统计分布（内嵌子图）以及结构连接的重构效果（ROC曲线）。上海交通大学博士毕业生田中棋和在读博士生陈开为论文共同第一作者，上海交通大学李松挺教授，纽约大学David
-      W. McLaughlin教授，上海交通大学周栋焯教授为论文共同通讯作者。工作得到了国家自然科学基金委、科技部、上海市科委等基金支持。Recently,
-      Douglas Zhou and Songting Li from the Institute of Natural Sciences and the
-      School of Mathematical Sciences at Shanghai Jiao Tong University, along with
-      their students Zhong-qi Tian, Kai Chen, and their collaborators, have derived
-      quantitative mathematical relationships between different causality measures
-      and applied them to pulse-output time series systems. They have successfully
-      established a framework for reconstructing the connectivity structure of pulse-output
-      networks. This research work, titled "Causal connectivity measures for pulse-output
-      network reconstruction: analysis and applications", was published online in
-      PNAS on March 29, 2024.In neuroscience, accessing the structural connectivity
-      of cortical networks at the synaptic level is of great significance for understanding
-      the network structure, dynamics, and cognitive functions. However, due to the
-      complexity of the multi-scale cortical network structure, it is very difficult
-      to directly measure the complete synaptic structural connectivity in the cortical
-      network with current experimental technology. However, with the emergence and
-      development of measuring technologies, such as Neuropixel electrodes and two-photon
-      calcium imaging, it is possible to simultaneously record neural activity data
-      from tens of thousands of neurons. The critical scientific inquiry in computational
-      neuroscience is whether we can adapt and develop mathematical tools for causality
-      analysis that would allow us to accurately and effectively infer the structural
-      connectivity of a network from its neural activity data.According to previous
-      studies, the connectivity directly calculated by the causality measure, denoted
-      as causal connectivity, differs from that of measured actual synaptic connectivity,
-      referred to as structural connectivity. Different causality measures might result
-      in different causal connectivities. However, there is a lack of quantitative
-      and applicable mathematical theory regarding the relationship between different
-      causality measures, as well as the relationship between causal connectivity
-      and structure connectivity.This work focuses on the analysis of neuronal pulse-output
-      spike signals. It first provides the theoretical proof of the quantitative relationship
-      between four commonly used causality measures (time-delay correlation coefficient,
-      time-delay mutual information, Granger causality, and transfer entropy) in calculating
-      the causal connectivity based on neuronal pulse-output spike signals, and verifies
-      the validity of the theory in the classical Hodgkin-Huxley (HH) neuronal networks
-      and a real mouse brain network. In addition, the research proves that the causal
-      connectivity inferred by any of the four measures is highly consistent with
-      the underlying structural connectivity of the network, theoretically revealing
-      the relation between causal connectivity and structural connectivity (Fig. A).
-      Subsequently, based on the theory above, this research established a framework
-      for reconstructing structural connectivity based on causal connectivity (Fig.
-      B). The framework has accurately reconstructed the structural connectivity of
-      various types of neuronal networks, including HH networks (Fig. C), LIF excitatory-inhibitory
-      balanced networks, etc., and is applicable to pulse-output networks in different
-      dynamical regimes. It is worth noting that the structural connectivity in the
-      pulse-output network can be reconstructed pairwise without conditioning on the
-      global information of all other nodes in the network, thereby circumventing
-      the curse of dimensionality. Finally, this research shows the effective application
-      of the reconstruction framework in the real experimental data. The structural
-      connectivity is reconstructed based on the spike-train data of neuronal activities
-      simultaneously recorded from mouse cortex when the mouse was watching various
-      types of visual stimuli (Fig. D), achieving good reconstruction results (Fig.
-      E). The consistency of the reconstructed structural connectivities under different
-      visual stimuli for the same mouse is quite high.This work proposes a theoretical
-      and algorithmic framework for reconstructing structural connectivity that is
-      applicable to various causality measures. It lays a mathematical theoretical
-      foundation for understanding the quantitative relationships between different
-      causality measures as well as the relationships between causal and structural
-      connectivity. This is of great significance for better understanding the relationships
-      between the causal and structural connectivity of general nonlinear pulse-output
-      networks.A. The relation between the strengths of causal and structural connectivity.
-      The gray star curve is the quadratic fit. B. The pipeline of reconstruction.
-      C. Performance of reconstruction in HH network. The distribution of causal values
-      shows a clear bimodal distribution in the log scale, with the left peak indicating
-      the pairs without direct connections and the right peak indicating pairs with
-      direct synaptic connections. D. The sketch of recording neural activity in a
-      mouse cortical network using Neuropixels. E. Performance of reconstruction using
-      spike-train data recorded in different visual stimuli (ROC curves). Insets are
-      the distributions of causal values.Former PhD student Zhong-qi Tian and PhD
-      student Kai Chen from SJTU are the co-first authors of the paper. Prof. Songting
-      Li from SJTU, Prof. David W. McLaughlin from New York University, and Prof.
-      Douglas Zhou from SJTU are the co-corresponding authors of the paper. The work
-      has been supported by the National Natural Science Foundation of China, the
-      Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
-      Commission.
-
-      2024-04-01'
+      2024-04-17'
     person: ''
     time: ''
-    title: '第十九届国际双曲问题大会在上海交大召开
+    title: '上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
+
+      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
+      the efficiency of protein language models with minimal wet-lab data through
+      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Nature Communications论文链接：https://www.nature.com/articles/s41467-024-49798-6?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240702&utm_content=10.1038/s41467-024-49798-61.研究背景酶工程或者蛋白质工程是要对蛋白质做突变并筛选得到性质更优的蛋白质产品。传统的湿实验方法是类似于贪婪算法式的搜索方法，需要进行多轮实验迭代并反复进行实验验证。这些湿实验方法需要耗费大量的人力和时间，做出一个满足需求的蛋白质产品往往需要数年的时间，而且湿实验方法能够筛选遍历的蛋白质突变序列库非常有限。目前有一些深度学习的方法来加速这个蛋白质突变改造进程，但是这些深度学习模型想要得到很高的准确率的话，需要利用成千上万的蛋白质突变数据来训练模型。而这个大规模高质量的突变数据的获取，反过来也是传统湿实验的巨大门槛。因而，行业内急需一种在不需要大量湿实验数据情况下，依然能够对蛋白质突变-功能做出准确预测的方法。目前的蛋白质无监督预训练模型能在完全没有湿实验的情况，以零样本(zero-shot)预测蛋白质突变-性质的变化，但是这种预测方法往往精度较低，且上述无监督模型无法直接利用有限的湿实验数据对上面无监督模型进行微调。2.研究方法在本研究工作中，我们提出了一种解决方法(FSFP)，综合利用元学习，排序学习和参数高效的微调方法，在只利用任意几十个湿实验数据下便可以训练蛋白质预训练模型，并大幅提高对蛋白质突变-性质预测的效果。在包含87个高通量突变数据集
+      ProteinGym的测试中，FSFP方法先利用蛋白质预训练模型评估目标蛋白质与ProteinGym中的蛋白质的相似度，并从ProteinGym中取出与目标蛋白质最相近的两个蛋白质数据集作为元学习的两个辅助任务，同时利用GEMME对目标蛋白质的打分数据作为第三个辅助任务。最后利用排序学习损失函数和Lora训练方法，在极少量（几十个）的真实湿实验数据上训练蛋白质预训练模型。我们的测试结果表明，即便是在原始的蛋白质预训练模型对突变-性质预测的
+      spearman相关性低于0.1的情况下，FSFP方法只利用任意20个湿实验数据训练模型，也能将上述的预测相关性大幅提高到0.5以上。3.研究结果同时，为了研究FSFP的有效性。我们在一个具体的蛋白质Phi29改造案例中进行了湿实验验证，FSFP在只使用20个湿实验数据训练模型的情况下，能够将原始蛋白质预训练模型ESM-1v的top-20的单点突变预测阳性率提高25%，并且能找到将近10个全新的阳性单点突变。4.总结在本工作中，作者提出了一个基于蛋白质预训练模型的全新的微调训练方法FSFP。FSFP综合利用元学习，排序学习以及高效参数微调技术，能在只利用20个随机湿实验数据的情况下，高效训练蛋白质预训练模型，且能大幅提高模型的单点突变预测阳性率。上述结果表明，FSFP方法对解决现在蛋白质工程的高实验周期，降低实验成本具有重要意义。自然科学研究院/物理与天文学院/张江高等研究院洪亮教授，和上海人工智能实验室青年研究员谈攀为通讯作者。上海交大物理天文学院博士后周子宜，硕士生张良，博士生余元玺，以及生命科学技术学院博士生吴邦昊为共同第一作者。本研究获得了国家自然科学基金(12104295)，上海市科委计算生物学项目(23JS1400600)，上海交通大学科技创新基金(21X010200843)以及重庆市科技创新重大项目(CSTB2022TIAD-STX0017)
+      ，上海人工智能实验室以及上海交通大学高性能计算和学生创新中心的支持。FSFP: A Few-Shot Prediction Method for Protein
+      Function Based on Language ModelsRecently, a research team led by Professor
+      Liang Hong from the Institute of Natural Sciences/School of Physics and Astronomy/Zhangjiang
+      Advanced Institute/School of Pharmacy at Shanghai Jiao Tong University, in collaboration
+      with Dr. Pan Tan, a young researcher at the Shanghai Artificial Intelligence
+      Laboratory, has made a significant breakthrough in predicting protein mutation
+      properties. This work employs a novel training strategy that greatly enhances
+      the performance of traditional pre-trained protein models in mutation-property
+      prediction using minimal wet-lab data. The research results, titled "Enhancing
+      the efficiency of protein language models with minimal wet-lab data through
+      few-shot learning," were published in Nature Communications, a journal under
+      the Springer Nature group.1. Research BackgroundEnzyme engineering or protein
+      engineering involves mutating proteins and screening for improved protein products.
+      Traditional wet-lab methods are akin to greedy algorithms, requiring multiple
+      rounds of experimental iterations and validations. These methods are labor-intensive
+      and time-consuming, often taking years to produce a satisfactory protein product.
+      Moreover, the protein mutation sequence library that these wet-lab methods can
+      screen is very limited. Some deep learning methods currently accelerate this
+      protein mutation modification process. However, to achieve high accuracy, these
+      deep learning models require training with tens of thousands of protein mutation
+      data, which is another significant barrier due to the need for large-scale,
+      high-quality mutation data. Thus, there is an urgent need in the industry for
+      a method that can accurately predict protein mutation functions without requiring
+      extensive wet-lab data. Current unsupervised pre-trained protein models can
+      predict mutation properties with zero-shot learning, but these predictions are
+      often less accurate, and the unsupervised models cannot directly use limited
+      wet-lab data to fine-tune the model.2. Research MethodIn this study, we propose
+      a solution (FSFP) that combines meta-learning, ranking learning, and parameter-efficient
+      fine-tuning methods. This approach allows training of pre-trained protein models
+      using only a few dozen wet-lab data, significantly improving the prediction
+      of protein mutation properties. In tests involving 87 high-throughput mutation
+      datasets from ProteinGym, the FSFP method first evaluates the similarity between
+      the target protein and proteins in ProteinGym using the pre-trained model, selecting
+      the two most similar protein datasets from ProteinGym as auxiliary tasks for
+      meta-learning, and uses GEMME scoring data for the target protein as the third
+      auxiliary task. Finally, using a ranking loss function and Lora training method,
+      the pre-trained protein model is trained on a minimal amount (dozens) of real
+      wet-lab data. Our test results indicate that even when the original pre-trained
+      protein model''s Spearman correlation for mutation-property prediction is below
+      0.1, the FSFP method can increase the prediction correlation to above 0.5 using
+      only 20 wet-lab data for training.3. Research ResultsTo validate the effectiveness
+      of FSFP, we conducted wet-lab validation in a specific protein Phi29 modification
+      case. FSFP, using only 20 wet-lab data for training, improved the top-20 single-point
+      mutation prediction positive rate of the original pre-trained protein model
+      ESM-1v by 25% and identified nearly 10 new positive single-point mutations.4.
+      ConclusionIn this work, the authors proposed a novel fine-tuning training method
+      FSFP for pre-trained protein models. FSFP effectively trains pre-trained protein
+      models using only 20 random wet-lab data, significantly improving the model''s
+      single-point mutation prediction positive rate by leveraging meta-learning,
+      ranking learning, and efficient parameter fine-tuning techniques. These results
+      indicate that the FSFP method has significant implications for reducing experimental
+      cycles and costs in current protein engineering.Professor Liang Hong from the
+      School of Natural Sciences/School of Physics and Astronomy/Zhangjiang Advanced
+      Institute at Shanghai Jiao Tong University, and Dr. Pan Tan, a young researcher
+      at the Shanghai Artificial Intelligence Laboratory, are the corresponding authors.
+      Postdoctoral researcher Ziyi Zhou, master''s student Liang Zhang, doctoral student
+      Yuanxi Yu from the School of Physics and Astronomy, and doctoral student Banghao
+      Wu from the School of Life Sciences and Technology are the co-first authors.
+      This research was supported by the National Natural Science Foundation of China
+      (12104295), the Shanghai Municipal Science and Technology Commission Computational
+      Biology Project (23JS1400600), the Science and Technology Innovation Fund of
+      Shanghai Jiao Tong University (21X010200843), and the Major Science and Technology
+      Innovation Project of Chongqing (CSTB2022TIAD-STX0017), as well as support from
+      the Shanghai Artificial Intelligence Laboratory and the High-Performance Computing
+      and Student Innovation Center at Shanghai Jiao Tong University.
+
+      2024-07-03
+
+      第十九届国际双曲问题大会在上海交大召开
 
       7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
       Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
       Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，由上海交通大学数学科学学院和自然科学研究院主办，由中科院数学与系统科学研究院、北京大学数学科学学院、首都师范大学数学科学学院、复旦大学数学科学学院、武汉大学数学与统计学院，以及上海大学数学系协办。开幕式由李亚纯教授主持。丁奎岭致开幕词，他向参会嘉宾表示热烈欢迎。他表示，数学作为基础学科在推动科技革命、引领创新发展中扮演着越来越重要的基础与先导作用，几乎所有的重大科学发现都与数学的发展相关。他希望通过此次大会，专家学者们可以深入交流偏微分方程研究领域新成果，推动前沿领域学术交流，深化不同研究机构之间的科研合作，促进数学领域更广泛、更深入的国际合作。楼元介绍了上海交通大学数学学科的发展历史、现状，以及近年来在国际化建设方面取得的成绩，表示将通过系列的高水平科研活动，汇聚全球顶尖学者，开展前沿研究，有效推动数学学科国际化进程，加快建设世界一流数学学科的步伐。金石教授代表大会学术委员会向参会专家介绍了大会的发展历程、本次会议重要的学术意义及深远的国际影响，他同时感谢了会议组织者和志愿者在会议筹备期间的辛勤付出。金石教授也是本次会议的大会报告人，分享了题目为"Quantum
-      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。稿件来源：数学科学学院
+      Computation of Partial Differential Equations and Related Problems"的报告。李亚纯教授主持开幕式大会还邀请上海交通大学学生民乐团为参会者带来了一场精彩的中国传统音乐表演。国际双曲问题大会是双曲型偏微分方程领域最重要的国际会议，自1986年首次在法国举行以来，已举办了18届，经过近40年的发展，对促进双曲偏微分方程理论、计算与应用等方面的学术交流与科研合作发挥了举足轻重的作用。本次大会将继续为参会者提供一场饕餮学术盛宴，为双曲型偏微分方程领域的研究人员提供展示成果、交流思想的平台，促进偏微分方程的理论与应用研究。本次会议赞助单位还包括：国家自然科学基金委、教育部科学与工程计算重点实验室、上海市现代分析前沿科学研究基地，以及上海国家应用数学中心（上海交通大学分中心）等。本次大会的主页为https://www.hyp2024.sjtu.edu.cn大会会期5天，将于7月5日闭幕。The
+      19th International Conference on Hyperbolic Problems Held at Shanghai Jiao Tong
+      UniversityOn July 1, the 19th International Conference on Hyperbolic Problems
+      opened in Room 100 of the Chen Ruiqiu Building at the Minhang Campus of Shanghai
+      Jiao Tong University. Attendees included Ding Kuiling, President of Shanghai
+      Jiao Tong University; Lou Yuan, Dean of the School of Mathematical Sciences;
+      Hong Mei, Party Secretary of the School of Mathematical Sciences; Jin Shi, Director
+      of the Institute of Natural Sciences; members of the conference''s academic
+      committee including academicians of the Chinese Academy of Sciences, Fudan University''s
+      Chen Shuxing, Oxford University''s Gui-Qiang Chen and Jose Carrillo, University
+      of Zurich''s Remi Abgrall, Pennsylvania State University''s Alberto Bressan,
+      International School for Advanced Studies of Trieste''s Stefano Bianchini, and
+      University of Würzburg''s Professor Christian Klingenberg. More than 300 experts
+      and scholars in partial differential equations from over 110 universities and
+      research institutions in more than 20 countries and regions attended the opening
+      ceremony. This conference, the 19th in the series of international hyperbolic
+      problems conferences, was hosted by the School of Mathematical Sciences and
+      the Institute of Natural Sciences of Shanghai Jiao Tong University, and co-organized
+      by the Academy of Mathematics and Systems Science of the Chinese Academy of
+      Sciences, the School of Mathematical Sciences of Peking University, the School
+      of Mathematical Sciences of Capital Normal University, the School of Mathematical
+      Sciences of Fudan University, the School of Mathematics and Statistics of Wuhan
+      University, and the Department of Mathematics of Shanghai University. The opening
+      ceremony was presided over by Professor Li Yachun.Ding Kuiling delivered the
+      opening speech, warmly welcoming the guests. He emphasized that mathematics,
+      as a fundamental discipline, plays an increasingly important foundational and
+      pioneering role in driving technological revolutions and leading innovative
+      development. Almost all major scientific discoveries are related to the development
+      of mathematics. He expressed hope that this conference would allow experts and
+      scholars to deeply exchange new research findings in the field of partial differential
+      equations, promote academic exchanges in frontier fields, deepen scientific
+      cooperation between different research institutions, and foster broader and
+      deeper international cooperation in the field of mathematics.Lou Yuan introduced
+      the history and current status of the mathematics discipline at Shanghai Jiao
+      Tong University, as well as the achievements in internationalization in recent
+      years. He stated that through a series of high-level scientific research activities,
+      the university aims to gather top scholars from around the world to conduct
+      cutting-edge research, effectively promote the internationalization process
+      of the mathematics discipline, and accelerate the pace of building a world-class
+      mathematics discipline.On behalf of the conference''s academic committee, Professor
+      Jin Shi introduced the development history of the conference, the significant
+      academic importance of this meeting, and its far-reaching international impact.
+      He also thanked the conference organizers and volunteers for their hard work
+      during the preparation of the conference. Professor Jin Shi, also a keynote
+      speaker at this conference, shared a report titled "Quantum Computation of Partial
+      Differential Equations and Related Problems."The conference also invited the
+      Shanghai Jiao Tong University Student Chinese Orchestra to present a wonderful
+      performance of traditional Chinese music for the attendees.The International
+      Conference on Hyperbolic Problems is the most important international conference
+      in the field of hyperbolic partial differential equations. Since its first meeting
+      in France in 1986, it has been held 18 times. Over nearly 40 years, it has played
+      a crucial role in promoting academic exchanges and scientific research cooperation
+      in the theory, computation, and applications of hyperbolic partial differential
+      equations. This conference will continue to provide attendees with a grand academic
+      feast and a platform to showcase their achievements and exchange ideas, thus
+      promoting theoretical and applied research in partial differential equations.The
+      sponsors of this conference include the National Natural Science Foundation
+      of China, the Ministry of Education''s Key Laboratory of Scientific and Engineering
+      Computing, the Shanghai Frontiers Science Research Base of Modern Analysis,
+      and the Shanghai National Applied Mathematics Center (Shanghai Jiao Tong University
+      Branch).The homepage of the conference is https://www.hyp2024.sjtu.edu.cn.The
+      conference will last for five days and will conclude on July 5.稿件来源：数学科学学院
 
       2024-07-02
 
@@ -2921,91 +3109,7 @@
       image processing, medical imaging, and data science. Zhang has published over
       70 SCI papers in applied mathematics journals and interdisciplinary journals.
 
-      2024-04-17
-
-      上海交通大学周栋焯和李松挺团队及其合作者在大脑神经元网络的结构连接重构方面取得重要进展
-
-      近日，上海交通大学自然科学研究院、数学科学学院周栋焯，李松挺和他们的博士毕业生田中棋，博士研究生陈开及其合作者推导了不同因果性度量之间的定量数学关系，并将其运用于脉冲输出的时间序列系统，成功建立了重构脉冲输出网络的连接结构的理论与计算框架。此项研究成果以"Causal
-      connectivity measures for pulse-output network reconstruction: analysis and
-      applications"为题，于2024年3月29日在美国科学院院刊Proceedings of the National Academy of Sciences
-      of the United States of America（PNAS）上在线发表。在神经科学中，准确测量神经元网络的突触连接结构信息对于理解网络结构、动力学和认知功能等均具有重要意义。然而，由于大脑神经元网络具有跨尺度的高度复杂连接结构，基于目前的神经科学实验技术，大规模直接测量神经元网络内的完整突触连接结构存在较大困难。不过，随着如神经像素电极、双光子钙成像等实验测量技术的出现与发展，人们可以同时记录数以万计的神经元活动数据。而基于这些数据，是否能够结合和发展因果性分析的数学工具，从而准确高效地推断网络的结构连接是计算神经科学领域尚未解决的重要科学问题。通常，人们将基于因果性度量计算得到的连接关系称作网络的因果连接，而将神经元之间的突触连接称作网络的结构连接。前期研究发现，网络的因果连接与结构连接不完全相同，且不同因果性度量一般会得到不同的因果连接关系。然而，目前对于不同因果性度量之间的关系，以及因果连接与结构连接之间的关系仍缺乏定量且实用的数学理论。本研究关注神经元的脉冲信号分析，首先推导了四种常用因果性度量（时滞相关系数、时滞互信息、格兰杰因果关系和传递熵）在计算神经元脉冲输出信号的因果连接时彼此之间的数学理论关系，并且在经典的霍奇金-赫胥黎神经元模型网络（HH网络）和真实的小鼠脑网络中，验证了理论的有效性。此外，研究证明了上述四种因果性度量计算的因果连接都与网络的结构连接高度一致，理论上揭示了因果连接和结构连接之间的定量关系（图A）。随后，本研究建立了基于因果连接重构网络的结构连接的计算框架（图B）。该框架准确地重构了HH网络（图C）、LIF兴奋抑制均衡态网络等多种神经元网络模型的结构连接，且重构广泛适用于不同动力学区域的网络。需特别指出的是，在该框架中，结构连接的重构不需要知晓网络的全局活动信息，从而规避了传统重构方法中的“维数灾难”问题。最后，本研究展示了重构框架在真实实验数据中的有效应用。根据对小鼠观看不同种类视觉影像时记录得到的神经元活动的脉冲序列数据（图D）进行结构连接的重构，取得了较好的重构效果（图E）。并且对比同一老鼠在不同视觉刺激条件下所重构的结构连接，其相互一致性程度较高。本工作提出了适用于多种因果性度量来重构网络结构连接的理论和算法框架，为理解不同因果性度量之间关系以及因果连接与结构连接之间关系奠定了数学理论基础，并对研究以脉冲信号为输出的一般非线性网络的因果连接与结构连接关系具有重要意义。A.
-      四种因果连接强度与结构连接强度的定量关系，其中灰色星标曲线为二次函数拟合曲线。B. 基于因果连接的结构连接重构框架流程图。C. HH网络的结构连接重构。图中为网络内所有神经元对的因果连接强度在对数坐标下的统计分布（呈现明显的双峰结构），其中左侧较宽的分布为没有直接结构连接的神经元对的因果连接强度的分布，而右侧较窄的分布为有直接结构连接的神经元对的因果连接强度的分布。D.
-      实验中小鼠接受不同视觉影像刺激时记录大脑神经元活动的示意图。E. 四种视觉刺激条件下分别重构的因果连接强度在对数坐标下的统计分布（内嵌子图）以及结构连接的重构效果（ROC曲线）。上海交通大学博士毕业生田中棋和在读博士生陈开为论文共同第一作者，上海交通大学李松挺教授，纽约大学David
-      W. McLaughlin教授，上海交通大学周栋焯教授为论文共同通讯作者。工作得到了国家自然科学基金委、科技部、上海市科委等基金支持。Recently,
-      Douglas Zhou and Songting Li from the Institute of Natural Sciences and the
-      School of Mathematical Sciences at Shanghai Jiao Tong University, along with
-      their students Zhong-qi Tian, Kai Chen, and their collaborators, have derived
-      quantitative mathematical relationships between different causality measures
-      and applied them to pulse-output time series systems. They have successfully
-      established a framework for reconstructing the connectivity structure of pulse-output
-      networks. This research work, titled "Causal connectivity measures for pulse-output
-      network reconstruction: analysis and applications", was published online in
-      PNAS on March 29, 2024.In neuroscience, accessing the structural connectivity
-      of cortical networks at the synaptic level is of great significance for understanding
-      the network structure, dynamics, and cognitive functions. However, due to the
-      complexity of the multi-scale cortical network structure, it is very difficult
-      to directly measure the complete synaptic structural connectivity in the cortical
-      network with current experimental technology. However, with the emergence and
-      development of measuring technologies, such as Neuropixel electrodes and two-photon
-      calcium imaging, it is possible to simultaneously record neural activity data
-      from tens of thousands of neurons. The critical scientific inquiry in computational
-      neuroscience is whether we can adapt and develop mathematical tools for causality
-      analysis that would allow us to accurately and effectively infer the structural
-      connectivity of a network from its neural activity data.According to previous
-      studies, the connectivity directly calculated by the causality measure, denoted
-      as causal connectivity, differs from that of measured actual synaptic connectivity,
-      referred to as structural connectivity. Different causality measures might result
-      in different causal connectivities. However, there is a lack of quantitative
-      and applicable mathematical theory regarding the relationship between different
-      causality measures, as well as the relationship between causal connectivity
-      and structure connectivity.This work focuses on the analysis of neuronal pulse-output
-      spike signals. It first provides the theoretical proof of the quantitative relationship
-      between four commonly used causality measures (time-delay correlation coefficient,
-      time-delay mutual information, Granger causality, and transfer entropy) in calculating
-      the causal connectivity based on neuronal pulse-output spike signals, and verifies
-      the validity of the theory in the classical Hodgkin-Huxley (HH) neuronal networks
-      and a real mouse brain network. In addition, the research proves that the causal
-      connectivity inferred by any of the four measures is highly consistent with
-      the underlying structural connectivity of the network, theoretically revealing
-      the relation between causal connectivity and structural connectivity (Fig. A).
-      Subsequently, based on the theory above, this research established a framework
-      for reconstructing structural connectivity based on causal connectivity (Fig.
-      B). The framework has accurately reconstructed the structural connectivity of
-      various types of neuronal networks, including HH networks (Fig. C), LIF excitatory-inhibitory
-      balanced networks, etc., and is applicable to pulse-output networks in different
-      dynamical regimes. It is worth noting that the structural connectivity in the
-      pulse-output network can be reconstructed pairwise without conditioning on the
-      global information of all other nodes in the network, thereby circumventing
-      the curse of dimensionality. Finally, this research shows the effective application
-      of the reconstruction framework in the real experimental data. The structural
-      connectivity is reconstructed based on the spike-train data of neuronal activities
-      simultaneously recorded from mouse cortex when the mouse was watching various
-      types of visual stimuli (Fig. D), achieving good reconstruction results (Fig.
-      E). The consistency of the reconstructed structural connectivities under different
-      visual stimuli for the same mouse is quite high.This work proposes a theoretical
-      and algorithmic framework for reconstructing structural connectivity that is
-      applicable to various causality measures. It lays a mathematical theoretical
-      foundation for understanding the quantitative relationships between different
-      causality measures as well as the relationships between causal and structural
-      connectivity. This is of great significance for better understanding the relationships
-      between the causal and structural connectivity of general nonlinear pulse-output
-      networks.A. The relation between the strengths of causal and structural connectivity.
-      The gray star curve is the quadratic fit. B. The pipeline of reconstruction.
-      C. Performance of reconstruction in HH network. The distribution of causal values
-      shows a clear bimodal distribution in the log scale, with the left peak indicating
-      the pairs without direct connections and the right peak indicating pairs with
-      direct synaptic connections. D. The sketch of recording neural activity in a
-      mouse cortical network using Neuropixels. E. Performance of reconstruction using
-      spike-train data recorded in different visual stimuli (ROC curves). Insets are
-      the distributions of causal values.Former PhD student Zhong-qi Tian and PhD
-      student Kai Chen from SJTU are the co-first authors of the paper. Prof. Songting
-      Li from SJTU, Prof. David W. McLaughlin from New York University, and Prof.
-      Douglas Zhou from SJTU are the co-corresponding authors of the paper. The work
-      has been supported by the National Natural Science Foundation of China, the
-      Ministry of Science and Technology, and the Shanghai Municipal Science and Technology
-      Commission.
-
-      2024-04-01'
+      2024-04-17'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
@@ -3485,6 +3589,60 @@
 
       15:30 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFpKF2
+    info: '[特邀报告] ZHOULI XU
+
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] ZHOULI XU
+
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFtKF2
+    info: '[特邀报告] 王国祯
+
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] 王国祯
+
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFyqF2
+    info: '[概率与统计] 王恒放
+
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
+
+      2024-07-04
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 王恒放
+
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
+
+      2024-07-04
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSHpKF2
     info: '[概率与统计] 苗旺
 
@@ -3502,60 +3660,6 @@
       2024-07-03
 
       14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuit2GpKF2
-    info: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-07-01
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 薛庆源
-
-      MINIMAL MODEL PROGRAM FOR THREEFOLDS AND FOURFOLDS IN POSITIVE AND MIXED CHARACTERISTICS
-
-      2024-07-01
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuit6HtKF2
-    info: '[COLLOQUIUM] 苑立平
-
-      ON SOME PROPERTIES OF ARCHIMEDEAN TILINGS
-
-      2024-06-28
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] 苑立平
-
-      ON SOME PROPERTIES OF ARCHIMEDEAN TILINGS
-
-      2024-06-28
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuit6FtKF2
-    info: '[概率与统计] 马骁
-
-      AN INTRODUCTION TO THE WAVE KINETIC THEORY
-
-      2024-06-28
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 马骁
-
-      AN INTRODUCTION TO THE WAVE KINETIC THEORY
-
-      2024-06-28
-
-      10:00 — 11:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:

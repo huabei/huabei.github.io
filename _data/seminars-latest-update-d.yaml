@@ -1,9 +1,68 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13167.htm
-    info: "地震学主题报告会\n 2024年07月02日 "
+    href: https://cse.csu.edu.cn/info/1041/9671.htm
+    info: '上海财经大学陆品燕教授学术报告
+
+      2024-07-03'
     person: ''
     time: ''
-    title: 地震学主题报告会
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+    title: 上海财经大学陆品燕教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFpKF2
+    info: '[特邀报告] ZHOULI XU
+
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] ZHOULI XU
+
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFtKF2
+    info: '[特邀报告] 王国祯
+
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[特邀报告] 王国祯
+
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFyqF2
+    info: '[概率与统计] 王恒放
+
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
+
+      2024-07-04
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 王恒放
+
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
+
+      2024-07-04
+
+      15:00 — 16:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
