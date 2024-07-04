@@ -1,58 +1,69 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13167.htm
-    info: "地震学主题报告会\n 2024年07月02日 "
+    href: https://cse.csu.edu.cn/info/1041/9671.htm
+    info: '上海财经大学陆品燕教授学术报告
+
+      2024-07-03'
     person: ''
     time: ''
-    title: 地震学主题报告会
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+    title: 上海财经大学陆品燕教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/faa65f115d414e7d986c03ddd5ef3db8.htm
-    info: '2024.07.01
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFpKF2
+    info: '[特邀报告] ZHOULI XU
 
-      Strategies and Tactics for the Rapid Synthesis of Molecular Complexity'
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: Strategies and Tactics for the Rapid Synthesis of Molecular Complexity
+    title: '[特邀报告] ZHOULI XU
+
+      STABLE HOMOTOPY GROUPS OF SPHERES
+
+      2024-07-08
+
+      15:00 — 16:00'
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
-    info: '2024.06.27
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFtKF2
+    info: '[特邀报告] 王国祯
 
-      非离子型mRNA递送系统'
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
     person: ''
     time: ''
-    title: 非离子型mRNA递送系统
+    title: '[特邀报告] 王国祯
+
+      THE KERVAIRE INVARIANT
+
+      2024-07-08
+
+      16:00 — 17:00'
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/3213a51e57d24f2b99833d651f00919c.htm
-    info: '2024.06.22
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipWFyqF2
+    info: '[概率与统计] 王恒放
 
-      社会与行为科学视角促进我国抗生素合理使用'
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
+
+      2024-07-04
+
+      15:00 — 16:00'
     person: ''
     time: ''
-    title: 社会与行为科学视角促进我国抗生素合理使用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/fe2ea4ee9bba40049303f9a220c5e12f.htm
-    info: '2024.06.26
+    title: '[概率与统计] 王恒放
 
-      Determinants of non-prescription antibiotic dispensing in Chinese community
-      pharmacies from socio-ecological and health system perspectives'
-    person: ''
-    time: ''
-    title: Determinants of non-prescription antibiotic dispensing in Chinese community
-      pharmacies from socio-ecological and health system perspectives
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/bcc64d9e81f4411c920595a88884b0e0.htm
-    info: '2024.06.23
+      TERNARY QUANTIZATION FOR DISTRIBUTED MEAN ESTIMATION
 
-      AIEgens for Visualizing Biostructures and Monitoring Bioprocesses'
-    person: ''
-    time: ''
-    title: AIEgens for Visualizing Biostructures and Monitoring Bioprocesses
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
+      2024-07-04
+
+      15:00 — 16:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSHtKF2
     info: '[组合与图论] XIAOFENG GU
@@ -109,6 +120,42 @@
       12:30 — 14:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13167.htm
+    info: "地震学主题报告会\n 2024年07月02日 "
+    person: ''
+    time: ''
+    title: 地震学主题报告会
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/faa65f115d414e7d986c03ddd5ef3db8.htm
+    info: '2024.07.01
+
+      Strategies and Tactics for the Rapid Synthesis of Molecular Complexity'
+    person: ''
+    time: ''
+    title: Strategies and Tactics for the Rapid Synthesis of Molecular Complexity
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
+    info: '2024.06.27
+
+      非离子型mRNA递送系统'
+    person: ''
+    time: ''
+    title: 非离子型mRNA递送系统
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/3213a51e57d24f2b99833d651f00919c.htm
+    info: '2024.06.22
+
+      社会与行为科学视角促进我国抗生素合理使用'
+    person: ''
+    time: ''
+    title: 社会与行为科学视角促进我国抗生素合理使用
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6182.htm
@@ -202,33 +249,3 @@
     title: Membrane Association of IntrinsicallyDisordered Proteins
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4039.html
-    info: '03
-
-      2024-07
-
-      Targeted delivery of TGFβ mRNA to lung parenchyma using one-component Ionizable
-      Amphiphilic Janus Dendrimers'
-    person: ''
-    time: ''
-    title: '03
-
-      2024-07
-
-      Targeted delivery of TGFβ mRNA to lung parenchyma using one-component Ionizable
-      Amphiphilic Janus Dendrimers'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0626/c51065a2939717/page.htm
-    info: '关于Shahab Akhavan（University College London）学术报告的通知
-
-      2024-06-26'
-    person: ''
-    time: ''
-    title: 关于Shahab Akhavan（University College London）学术报告的通知
-  page_title: 学术报告
-  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
