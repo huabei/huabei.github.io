@@ -1,5 +1,83 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160106.htm
+    info: '15
+
+      Jul
+
+      Random Graphs and Construction of Expanders
+
+      时间：2024-07-15 15:00-16:00
+
+      报告人: 郭琪 (中国人民大学数学学院)'
+    person: ''
+    time: ''
+    title: '15
+
+      Jul
+
+      Random Graphs and Construction of Expanders
+
+      时间：2024-07-15 15:00-16:00
+
+      报告人: 郭琪 (中国人民大学数学学院)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159964.htm
+    info: '04
+
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
+    person: ''
+    time: ''
+    title: '04
+
+      Jul
+
+      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
+
+      时间：2024-07-04 16:00-17:00
+
+      报告人: 陈雨静 (北京大学)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4044.html
+    info: '08
+
+      2024-07
+
+      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
+    person: ''
+    time: ''
+    title: '08
+
+      2024-07
+
+      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4043.html
+    info: '08
+
+      2024-07
+
+      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
+    person: ''
+    time: ''
+    title: '08
+
+      2024-07
+
+      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/9671.htm
     info: '上海财经大学陆品燕教授学术报告
 
@@ -100,24 +178,6 @@
       2024-07-03
 
       14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipSG2qF2
-    info: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
-
-      2024-06-27
-
-      12:30 — 14:00'
-    person: ''
-    time: ''
-    title: '[MINI COURSES] 陈伊凡
-
-      EFFECTIVE IITAKA FIBRATIONS ON PROPER ELLIPTIC SURFACES II
-
-      2024-06-27
-
-      12:30 — 14:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -138,22 +198,6 @@
     person: ''
     time: ''
     title: Strategies and Tactics for the Rapid Synthesis of Molecular Complexity
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/91550e03d9a44001a1f8eb0d3a602336.htm
-    info: '2024.06.27
-
-      非离子型mRNA递送系统'
-    person: ''
-    time: ''
-    title: 非离子型mRNA递送系统
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/3213a51e57d24f2b99833d651f00919c.htm
-    info: '2024.06.22
-
-      社会与行为科学视角促进我国抗生素合理使用'
-    person: ''
-    time: ''
-    title: 社会与行为科学视角促进我国抗生素合理使用
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -180,72 +224,5 @@
     time: ''
     title: 【北京大学物理化学学术报告】Product distribution control guided by microkinetic analysis
       for CO and CO2 reduction at high-flux electrocatalysis using gas-diffusion electrodes
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159931.htm
-    info: '2024-06-27
-
-      【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations of
-      Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
-    person: ''
-    time: ''
-    title: '【北京大学物理化学学术报告】Data-Driven Many-Body Potentials for Realistic Simulations
-      of Aqueous Systems: From Achieving Chemical Accuracy to Enhancing DFT Models'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159930.htm
-    info: '2024-06-27
-
-      【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide and
-      Molecular Adsorption on the Surface by Neural Network Potentials'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Microscopic Understanding of Interface at Liquid/Solid-Oxide
-      and Molecular Adsorption on the Surface by Neural Network Potentials
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/159964.htm
-    info: '04
-
-      Jul
-
-      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
-
-      时间：2024-07-04 16:00-17:00
-
-      报告人: 陈雨静 (北京大学)'
-    person: ''
-    time: ''
-    title: '04
-
-      Jul
-
-      机器学习与数据科学博士生系列论坛（第七十五期）—— Strategies in Repeated Games with Learning Agents
-
-      时间：2024-07-04 16:00-17:00
-
-      报告人: 陈雨静 (北京大学)'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1794
-    info: '7月5日CQBseminar：New Paradigms for Rad51 paralog function
-
-      2024-06-27'
-    person: ''
-    time: ''
-    title: 7月5日CQBseminar：New Paradigms for Rad51 paralog function
-  page_title: 学术讲座-北京大学前沿交叉学科研究院
-  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
-- page_info:
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5032.html
-    info: 'Membrane Association of IntrinsicallyDisordered Proteins
-
-      2024-06-27'
-    person: ''
-    time: ''
-    title: Membrane Association of IntrinsicallyDisordered Proteins
-  page_title: 上海交通大学药学院
-  page_url: https://pharm.sjtu.edu.cn/report.html
