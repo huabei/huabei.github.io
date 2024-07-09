@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13180.htm
+    info: "Sarat Babu Moka博士学术报告\n 2024年07月09日 "
+    person: ''
+    time: ''
+    title: Sarat Babu Moka博士学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13177.htm
     info: "朱克和教授学术报告：Theory of Fock Spaces\n 2024年07月07日 "
     person: ''
@@ -59,12 +65,6 @@
     person: ''
     time: ''
     title: 耿志远教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13148.htm
-    info: "夏志明教授学术报告\n 2024年06月14日 "
-    person: ''
-    time: ''
-    title: 夏志明教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6624820
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6632144
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -680,6 +680,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/f63ef53edfb749c787be472c290e9395.htm
+    info: '2024.07.09
+
+      从医疗数据到决策——实践与愿景'
+    person: ''
+    time: ''
+    title: 从医疗数据到决策——实践与愿景
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/5b467b5d66854ba5aa7b55d69f593e51.htm
     info: '2024.07.06
 
@@ -765,14 +773,6 @@
     person: ''
     time: ''
     title: 药物代谢酶的可视化分析与精准调控
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/7824a78a2075404fa72fb3c576e610d8.htm
-    info: '2024.06.12
-
-      利用真实世界证据指导药品的合理和公平使用'
-    person: ''
-    time: ''
-    title: 利用真实世界证据指导药品的合理和公平使用
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1476,6 +1476,14 @@
   page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160283.htm
+    info: '2024-07-09
+
+      【北京大学无机化学学术报告】Mapping Charge Carrier Dynamics in Light-harvesting Materials'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】Mapping Charge Carrier Dynamics in Light-harvesting Materials
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/160255.htm
     info: '2024-07-08
 
@@ -1573,14 +1581,6 @@
     time: ''
     title: 【Soft Matter Lecture148】Liquid-liquid phase separation mediated self-assembly
       of bioinspired peptides and proteins
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/159544.htm
-    info: '2024-06-08
-
-      【讲座】Mobility programs to support Franco-Chinese cooperation'
-    person: ''
-    time: ''
-    title: 【讲座】Mobility programs to support Franco-Chinese cooperation
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -1975,6 +1975,21 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3284.htm
+    info: '17
+
+      Jul
+
+      Sustainable Chemical Synthesis through Base Metal Catalysis and Radical Chemistry
+
+      报告人：Prof. Ming Joo Koh
+
+      报告时间：2024年7月17日15:30-17:00'
+    person: ''
+    time: ''
+    title: Sustainable Chemical Synthesis through Base Metal Catalysis and Radical
+      Chemistry
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/3144.htm
     info: '8
 
@@ -2102,20 +2117,6 @@
     person: ''
     time: ''
     title: 二维过渡金属碲化物材料的可控制备及应用
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3114.htm
-    info: '4
-
-      Jun
-
-      变革性分子博士生学术论坛（第20期）
-
-      报告人：吴肖阳、邹家明、崔坤
-
-      报告时间：2024年6月4日（星期二）14:00-17:00'
-    person: ''
-    time: ''
-    title: 变革性分子博士生学术论坛（第20期）
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -2142,7 +2143,7 @@
 
       Toronto Metropolitan University
 
-      2024-07-09 10:00, in 3 hours
+      2024-07-09 10:00, 21 hours ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2151,7 +2152,7 @@
 
       University of Toronto
 
-      2024-07-17 10:00, in 8 days
+      2024-07-17 10:00, in 7 days
 
       Modeling of Impacts of Intraocular Pressure on Ocular Oxygenation
 
@@ -2159,7 +2160,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 11 days ago
+      2024-06-28 14:00, 12 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2167,7 +2168,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 14 days ago
+      2024-06-25 15:30, 15 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2175,7 +2176,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 20 days ago
+      2024-06-19 10:00, 21 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -2183,7 +2184,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 22 days ago'
+      2024-06-17 09:30, 23 days ago'
     person: ''
     time: ''
     title: 'A Graph-Based Semantic Segmentation Algorithm for Hyperspectral Fluorescence
@@ -2193,7 +2194,7 @@
 
       Toronto Metropolitan University
 
-      2024-07-09 10:00, in 3 hours
+      2024-07-09 10:00, 21 hours ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2202,7 +2203,7 @@
 
       University of Toronto
 
-      2024-07-17 10:00, in 8 days
+      2024-07-17 10:00, in 7 days
 
       Modeling of Impacts of Intraocular Pressure on Ocular Oxygenation
 
@@ -2210,7 +2211,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 11 days ago
+      2024-06-28 14:00, 12 days ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2218,7 +2219,7 @@
 
       中南大学
 
-      2024-06-25 15:30, 14 days ago
+      2024-06-25 15:30, 15 days ago
 
       The M-Operator for Inhomogeneous Kinetic Equations
 
@@ -2226,7 +2227,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 20 days ago
+      2024-06-19 10:00, 21 days ago
 
       Toward a cell-type-specific understanding of complex diseases
 
@@ -2234,7 +2235,7 @@
 
       National University of Singapore
 
-      2024-06-17 09:30, 22 days ago'
+      2024-06-17 09:30, 23 days ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/news
     info: '近期新闻
@@ -3133,6 +3134,20 @@
 
       【学术报告】Chiral Lewis Bases for Asymmetric Organocatalysis'
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4048.html
+    info: '12
+
+      2024-07
+
+      【霞光讲坛】 Structural Insights from Ultrafast 2D Spectroscopy and Microscopy: Application to Amyloid Proteins and Singlet Fission Materials'
+    person: ''
+    time: ''
+    title: '12
+
+      2024-07
+
+      【霞光讲坛】 Structural Insights from Ultrafast 2D Spectroscopy and Microscopy: Application to Amyloid Proteins and Singlet Fission Materials'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4044.html
     info: '08
 
@@ -3246,20 +3261,6 @@
       2024-06
 
       【学术报告】Developing Novel Nucleic Acid-based Tools for on-site Fluoride Detection, and Spatial Imaging of GlycoRNAs'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4010.html
-    info: '07
-
-      2024-06
-
-      【学术报告】二维反铁磁的物性调控与概念器件'
-    person: ''
-    time: ''
-    title: '07
-
-      2024-06
-
-      【学术报告】二维反铁磁的物性调控与概念器件'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -3465,65 +3466,35 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/xxgk1/list.htm
-    info: ''
+    href: null
+    info: 杏林学者论坛—黄波教授学术报告会
     person: ''
     time: ''
-    title: ''
+    title: 杏林学者论坛—黄波教授学术报告会
   - address: ''
-    href: http://www.news.zju.edu.cn/
-    info: ''
+    href: null
+    info: 紫金港读书论坛|“无知的意味”——探索认知边界的哲学之旅
     person: ''
     time: ''
-    title: ''
+    title: 紫金港读书论坛|“无知的意味”——探索认知边界的哲学之旅
   - address: ''
-    href: https://zhfw.zju.edu.cn/
-    info: ''
+    href: null
+    info: 【信电学院】Shahab Akhavan（University College London） 学术报告
     person: ''
     time: ''
-    title: ''
+    title: 【信电学院】Shahab Akhavan（University College London） 学术报告
   - address: ''
-    href: https://www.zju.edu.cn/xxjg_76687/list.htm
-    info: ''
+    href: null
+    info: 浙大东方论坛·文明之光第34讲（6.29）| 刘成纪：中国美学的“中国”与“传统”
     person: ''
     time: ''
-    title: ''
+    title: 浙大东方论坛·文明之光第34讲（6.29）| 刘成纪：中国美学的“中国”与“传统”
   - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
+    href: null
+    info: 活动预告 | 浙江大学碳中和系列论坛：高压二氧化碳电化学还原
     person: ''
     time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/zjzd/list.htm
-    info: ''
-    person: ''
-    time: ''
-    title: ''
+    title: 活动预告 | 浙江大学碳中和系列论坛：高压二氧化碳电化学还原
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
