@@ -1,23 +1,54 @@
 ﻿- page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9681.htm
-    info: '北京大学林宙辰教授学术报告
-
-      2024-07-08'
+    href: https://math.csu.edu.cn/info/1736/13180.htm
+    info: "Sarat Babu Moka博士学术报告\n 2024年07月09日 "
     person: ''
     time: ''
-    title: 北京大学林宙辰教授学术报告
+    title: Sarat Babu Moka博士学术报告
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9671.htm
-    info: '上海财经大学陆品燕教授学术报告
-
-      2024-07-03'
+    href: https://math.csu.edu.cn/info/1736/13177.htm
+    info: "朱克和教授学术报告：Theory of Fock Spaces\n 2024年07月07日 "
     person: ''
     time: ''
-    title: 上海财经大学陆品燕教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: 朱克和教授学术报告：Theory of Fock Spaces
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13176.htm
+    info: "智能图形和计算学术研讨会会议通知\n 2024年07月05日 "
+    person: ''
+    time: ''
+    title: 智能图形和计算学术研讨会会议通知
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/f63ef53edfb749c787be472c290e9395.htm
+    info: '2024.07.09
+
+      从医疗数据到决策——实践与愿景'
+    person: ''
+    time: ''
+    title: 从医疗数据到决策——实践与愿景
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/5b467b5d66854ba5aa7b55d69f593e51.htm
+    info: '2024.07.06
+
+      Dissecting glycosylation reaction mechanisms to enable the synthesis of complex
+      bacterial glycans'
+    person: ''
+    time: ''
+    title: Dissecting glycosylation reaction mechanisms to enable the synthesis of
+      complex bacterial glycans
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160283.htm
+    info: '2024-07-09
+
+      【北京大学无机化学学术报告】Mapping Charge Carrier Dynamics in Light-harvesting Materials'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】Mapping Charge Carrier Dynamics in Light-harvesting Materials
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/160255.htm
     info: '2024-07-08
@@ -58,6 +89,102 @@
       by Pd/Senphos complexes: Reaction development and mechanism elucidation'
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/info/1046/3284.htm
+    info: '17
+
+      Jul
+
+      Sustainable Chemical Synthesis through Base Metal Catalysis and Radical Chemistry
+
+      报告人：Prof. Ming Joo Koh
+
+      报告时间：2024年7月17日15:30-17:00'
+    person: ''
+    time: ''
+    title: Sustainable Chemical Synthesis through Base Metal Catalysis and Radical
+      Chemistry
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4048.html
+    info: '12
+
+      2024-07
+
+      【霞光讲坛】 Structural Insights from Ultrafast 2D Spectroscopy and Microscopy: Application to Amyloid Proteins and Singlet Fission Materials'
+    person: ''
+    time: ''
+    title: '12
+
+      2024-07
+
+      【霞光讲坛】 Structural Insights from Ultrafast 2D Spectroscopy and Microscopy: Application to Amyloid Proteins and Singlet Fission Materials'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4045.html
+    info: '25
+
+      2024-07
+
+      【学术报告】Chiral Lewis Bases for Asymmetric Organocatalysis'
+    person: ''
+    time: ''
+    title: '25
+
+      2024-07
+
+      【学术报告】Chiral Lewis Bases for Asymmetric Organocatalysis'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4044.html
+    info: '08
+
+      2024-07
+
+      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
+    person: ''
+    time: ''
+    title: '08
+
+      2024-07
+
+      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4043.html
+    info: '08
+
+      2024-07
+
+      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
+    person: ''
+    time: ''
+    title: '08
+
+      2024-07
+
+      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9681.htm
+    info: '北京大学林宙辰教授学术报告
+
+      2024-07-08'
+    person: ''
+    time: ''
+    title: 北京大学林宙辰教授学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9671.htm
+    info: '上海财经大学陆品燕教授学术报告
+
+      2024-07-03'
+    person: ''
+    time: ''
+    title: 上海财经大学陆品燕教授学术报告
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160244.htm
@@ -567,85 +694,6 @@
       查看详情+'
   page_title: 活动预告
   page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
-- page_info:
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13177.htm
-    info: "朱克和教授学术报告：Theory of Fock Spaces\n 2024年07月07日 "
-    person: ''
-    time: ''
-    title: 朱克和教授学术报告：Theory of Fock Spaces
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13176.htm
-    info: "智能图形和计算学术研讨会会议通知\n 2024年07月05日 "
-    person: ''
-    time: ''
-    title: 智能图形和计算学术研讨会会议通知
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13167.htm
-    info: "地震学主题报告会\n 2024年07月02日 "
-    person: ''
-    time: ''
-    title: 地震学主题报告会
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/5b467b5d66854ba5aa7b55d69f593e51.htm
-    info: '2024.07.06
-
-      Dissecting glycosylation reaction mechanisms to enable the synthesis of complex
-      bacterial glycans'
-    person: ''
-    time: ''
-    title: Dissecting glycosylation reaction mechanisms to enable the synthesis of
-      complex bacterial glycans
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4045.html
-    info: '25
-
-      2024-07
-
-      【学术报告】Chiral Lewis Bases for Asymmetric Organocatalysis'
-    person: ''
-    time: ''
-    title: '25
-
-      2024-07
-
-      【学术报告】Chiral Lewis Bases for Asymmetric Organocatalysis'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4044.html
-    info: '08
-
-      2024-07
-
-      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
-    person: ''
-    time: ''
-    title: '08
-
-      2024-07
-
-      【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4043.html
-    info: '08
-
-      2024-07
-
-      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
-    person: ''
-    time: ''
-    title: '08
-
-      2024-07
-
-      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
     href: https://scbb.pkusz.edu.cn/info/1027/3557.htm
