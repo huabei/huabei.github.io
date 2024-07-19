@@ -1,147 +1,64 @@
 ﻿- page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '中国科学技术大学丁虎教授学术报告
-
-      2024-07-15'
-    person: ''
-    time: ''
-    title: 中国科学技术大学丁虎教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '北京大学林宙辰教授学术报告
-
-      2024-07-08'
-    person: ''
-    time: ''
-    title: 北京大学林宙辰教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '上海财经大学陆品燕教授学术报告
-
-      2024-07-03'
-    person: ''
-    time: ''
-    title: 上海财经大学陆品燕教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '“边缘智能技术论坛”名家系列讲座
-
-      2024-06-14'
-    person: ''
-    time: ''
-    title: “边缘智能技术论坛”名家系列讲座
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '华南理工大学陈伟能教授学术报告
-
-      2024-05-31'
-    person: ''
-    time: ''
-    title: 华南理工大学陈伟能教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '浙江工商大学王勋教授学术报告
-
-      2024-05-31'
-    person: ''
-    time: ''
-    title: 浙江工商大学王勋教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '中国地质大学（武汉）张洪艳教授学术报告
-
-      2024-05-31'
-    person: ''
-    time: ''
-    title: 中国地质大学（武汉）张洪艳教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '英国巴斯大学张捷副教授学术报告
-
-      2024-05-21'
-    person: ''
-    time: ''
-    title: 英国巴斯大学张捷副教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '德克萨斯大学奥斯汀分校Qixing Huang副教授学术报告
-
-      2024-05-20'
-    person: ''
-    time: ''
-    title: 德克萨斯大学奥斯汀分校Qixing Huang副教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '西安交通大学苏洲教授学术报告
-
-      2024-05-14'
-    person: ''
-    time: ''
-    title: 西安交通大学苏洲教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/system/defaultcontent.jsp
-    info: '新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
-
-      2024-05-06'
-    person: ''
-    time: ''
-    title: 新加坡国立大学Limsoon Wong教授、深圳理工大学李金艳教授学术报告
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3324.htm
-    info: '26
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160367.htm
+    info: '24
 
       Jul
 
-      新试剂的开发及其金属催化反应研究
+      Surrounding Furstenberg
 
-      报告人：朱佃虎 教授
+      时间：2024-07-24 15:00-16:00
 
-      报告时间：2024年7月26日15:30-17:00'
+      报告人: Katrin Gelfert (Federal University of Rio de Janeiro)'
     person: ''
     time: ''
-    title: 新试剂的开发及其金属催化反应研究
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    title: '24
+
+      Jul
+
+      Surrounding Furstenberg
+
+      时间：2024-07-24 15:00-16:00
+
+      报告人: Katrin Gelfert (Federal University of Rio de Janeiro)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160371.htm
+    info: '24
+
+      Jul
+
+      Robust heterodimensional cycles: from diffeomorphisms to ergodic measures
+
+      时间：2024-07-24 16:00-17:00
+
+      报告人: Lorenzo J. Díaz (Catholic University of Rio de Janeiro)'
+    person: ''
+    time: ''
+    title: '24
+
+      Jul
+
+      Robust heterodimensional cycles: from diffeomorphisms to ergodic measures
+
+      时间：2024-07-24 16:00-17:00
+
+      报告人: Lorenzo J. Díaz (Catholic University of Rio de Janeiro)'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeFpKF2
-    info: '[概率与统计] LINGLONG KONG
+    href: https://fsctm.sjtu.edu.cn/info/1046/3334.htm
+    info: '22
 
-      DOUBLY ADAPTIVE SPATIAL QUANTILE REGRESSION FOR NEUROIMAGING DATA
+      Jul
 
-      2024-07-23
+      不对称光催化的新策略——有机催化/光催化串联催化
 
-      10:00 — 12:00'
+      报告人：许鹏飞 教授 兰州大学
+
+      报告时间：2024年7月22日（星期一）16：00-17：30'
     person: ''
     time: ''
-    title: '[概率与统计] LINGLONG KONG
-
-      DOUBLY ADAPTIVE SPATIAL QUANTILE REGRESSION FOR NEUROIMAGING DATA
-
-      2024-07-23
-
-      10:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeFtKF2
-    info: '[代数几何与拓扑] ZHONGTAO WU
-
-      ON ALEXANDER POLYNOMIAL OF GRAPHS
-
-      2024-07-22
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] ZHONGTAO WU
-
-      ON ALEXANDER POLYNOMIAL OF GRAPHS
-
-      2024-07-22
-
-      14:00 — 15:00'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+    title: 不对称光催化的新策略——有机催化/光催化串联催化
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
