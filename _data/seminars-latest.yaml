@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13198.htm
+    info: "陈巩教授学术报告\n 2024年07月23日 "
+    person: ''
+    time: ''
+    title: 陈巩教授学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13183.htm
     info: "卢学文教授学术报告\n 2024年07月15日 "
     person: ''
@@ -59,12 +65,6 @@
     person: ''
     time: ''
     title: 王威副研究员学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13151.htm
-    info: "王长友教授学术报告\n 2024年06月17日 "
-    person: ''
-    time: ''
-    title: 王长友教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6716550
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6722527
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1652,6 +1652,28 @@
 
       报告人: 李天军 教授 (University of Minnesota)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/160409.htm
+    info: '26
+
+      Jul
+
+      The Causes and Consequences of Somatic Structural Variations in Human Cancer
+
+      时间：2024-07-26 14:00-15:00
+
+      报告人: 杨力行 (University of Chicago)'
+    person: ''
+    time: ''
+    title: '26
+
+      Jul
+
+      The Causes and Consequences of Somatic Structural Variations in Human Cancer
+
+      时间：2024-07-26 14:00-15:00
+
+      报告人: 杨力行 (University of Chicago)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160403.htm
     info: '05
 
@@ -1809,28 +1831,6 @@
       时间：2024-07-15 10:15-11:15
 
       报告人: Prof. Weijie Su (UPenn)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160244.htm
-    info: '13
-
-      Jul
-
-      Ghost Effect from Boltzmann Theory
-
-      时间：2024-07-13 09:00-10:00
-
-      报告人: Yan Guo (Brown University)'
-    person: ''
-    time: ''
-    title: '13
-
-      Jul
-
-      Ghost Effect from Boltzmann Theory
-
-      时间：2024-07-13 09:00-10:00
-
-      报告人: Yan Guo (Brown University)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1976,209 +1976,6 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
-- page_info:
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2442
-    info: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2397
-    info: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2380
-    info: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-    person: ''
-    time: ''
-    title: '11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2325
-    info: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-    person: ''
-    time: ''
-    title: '01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2295
-    info: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2275
-    info: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-    person: ''
-    time: ''
-    title: '28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2268
-    info: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-    person: ''
-    time: ''
-    title: '04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2267
-    info: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-    person: ''
-    time: ''
-    title: '20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2253
-    info: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-    person: ''
-    time: ''
-    title: '09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2211
-    info: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-    person: ''
-    time: ''
-    title: '25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
-  - address: ''
-    href: http://www.bio-x.cn/Web/Show/2199
-    info: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-    person: ''
-    time: ''
-    title: '22
-
-      2021-09
-
-      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
-
-      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/3344.htm
@@ -2349,7 +2146,7 @@
 
       University of Toronto
 
-      2024-07-16 14:00, 7 days ago
+      2024-07-16 14:00, 8 days ago
 
       A Graph-Based Semantic Segmentation Algorithm for Hyperspectral Fluorescence
       Microscopy Imaging Data
@@ -2358,7 +2155,7 @@
 
       Toronto Metropolitan University
 
-      2024-07-09 10:00, 14 days ago
+      2024-07-09 10:00, 15 days ago
 
       Modeling of Impacts of Intraocular Pressure on Ocular Oxygenation
 
@@ -2366,7 +2163,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 25 days ago
+      2024-06-28 14:00, a month ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2400,7 +2197,7 @@
 
       University of Toronto
 
-      2024-07-16 14:00, 7 days ago
+      2024-07-16 14:00, 8 days ago
 
       A Graph-Based Semantic Segmentation Algorithm for Hyperspectral Fluorescence
       Microscopy Imaging Data
@@ -2409,7 +2206,7 @@
 
       Toronto Metropolitan University
 
-      2024-07-09 10:00, 14 days ago
+      2024-07-09 10:00, 15 days ago
 
       Modeling of Impacts of Intraocular Pressure on Ocular Oxygenation
 
@@ -2417,7 +2214,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, 25 days ago
+      2024-06-28 14:00, a month ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -3370,6 +3167,20 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4070.html
+    info: '25
+
+      2024-07
+
+      【学术报告】开发4D-STEM技术表征非晶材料'
+    person: ''
+    time: ''
+    title: '25
+
+      2024-07
+
+      【学术报告】开发4D-STEM技术表征非晶材料'
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4045.html
     info: '25
 
@@ -3495,20 +3306,6 @@
       2024-07
 
       【学术报告】Diffusion Models on Sampling Rare Events 扩散模型在采样稀有事件中的应用'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4043.html
-    info: '08
-
-      2024-07
-
-      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
-    person: ''
-    time: ''
-    title: '08
-
-      2024-07
-
-      【学术报告】美国专利申请策略与美国专利法下技术的自由实施'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
