@@ -1,5 +1,27 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/160494.htm
+    info: '02
+
+      Aug
+
+      Some new Monge-Ampere equations in complex geometry
+
+      时间：2024-08-02 16:00-17:00
+
+      报告人: 方浩（爱荷华大学）'
+    person: ''
+    time: ''
+    title: '02
+
+      Aug
+
+      Some new Monge-Ampere equations in complex geometry
+
+      时间：2024-08-02 16:00-17:00
+
+      报告人: 方浩（爱荷华大学）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160476.htm
     info: '30
 
@@ -87,30 +109,29 @@
       时间：2024-08-01 16:00-17:00
 
       报告人: Elias Rego (南方科技大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/160409.htm
-    info: '26
-
-      Jul
-
-      The Causes and Consequences of Somatic Structural Variations in Human Cancer
-
-      时间：2024-07-26 14:00-15:00
-
-      报告人: 杨力行 (University of Chicago)'
-    person: ''
-    time: ''
-    title: '26
-
-      Jul
-
-      The Causes and Consequences of Somatic Structural Variations in Human Cancer
-
-      时间：2024-07-26 14:00-15:00
-
-      报告人: 杨力行 (University of Chicago)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeFyqF2
+    info: '[概率与统计] HAN XIAO
+
+      DYNAMIC TENSOR FACTOR MODELS FOR HIGH DIMENSIONAL TIME SERIES
+
+      2024-07-31
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[概率与统计] HAN XIAO
+
+      DYNAMIC TENSOR FACTOR MODELS FOR HIGH DIMENSIONAL TIME SERIES
+
+      2024-07-31
+
+      10:00 — 11:30'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: https://math.csu.edu.cn/info/1736/13199.htm
@@ -119,12 +140,6 @@
     person: ''
     time: ''
     title: Synthesis of observers for infinite-dimensional systems with applications
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13198.htm
-    info: "陈巩教授学术报告\n 2024年07月23日 "
-    person: ''
-    time: ''
-    title: 陈巩教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -149,20 +164,3 @@
     title: 北京大学纳米化学前沿论坛暨第三届“民珠学者奖”颁奖仪式
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4070.html
-    info: '25
-
-      2024-07
-
-      【学术报告】开发4D-STEM技术表征非晶材料'
-    person: ''
-    time: ''
-    title: '25
-
-      2024-07
-
-      【学术报告】开发4D-STEM技术表征非晶材料'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
