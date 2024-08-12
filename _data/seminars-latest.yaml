@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6802804
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6808076
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -779,6 +779,20 @@
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
+    href: http://www.ai.pku.edu.cn/info/1054/2985.htm
+    info: '人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geo…
+
+      报  告 人：李攀               助理教授                    Georgia Tech. ECE department主  持
+      人：张牧涵 助理教授                   北京大学人工智能研究院时      间：2024年8月14日 10:30-11:45地      址：北京大学资源西楼2201会议室        腾讯会议：185-749-537报告题目：Towards
+      Efficient and Robust Graph and Geometric Machine Learning报告摘要：The application
+      of Graph Machine Learning (GML) and Geo...
+
+      2024-08-09'
+    person: ''
+    time: ''
+    title: 人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geometric Machine
+      Learning
+  - address: ''
     href: http://www.ai.pku.edu.cn/info/1054/2803.htm
     info: '人工智能学科交叉讲座系列第【30】期：Edge Intelligence for the Next-generation …
 
@@ -831,19 +845,6 @@
     person: ''
     time: ''
     title: 人工智能学科交叉讲座系列第【25】期：非结构化环境中机器人智能操作
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2804.htm
-    info: '人工智能学科交叉讲座系列第【24】期：Representation-based Reinforcement Learnin…
-
-      报  告 人：Bo Dai                    助理教授                    佐治亚理工大学 主  持 人：王奕森
-      助理教授                    北京大学智能学院时      间：2024年 4月10日周三 14:00 - 15:00地      址：燕园校区理科二号楼2736报告厅                       新燕园校区教学楼101教室       腾讯会议：938-779-290
-      报告题目：      Representation-based Reinforcement Learning 报告摘要:     The majority
-      reinfor...
-
-      2024-04-09'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【24】期：Representation-based Reinforcement Learning
   page_title: 学术讲座-北京大学人工智能研究院
   page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
 - page_info:
@@ -1368,6 +1369,119 @@
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17144.html
+    info: '2024.06.07
+
+      Decipher the Epigenetic Code in Health and Disease'
+    person: ''
+    time: ''
+    title: '2024.06.07
+
+      Decipher the Epigenetic Code in Health and Disease'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17128.html
+    info: '2024.05.30
+
+      Visualization of Transcription Initiation'
+    person: ''
+    time: ''
+    title: '2024.05.30
+
+      Visualization of Transcription Initiation'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17115.html
+    info: '2024.05.24
+
+      Mismatch repair deficiency in cancer and cancer therapy'
+    person: ''
+    time: ''
+    title: '2024.05.24
+
+      Mismatch repair deficiency in cancer and cancer therapy'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17103.html
+    info: '2024.05.17
+
+      The Plasticity of Eukaryotic Genomes'
+    person: ''
+    time: ''
+    title: '2024.05.17
+
+      The Plasticity of Eukaryotic Genomes'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17051.html
+    info: '2024.04.26
+
+      类固醇激素膜受体亚家族的发现和GPCR的微环境药理学'
+    person: ''
+    time: ''
+    title: '2024.04.26
+
+      类固醇激素膜受体亚家族的发现和GPCR的微环境药理学'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17041.html
+    info: '2024.04.19
+
+      哺乳动物生命孕育'
+    person: ''
+    time: ''
+    title: '2024.04.19
+
+      哺乳动物生命孕育'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17022.html
+    info: '2024.04.12
+
+      The essentials of sepsis study - Cultivative or lost 40 years'
+    person: ''
+    time: ''
+    title: '2024.04.12
+
+      The essentials of sepsis study - Cultivative or lost 40 years'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16987.html
+    info: '2024.03.29
+
+      The roles and features of microglia in the brain: the expected and unexpected'
+    person: ''
+    time: ''
+    title: '2024.03.29
+
+      The roles and features of microglia in the brain: the expected and unexpected'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16938.html
+    info: '2024.03.01
+
+      超级疫苗--理论假说与研究实践'
+    person: ''
+    time: ''
+    title: '2024.03.01
+
+      超级疫苗--理论假说与研究实践'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16888.html
+    info: '2023.12.22
+
+      Translational Chemical Biology'
+    person: ''
+    time: ''
+    title: '2023.12.22
+
+      Translational Chemical Biology'
+  - address: ''
+    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16875.html
+    info: '2023.12.15
+
+      阿尔茨海默病发病机制和药物研发进展'
+    person: ''
+    time: ''
+    title: '2023.12.15
+
+      阿尔茨海默病发病机制和药物研发进展'
+  page_title: 北京大学生命科学学院
+  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
+- page_info:
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/160539.htm
     info: '2024-08-06
 
@@ -1473,6 +1587,30 @@
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
+    info: '10
+
+      Sep
+
+      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
+      equations and its application to human liver
+
+      时间：2024-09-10 10:15-11:15
+
+      报告人: 林增(中国科学院深圳先进技术研究院)'
+    person: ''
+    time: ''
+    title: '10
+
+      Sep
+
+      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
+      equations and its application to human liver
+
+      时间：2024-09-10 10:15-11:15
+
+      报告人: 林增(中国科学院深圳先进技术研究院)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/160533.htm
     info: '08
@@ -1697,28 +1835,6 @@
       时间：2024-07-24 15:00-16:00
 
       报告人: Katrin Gelfert (Federal University of Rio de Janeiro)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160371.htm
-    info: '24
-
-      Jul
-
-      Robust heterodimensional cycles: from diffeomorphisms to ergodic measures
-
-      时间：2024-07-24 16:00-17:00
-
-      报告人: Lorenzo J. Díaz (Catholic University of Rio de Janeiro)'
-    person: ''
-    time: ''
-    title: '24
-
-      Jul
-
-      Robust heterodimensional cycles: from diffeomorphisms to ergodic measures
-
-      时间：2024-07-24 16:00-17:00
-
-      报告人: Lorenzo J. Díaz (Catholic University of Rio de Janeiro)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2230,8 +2346,16 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Optimal stochastic approximation under general norms with applications
-      to reinforcement learning
+    info: 'Language AI for Viruses, Vaccines, and Drugs
+
+      Liang Huang
+
+      Oregon State University
+
+      2024-08-20 14:00, in 7 days
+
+      Optimal stochastic approximation under general norms with applications to reinforcement
+      learning
 
       牟文龙
 
@@ -2254,7 +2378,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, a month ago
+      2024-06-28 14:00, 2 months ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2270,19 +2394,19 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 2 months ago
-
-      Toward a cell-type-specific understanding of complex diseases
-
-      Boxiang Liu
-
-      National University of Singapore
-
-      2024-06-17 09:30, 2 months ago'
+      2024-06-19 10:00, 2 months ago'
     person: ''
     time: ''
-    title: 'Optimal stochastic approximation under general norms with applications
-      to reinforcement learning
+    title: 'Language AI for Viruses, Vaccines, and Drugs
+
+      Liang Huang
+
+      Oregon State University
+
+      2024-08-20 14:00, in 7 days
+
+      Optimal stochastic approximation under general norms with applications to reinforcement
+      learning
 
       牟文龙
 
@@ -2305,7 +2429,7 @@
 
       匹兹堡大学
 
-      2024-06-28 14:00, a month ago
+      2024-06-28 14:00, 2 months ago
 
       Optimization with learning-informed differential equations: algorithms and applications
 
@@ -2321,15 +2445,7 @@
 
       Simon Fraser University
 
-      2024-06-19 10:00, 2 months ago
-
-      Toward a cell-type-specific understanding of complex diseases
-
-      Boxiang Liu
-
-      National University of Singapore
-
-      2024-06-17 09:30, 2 months ago'
+      2024-06-19 10:00, 2 months ago'
   - address: ''
     href: https://shcam.sjtu.edu.cn/news
     info: '近期新闻
