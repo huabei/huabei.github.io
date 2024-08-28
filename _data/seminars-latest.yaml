@@ -171,6 +171,14 @@
     time: ''
     title: An Introduction to the Calderón Problem
   - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3871.htm
+    info: 'Introduction to 4-dimensional Seiberg-Witten theory
+
+      Weifeng Sun'
+    person: ''
+    time: ''
+    title: Introduction to 4-dimensional Seiberg-Witten theory
+  - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3845.htm
     info: 'Comparison Geometry
 
@@ -242,14 +250,6 @@
     person: ''
     time: ''
     title: Mathematical study on metamaterial and its applications
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3340.htm
-    info: 'High-Dimensional Statistical Learning Theory
-
-      Yuhong Yang'
-    person: ''
-    time: ''
-    title: High-Dimensional Statistical Learning Theory
   page_title: 近期公开课-清华大学数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6897063
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6903497
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1591,6 +1591,52 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/160715.htm
+    info: '06
+
+      Sep
+
+      Distinguished Lecture——Regularized dynamical parametric approximation
+
+      时间：2024-09-06 16:00-17:00
+
+      报告人: Christian Lubich (University of Tuebingen, Germany)'
+    person: ''
+    time: ''
+    title: '06
+
+      Sep
+
+      Distinguished Lecture——Regularized dynamical parametric approximation
+
+      时间：2024-09-06 16:00-17:00
+
+      报告人: Christian Lubich (University of Tuebingen, Germany)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
+    info: '10
+
+      Sep
+
+      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
+      equations and its application to human liver
+
+      时间：2024-09-10 10:15-11:15
+
+      报告人: 林增(中国科学院深圳先进技术研究院)'
+    person: ''
+    time: ''
+    title: '10
+
+      Sep
+
+      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
+      equations and its application to human liver
+
+      时间：2024-09-10 10:15-11:15
+
+      报告人: 林增(中国科学院深圳先进技术研究院)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160683.htm
     info: '28
 
@@ -1634,30 +1680,6 @@
       时间：2024-08-28 16:00-17:00
 
       报告人: Monica Visan (UCLA)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
-    info: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
-    person: ''
-    time: ''
-    title: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160657.htm
     info: '27
@@ -1818,28 +1840,6 @@
       时间：2024-08-05 16:00-17:00
 
       报告人: 蔡伟（Southern Methodist University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/160494.htm
-    info: '02
-
-      Aug
-
-      Some new Monge-Ampere equations in complex geometry
-
-      时间：2024-08-02 16:00-17:00
-
-      报告人: 方浩（爱荷华大学）'
-    person: ''
-    time: ''
-    title: '02
-
-      Aug
-
-      Some new Monge-Ampere equations in complex geometry
-
-      时间：2024-08-02 16:00-17:00
-
-      报告人: 方浩（爱荷华大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2241,7 +2241,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 8 days ago
+      2024-08-20 14:00, 9 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2292,7 +2292,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 8 days ago
+      2024-08-20 14:00, 9 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2443,6 +2443,14 @@
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
+    href: https://pharm.sjtu.edu.cn/report/5061.html
+    info: 'Enhancing Rare Disease Treatment:The UK Platform for Nucleic Acid Therapies
+
+      2024-08-28'
+    person: ''
+    time: ''
+    title: Enhancing Rare Disease Treatment:The UK Platform for Nucleic Acid Therapies
+  - address: ''
     href: https://pharm.sjtu.edu.cn/report/5053.html
     info: 'Catalysis-Enabled Non-obvious Transformations for Structural Modification
 
@@ -2522,14 +2530,6 @@
     person: ''
     time: ''
     title: 激发态过渡金属不对称催化
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4920.html
-    info: 'Adventures in Receptor Signaling.One for Fun, Two to Tango
-
-      2024-04-23'
-    person: ''
-    time: ''
-    title: Adventures in Receptor Signaling.One for Fun, Two to Tango
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
@@ -2808,6 +2808,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiFtKF2
+    info: '[代数几何与拓扑] 谢灵尧
+
+      ON THE BASE POINT FREE THEOREM OF ALGEBRAICALLY INTEGRABLE FOLIATIONS
+
+      2024-09-03
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[代数几何与拓扑] 谢灵尧
+
+      ON THE BASE POINT FREE THEOREM OF ALGEBRAICALLY INTEGRABLE FOLIATIONS
+
+      2024-09-03
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiFpKF2
     info: '[代数与数论] DAODAO YANG(杨道道)
 
@@ -2969,24 +2987,6 @@
       2024-07-31
 
       10:00 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeFpKF2
-    info: '[概率与统计] LINGLONG KONG
-
-      DOUBLY ADAPTIVE SPATIAL QUANTILE REGRESSION FOR NEUROIMAGING DATA
-
-      2024-07-23
-
-      10:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] LINGLONG KONG
-
-      DOUBLY ADAPTIVE SPATIAL QUANTILE REGRESSION FOR NEUROIMAGING DATA
-
-      2024-07-23
-
-      10:00 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
