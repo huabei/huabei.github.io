@@ -1,47 +1,62 @@
 ﻿- page_info:
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3871.htm
-    info: 'Introduction to 4-dimensional Seiberg-Witten theory
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6339.htm
+    info: '29
 
-      Weifeng Sun'
+      八月
+
+      TOWARDS AI-CENTRIC NETWORKINGOPPORTUNITIES AND CHALLENGES'
     person: ''
     time: ''
-    title: Introduction to 4-dimensional Seiberg-Witten theory
+    title: TOWARDS AI-CENTRIC NETWORKINGOPPORTUNITIES AND CHALLENGES
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3853.htm
-    info: 'An Introduction to the Calderón Problem
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6325.htm
+    info: '27
 
-      Li Li'
+      八月
+
+      Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
+      Optimization'
     person: ''
     time: ''
-    title: An Introduction to the Calderón Problem
+    title: Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
+      Optimization
   - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3845.htm
-    info: 'Comparison Geometry
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6295.htm
+    info: '21
 
-      Zhifei Zhu'
+      八月
+
+      Software-Based Networks and Networking for the Cloud Optimizations and Challenges'
     person: ''
     time: ''
-    title: Comparison Geometry
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3834.htm
-    info: 'Quantum Scientific Computation and Quantum Altificial Intelligence
-
-      Jin-Peng Liu'
-    person: ''
-    time: ''
-    title: Quantum Scientific Computation and Quantum Altificial Intelligence
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3829.htm
-    info: '【2024秋】Introduction and overview of symplectic geometry
-
-      Kenji Fukaya'
-    person: ''
-    time: ''
-    title: 【2024秋】Introduction and overview of symplectic geometry
-  page_title: 近期公开课-清华大学数学科学中心
-  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
+    title: Software-Based Networks and Networking for the Cloud Optimizations and
+      Challenges
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/160733.htm
+    info: '12
+
+      Sep
+
+      A rigidity result for ancient Ricci flows
+
+      时间：2024-09-12 14:00-15:00
+
+      报告人: 张旗'
+    person: ''
+    time: ''
+    title: '12
+
+      Sep
+
+      A rigidity result for ancient Ricci flows
+
+      时间：2024-09-12 14:00-15:00
+
+      报告人: 张旗'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/160715.htm
     info: '06
@@ -246,6 +261,49 @@
       报告人: 林增(中国科学院深圳先进技术研究院)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3871.htm
+    info: 'Introduction to 4-dimensional Seiberg-Witten theory
+
+      Weifeng Sun'
+    person: ''
+    time: ''
+    title: Introduction to 4-dimensional Seiberg-Witten theory
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3853.htm
+    info: 'An Introduction to the Calderón Problem
+
+      Li Li'
+    person: ''
+    time: ''
+    title: An Introduction to the Calderón Problem
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3845.htm
+    info: 'Comparison Geometry
+
+      Zhifei Zhu'
+    person: ''
+    time: ''
+    title: Comparison Geometry
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3834.htm
+    info: 'Quantum Scientific Computation and Quantum Altificial Intelligence
+
+      Jin-Peng Liu'
+    person: ''
+    time: ''
+    title: Quantum Scientific Computation and Quantum Altificial Intelligence
+  - address: ''
+    href: https://ymsc.tsinghua.edu.cn/info/1047/3829.htm
+    info: '【2024秋】Introduction and overview of symplectic geometry
+
+      Kenji Fukaya'
+    person: ''
+    time: ''
+    title: 【2024秋】Introduction and overview of symplectic geometry
+  page_title: 近期公开课-清华大学数学科学中心
+  page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/5061.html
@@ -459,32 +517,6 @@
     title: 具身智能暨 CCF 物联网专委会走进中南大学活动
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6325.htm
-    info: '27
-
-      八月
-
-      Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
-      Optimization'
-    person: ''
-    time: ''
-    title: Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
-      Optimization
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6295.htm
-    info: '21
-
-      八月
-
-      Software-Based Networks and Networking for the Cloud Optimizations and Challenges'
-    person: ''
-    time: ''
-    title: Software-Based Networks and Networking for the Cloud Optimizations and
-      Challenges
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/6a2197653b2a4ee6bce65a5bf36248c5.htm

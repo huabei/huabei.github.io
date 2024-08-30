@@ -311,5 +311,10 @@ if __name__ == '__main__':
     # print(os.getcwd())
     # raise Exception
     subprocess.call(["git", 'commit', '-am', '"today update"'])
-    subprocess.call(['git', 'push'])
-
+    c = subprocess.call(['git', 'push'])
+    if c != 0:
+        import time
+        time.sleep(600)
+        subprocess.call(['git', 'push'])
+    else:
+        print("push error!")
