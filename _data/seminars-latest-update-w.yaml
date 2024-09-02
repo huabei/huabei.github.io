@@ -1,13 +1,32 @@
 ﻿- page_info:
   - address: ''
-    href: http://cs.pku.edu.cn/
-    info: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4086.html
+    info: '04
+
+      2024-09
+
+      【学术报告】从氨基酸高分子合成到阴离子结合催化聚合的发现'
     person: ''
     time: ''
-    title: ''
-  page_title: 北京大学计算机学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
+    title: '04
+
+      2024-09
+
+      【学术报告】从氨基酸高分子合成到阴离子结合催化聚合的发现'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4085.html
+    info: '04
+
+      2024-09
+
+      【学术报告】受阻Lewis酸碱对催化聚合物精准合成新进展'
+    person: ''
+    time: ''
+    title: '04
+
+      2024-09
+
+      【学术报告】受阻Lewis酸碱对催化聚合物精准合成新进展'
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4080.html
     info: '30
@@ -38,6 +57,15 @@
       【学术报告】高稳定性配位超分子的精准构筑及应用'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: http://cs.pku.edu.cn/
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  page_title: 北京大学计算机学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
     href: https://life.tsinghua.edu.cn/info/1132/6095.htm
@@ -445,30 +473,6 @@
       时间：2024-08-17 16:30-17:30
 
       报告人: 许孝精 教授 (北京师范大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
-    info: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
-    person: ''
-    time: ''
-    title: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -741,20 +745,3 @@
     title: 前过渡金属催化的羰基类化合物选择性转化
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
-- page_info:
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2985.htm
-    info: '人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geo…
-
-      报  告 人：李攀               助理教授                    Georgia Tech. ECE department主  持
-      人：张牧涵 助理教授                   北京大学人工智能研究院时      间：2024年8月14日 10:30-11:45地      址：北京大学资源西楼2201会议室        腾讯会议：185-749-537报告题目：Towards
-      Efficient and Robust Graph and Geometric Machine Learning报告摘要：The application
-      of Graph Machine Learning (GML) and Geo...
-
-      2024-08-09'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geometric Machine
-      Learning
-  page_title: 学术讲座-北京大学人工智能研究院
-  page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
