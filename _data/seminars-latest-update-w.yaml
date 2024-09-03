@@ -1,5 +1,25 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13227.htm
+    info: "Xinyuan Song教授学术报告\n 2024年09月02日 "
+    person: ''
+    time: ''
+    title: Xinyuan Song教授学术报告
+  page_title: 学术交流-中南大学数学与统计学院
+  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9737.htm
+    info: 'AIGC大模型赋能生物医药
+
+      2024-09-02'
+    person: ''
+    time: ''
+    title: AIGC大模型赋能生物医药
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4086.html
     info: '04
 
@@ -216,24 +236,6 @@
     person: ''
     time: ''
     title: 以WHO 抗菌药物AWaRe分类和手册为指引优化全球抗菌药物合理使用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/6a2197653b2a4ee6bce65a5bf36248c5.htm
-    info: '2024.08.13
-
-      Polymer mechanochemistry enables controlling the activity of drugs, proteins
-      and nucleic acids by ultrasound'
-    person: ''
-    time: ''
-    title: Polymer mechanochemistry enables controlling the activity of drugs, proteins
-      and nucleic acids by ultrasound
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b436f57dbc7b4b74b13416bf00e00e24.htm
-    info: '2024.08.13
-
-      疫苗真实世界有效性研究中的准实验与安慰剂检验'
-    person: ''
-    time: ''
-    title: 疫苗真实世界有效性研究中的准实验与安慰剂检验
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -247,29 +249,6 @@
     person: ''
     time: ''
     title: TOWARDS AI-CENTRIC NETWORKINGOPPORTUNITIES AND CHALLENGES
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6325.htm
-    info: '27
-
-      八月
-
-      Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
-      Optimization'
-    person: ''
-    time: ''
-    title: Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
-      Optimization
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6295.htm
-    info: '21
-
-      八月
-
-      Software-Based Networks and Networking for the Cloud Optimizations and Challenges'
-    person: ''
-    time: ''
-    title: Software-Based Networks and Networking for the Cloud Optimizations and
-      Challenges
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -317,162 +296,6 @@
       时间：2024-09-06 16:00-17:00
 
       报告人: Christian Lubich (University of Tuebingen, Germany)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160657.htm
-    info: '27
-
-      Aug
-
-      Finite measures of maximal entropy for an open set of partially hyperbolic diffeomorphisms
-
-      时间：2024-08-27 10:00-11:00
-
-      报告人: Maria Jose Pacifico (Federal University of Rio de Janeiro)'
-    person: ''
-    time: ''
-    title: '27
-
-      Aug
-
-      Finite measures of maximal entropy for an open set of partially hyperbolic diffeomorphisms
-
-      时间：2024-08-27 10:00-11:00
-
-      报告人: Maria Jose Pacifico (Federal University of Rio de Janeiro)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160683.htm
-    info: '28
-
-      Aug
-
-      From Optics to the Deift Conjecture
-
-      时间：2024-08-28 14:30-15:30
-
-      报告人: Rowan Killip (UCLA)'
-    person: ''
-    time: ''
-    title: '28
-
-      Aug
-
-      From Optics to the Deift Conjecture
-
-      时间：2024-08-28 14:30-15:30
-
-      报告人: Rowan Killip (UCLA)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160687.htm
-    info: '28
-
-      Aug
-
-      The continuum Calogero-Moser equations
-
-      时间：2024-08-28 16:00-17:00
-
-      报告人: Monica Visan (UCLA)'
-    person: ''
-    time: ''
-    title: '28
-
-      Aug
-
-      The continuum Calogero-Moser equations
-
-      时间：2024-08-28 16:00-17:00
-
-      报告人: Monica Visan (UCLA)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160640.htm
-    info: '26
-
-      Aug
-
-      曲面紧集的原子理论及其应用
-
-      时间：2024-08-26 15:00-16:00
-
-      报告人: 罗俊（中山大学）'
-    person: ''
-    time: ''
-    title: '26
-
-      Aug
-
-      曲面紧集的原子理论及其应用
-
-      时间：2024-08-26 15:00-16:00
-
-      报告人: 罗俊（中山大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/160644.htm
-    info: '26
-
-      Aug
-
-      Preimage Mean Dimension
-
-      时间：2024-08-26 16:00-17:00
-
-      报告人: 王昕晟（汕头大学）'
-    person: ''
-    time: ''
-    title: '26
-
-      Aug
-
-      Preimage Mean Dimension
-
-      时间：2024-08-26 16:00-17:00
-
-      报告人: 王昕晟（汕头大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160564.htm
-    info: '17
-
-      Aug
-
-      Hyperbolic Navier-Stokes and hyperbolic MHD equations
-
-      时间：2024-08-17 15:00- 16:00
-
-      报告人: 吴家宏 教授 (美国圣母大学)'
-    person: ''
-    time: ''
-    title: '17
-
-      Aug
-
-      Hyperbolic Navier-Stokes and hyperbolic MHD equations
-
-      时间：2024-08-17 15:00- 16:00
-
-      报告人: 吴家宏 教授 (美国圣母大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160568.htm
-    info: '17
-
-      Aug
-
-      Asymptotic stability of rarefaction wave for compressible Euler system with
-      velocity alignment
-
-      时间：2024-08-17 16:30-17:30
-
-      报告人: 许孝精 教授 (北京师范大学)'
-    person: ''
-    time: ''
-    title: '17
-
-      Aug
-
-      Asymptotic stability of rarefaction wave for compressible Euler system with
-      velocity alignment
-
-      时间：2024-08-17 16:30-17:30
-
-      报告人: 许孝精 教授 (北京师范大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -484,38 +307,6 @@
     person: ''
     time: ''
     title: Introduction to 4-dimensional Seiberg-Witten theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3853.htm
-    info: 'An Introduction to the Calderón Problem
-
-      Li Li'
-    person: ''
-    time: ''
-    title: An Introduction to the Calderón Problem
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3845.htm
-    info: 'Comparison Geometry
-
-      Zhifei Zhu'
-    person: ''
-    time: ''
-    title: Comparison Geometry
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3834.htm
-    info: 'Quantum Scientific Computation and Quantum Altificial Intelligence
-
-      Jin-Peng Liu'
-    person: ''
-    time: ''
-    title: Quantum Scientific Computation and Quantum Altificial Intelligence
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3829.htm
-    info: '【2024秋】Introduction and overview of symplectic geometry
-
-      Kenji Fukaya'
-    person: ''
-    time: ''
-    title: 【2024秋】Introduction and overview of symplectic geometry
   page_title: 近期公开课-清华大学数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -548,200 +339,5 @@
       2024-09-03
 
       15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeHtKF2
-    info: '[特邀报告] PROF. SUDIPTO BANERJEE
-
-      BAYESIAN INFERENCE AND MACHINE LEARNING MEET SPATIAL DATA SCIENCE
-
-      2024-09-18
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[特邀报告] PROF. SUDIPTO BANERJEE
-
-      BAYESIAN INFERENCE AND MACHINE LEARNING MEET SPATIAL DATA SCIENCE
-
-      2024-09-18
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiFpKF2
-    info: '[代数与数论] DAODAO YANG(杨道道)
-
-      有理逼近的度量理论
-
-      2024-08-28
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[代数与数论] DAODAO YANG(杨道道)
-
-      有理逼近的度量理论
-
-      2024-08-28
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeGyqF2
-    info: '[概率与统计] XIN BING
-
-      OPTIMAL VINTAGE FACTOR ANALYSIS WITH DEFLATION VARIMAX
-
-      2024-08-16
-
-      09:30 — 10:30'
-    person: ''
-    time: ''
-    title: '[概率与统计] XIN BING
-
-      OPTIMAL VINTAGE FACTOR ANALYSIS WITH DEFLATION VARIMAX
-
-      2024-08-16
-
-      09:30 — 10:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeG2qF2
-    info: '[概率与统计] 贺莘
-
-      LEARNING DIRECTED ACYCLIC GRAPH VIA TOPOLOGICAL LAYERS
-
-      2024-08-16
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[概率与统计] 贺莘
-
-      LEARNING DIRECTED ACYCLIC GRAPH VIA TOPOLOGICAL LAYERS
-
-      2024-08-16
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeHpKF2
-    info: '[应用与计算] 王颢钦
-
-      求解半线性椭圆型方程多解问题的数值方法
-
-      2024-08-15
-
-      10:00 — 11:30'
-    person: ''
-    time: ''
-    title: '[应用与计算] 王颢钦
-
-      求解半线性椭圆型方程多解问题的数值方法
-
-      2024-08-15
-
-      10:00 — 11:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9728.htm
-    info: '香港科技大学陈凯教授和中国科学院陈恺研究员学术报告
-
-      2024-08-23'
-    person: ''
-    time: ''
-    title: 香港科技大学陈凯教授和中国科学院陈恺研究员学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9721.htm
-    info: '具身智能暨 CCF 物联网专委会走进中南大学活动
-
-      2024-08-21'
-    person: ''
-    time: ''
-    title: 具身智能暨 CCF 物联网专委会走进中南大学活动
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
-- page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160680.htm
-    info: '2024-08-20
-
-      【北京大学物理化学学术报告】Monitoring elementary molecular events and conical intersections
-      by ultrafast X-ray pulses, quantum light, and optical cavities'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Monitoring elementary molecular events and conical intersections
-      by ultrafast X-ray pulses, quantum light, and optical cavities
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160649.htm
-    info: '2024-08-20
-
-      【北京大学有机化学学术报告】Stereoelectronic Effects on Stability and Reactivity'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Stereoelectronic Effects on Stability and Reactivity
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160648.htm
-    info: '2024-08-20
-
-      【北京大学有机化学学术报告】Geometry-Controlled Reactivity and Dynamics in Organic Molecules'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】Geometry-Controlled Reactivity and Dynamics in Organic Molecules
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160610.htm
-    info: '2024-08-18
-
-      【北京大学应化系学术报告】硼同位素的需求与研发生产'
-    person: ''
-    time: ''
-    title: 【北京大学应化系学术报告】硼同位素的需求与研发生产
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160609.htm
-    info: '2024-08-18
-
-      【北京大学无机化学学术报告】Catalysis enabled by operando spectroscopy: from fundamental understanding
-      to innovative materials'
-    person: ''
-    time: ''
-    title: '【北京大学无机化学学术报告】Catalysis enabled by operando spectroscopy: from fundamental
-      understanding to innovative materials'
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160606.htm
-    info: '2024-08-18
-
-      【北京大学有机化学学术报告】The (mostly) Unexpected Reactions of [n]Cumulenes'
-    person: ''
-    time: ''
-    title: 【北京大学有机化学学术报告】The (mostly) Unexpected Reactions of [n]Cumulenes
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3404.htm
-    info: '26
-
-      Aug
-
-      Publishing with Wiley Chemistry Journals – A Focus on Publication Ethics
-
-      报告人：陈俊婷 博士
-
-      报告时间：8月26日（星期一）16:00-17:00'
-    person: ''
-    time: ''
-    title: Publishing with Wiley Chemistry Journals – A Focus on Publication Ethics
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3394.htm
-    info: '27
-
-      Aug
-
-      前过渡金属催化的羰基类化合物选择性转化
-
-      报告人：王兆彬 特聘研究员
-
-      报告时间：8月27日（星期二）15:30-17:00'
-    person: ''
-    time: ''
-    title: 前过渡金属催化的羰基类化合物选择性转化
-  page_title: 讲座报告-变革性分子前沿科学中心
-  page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm

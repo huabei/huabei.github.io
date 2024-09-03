@@ -1,20 +1,47 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13227.htm
-    info: "Xinyuan Song教授学术报告\n 2024年09月02日 "
+    href: https://math.csu.edu.cn/info/1736/13228.htm
+    info: "寻找第四类数值方法\n 2024年09月03日 "
     person: ''
     time: ''
-    title: Xinyuan Song教授学术报告
+    title: 寻找第四类数值方法
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9737.htm
-    info: 'AIGC大模型赋能生物医药
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1806
+    info: '9月5日CLS学术报告：Luis de Lecea
 
-      2024-09-02'
+      2024-09-03'
     person: ''
     time: ''
-    title: AIGC大模型赋能生物医药
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: 9月5日CLS学术报告：Luis de Lecea
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1805
+    info: '9月18日周三茶座：从我的中国芯谈创新创业教育
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月18日周三茶座：从我的中国芯谈创新创业教育
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
+- page_info:
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1806
+    info: '9月5日CLS学术报告：Luis de Lecea
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月5日CLS学术报告：Luis de Lecea
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1805
+    info: '9月18日周三茶座：从我的中国芯谈创新创业教育
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月18日周三茶座：从我的中国芯谈创新创业教育
+  page_title: 学术讲座-北京大学前沿交叉学科研究院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm

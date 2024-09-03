@@ -1,5 +1,11 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13228.htm
+    info: "寻找第四类数值方法\n 2024年09月03日 "
+    person: ''
+    time: ''
+    title: 寻找第四类数值方法
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13227.htm
     info: "Xinyuan Song教授学术报告\n 2024年09月02日 "
     person: ''
@@ -62,12 +68,6 @@
     person: ''
     time: ''
     title: 地震学主题报告会
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13158.htm
-    info: "张三国教授学术报告\n 2024年06月24日 "
-    person: ''
-    time: ''
-    title: 张三国教授学术报告
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -188,12 +188,12 @@
     title: Comparison Geometry
   - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3834.htm
-    info: 'Quantum Scientific Computation and Quantum Altificial Intelligence
+    info: 'Quantum Scientific Computation and Quantum Artificial Intelligence
 
       Jin-Peng Liu'
     person: ''
     time: ''
-    title: Quantum Scientific Computation and Quantum Altificial Intelligence
+    title: Quantum Scientific Computation and Quantum Artificial Intelligence
   - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/3829.htm
     info: '【2024秋】Introduction and overview of symplectic geometry
@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6933859
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6940696
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -861,6 +861,22 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1806
+    info: '9月5日CLS学术报告：Luis de Lecea
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月5日CLS学术报告：Luis de Lecea
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1805
+    info: '9月18日周三茶座：从我的中国芯谈创新创业教育
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月18日周三茶座：从我的中国芯谈创新创业教育
+  - address: ''
     href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1794
     info: '7月5日CQBseminar：New Paradigms for Rad51 paralog function
 
@@ -910,26 +926,26 @@
     person: ''
     time: ''
     title: 6月6日CQBseminar：Advancing molecular physics with deep learning
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1769
-    info: '5月30日CQBseminar：代谢物的生化与数字网络
-
-      2024-05-23'
-    person: ''
-    time: ''
-    title: 5月30日CQBseminar：代谢物的生化与数字网络
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1768
-    info: '5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
-
-      2024-05-22'
-    person: ''
-    time: ''
-    title: 5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
   - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1806
+    info: '9月5日CLS学术报告：Luis de Lecea
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月5日CLS学术报告：Luis de Lecea
+  - address: ''
+    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1805
+    info: '9月18日周三茶座：从我的中国芯谈创新创业教育
+
+      2024-09-03'
+    person: ''
+    time: ''
+    title: 9月18日周三茶座：从我的中国芯谈创新创业教育
+  - address: ''
     href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1794
     info: '7月5日CQBseminar：New Paradigms for Rad51 paralog function
 
@@ -979,22 +995,6 @@
     person: ''
     time: ''
     title: 6月6日CQBseminar：Advancing molecular physics with deep learning
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1769
-    info: '5月30日CQBseminar：代谢物的生化与数字网络
-
-      2024-05-23'
-    person: ''
-    time: ''
-    title: 5月30日CQBseminar：代谢物的生化与数字网络
-  - address: ''
-    href: http://www.aais.pku.edu.cn/yanjiu/shownews.php?id=1768
-    info: '5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
-
-      2024-05-22'
-    person: ''
-    time: ''
-    title: 5月29日周三茶座：能量的搬运工— 温室气体二氧化碳资源化利用与节能减碳
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
@@ -1932,7 +1932,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 2 days ago
+      2024-09-01 14:00, 3 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -1940,7 +1940,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 14 days ago
+      2024-08-20 14:00, 15 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -1983,7 +1983,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 2 days ago
+      2024-09-01 14:00, 3 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -1991,7 +1991,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 14 days ago
+      2024-08-20 14:00, 15 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2223,6 +2223,119 @@
     title: 激发态过渡金属不对称催化
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
+- page_info:
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7993
+    info: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
+
+      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
+    person: ''
+    time: ''
+    title: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
+
+      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7985
+    info: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
+
+      结直肠癌的性别差异与营养干预'
+    person: ''
+    time: ''
+    title: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
+
+      结直肠癌的性别差异与营养干预'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7974
+    info: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
+
+      微生物组与病毒组技术前沿'
+    person: ''
+    time: ''
+    title: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
+
+      微生物组与病毒组技术前沿'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7970
+    info: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
+
+      致病耐药菌新型转录调控机制解析'
+    person: ''
+    time: ''
+    title: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
+
+      致病耐药菌新型转录调控机制解析'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7969
+    info: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
+
+      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
+    person: ''
+    time: ''
+    title: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
+
+      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7857
+    info: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
+    person: ''
+    time: ''
+    title: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7832
+    info: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
+    person: ''
+    time: ''
+    title: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7829
+    info: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
+
+      消化性溃疡'
+    person: ''
+    time: ''
+    title: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
+
+      消化性溃疡'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7795
+    info: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
+
+      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
+    person: ''
+    time: ''
+    title: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
+
+      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7791
+    info: '9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
+
+      人源类器官模拟发育与疾病'
+    person: ''
+    time: ''
+    title: '9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
+
+      人源类器官模拟发育与疾病'
+  - address: ''
+    href: https://life.sjtu.edu.cn/Data/View/7789
+    info: '9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
+
+      从酿造到智造：高效酵母细胞工厂构建'
+    person: ''
+    time: ''
+    title: '9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
+
+      从酿造到智造：高效酵母细胞工厂构建'
+  page_title: 学术报告 - 上海交通大学生命科学技术学院
+  page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4086.html
@@ -2570,6 +2683,12 @@
 - page_info:
   - address: ''
     href: null
+    info: 医学院系列学术报告——Martin Fussenegger 教授
+    person: ''
+    time: ''
+    title: 医学院系列学术报告——Martin Fussenegger 教授
+  - address: ''
+    href: null
     info: '【数学学院】Hiraku Nakajima: S-dual of Hamiltonian G spaces and relative Langlands
       duality'
     person: ''
@@ -2594,14 +2713,297 @@
     person: ''
     time: ''
     title: 【信电学院】TonyQ.S.Quek（Singapore University of Technology and Design）学术报告
-  - address: ''
-    href: null
-    info: 【信电学院】Prof.YangHao（QinetiQ）学术报告
-    person: ''
-    time: ''
-    title: 【信电学院】Prof.YangHao（QinetiQ）学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
+- page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0708/c26342a2944196/page.htm
+    info: '生命科学启真讲坛--朱玉燕博士学术报告
+
+      【主讲人：朱玉燕】
+
+      时间：11:00
+
+      地点：生命科学学院245报告厅
+
+      2024-07-19
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--朱玉燕博士学术报告
+
+      【主讲人：朱玉燕】
+
+      时间：11:00
+
+      地点：生命科学学院245报告厅
+
+      2024-07-19
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0708/c26342a2944195/page.htm
+    info: '生命科学启真讲坛--张蕴斌博士学术报告
+
+      【主讲人：张蕴斌】
+
+      时间：16:30
+
+      地点：生命科学学院123会议室
+
+      2024-07-08
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--张蕴斌博士学术报告
+
+      【主讲人：张蕴斌】
+
+      时间：16:30
+
+      地点：生命科学学院123会议室
+
+      2024-07-08
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0705/c26342a2943380/page.htm
+    info: '生命科学启真讲坛--薛愿超研究员学术报告
+
+      【主讲人：薛愿超】
+
+      时间：16:00
+
+      地点：生命科学学院123会议室
+
+      2024-07-08
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--薛愿超研究员学术报告
+
+      【主讲人：薛愿超】
+
+      时间：16:00
+
+      地点：生命科学学院123会议室
+
+      2024-07-08
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0625/c26342a2939050/page.htm
+    info: '生命科学启真讲坛--周焕祥教授学术报告
+
+      【主讲人：周焕祥】
+
+      时间：15:00
+
+      地点：生命科学学院245报告厅
+
+      2024-07-08
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--周焕祥教授学术报告
+
+      【主讲人：周焕祥】
+
+      时间：15:00
+
+      地点：生命科学学院245报告厅
+
+      2024-07-08
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0617/c26342a2934356/page.htm
+    info: '生命科学启真讲坛--屈良鹄教授学术报告
+
+      【主讲人：屈良鹄】
+
+      时间：16:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-20
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--屈良鹄教授学术报告
+
+      【主讲人：屈良鹄】
+
+      时间：16:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-20
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0608/c26342a2931150/page.htm
+    info: '生命科学学院系列学术讲座--须健教授学术报告
+
+      【主讲人：须健】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-15
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--须健教授学术报告
+
+      【主讲人：须健】
+
+      时间：10:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-15
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0604/c26342a2928395/page.htm
+    info: '生命科学学院系列学术讲座--李亦平教授学术报告
+
+      【主讲人：李亦平】
+
+      时间：14:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-06
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--李亦平教授学术报告
+
+      【主讲人：李亦平】
+
+      时间：14:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-06
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0604/c26342a2928294/page.htm
+    info: '生涯启航 | 国科大杭州高等研究院2025年研招系列宣讲
+
+      【主讲人：蔡车国等】
+
+      时间：15:30
+
+      地点：生科学院245报告厅
+
+      2024-06-07
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生涯启航 | 国科大杭州高等研究院2025年研招系列宣讲
+
+      【主讲人：蔡车国等】
+
+      时间：15:30
+
+      地点：生科学院245报告厅
+
+      2024-06-07
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0530/c26342a2925829/page.htm
+    info: '生命科学学院系列学术讲座--钟伯坚教授学术报告
+
+      【主讲人：钟伯坚】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-05
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--钟伯坚教授学术报告
+
+      【主讲人：钟伯坚】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-06-05
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0529/c26342a2925072/page.htm
+    info: '生命科学学院系列学术讲座--林尤舜教授学术报告
+
+      【主讲人：林尤舜】
+
+      时间：10:30
+
+      地点：生命科学学院245报告厅
+
+      2024-06-05
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学学院系列学术讲座--林尤舜教授学术报告
+
+      【主讲人：林尤舜】
+
+      时间：10:30
+
+      地点：生命科学学院245报告厅
+
+      2024-06-05
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0528/c26342a2924534/page.htm
+    info: '2024年生命科学学院气排球赛通知
+
+      【主讲人：生命科学学院工会】
+
+      时间：14:30
+
+      地点：学校风雨操场气排球场
+
+      2024-06-07
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '2024年生命科学学院气排球赛通知
+
+      【主讲人：生命科学学院工会】
+
+      时间：14:30
+
+      地点：学校风雨操场气排球场
+
+      2024-06-07
+
+      查看详情+'
+  page_title: 活动预告
+  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
 - page_info:
   - address: ''
     href: http://www.isee.zju.edu.cn/2024/0805/c51065a2951610/page.htm
