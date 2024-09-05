@@ -1,5 +1,23 @@
 ﻿- page_info:
   - address: ''
+    href: https://math.csu.edu.cn/info/1736/13232.htm
+    info: "刘公祥教授学术报告\n 2024年09月05日 "
+    person: ''
+    time: ''
+    title: 刘公祥教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13231.htm
+    info: "胡胜龙教授学术报告\n 2024年09月05日 "
+    person: ''
+    time: ''
+    title: 胡胜龙教授学术报告
+  - address: ''
+    href: https://math.csu.edu.cn/info/1736/13230.htm
+    info: "胡耀华教授学术报告\n 2024年09月05日 "
+    person: ''
+    time: ''
+    title: 胡耀华教授学术报告
+  - address: ''
     href: https://math.csu.edu.cn/info/1736/13228.htm
     info: "寻找第四类数值方法\n 2024年09月03日 "
     person: ''
@@ -50,24 +68,6 @@
     person: ''
     time: ''
     title: Sarat Babu Moka博士学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13177.htm
-    info: "朱克和教授学术报告：Theory of Fock Spaces\n 2024年07月07日 "
-    person: ''
-    time: ''
-    title: 朱克和教授学术报告：Theory of Fock Spaces
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13176.htm
-    info: "智能图形和计算学术研讨会会议通知\n 2024年07月05日 "
-    person: ''
-    time: ''
-    title: 智能图形和计算学术研讨会会议通知
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13167.htm
-    info: "地震学主题报告会\n 2024年07月02日 "
-    person: ''
-    time: ''
-    title: 地震学主题报告会
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
@@ -384,7 +384,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6946338
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6951510
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1395,6 +1395,28 @@
 
       报告人: Christian Lubich (University of Tuebingen, Germany)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/160832.htm
+    info: '09
+
+      Sep
+
+      Emerging AI and Machine Learning Tools for Neuroscience Applications
+
+      时间：2024-09-09 15:00-16:00
+
+      报告人: 陈哲 副教授（New York University）'
+    person: ''
+    time: ''
+    title: '09
+
+      Sep
+
+      Emerging AI and Machine Learning Tools for Neuroscience Applications
+
+      时间：2024-09-09 15:00-16:00
+
+      报告人: 陈哲 副教授（New York University）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
     info: '10
 
@@ -1440,6 +1462,52 @@
       时间：2024-09-12 14:00-15:00
 
       报告人: 张旗'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/160836.htm
+    info: '13
+
+      Sep
+
+      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+
+      时间：2024-09-13 16:00-17:00
+
+      报告人: Herbert Koch (University of Bonn)'
+    person: ''
+    time: ''
+    title: '13
+
+      Sep
+
+      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+
+      时间：2024-09-13 16:00-17:00
+
+      报告人: Herbert Koch (University of Bonn)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160846.htm
+    info: '19
+
+      Sep
+
+      Applied Mathematics Seminar——LOWER EIGENVALUE BOUNDS FOR THE HARMONIC AND BI-HARMONIC
+      OPERATOR
+
+      时间：2024-09-19 16:30-17:30
+
+      报告人: Carsten Carstensen (Humboldt-Universität zu Berlin)'
+    person: ''
+    time: ''
+    title: '19
+
+      Sep
+
+      Applied Mathematics Seminar——LOWER EIGENVALUE BOUNDS FOR THE HARMONIC AND BI-HARMONIC
+      OPERATOR
+
+      时间：2024-09-19 16:30-17:30
+
+      报告人: Carsten Carstensen (Humboldt-Universität zu Berlin)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160683.htm
     info: '28
@@ -1550,74 +1618,6 @@
       时间：2024-08-26 16:00-17:00
 
       报告人: 王昕晟（汕头大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160564.htm
-    info: '17
-
-      Aug
-
-      Hyperbolic Navier-Stokes and hyperbolic MHD equations
-
-      时间：2024-08-17 15:00- 16:00
-
-      报告人: 吴家宏 教授 (美国圣母大学)'
-    person: ''
-    time: ''
-    title: '17
-
-      Aug
-
-      Hyperbolic Navier-Stokes and hyperbolic MHD equations
-
-      时间：2024-08-17 15:00- 16:00
-
-      报告人: 吴家宏 教授 (美国圣母大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/160568.htm
-    info: '17
-
-      Aug
-
-      Asymptotic stability of rarefaction wave for compressible Euler system with
-      velocity alignment
-
-      时间：2024-08-17 16:30-17:30
-
-      报告人: 许孝精 教授 (北京师范大学)'
-    person: ''
-    time: ''
-    title: '17
-
-      Aug
-
-      Asymptotic stability of rarefaction wave for compressible Euler system with
-      velocity alignment
-
-      时间：2024-08-17 16:30-17:30
-
-      报告人: 许孝精 教授 (北京师范大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/160533.htm
-    info: '08
-
-      Aug
-
-      Blocks of modular representations of reductive Lie algebras
-
-      时间：2024-08-08 19:30-20:30
-
-      报告人: 舒斌（华东师范大学）'
-    person: ''
-    time: ''
-    title: '08
-
-      Aug
-
-      Blocks of modular representations of reductive Lie algebras
-
-      时间：2024-08-08 19:30-20:30
-
-      报告人: 舒斌（华东师范大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1929,7 +1929,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 4 days ago
+      2024-09-01 14:00, 5 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -1937,7 +1937,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 16 days ago
+      2024-08-20 14:00, 17 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -1980,7 +1980,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 4 days ago
+      2024-09-01 14:00, 5 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -1988,7 +1988,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 16 days ago
+      2024-08-20 14:00, 17 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2222,119 +2222,6 @@
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
   - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7993
-    info: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
-
-      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
-    person: ''
-    time: ''
-    title: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
-
-      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7985
-    info: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
-
-      结直肠癌的性别差异与营养干预'
-    person: ''
-    time: ''
-    title: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
-
-      结直肠癌的性别差异与营养干预'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7974
-    info: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
-
-      微生物组与病毒组技术前沿'
-    person: ''
-    time: ''
-    title: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
-
-      微生物组与病毒组技术前沿'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7970
-    info: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
-
-      致病耐药菌新型转录调控机制解析'
-    person: ''
-    time: ''
-    title: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
-
-      致病耐药菌新型转录调控机制解析'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7969
-    info: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
-
-      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
-    person: ''
-    time: ''
-    title: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
-
-      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7857
-    info: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
-    person: ''
-    time: ''
-    title: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7832
-    info: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
-    person: ''
-    time: ''
-    title: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7829
-    info: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
-
-      消化性溃疡'
-    person: ''
-    time: ''
-    title: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
-
-      消化性溃疡'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7795
-    info: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
-
-      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
-    person: ''
-    time: ''
-    title: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
-
-      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7791
-    info: '9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
-
-      人源类器官模拟发育与疾病'
-    person: ''
-    time: ''
-    title: '9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
-
-      人源类器官模拟发育与疾病'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7789
-    info: '9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
-
-      从酿造到智造：高效酵母细胞工厂构建'
-    person: ''
-    time: ''
-    title: '9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
-
-      从酿造到智造：高效酵母细胞工厂构建'
-  page_title: 学术报告 - 上海交通大学生命科学技术学院
-  page_url: https://life.sjtu.edu.cn/Data/List/bg
-- page_info:
-  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4086.html
     info: '04
 
@@ -2478,6 +2365,24 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiGpKF2
+    info: '[几何与分析] 王志鑫
+
+      RICCATI EQUATION FOR STATIC SPACES AND ITS APPLICATIONS
+
+      2024-09-24
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[几何与分析] 王志鑫
+
+      RICCATI EQUATION FOR STATIC SPACES AND ITS APPLICATIONS
+
+      2024-09-24
+
+      10:00 — 11:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeHtKF2
     info: '[特邀报告] PROF. SUDIPTO BANERJEE
 
@@ -2513,6 +2418,24 @@
       2024-09-03
 
       15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiG2qF2
+    info: '[代数几何与拓扑] 谢灵尧
+
+      ON THE BASE POINT FREE THEOREM OF ALGEBRAICALLY INTEGRABLE FOLIATIONS II
+
+      2024-09-03
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[代数几何与拓扑] 谢灵尧
+
+      ON THE BASE POINT FREE THEOREM OF ALGEBRAICALLY INTEGRABLE FOLIATIONS II
+
+      2024-09-03
+
+      16:00 — 17:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiFpKF2
     info: '[代数与数论] DAODAO YANG(杨道道)
@@ -2639,45 +2562,21 @@
       2024-08-05
 
       10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeF2qF2
-    info: '[动力系统] 吴昊
-
-      A CENTRAL LIMIT THEOREM FOR IRRATIONAL ROTATIONS OF BOUNDED TYPE
-
-      2024-08-02
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[动力系统] 吴昊
-
-      A CENTRAL LIMIT THEOREM FOR IRRATIONAL ROTATIONS OF BOUNDED TYPE
-
-      2024-08-02
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeFyqF2
-    info: '[概率与统计] HAN XIAO
-
-      DYNAMIC TENSOR FACTOR MODELS FOR HIGH DIMENSIONAL TIME SERIES
-
-      2024-07-31
-
-      10:00 — 11:30'
-    person: ''
-    time: ''
-    title: '[概率与统计] HAN XIAO
-
-      DYNAMIC TENSOR FACTOR MODELS FOR HIGH DIMENSIONAL TIME SERIES
-
-      2024-07-31
-
-      10:00 — 11:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: null
+    info: “杏林·名师名家论坛”—王路阳 院士报告会
+    person: ''
+    time: ''
+    title: “杏林·名师名家论坛”—王路阳  院士报告会
+  - address: ''
+    href: null
+    info: 浙大东方论坛第263讲（9.10）| 大卫·温格罗：图像系统在人类认知与历史中的角色
+    person: ''
+    time: ''
+    title: 浙大东方论坛第263讲（9.10）| 大卫·温格罗：图像系统在人类认知与历史中的角色
   - address: ''
     href: null
     info: 医学院系列学术报告——Martin Fussenegger 教授
@@ -2698,18 +2597,6 @@
     person: ''
     time: ''
     title: 【化学系】启真化学论坛：车顺爱教授（上海交通大学）
-  - address: ''
-    href: null
-    info: 2024年第2期—杏林专题论坛 - 陈铮鸣教授
-    person: ''
-    time: ''
-    title: 2024年第2期—杏林专题论坛 - 陈铮鸣教授
-  - address: ''
-    href: null
-    info: 【信电学院】TonyQ.S.Quek（Singapore University of Technology and Design）学术报告
-    person: ''
-    time: ''
-    title: 【信电学院】TonyQ.S.Quek（Singapore University of Technology and Design）学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
