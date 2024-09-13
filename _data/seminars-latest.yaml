@@ -383,7 +383,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6992762
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 6998775
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -686,12 +686,28 @@
 - page_info:
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/6db4388607b64df98ce5ac6f76a43085.htm
-    info: '2024.09.11
+    info: '2024.09.13
 
       Engineering and Delivery of Novel Nucleic Acid Therapeutics and Vaccines'
     person: ''
     time: ''
     title: Engineering and Delivery of Novel Nucleic Acid Therapeutics and Vaccines
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/bbcd9fc10d4842babbef2037b3d4ac18.htm
+    info: '2024.09.13
+
+      On discovery and sensitivity in (photo) catalysis'
+    person: ''
+    time: ''
+    title: On discovery and sensitivity in (photo) catalysis
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/2e94eabf5a35491c87515aeb070afc82.htm
+    info: '2024.09.11
+
+      Reductive Dimetalation of Unsaturated Bonds'
+    person: ''
+    time: ''
+    title: Reductive Dimetalation of Unsaturated Bonds
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/ef8af2caa8954adf98f70ff478271965.htm
     info: '2024.09.10
@@ -759,22 +775,6 @@
     person: ''
     time: ''
     title: The total synthesis story of complex taxane
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d813d508a1894d01b56f49561ecf9f81.htm
-    info: '2024.07.15
-
-      Publishing at Nature Research Journals - from an editor''s perspective'
-    person: ''
-    time: ''
-    title: Publishing at Nature Research Journals - from an editor's perspective
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/f63ef53edfb749c787be472c290e9395.htm
-    info: '2024.07.09
-
-      从医疗数据到决策——实践与愿景'
-    person: ''
-    time: ''
-    title: 从医疗数据到决策——实践与愿景
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1368,27 +1368,29 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/160836.htm
-    info: '13
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161028.htm
+    info: '19
 
       Sep
 
-      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+      机器学习与数据科学博士生系列论坛（第七十六期）—— Follow-the-Perturbed-Leader Achieves Best-of-Both-Worlds
+      for Bandit Problems
 
-      时间：2024-09-13 16:00-17:00
+      时间：2024-09-19 16:00-17:00
 
-      报告人: Herbert Koch (University of Bonn)'
+      报告人: 詹景昕（北京大学）'
     person: ''
     time: ''
-    title: '13
+    title: '19
 
       Sep
 
-      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+      机器学习与数据科学博士生系列论坛（第七十六期）—— Follow-the-Perturbed-Leader Achieves Best-of-Both-Worlds
+      for Bandit Problems
 
-      时间：2024-09-13 16:00-17:00
+      时间：2024-09-19 16:00-17:00
 
-      报告人: Herbert Koch (University of Bonn)'
+      报告人: 詹景昕（北京大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160846.htm
     info: '19
@@ -1413,6 +1415,30 @@
       时间：2024-09-19 16:30-17:30
 
       报告人: Carsten Carstensen (Humboldt-Universität zu Berlin)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/160409.htm
+    info: '23
+
+      Sep
+
+      Random walk on dynamical percolation: separating critical and supercritical
+      regimes
+
+      时间：2024-09-23 14:00-15:00
+
+      报告人: Yuval Peres, Beijing institute of Math. Sciences and Applications (BIMSA)'
+    person: ''
+    time: ''
+    title: '23
+
+      Sep
+
+      Random walk on dynamical percolation: separating critical and supercritical
+      regimes
+
+      时间：2024-09-23 14:00-15:00
+
+      报告人: Yuval Peres, Beijing institute of Math. Sciences and Applications (BIMSA)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/other/160907.htm
     info: '27
@@ -1479,6 +1505,28 @@
       时间：2024-10-05 09:00-11:30
 
       报告人: 饶胜（武汉大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/160836.htm
+    info: '13
+
+      Sep
+
+      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+
+      时间：2024-09-13 16:00-17:00
+
+      报告人: Herbert Koch (University of Bonn)'
+    person: ''
+    time: ''
+    title: '13
+
+      Sep
+
+      Distinguished Lecture——The Korteweg-de Vries hierarchy at low regularity
+
+      时间：2024-09-13 16:00-17:00
+
+      报告人: Herbert Koch (University of Bonn)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/160947.htm
     info: '12
@@ -1567,52 +1615,6 @@
       时间：2024-09-11 09:00-10:00
 
       报告人: Tamás Darvas (University of Maryland)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160887.htm
-    info: '11
-
-      Sep
-
-      应用数学青年讨论班（午餐会）—— 声音合成与处理中的高效计算：问题、技术及其在当代音乐与声音艺术中的应用
-
-      时间：2024-09-11 11:45-13:00
-
-      报告人: 王泽昊（加州大学圣地亚哥分校）'
-    person: ''
-    time: ''
-    title: '11
-
-      Sep
-
-      应用数学青年讨论班（午餐会）—— 声音合成与处理中的高效计算：问题、技术及其在当代音乐与声音艺术中的应用
-
-      时间：2024-09-11 11:45-13:00
-
-      报告人: 王泽昊（加州大学圣地亚哥分校）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/160555.htm
-    info: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
-    person: ''
-    time: ''
-    title: '10
-
-      Sep
-
-      Applied Mathematics Seminar——A highly parallel numerical method for the Navier-Stokes/Darcy
-      equations and its application to human liver
-
-      时间：2024-09-10 10:15-11:15
-
-      报告人: 林增(中国科学院深圳先进技术研究院)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2127,7 +2129,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 12 days ago
+      2024-09-01 14:00, 13 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -2135,7 +2137,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 24 days ago
+      2024-08-20 14:00, 25 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2178,7 +2180,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 12 days ago
+      2024-09-01 14:00, 13 days ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -2186,7 +2188,7 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 24 days ago
+      2024-08-20 14:00, 25 days ago
 
       Optimal stochastic approximation under general norms with applications to reinforcement
       learning
@@ -2331,6 +2333,14 @@
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
+    href: https://pharm.sjtu.edu.cn/report/5077.html
+    info: 'CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
+
+      2024-09-13'
+    person: ''
+    time: ''
+    title: CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
+  - address: ''
     href: https://pharm.sjtu.edu.cn/report/5061.html
     info: 'Enhancing Rare Disease Treatment:The UK Platform for Nucleic Acid Therapies
 
@@ -2410,14 +2420,6 @@
     person: ''
     time: ''
     title: DEPDC5 curbs mToR signals to protect CD8+T cells from ferroptosis
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4921.html
-    info: '激发态过渡金属不对称催化
-
-      2024-04-24'
-    person: ''
-    time: ''
-    title: 激发态过渡金属不对称催化
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
 - page_info:
@@ -2714,6 +2716,24 @@
 
       16:00 — 17:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiHtKF2
+    info: '[概率与统计] YU TAO
+
+      MAXIMUM BINOMIAL LIKELIHOOD METHOD FOR MULTIVARIATE MIXTURE DATA
+
+      2024-09-19
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[概率与统计] YU TAO
+
+      MAXIMUM BINOMIAL LIKELIHOOD METHOD FOR MULTIVARIATE MIXTURE DATA
+
+      2024-09-19
+
+      10:00 — 11:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeHtKF2
     info: '[特邀报告] PROF. SUDIPTO BANERJEE
 
@@ -2731,6 +2751,42 @@
       2024-09-18
 
       14:00 — 15:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmFpKF2
+    info: '[偏微分方程] 王春朋 教授
+
+      LIPSCHITZ CONTINUITY OF TWO-DIMENSIONAL SUBSONIC-SONIC FLOWS
+
+      2024-09-14
+
+      13:30 — 14:30'
+    person: ''
+    time: ''
+    title: '[偏微分方程] 王春朋 教授
+
+      LIPSCHITZ CONTINUITY OF TWO-DIMENSIONAL SUBSONIC-SONIC FLOWS
+
+      2024-09-14
+
+      13:30 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmFtKF2
+    info: '[概率与统计] 白天衣
+
+      INTERSECTION EQUIVALENCE FOR SUM OF FRACTAL PERCOLATIONS
+
+      2024-09-14
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 白天衣
+
+      INTERSECTION EQUIVALENCE FOR SUM OF FRACTAL PERCOLATIONS
+
+      2024-09-14
+
+      16:00 — 17:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiFtKF2
     info: '[代数几何与拓扑] 谢灵尧
@@ -2821,93 +2877,69 @@
       2024-08-16
 
       10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipeHpKF2
-    info: '[应用与计算] 王颢钦
-
-      求解半线性椭圆型方程多解问题的数值方法
-
-      2024-08-15
-
-      10:00 — 11:30'
-    person: ''
-    time: ''
-    title: '[应用与计算] 王颢钦
-
-      求解半线性椭圆型方程多解问题的数值方法
-
-      2024-08-15
-
-      10:00 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipaFtKF2
-    info: '[特邀报告] SERGEY FOMIN
-
-      INCIDENCE GEOMETRY AND TILED SURFACES
-
-      2024-08-14
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] SERGEY FOMIN
-
-      INCIDENCE GEOMETRY AND TILED SURFACES
-
-      2024-08-14
-
-      16:00 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipaGyqF2
-    info: '[偏微分方程] 赵威任
-
-      ASYMPTOTIC STABILITY OF COUETTE FLOW FOR STOKES-TRANSPORT EQUATIONS
-
-      2024-08-08
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] 赵威任
-
-      ASYMPTOTIC STABILITY OF COUETTE FLOW FOR STOKES-TRANSPORT EQUATIONS
-
-      2024-08-08
-
-      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: null
-    info: 【数学学院】蔡天新：看见与发现——第三种学习方法
+    href: https://www.zju.edu.cn/xxgk1/list.htm
+    info: ''
     person: ''
     time: ''
-    title: 【数学学院】蔡天新：看见与发现——第三种学习方法
+    title: ''
   - address: ''
-    href: null
-    info: “杏林·学者论坛”—Eric Alexander Miska 教授报告会
+    href: http://www.news.zju.edu.cn/
+    info: ''
     person: ''
     time: ''
-    title: “杏林·学者论坛”—Eric Alexander Miska 教授报告会
+    title: ''
   - address: ''
-    href: null
-    info: 【动科学院】特邀学术报告会-王晓秋博士学术报告
+    href: https://zhfw.zju.edu.cn/
+    info: ''
     person: ''
     time: ''
-    title: 【动科学院】特邀学术报告会-王晓秋博士学术报告
+    title: ''
   - address: ''
-    href: null
-    info: 【动科学院】特邀学术报告-朱军豪研究员学术报告
+    href: https://www.zju.edu.cn/xxjg_76687/list.htm
+    info: ''
     person: ''
     time: ''
-    title: 【动科学院】特邀学术报告-朱军豪研究员学术报告
+    title: ''
   - address: ''
-    href: null
-    info: 【数学学院】肖益民：GEOMETRIC PROPERTIES OF ANISOTROPIC GAUSSIAN RANDOM FIELDS
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
     person: ''
     time: ''
-    title: 【数学学院】肖益民：GEOMETRIC PROPERTIES OF ANISOTROPIC GAUSSIAN RANDOM FIELDS
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/zjzd/list.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
