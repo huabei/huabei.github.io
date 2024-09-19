@@ -1,66 +1,26 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161138.htm
-    info: '2024-09-16
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/161157.htm
+    info: '23
 
-      【北京大学·大学堂】Two reports by prof. John F. Hartwig'
+      Sep
+
+      Geometry and Topology Seminar——圆丛间的映射
+
+      时间：2024-09-23 15:10-17:00
+
+      报告人: 王诗宬（北京大学）'
     person: ''
     time: ''
-    title: 【北京大学·大学堂】Two reports by prof. John F. Hartwig
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161137.htm
-    info: '2024-09-15
+    title: '23
 
-      【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
-      Alkene Functionalization'
-    person: ''
-    time: ''
-    title: 【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
-      Alkene Functionalization
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160990.htm
-    info: '2024-09-12
+      Sep
 
-      【兴大报告666】Reticular Chemistry, Climate, AI'
-    person: ''
-    time: ''
-    title: 【兴大报告666】Reticular Chemistry, Climate, AI
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160996.htm
-    info: '2024-09-12
+      Geometry and Topology Seminar——圆丛间的映射
 
-      【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用'
-    person: ''
-    time: ''
-    title: 【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160994.htm
-    info: '2024-09-12
+      时间：2024-09-23 15:10-17:00
 
-      【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent Materials'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent
-      Materials
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160993.htm
-    info: '2024-09-12
-
-      【北京大学无机化学学术报告】Why do we need a single-molecule qubit?'
-    person: ''
-    time: ''
-    title: 【北京大学无机化学学术报告】Why do we need a single-molecule qubit?
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160992.htm
-    info: '2024-09-12
-
-      【兴大报告667】Modern Solid-State Chemistry:Complex Anions and Chemical Bonding'
-    person: ''
-    time: ''
-    title: 【兴大报告667】Modern Solid-State Chemistry:Complex Anions and Chemical Bonding
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      报告人: 王诗宬（北京大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161128.htm
     info: '23
@@ -177,6 +137,141 @@
       报告人: 饶胜（武汉大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4109.html
+    info: '23
+
+      2024-09
+
+      【学术报告】硫族钙钛矿功能材料的理论与实验研究'
+    person: ''
+    time: ''
+    title: '23
+
+      2024-09
+
+      【学术报告】硫族钙钛矿功能材料的理论与实验研究'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4102.html
+    info: '19
+
+      2024-09
+
+      【学术报告】Monte Carlo Design for Polymer Circularity'
+    person: ''
+    time: ''
+    title: '19
+
+      2024-09
+
+      【学术报告】Monte Carlo Design for Polymer Circularity'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4103.html
+    info: '18
+
+      2024-09
+
+      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
+    person: ''
+    time: ''
+    title: '18
+
+      2024-09
+
+      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4101.html
+    info: '18
+
+      2024-09
+
+      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
+    person: ''
+    time: ''
+    title: '18
+
+      2024-09
+
+      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
+  - address: ''
+    href: https://scce.sjtu.edu.cn/index_xsrl/4100.html
+    info: '18
+
+      2024-09
+
+      【霞光讲坛】高分子化工机遇与挑战'
+    person: ''
+    time: ''
+    title: '18
+
+      2024-09
+
+      【霞光讲坛】高分子化工机遇与挑战'
+  page_title: 学术日历-上海交通大学化学化工学院
+  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161138.htm
+    info: '2024-09-16
+
+      【北京大学·大学堂】Two reports by prof. John F. Hartwig'
+    person: ''
+    time: ''
+    title: 【北京大学·大学堂】Two reports by prof. John F. Hartwig
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161137.htm
+    info: '2024-09-15
+
+      【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
+      Alkene Functionalization'
+    person: ''
+    time: ''
+    title: 【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
+      Alkene Functionalization
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160990.htm
+    info: '2024-09-12
+
+      【兴大报告666】Reticular Chemistry, Climate, AI'
+    person: ''
+    time: ''
+    title: 【兴大报告666】Reticular Chemistry, Climate, AI
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160996.htm
+    info: '2024-09-12
+
+      【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用'
+    person: ''
+    time: ''
+    title: 【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160994.htm
+    info: '2024-09-12
+
+      【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent Materials'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent
+      Materials
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160993.htm
+    info: '2024-09-12
+
+      【北京大学无机化学学术报告】Why do we need a single-molecule qubit?'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】Why do we need a single-molecule qubit?
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160992.htm
+    info: '2024-09-12
+
+      【兴大报告667】Modern Solid-State Chemistry:Complex Anions and Chemical Bonding'
+    person: ''
+    time: ''
+    title: 【兴大报告667】Modern Solid-State Chemistry:Complex Anions and Chemical Bonding
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://pharm.sjtu.edu.cn/report/5080.html
@@ -305,65 +400,6 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4102.html
-    info: '19
-
-      2024-09
-
-      【学术报告】Monte Carlo Design for Polymer Circularity'
-    person: ''
-    time: ''
-    title: '19
-
-      2024-09
-
-      【学术报告】Monte Carlo Design for Polymer Circularity'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4103.html
-    info: '18
-
-      2024-09
-
-      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-09
-
-      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4101.html
-    info: '18
-
-      2024-09
-
-      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-09
-
-      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4100.html
-    info: '18
-
-      2024-09
-
-      【霞光讲坛】高分子化工机遇与挑战'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-09
-
-      【霞光讲坛】高分子化工机遇与挑战'
-  page_title: 学术日历-上海交通大学化学化工学院
-  page_url: https://scce.sjtu.edu.cn/index_xsrl.html
-- page_info:
-  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/bbcd9fc10d4842babbef2037b3d4ac18.htm
     info: '2024.09.13
 
@@ -471,18 +507,6 @@
     person: ''
     time: ''
     title: Caixing Gu教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13244.htm
-    info: "徐振礼教授学术报告\n 2024年09月11日 "
-    person: ''
-    time: ''
-    title: 徐振礼教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13243.htm
-    info: "何岱海教授学术报告\n 2024年09月11日 "
-    person: ''
-    time: ''
-    title: ' 何岱海教授学术报告'
   page_title: 学术交流-中南大学数学与统计学院
   page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
 - page_info:
