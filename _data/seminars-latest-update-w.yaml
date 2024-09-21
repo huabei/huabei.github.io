@@ -1,73 +1,220 @@
 ﻿- page_info:
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3584.htm
-    info: '2024-09-19
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3490.htm
+    info: '量子计算及其在化学中的应用
 
-      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
+      随着量子计算机硬件的飞速发展，量子计算正在逐渐成为一种重要的计算模型。在本讲中，我们将首先简要介绍计算的基本概念，探讨不同的计算模型。接下来，将详细介绍量子计算的线路模型。一个量子线路的基本组成包括…
+
+      2024.09.20'
     person: ''
     time: ''
-    title: '2024-09-19
-
-      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
-  page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
-  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
+    title: 量子计算及其在化学中的应用
+  page_title: 学术讲座-清华大学化学系
+  page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6469.htm
-    info: '19
+    href: https://future.pku.edu.cn/xwyjz/jz/55e7ea29f1294c519702a21f8f41a29e.htm
+    info: '讲座主题
 
-      2024-09
+      医学人工智能中的合成数据
 
-      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
+      王劲卓
+
+      主讲人助理研究员
+
+      2024年9月20日 13:30-15:00
+
+      科研二号楼B117'
     person: ''
     time: ''
-    title: '19
+    title: '讲座主题
 
-      2024-09
+      医学人工智能中的合成数据
 
-      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
-  page_title: 讲座信息-北京大学信息科学技术学院
-  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+      王劲卓
+
+      主讲人助理研究员
+
+      2024年9月20日 13:30-15:00
+
+      科研二号楼B117'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/89f2cd868d8b4a2ab3f3f9f52f8ce151.htm
+    info: '讲座主题
+
+      The editorial process at Nature Metabolism
+
+      Alfredo Giménez-Cassina
+
+      主讲人PhD
+
+      2024年9月26日（星期四）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      The editorial process at Nature Metabolism
+
+      Alfredo Giménez-Cassina
+
+      主讲人PhD
+
+      2024年9月26日（星期四）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/8c5326b825be4b45af57c58d5435e226.htm
+    info: '讲座主题
+
+      Laser microbeam meets superresolution imaging
+
+      Alfred Vogel
+
+      主讲人Prof
+
+      2024年9月22日 14:00-15:00
+
+      吕志和楼B101室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Laser microbeam meets superresolution imaging
+
+      Alfred Vogel
+
+      主讲人Prof
+
+      2024年9月22日 14:00-15:00
+
+      吕志和楼B101室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/811ce679ac0a4540a6ff1b5fade72634.htm
+    info: '讲座主题
+
+      Holographic Tomographic Imaging of the Retina
+
+      Gereon Hüttmann
+
+      主讲人Prof
+
+      2024年9月22日 15:00-16:00
+
+      吕志和楼B101室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      Holographic Tomographic Imaging of the Retina
+
+      Gereon Hüttmann
+
+      主讲人Prof
+
+      2024年9月22日 15:00-16:00
+
+      吕志和楼B101室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/74616dc6185a4f9a80aa9c39be8223a1.htm
+    info: '讲座主题
+
+      生物医用光学传感器件
+
+      衣路英
+
+      主讲人研究员
+
+      2024年9月13日 13:30-15:00
+
+      科研二号楼B117'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      生物医用光学传感器件
+
+      衣路英
+
+      主讲人研究员
+
+      2024年9月13日 13:30-15:00
+
+      科研二号楼B117'
+  page_title: 北京大学未来技术学院
+  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161194.htm
-    info: '2024-09-19
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161263.htm
+    info: '25
 
-      【兴大报告669】Sequence-based design of small molecules targeting RNA structure'
+      Sep
+
+      应用数学青年讨论班（午餐会）—— Centauri: Enabling Efficient Scheduling for Communication-Computation
+      Overlap in Large Model Training via Communication Partitioning
+
+      时间：2024-09-25 11:45-13:00
+
+      报告人: 陈畅（北京大学前沿交叉学科研究院）'
     person: ''
     time: ''
-    title: 【兴大报告669】Sequence-based design of small molecules targeting RNA structure
+    title: '25
+
+      Sep
+
+      应用数学青年讨论班（午餐会）—— Centauri: Enabling Efficient Scheduling for Communication-Computation
+      Overlap in Large Model Training via Communication Partitioning
+
+      时间：2024-09-25 11:45-13:00
+
+      报告人: 陈畅（北京大学前沿交叉学科研究院）'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161193.htm
-    info: '2024-09-19
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161268.htm
+    info: '26
 
-      【兴大报告668】From novel antimalarials to next generation Antibody-Drug Conjugate
-      payloads'
+      Sep
+
+      Simultaneous inference for monotone and smoothly time-varying functions under
+      complex temporal dynamics
+
+      时间：2024-9-26 14:00-15:00
+
+      报告人: 吴未迟 (清华大学)'
     person: ''
     time: ''
-    title: 【兴大报告668】From novel antimalarials to next generation Antibody-Drug Conjugate
-      payloads
+    title: '26
+
+      Sep
+
+      Simultaneous inference for monotone and smoothly time-varying functions under
+      complex temporal dynamics
+
+      时间：2024-9-26 14:00-15:00
+
+      报告人: 吴未迟 (清华大学)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161138.htm
-    info: '2024-09-16
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161257.htm
+    info: '10
 
-      【北京大学·大学堂】Two reports by prof. John F. Hartwig'
+      Oct
+
+      Covariate adjustment in randomized experiments with missing outcomes and covariates
+
+      时间：2024-10-10 15:00-16:00
+
+      报告人: Fan Li, Duke University'
     person: ''
     time: ''
-    title: 【北京大学·大学堂】Two reports by prof. John F. Hartwig
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161137.htm
-    info: '2024-09-15
+    title: '10
 
-      【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
-      Alkene Functionalization'
-    person: ''
-    time: ''
-    title: 【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
-      Alkene Functionalization
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      Oct
+
+      Covariate adjustment in randomized experiments with missing outcomes and covariates
+
+      时间：2024-10-10 15:00-16:00
+
+      报告人: Fan Li, Duke University'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/161176.htm
     info: '20
@@ -213,32 +360,77 @@
       时间：2024-09-18 09:00-10:00
 
       报告人: 张世宇（中国科学技术大学）'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161028.htm
+    href: https://scbb.pkusz.edu.cn/info/1027/3584.htm
+    info: '2024-09-19
+
+      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
+    person: ''
+    time: ''
+    title: '2024-09-19
+
+      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
+  page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
+  page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
+- page_info:
+  - address: ''
+    href: https://eecs.pku.edu.cn/info/1050/6469.htm
     info: '19
 
-      Sep
+      2024-09
 
-      机器学习与数据科学博士生系列论坛（第七十六期）—— Follow-the-Perturbed-Leader Achieves Best-of-Both-Worlds
-      for Bandit Problems
-
-      时间：2024-09-19 16:00-17:00
-
-      报告人: 詹景昕（北京大学）'
+      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
     person: ''
     time: ''
     title: '19
 
-      Sep
+      2024-09
 
-      机器学习与数据科学博士生系列论坛（第七十六期）—— Follow-the-Perturbed-Leader Achieves Best-of-Both-Worlds
-      for Bandit Problems
+      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
+  page_title: 讲座信息-北京大学信息科学技术学院
+  page_url: https://eecs.pku.edu.cn/index/jzxx.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161194.htm
+    info: '2024-09-19
 
-      时间：2024-09-19 16:00-17:00
+      【兴大报告669】Sequence-based design of small molecules targeting RNA structure'
+    person: ''
+    time: ''
+    title: 【兴大报告669】Sequence-based design of small molecules targeting RNA structure
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161193.htm
+    info: '2024-09-19
 
-      报告人: 詹景昕（北京大学）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+      【兴大报告668】From novel antimalarials to next generation Antibody-Drug Conjugate
+      payloads'
+    person: ''
+    time: ''
+    title: 【兴大报告668】From novel antimalarials to next generation Antibody-Drug Conjugate
+      payloads
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161138.htm
+    info: '2024-09-16
+
+      【北京大学·大学堂】Two reports by prof. John F. Hartwig'
+    person: ''
+    time: ''
+    title: 【北京大学·大学堂】Two reports by prof. John F. Hartwig
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161137.htm
+    info: '2024-09-15
+
+      【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
+      Alkene Functionalization'
+    person: ''
+    time: ''
+    title: 【有机化学OPSS学术报告】Heterocyclizations and Cross-Couplings Enabled by Stereocontrolled
+      Alkene Functionalization
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4111.html
@@ -457,60 +649,6 @@
       2024-09-20
 
       14:30 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiHtKF2
-    info: '[概率与统计] YU TAO
-
-      MAXIMUM BINOMIAL LIKELIHOOD METHOD FOR MULTIVARIATE MIXTURE DATA
-
-      2024-09-19
-
-      10:00 — 11:30'
-    person: ''
-    time: ''
-    title: '[概率与统计] YU TAO
-
-      MAXIMUM BINOMIAL LIKELIHOOD METHOD FOR MULTIVARIATE MIXTURE DATA
-
-      2024-09-19
-
-      10:00 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmFpKF2
-    info: '[偏微分方程] 王春朋 教授
-
-      LIPSCHITZ CONTINUITY OF TWO-DIMENSIONAL SUBSONIC-SONIC FLOWS
-
-      2024-09-14
-
-      13:30 — 14:30'
-    person: ''
-    time: ''
-    title: '[偏微分方程] 王春朋 教授
-
-      LIPSCHITZ CONTINUITY OF TWO-DIMENSIONAL SUBSONIC-SONIC FLOWS
-
-      2024-09-14
-
-      13:30 — 14:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmFtKF2
-    info: '[概率与统计] 白天衣
-
-      INTERSECTION EQUIVALENCE FOR SUM OF FRACTAL PERCOLATIONS
-
-      2024-09-14
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 白天衣
-
-      INTERSECTION EQUIVALENCE FOR SUM OF FRACTAL PERCOLATIONS
-
-      2024-09-14
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -603,139 +741,5 @@
     person: ''
     time: ''
     title: 眼用生物材料的构建及其在眼科疾病模型由的应用
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5077.html
-    info: 'CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
-
-      2024-09-13'
-    person: ''
-    time: ''
-    title: CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
   page_title: 上海交通大学药学院
   page_url: https://pharm.sjtu.edu.cn/report.html
-- page_info:
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/89f2cd868d8b4a2ab3f3f9f52f8ce151.htm
-    info: '讲座主题
-
-      The editorial process at Nature Metabolism
-
-      Alfredo Giménez-Cassina
-
-      主讲人PhD
-
-      2024年9月26日（星期四）下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      The editorial process at Nature Metabolism
-
-      Alfredo Giménez-Cassina
-
-      主讲人PhD
-
-      2024年9月26日（星期四）下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/8c5326b825be4b45af57c58d5435e226.htm
-    info: '讲座主题
-
-      Laser microbeam meets superresolution imaging
-
-      Alfred Vogel
-
-      主讲人Prof
-
-      2024年9月22日 14:00-15:00
-
-      吕志和楼B101室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Laser microbeam meets superresolution imaging
-
-      Alfred Vogel
-
-      主讲人Prof
-
-      2024年9月22日 14:00-15:00
-
-      吕志和楼B101室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/811ce679ac0a4540a6ff1b5fade72634.htm
-    info: '讲座主题
-
-      Holographic Tomographic Imaging of the Retina
-
-      Gereon Hüttmann
-
-      主讲人Prof
-
-      2024年9月22日 15:00-16:00
-
-      吕志和楼B101室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Holographic Tomographic Imaging of the Retina
-
-      Gereon Hüttmann
-
-      主讲人Prof
-
-      2024年9月22日 15:00-16:00
-
-      吕志和楼B101室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/74616dc6185a4f9a80aa9c39be8223a1.htm
-    info: '讲座主题
-
-      生物医用光学传感器件
-
-      衣路英
-
-      主讲人研究员
-
-      2024年9月13日 13:30-15:00
-
-      科研二号楼B117'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      生物医用光学传感器件
-
-      衣路英
-
-      主讲人研究员
-
-      2024年9月13日 13:30-15:00
-
-      科研二号楼B117'
-  page_title: 北京大学未来技术学院
-  page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/bbcd9fc10d4842babbef2037b3d4ac18.htm
-    info: '2024.09.13
-
-      On discovery and sensitivity in (photo) catalysis'
-    person: ''
-    time: ''
-    title: On discovery and sensitivity in (photo) catalysis
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/2e94eabf5a35491c87515aeb070afc82.htm
-    info: '2024.09.11
-
-      Reductive Dimetalation of Unsaturated Bonds'
-    person: ''
-    time: ''
-    title: Reductive Dimetalation of Unsaturated Bonds
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
