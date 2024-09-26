@@ -381,7 +381,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7063104
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7068128
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1583,74 +1583,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/161188.htm
-    info: '26
-
-      Sep
-
-      Duality for de Rham-Witt sheaves with ramification
-
-      时间：2024-09-26 09:00-11:00
-
-      报告人: 任飞 （University of Wuppertal）'
-    person: ''
-    time: ''
-    title: '26
-
-      Sep
-
-      Duality for de Rham-Witt sheaves with ramification
-
-      时间：2024-09-26 09:00-11:00
-
-      报告人: 任飞 （University of Wuppertal）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161268.htm
-    info: '26
-
-      Sep
-
-      Simultaneous inference for monotone and smoothly time-varying functions under
-      complex temporal dynamics
-
-      时间：2024-9-26 14:00-15:00
-
-      报告人: 吴未迟 (清华大学)'
-    person: ''
-    time: ''
-    title: '26
-
-      Sep
-
-      Simultaneous inference for monotone and smoothly time-varying functions under
-      complex temporal dynamics
-
-      时间：2024-9-26 14:00-15:00
-
-      报告人: 吴未迟 (清华大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161183.htm
-    info: '26
-
-      Sep
-
-      A priori interior estimates for special Lagrangian curvature equations
-
-      时间：2024-09-26 14:00-15:00
-
-      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '26
-
-      Sep
-
-      A priori interior estimates for special Lagrangian curvature equations
-
-      时间：2024-09-26 14:00-15:00
-
-      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/other/160907.htm
     info: '27
 
@@ -1672,6 +1604,28 @@
       时间：2024-09-27 10:00-11:00
 
       报告人: 蔡天新（浙江大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/161385.htm
+    info: '30
+
+      Sep
+
+      Quantum affine superalgebra for type $\mathfrak{osp}(2m+1|2n)$
+
+      时间：2024-09-30 13:30-14:30
+
+      报告人: 张红莲（上海大学）'
+    person: ''
+    time: ''
+    title: '30
+
+      Sep
+
+      Quantum affine superalgebra for type $\mathfrak{osp}(2m+1|2n)$
+
+      时间：2024-09-30 13:30-14:30
+
+      报告人: 张红莲（上海大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/160982.htm
     info: '30
@@ -1809,29 +1763,73 @@
 
       报告人: 童嘉骏 （北京大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161263.htm
-    info: '25
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161183.htm
+    info: '26
 
       Sep
 
-      应用数学青年讨论班（午餐会）—— Centauri: Enabling Efficient Scheduling for Communication-Computation
-      Overlap in Large Model Training via Communication Partitioning
+      A priori interior estimates for special Lagrangian curvature equations
 
-      时间：2024-09-25 11:45-13:00
+      时间：2024-09-26 14:00-15:00
 
-      报告人: 陈畅（北京大学前沿交叉学科研究院）'
+      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
     person: ''
     time: ''
-    title: '25
+    title: '26
 
       Sep
 
-      应用数学青年讨论班（午餐会）—— Centauri: Enabling Efficient Scheduling for Communication-Computation
-      Overlap in Large Model Training via Communication Partitioning
+      A priori interior estimates for special Lagrangian curvature equations
 
-      时间：2024-09-25 11:45-13:00
+      时间：2024-09-26 14:00-15:00
 
-      报告人: 陈畅（北京大学前沿交叉学科研究院）'
+      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/161188.htm
+    info: '26
+
+      Sep
+
+      Duality for de Rham-Witt sheaves with ramification
+
+      时间：2024-09-26 09:00-11:00
+
+      报告人: 任飞 （University of Wuppertal）'
+    person: ''
+    time: ''
+    title: '26
+
+      Sep
+
+      Duality for de Rham-Witt sheaves with ramification
+
+      时间：2024-09-26 09:00-11:00
+
+      报告人: 任飞 （University of Wuppertal）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161268.htm
+    info: '26
+
+      Sep
+
+      Simultaneous inference for monotone and smoothly time-varying functions under
+      complex temporal dynamics
+
+      时间：2024-9-26 14:00-15:00
+
+      报告人: 吴未迟 (清华大学)'
+    person: ''
+    time: ''
+    title: '26
+
+      Sep
+
+      Simultaneous inference for monotone and smoothly time-varying functions under
+      complex temporal dynamics
+
+      时间：2024-9-26 14:00-15:00
+
+      报告人: 吴未迟 (清华大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1977,6 +1975,209 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2442
+    info: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2397
+    info: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2380
+    info: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+    person: ''
+    time: ''
+    title: '11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2325
+    info: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+    person: ''
+    time: ''
+    title: '01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2295
+    info: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2275
+    info: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+    person: ''
+    time: ''
+    title: '28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2268
+    info: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+    person: ''
+    time: ''
+    title: '04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2267
+    info: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+    person: ''
+    time: ''
+    title: '20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2253
+    info: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+    person: ''
+    time: ''
+    title: '09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2211
+    info: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+    person: ''
+    time: ''
+    title: '25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动'
+  - address: ''
+    href: http://www.bio-x.cn/Web/Show/2199
+    info: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+    person: ''
+    time: ''
+    title: '22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室'
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/info/1046/3644.htm
@@ -2143,7 +2344,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 25 days ago
+      2024-09-01 14:00, a month ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -2194,7 +2395,7 @@
 
       University of Chicago
 
-      2024-09-01 14:00, 25 days ago
+      2024-09-01 14:00, a month ago
 
       Language AI for Viruses, Vaccines, and Drugs
 
@@ -2247,8 +2448,15 @@
     title: 查看更多
   - address: ''
     href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Liang Hong''s group published research on using a graph diffusion model
-      to generate sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
+    info: '上海交大自然科学研究院喜讯！
+
+      上海交通大学2024年“教书育人、科研创新”表彰大会在闵行校区陈瑞球楼顺利召开自然科学研究院金石、李磊、徐振礼荣获 “科研成果奖”二等奖；张镭荣获 “教书育人奖”三等奖。祝贺以上获奖老师！自然科学研究院/数学科学学院金石教授、李磊副教授和数学科学学院徐振礼教授的科研项目“粒子系统与分子动力学的随机快速算法及应用”荣获“科研成果奖”二等奖。自然科学研究院教授张镭荣获
+      “教书育人奖”三等奖。张镭，上海交通大学自然科学研究院教授、博士生导师、国家级青年人才。北京大学学士(1999)，中国科学院计算数学研究所硕士(2002)，加州理工学院计算数学博士(2002)。Max-Planck研究所(2007-
+
+      2024-09-26
+
+      Liang Hong''s group published research on using a graph diffusion model to generate
+      sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
 
       近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院/药学院洪亮团队周冰心研究员设计了一种扩散概率模型框架（CPDiffusion），成功设计并生成了具有增强活性的人工程序化内切核酸酶序列。这项突破性研究展示了深度学习在蛋白质工程领域的强大潜力，为蛋白质工程、生物技术、分子诊断等领域带来了新的应用前景。和现有的序列设计方法相比，该方法以极低的模型训练和数据成本学习蛋白质序列、结构和功能之间的隐含映射规则，生成多样化的蛋白质序列，并以极高的成功率通过湿实验验证，最终在两款超长的多结构域复杂功能蛋白（Kurthia
       massiliensis Ago和Pyrococcus furiosu
@@ -2286,20 +2494,18 @@
       Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
       Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，
 
-      2024-07-02
-
-      Bingxin Zhou''s group published their latest work on a bilevel optimization
-      mechanism for establishing optimal vector representations for noisy graph data上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
-
-      近日，上海国家应用数学中心（上海交通大学分中心）、自然科学研究院周冰心博士及其合作者结合谱图卷积算法和交替方向乘子算法开发开发双项优化机制，为含有大量节点和边噪音的图数据寻找可靠的向量表示方法，显著提升深度图神经网络在分类任务上的预测效果。此项研究成果以“Graph
-      Denoising with Framelet Regularizers”为题，于2024年4月24日发表在机器学习和人工智能领域顶级期刊IEEE Transactions
-      on Pattern Analysis and Machine Intelligence（文章链接：https://ieeexplore.ieee.org/d
-
-      2024-05-13'
+      2024-07-02'
     person: ''
     time: ''
-    title: 'Liang Hong''s group published research on using a graph diffusion model
-      to generate sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
+    title: '上海交大自然科学研究院喜讯！
+
+      上海交通大学2024年“教书育人、科研创新”表彰大会在闵行校区陈瑞球楼顺利召开自然科学研究院金石、李磊、徐振礼荣获 “科研成果奖”二等奖；张镭荣获 “教书育人奖”三等奖。祝贺以上获奖老师！自然科学研究院/数学科学学院金石教授、李磊副教授和数学科学学院徐振礼教授的科研项目“粒子系统与分子动力学的随机快速算法及应用”荣获“科研成果奖”二等奖。自然科学研究院教授张镭荣获
+      “教书育人奖”三等奖。张镭，上海交通大学自然科学研究院教授、博士生导师、国家级青年人才。北京大学学士(1999)，中国科学院计算数学研究所硕士(2002)，加州理工学院计算数学博士(2002)。Max-Planck研究所(2007-
+
+      2024-09-26
+
+      Liang Hong''s group published research on using a graph diffusion model to generate
+      sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
 
       近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院/药学院洪亮团队周冰心研究员设计了一种扩散概率模型框架（CPDiffusion），成功设计并生成了具有增强活性的人工程序化内切核酸酶序列。这项突破性研究展示了深度学习在蛋白质工程领域的强大潜力，为蛋白质工程、生物技术、分子诊断等领域带来了新的应用前景。和现有的序列设计方法相比，该方法以极低的模型训练和数据成本学习蛋白质序列、结构和功能之间的隐含映射规则，生成多样化的蛋白质序列，并以极高的成功率通过湿实验验证，最终在两款超长的多结构域复杂功能蛋白（Kurthia
       massiliensis Ago和Pyrococcus furiosu
@@ -2337,16 +2543,7 @@
       Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
       Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，
 
-      2024-07-02
-
-      Bingxin Zhou''s group published their latest work on a bilevel optimization
-      mechanism for establishing optimal vector representations for noisy graph data上海交通大学周冰心及其合作者发表为有噪图数据建立最优向量表示方法的双项优化机制
-
-      近日，上海国家应用数学中心（上海交通大学分中心）、自然科学研究院周冰心博士及其合作者结合谱图卷积算法和交替方向乘子算法开发开发双项优化机制，为含有大量节点和边噪音的图数据寻找可靠的向量表示方法，显著提升深度图神经网络在分类任务上的预测效果。此项研究成果以“Graph
-      Denoising with Framelet Regularizers”为题，于2024年4月24日发表在机器学习和人工智能领域顶级期刊IEEE Transactions
-      on Pattern Analysis and Machine Intelligence（文章链接：https://ieeexplore.ieee.org/d
-
-      2024-05-13'
+      2024-07-02'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
@@ -2850,6 +3047,24 @@
 
       10:30 — 12:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuHtKF2
+    info: '[动力系统与数学物理] JAUME LLIBRE 院士
+
+      HOPF BIFURCATION OF LIMIT CYCLES SURROUNDING A NODE
+
+      2024-09-29
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[动力系统与数学物理] JAUME LLIBRE 院士
+
+      HOPF BIFURCATION OF LIMIT CYCLES SURROUNDING A NODE
+
+      2024-09-29
+
+      10:00 — 11:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuF2qF2
     info: '[动力系统与数学物理] PROFESSOR ANDY HONE
 
@@ -2885,27 +3100,15 @@
       2024-09-24
 
       10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipiHpKF2
-    info: '[偏微分方程] ARMIN SCHIKORRA
-
-      ON CALDERON-ZYGMUND THEORY FOR THE P-LAPLACIAN
-
-      2024-09-20
-
-      16:00 — 17:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] ARMIN SCHIKORRA
-
-      ON CALDERON-ZYGMUND THEORY FOR THE P-LAPLACIAN
-
-      2024-09-20
-
-      16:00 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
+  - address: ''
+    href: null
+    info: 物理学院盛政明学术报告的通知（School of Physics Colloquium）
+    person: ''
+    time: ''
+    title: 物理学院盛政明学术报告的通知（School of Physics Colloquium）
   - address: ''
     href: null
     info: 【化学系】启真化学大讲堂：李灿院士（中国科学院大连化学物理研究所）
@@ -2932,15 +3135,35 @@
     time: ''
     title: '【双脑中心大师讲堂】A Behind-the-Scenes Look at the  Peer-Review process:  Publishing
       with Neuron and Cell Press——Zirlinger, Mariela'
-  - address: ''
-    href: null
-    info: 【动科学院】特邀学术报告-高帅教授学术报告
-    person: ''
-    time: ''
-    title: 【动科学院】特邀学术报告-高帅教授学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/0926/c26342a2967757/page.htm
+    info: '学业领航 | 境外升学指导专场
+
+      【主讲人：李老师】
+
+      时间：14:00
+
+      地点：学院245报告厅
+
+      2024-09-27
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '学业领航 | 境外升学指导专场
+
+      【主讲人：李老师】
+
+      时间：14:00
+
+      地点：学院245报告厅
+
+      2024-09-27
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0924/c26342a2966541/page.htm
     info: '生命科学启真讲坛-- 谢琦博士学术报告
@@ -3199,32 +3422,6 @@
       地点：生命科学学院245报告厅
 
       2024-06-15
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0604/c26342a2928395/page.htm
-    info: '生命科学学院系列学术讲座--李亦平教授学术报告
-
-      【主讲人：李亦平】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-06
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--李亦平教授学术报告
-
-      【主讲人：李亦平】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-06
 
       查看详情+'
   page_title: 活动预告
