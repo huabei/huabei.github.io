@@ -1,74 +1,5 @@
 ﻿- page_info:
   - address: ''
-    href: https://math.csu.edu.cn/info/1736/13266.htm
-    info: "于华南教授学术报告\n 2024年09月25日 "
-    person: ''
-    time: ''
-    title: 于华南教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13246.htm
-    info: "Caixing Gu教授学术报告\n 2024年09月12日 "
-    person: ''
-    time: ''
-    title: Caixing Gu教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13244.htm
-    info: "徐振礼教授学术报告\n 2024年09月11日 "
-    person: ''
-    time: ''
-    title: 徐振礼教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13243.htm
-    info: "何岱海教授学术报告\n 2024年09月11日 "
-    person: ''
-    time: ''
-    title: ' 何岱海教授学术报告'
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13235.htm
-    info: "洪桂祥教授学术报告\n 2024年09月06日 "
-    person: ''
-    time: ''
-    title: 洪桂祥教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13232.htm
-    info: "刘公祥教授学术报告\n 2024年09月05日 "
-    person: ''
-    time: ''
-    title: 刘公祥教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13231.htm
-    info: "胡胜龙教授学术报告\n 2024年09月05日 "
-    person: ''
-    time: ''
-    title: 胡胜龙教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13230.htm
-    info: "胡耀华教授学术报告\n 2024年09月05日 "
-    person: ''
-    time: ''
-    title: 胡耀华教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13228.htm
-    info: "寻找第四类数值方法\n 2024年09月03日 "
-    person: ''
-    time: ''
-    title: 寻找第四类数值方法
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13227.htm
-    info: "Xinyuan Song教授学术报告\n 2024年09月02日 "
-    person: ''
-    time: ''
-    title: Xinyuan Song教授学术报告
-  - address: ''
-    href: https://math.csu.edu.cn/info/1736/13204.htm
-    info: "基于非单调Lyapunov函数的切换系统可稳定性分析\n 2024年08月02日 "
-    person: ''
-    time: ''
-    title: 基于非单调Lyapunov函数的切换系统可稳定性分析
-  page_title: 学术交流-中南大学数学与统计学院
-  page_url: https://math.csu.edu.cn/kxyj/xsjl.htm
-- page_info:
-  - address: ''
     href: https://cse.csu.edu.cn/info/1041/9846.htm
     info: '清华大学李建教授学术报告
 
@@ -161,92 +92,140 @@
 - page_info:
   - address: ''
     href: https://ymsc.tsinghua.edu.cn/info/1047/2976.htm
-    info: 'Birational Geometry I
+    info: '公开课
 
-      Caucher Birkar'
+      中心教师除在数学系承担教学任务之外，还在中心开设公开课（无学分），内容涵盖代数、数论、拓扑、几何、几何分析、成像科学、计算数学、应用数学、数学物理、统计学等多个数学领域及交叉学科的前沿问题，面向校内外同学开放。
+
+      课程名称
+
+      任课教师
+
+      Birational Geometry I
+
+      Caucher Birkar
+
+      An introduction to p-adic period domains
+
+      Heng Du
+
+      Creative Problem Solving
+
+      Cezar LUPU (BIMSA)
+
+      An Introduction to the Calderón Problem
+
+      Li Li
+
+      Introduction to 4-dimensional Seiberg-Witten theory
+
+      Weifeng Sun
+
+      Comparison Geometry
+
+      Zhifei Zhu
+
+      Quantum Scientific Computation and Quantum Artificial Intelligence
+
+      Jin-Peng Liu
+
+      【2024秋】Introduction and overview of symplectic geometry
+
+      Kenji Fukaya
+
+      【2024春】Causal inference
+
+      Per Johansson
+
+      The Hodge-Tate period map on the perfectoid Shimura variety
+
+      Yihang Zhu
+
+      Econometric analysis of cross section and panel data
+
+      Per Johansson
+
+      Introduction to Geometric Langlands Theory
+
+      Lin Chen
+
+      Quantum information and computation
+
+      Zi-Wen Liu
+
+      Mathematical study on metamaterial and its applications
+
+      Hongjie LI
+
+      High-Dimensional Statistical Learning Theory
+
+      Yuhong Yang
+
+      Introduction to cluster algebras
+
+      Dylan Allegretti
+
+      【2023秋】Game theory
+
+      Yuval Peres
+
+      Topics in Statistical Theory
+
+      Yannis Yatracos
+
+      Statistical Topics with Missing Data
+
+      Donald Rubin
+
+      【2023春】Causal inference for statistics, social and biomedical sciences I
+
+      Per Johansson
+
+      Matched Sampling for Causal Inference
+
+      Donald Rubin
+
+      Topics in Statistics and Data Science
+
+      Yannis Yatracos
+
+      Econometric analysis of cross section and panel data
+
+      Per Johansson
+
+      Deep Generative Models
+
+      Xie Pengtao
+
+      Introduction to Eigenfunctions of the Laplacian
+
+      Zhang Cheng
+
+      Random Walks and Homogenization Theory
+
+      Gu Chenlin
+
+      Introduction to contact topology
+
+      Gao Honghao
+
+      Statistical Theory
+
+      Yang Fan (F）
+
+      Topics in random matrix theory
+
+      Yang Fan (M)
+
+      Introduction to geometric representation theory
+
+      Su Changjian
+
+      【2022秋】Topics in p-adic Hodge theory
+
+      Koji Shimizu'
     person: ''
     time: ''
     title: Birational Geometry I
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3897.htm
-    info: 'Creative Problem Solving
-
-      Cezar LUPU (BIMSA)'
-    person: ''
-    time: ''
-    title: Creative Problem Solving
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3853.htm
-    info: 'An Introduction to the Calderón Problem
-
-      Li Li'
-    person: ''
-    time: ''
-    title: An Introduction to the Calderón Problem
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3871.htm
-    info: 'Introduction to 4-dimensional Seiberg-Witten theory
-
-      Weifeng Sun'
-    person: ''
-    time: ''
-    title: Introduction to 4-dimensional Seiberg-Witten theory
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3845.htm
-    info: 'Comparison Geometry
-
-      Zhifei Zhu'
-    person: ''
-    time: ''
-    title: Comparison Geometry
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3834.htm
-    info: 'Quantum Scientific Computation and Quantum Artificial Intelligence
-
-      Jin-Peng Liu'
-    person: ''
-    time: ''
-    title: Quantum Scientific Computation and Quantum Artificial Intelligence
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3829.htm
-    info: '【2024秋】Introduction and overview of symplectic geometry
-
-      Kenji Fukaya'
-    person: ''
-    time: ''
-    title: 【2024秋】Introduction and overview of symplectic geometry
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3618.htm
-    info: '【2024春】Causal inference
-
-      Per Johansson'
-    person: ''
-    time: ''
-    title: 【2024春】Causal inference
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3381.htm
-    info: 'The Hodge-Tate period map on the perfectoid Shimura variety
-
-      Yihang Zhu'
-    person: ''
-    time: ''
-    title: The Hodge-Tate period map on the perfectoid Shimura variety
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3380.htm
-    info: 'Econometric analysis of cross section and panel data
-
-      Per Johansson'
-    person: ''
-    time: ''
-    title: Econometric analysis of cross section and panel data
-  - address: ''
-    href: https://ymsc.tsinghua.edu.cn/info/1047/3378.htm
-    info: 'Introduction to Geometric Langlands Theory
-
-      Lin Chen'
-    person: ''
-    time: ''
-    title: Introduction to Geometric Langlands Theory
   page_title: 近期公开课-清华大学数学科学中心
   page_url: https://ymsc.tsinghua.edu.cn/xshd/zxgkk/jqgkk.htm
 - page_info:
@@ -381,7 +360,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7076505
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7082172
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -564,119 +543,11 @@
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3587.htm
-    info: '2024-09-25
-
-      Special Seminar-2024.9.27星期五(14:00-16:00，D阶)-谢晓亮院士'
+    href: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
+    info: ''
     person: ''
     time: ''
-    title: '2024-09-25
-
-      Special Seminar-2024.9.27星期五(14:00-16:00，D阶)-谢晓亮院士'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3584.htm
-    info: '2024-09-19
-
-      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
-    person: ''
-    time: ''
-    title: '2024-09-19
-
-      Special Seminar-2024.9.26星期四(15:30-17:00，C105)-John F Hartwig 教授'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3573.htm
-    info: '2024-09-09
-
-      Special Seminar-2024.9.12星期四(10:30-12:00，D阶教室)-复旦大学-姜世勃 教授'
-    person: ''
-    time: ''
-    title: '2024-09-09
-
-      Special Seminar-2024.9.12星期四(10:30-12:00，D阶教室)-复旦大学-姜世勃 教授'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3568.htm
-    info: '2024-07-15
-
-      2024.7.19 星期五 (16：00-17：00，F东101)-芝加哥大学-张桢润'
-    person: ''
-    time: ''
-    title: '2024-07-15
-
-      2024.7.19 星期五 (16：00-17：00，F东101)-芝加哥大学-张桢润'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3557.htm
-    info: '2024-07-05
-
-      Frontiers in Oncology Lectureship-Special Seminar on July 8, 2024(16:00-17:00，C203)—Professor
-      Peng Wu（Scripps Research'
-    person: ''
-    time: ''
-    title: '2024-07-05
-
-      Frontiers in Oncology Lectureship-Special Seminar on July 8, 2024(16:00-17:00，C203)—Professor
-      Peng Wu（Scripps Research'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3551.htm
-    info: '2024-06-19
-
-      Special Seminar-2024.6.21(08:30-17:30，D阶教室)-第二届疾病靶点研究与新药研发博士生学术会议'
-    person: ''
-    time: ''
-    title: '2024-06-19
-
-      Special Seminar-2024.6.21(08:30-17:30，D阶教室)-第二届疾病靶点研究与新药研发博士生学术会议'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3545.htm
-    info: '2024-06-13
-
-      Special Seminar-2024.6.19(10:30-12:00，F东101)-南方科技大学-徐明华 教授'
-    person: ''
-    time: ''
-    title: '2024-06-13
-
-      Special Seminar-2024.6.19(10:30-12:00，F东101)-南方科技大学-徐明华 教授'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3538.htm
-    info: '2024-05-20
-
-      2024 年第二届疾病靶点研究与新药研发博士生学术会议第一轮会议通知'
-    person: ''
-    time: ''
-    title: '2024-05-20
-
-      2024 年第二届疾病靶点研究与新药研发博士生学术会议第一轮会议通知'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3537.htm
-    info: '2024-05-20
-
-      讲座-2024.5.20(16:00-17:00，C105)-苏州纳微科技股份有限公司-江必旺博士'
-    person: ''
-    time: ''
-    title: '2024-05-20
-
-      讲座-2024.5.20(16:00-17:00，C105)-苏州纳微科技股份有限公司-江必旺博士'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3532.htm
-    info: '2024-05-08
-
-      Special Seminar-2024.5.15(10：00-12：00，C105)-北京大学药学院-黄卓研究员'
-    person: ''
-    time: ''
-    title: '2024-05-08
-
-      Special Seminar-2024.5.15(10：00-12：00，C105)-北京大学药学院-黄卓研究员'
-  - address: ''
-    href: https://scbb.pkusz.edu.cn/info/1027/3530.htm
-    info: '2024-05-06
-
-      Special Seminar-2024.5.7(11:00-12:10，F东101)-Brigham Young University-Steven
-      L. Castle'
-    person: ''
-    time: ''
-    title: '2024-05-06
-
-      Special Seminar-2024.5.7(11:00-12:10，F东101)-Brigham Young University-Steven
-      L. Castle'
+    title: ''
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
@@ -776,81 +647,164 @@
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2985.htm
-    info: '人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geo…
+    href: https://bicmr.pku.edu.cn/content/show/18-3434.html?catid=KiQhKyYs
+    info: 'Seminars and Colloquium
 
-      报  告 人：李攀               助理教授                    Georgia Tech. ECE department主  持
-      人：张牧涵 助理教授                   北京大学人工智能研究院时      间：2024年8月14日 10:30-11:45地      址：北京大学资源西楼2201会议室        腾讯会议：185-749-537报告题目：Towards
-      Efficient and Robust Graph and Geometric Machine Learning报告摘要：The application
-      of Graph Machine Learning (GML) and Geo...
+      2024
 
-      2024-08-09'
+      Oct.28
+
+      Colloquium  |  Upcoming
+
+      Designing conservative and accurately dissipative numerical integrators in time
+
+      Speakers : Patrick Farrell (Mathematical Institute, University of Oxford)
+
+      2024
+
+      Oct.28
+
+      PDE/Analysis  |  Upcoming
+
+      Steady Contiguous Vortex-Patch Dipole Solutions of the 2D Incompressible Euler
+      Equation
+
+      Speakers : Jiajun Tong(Peking University)
+
+      2024
+
+      Oct.22
+
+      Symplectic Geometry and Mathematical Physics  |  Upcoming
+
+      A Quantum H*(T)-module via Quasimap Invariants
+
+      Speakers : Jae Hwang Lee (BICMR)
+
+      2024
+
+      Oct.15
+
+      Symplectic Geometry and Mathematical Physics  |  Upcoming
+
+      Non-commutative resolutions and periods of singular Calabi-Yau
+
+      Speakers : Leonardo Santilli (YMSC)
+
+      2024
+
+      Oct.10
+
+      Others  |  Upcoming
+
+      A statistical framework for powerful multi-trait rare variant analysis in large-scale
+      whole-genome sequencing ...
+
+      Speakers : Zilin Li(Northeast Normal University)
+
+      2024
+
+      Oct.02
+
+      Dynamical Systems  |  Recent
+
+      Thermodynamic Formalism at Zero Temperature
+
+      Speakers : Jairo Mengue (University Federal do Rio Grande do Sul)
+
+      2024
+
+      Sep.26
+
+      Analysis Research Interaction Team
+
+      Global Solution of a Functional Hamilton-Jacobi Equation associated with a Hard
+      Sphere Gas
+
+      Speakers : Chenjiayue Qi (IHES and University of Paris-Saclay)
+
+      2024
+
+      Sep.25
+
+      Algebraic Geometry
+
+      Abundance for Threefolds in Positive Characteristic
+
+      Speakers : Zheng Xu (BICMR)
+
+      2024
+
+      Sep.25
+
+      Algebra
+
+      A Plethora of Murnaghan-Nakayama Rules
+
+      Speakers : Ning Liu (BICMR)
+
+      2024
+
+      Sep.24
+
+      Colloquium
+
+      后量子密码的数学基础
+
+      Speakers : Chuanming Zong(Tianjin University)
+
+      Pre12345678910Next
+
+      EVENTS
+
+      Conference
+
+      Mini-Course
+
+      Colloquium
+
+      Seminars
+
+      Algebra
+
+      Analysis Research Interaction Team
+
+      Algebraic Geometry
+
+      Applied & Computational Math
+
+      Bio-Math Seminar
+
+      Computational Method
+
+      Dynamical Systems
+
+      Eastern Hemisphere Colloquium on Geometry and Physics
+
+      Geometric Analysis
+
+      Mathematical Imaging Science
+
+      Number Theory
+
+      Operations Research
+
+      PDE/Analysis
+
+      Postdoc Seminar
+
+      Probability and Stochastic Process
+
+      Representation Theory and Quantum Math
+
+      Symplectic Geometry and Mathematical Physics
+
+      Topology
+
+      Others'
     person: ''
     time: ''
-    title: 人工智能学科交叉讲座系列第【31】期：Towards Efficient and Robust Graph and Geometric Machine
-      Learning
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2803.htm
-    info: '人工智能学科交叉讲座系列第【30】期：Edge Intelligence for the Next-generation …
-
-      报  告 人：Giancarlo Fortino                Full Professor                University
-      of Calabria主  持 人：谭营                智能学院 时      间：2024年7月23日 10:00-11:00地      址：北京大学理科二号楼
-      2736 报告厅       腾讯会议：619-571-163 报告题目：      Edge Intelligence for the Next-generation
-      IoT Systems 报告摘要:          Giancarlo Fortino (IEEE Fellow 2022) is Full Professor
-      of Comput...
-
-      2024-07-13'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【30】期：Edge Intelligence for the Next-generation IoT Systems
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2784.htm
-    info: '人工智能学科交叉讲座系列第【28】期：走向灵活推理 将大语言模型作为非正式逻辑程…
-
-      报  告 人：梅洪源               研究助理教授                    芝加哥丰田技术学院主  持 人：林宙辰 教授                    北京大学智能学院、工智能研究院时      间：2024年6月14日
-      10:00-11:00地      址：燕园校区理科二号楼2736报告厅                 新燕园校区教学楼102教室        腾讯会议：375-710-564
-      报告题目： 走向灵活推理：将大语言模型作为非正式逻辑程序 报告摘要:           正式逻辑程序（formal...
-
-      2024-06-09'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【28】期：走向灵活推理  将大语言模型作为非正式逻辑程序
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2793.htm
-    info: '人工智能学科交叉讲座系列第【27】期：From Deep Reinforcement Learning to LLM-ba…
-
-      报  告 人：Stefano V. Albrecht                         Associate Professor                         University
-      of Edinburgh主  持 人：杨耀东 教授                     北京大学人工智能研究院时      间：2024年6月14日
-      10:00-11:00地      址：北京大学镜春园 79 号甲多功能教室        腾讯会议：186-375-430报告题目： From Deep
-      Reinforcement Learning to LLM-based Agents:   Perspectives on Current Research
-      ...
-
-      2024-06-06'
-    person: ''
-    time: ''
-    title: '人工智能学科交叉讲座系列第【27】期：From Deep Reinforcement Learning to LLM-based Agents:   Perspectives
-      on Current Research'
-  - address: ''
-    href: http://www.ai.pku.edu.cn/info/1054/2813.htm
-    info: '人工智能学科交叉讲座系列第【25】期：非结构化环境中机器人智能操作
-
-      报  告 人：徐静                       长聘副教授                      清华大学 主  持 人：林宙辰 教授                      北京大学智能学院、人工智能研究院时      间：2024年
-      4月11日周四上午10-11点地      址：燕园校区理科二号楼2736报告厅                       新燕园校区教学楼108教室       腾讯会议：547-585-909
-      报告题目：      非结构化环境中机器人智能操作 报告摘要:   目前工业机器人已广泛应用于...
-
-      2024-04-09'
-    person: ''
-    time: ''
-    title: 人工智能学科交叉讲座系列第【25】期：非结构化环境中机器人智能操作
-  page_title: 学术讲座-北京大学人工智能研究院
-  page_url: http://www.ai.pku.edu.cn/kxyj1/xsjz.htm
-- page_info:
-  - address: ''
-    href: javascript:;
-    info: Pre12345678910Next
-    person: ''
-    time: ''
-    title: Pre
+    title: Colloquium
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
@@ -1213,274 +1167,115 @@
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
   - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6491.htm
-    info: '25
+    href: https://eecs.pku.edu.cn/index/jzxx.htm
+    info: '学院首页
+
+      新闻动态
+
+      讲座信息
+
+      毕业合影
+
+      讲座信息
+
+      当前位置: 学院首页 ) 讲座信息
+
+      25
 
       2024-09
 
-      知存讲座第二十五期：智能新纪元-走进大模型的世界'
-    person: ''
-    time: ''
-    title: '25
+      知存讲座第二十五期：智能新纪元-走进大模型的世界
+
+      19
 
       2024-09
 
-      知存讲座第二十五期：智能新纪元-走进大模型的世界'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6469.htm
-    info: '19
+      知存讲座第二十四期：针对多模态大模型的芯片设计探索
 
-      2024-09
-
-      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
-    person: ''
-    time: ''
-    title: '19
-
-      2024-09
-
-      知存讲座第二十四期：针对多模态大模型的芯片设计探索'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6291.htm
-    info: '06
+      06
 
       2024-06
 
-      信科“E席谈”青年学术沙龙（第二十五期）——科研创新的钥匙：如何提问'
-    person: ''
-    time: ''
-    title: '06
+      信科“E席谈”青年学术沙龙（第二十五期）——科研创新的钥匙：如何提问
 
-      2024-06
-
-      信科“E席谈”青年学术沙龙（第二十五期）——科研创新的钥匙：如何提问'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6284.htm
-    info: '30
+      30
 
       2024-05
 
-      大语言模型（LLM）科普荟主题讲座暨第二十四期信科“E席谈”青年学术沙龙'
-    person: ''
-    time: ''
-    title: '30
+      大语言模型（LLM）科普荟主题讲座暨第二十四期信科“E席谈”青年学术沙龙
+
+      22
 
       2024-05
 
-      大语言模型（LLM）科普荟主题讲座暨第二十四期信科“E席谈”青年学术沙龙'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6251.htm
-    info: '22
+      信科“E席谈”青年学术沙龙（第二十三期）——压电超声传感器：小尺寸，大作为
+
+      15
 
       2024-05
 
-      信科“E席谈”青年学术沙龙（第二十三期）——压电超声传感器：小尺寸，大作为'
-    person: ''
-    time: ''
-    title: '22
+      信科“E席谈”青年学术沙龙（第二十二期）——面向通用任务的智能网络
+
+      08
 
       2024-05
 
-      信科“E席谈”青年学术沙龙（第二十三期）——压电超声传感器：小尺寸，大作为'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6227.htm
-    info: '15
+      信科“E席谈”青年学术沙龙（第二十一期）——既然是梦想，干脆做大点的！
+
+      06
 
       2024-05
 
-      信科“E席谈”青年学术沙龙（第二十二期）——面向通用任务的智能网络'
-    person: ''
-    time: ''
-    title: '15
+      北京大学显示技术系列讲座第6期——Micro-LED芯片技术与集成技术
 
-      2024-05
-
-      信科“E席谈”青年学术沙龙（第二十二期）——面向通用任务的智能网络'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6218.htm
-    info: '08
-
-      2024-05
-
-      信科“E席谈”青年学术沙龙（第二十一期）——既然是梦想，干脆做大点的！'
-    person: ''
-    time: ''
-    title: '08
-
-      2024-05
-
-      信科“E席谈”青年学术沙龙（第二十一期）——既然是梦想，干脆做大点的！'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6210.htm
-    info: '06
-
-      2024-05
-
-      北京大学显示技术系列讲座第6期——Micro-LED芯片技术与集成技术'
-    person: ''
-    time: ''
-    title: '06
-
-      2024-05
-
-      北京大学显示技术系列讲座第6期——Micro-LED芯片技术与集成技术'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6191.htm
-    info: '25
+      25
 
       2024-04
 
-      信科“E席谈”青年学术沙龙（第二十期）——集成光学与光电融合'
+      信科“E席谈”青年学术沙龙（第二十期）——集成光学与光电融合
+
+      18
+
+      2024-04
+
+      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT
+
+      10
+
+      2024-04
+
+      信科“E席谈”青年学术沙龙（第十八期）——科研就是讲故事
+
+      07
+
+      2024-04
+
+      北京大学显示技术系列讲座第5期——大尺寸LCD显示画质提升技术
+
+      27
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十七期）——STEEPPING OUT OF THE COMFORT ZONE TO CHALLENGE THE UNKNOWN
+
+      20
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十六期）——群智感知与城市计算
+
+      13
+
+      2024-03
+
+      信科“E席谈”青年学术沙龙（第十五期）——我如何走上图形学的研究道路
+
+      首页上页12345...12下页尾页'
     person: ''
     time: ''
-    title: '25
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第二十期）——集成光学与光电融合'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6174.htm
-    info: '18
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十九期）——WORK HARDER, THINK AND THINK DIFFERENT'
-  - address: ''
-    href: https://eecs.pku.edu.cn/info/1050/6147.htm
-    info: '10
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十八期）——科研就是讲故事'
-    person: ''
-    time: ''
-    title: '10
-
-      2024-04
-
-      信科“E席谈”青年学术沙龙（第十八期）——科研就是讲故事'
+    title: 讲座信息
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
-- page_info:
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17144.html
-    info: '2024.06.07
-
-      Decipher the Epigenetic Code in Health and Disease'
-    person: ''
-    time: ''
-    title: '2024.06.07
-
-      Decipher the Epigenetic Code in Health and Disease'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17128.html
-    info: '2024.05.30
-
-      Visualization of Transcription Initiation'
-    person: ''
-    time: ''
-    title: '2024.05.30
-
-      Visualization of Transcription Initiation'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17115.html
-    info: '2024.05.24
-
-      Mismatch repair deficiency in cancer and cancer therapy'
-    person: ''
-    time: ''
-    title: '2024.05.24
-
-      Mismatch repair deficiency in cancer and cancer therapy'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17103.html
-    info: '2024.05.17
-
-      The Plasticity of Eukaryotic Genomes'
-    person: ''
-    time: ''
-    title: '2024.05.17
-
-      The Plasticity of Eukaryotic Genomes'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17051.html
-    info: '2024.04.26
-
-      类固醇激素膜受体亚家族的发现和GPCR的微环境药理学'
-    person: ''
-    time: ''
-    title: '2024.04.26
-
-      类固醇激素膜受体亚家族的发现和GPCR的微环境药理学'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17041.html
-    info: '2024.04.19
-
-      哺乳动物生命孕育'
-    person: ''
-    time: ''
-    title: '2024.04.19
-
-      哺乳动物生命孕育'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/17022.html
-    info: '2024.04.12
-
-      The essentials of sepsis study - Cultivative or lost 40 years'
-    person: ''
-    time: ''
-    title: '2024.04.12
-
-      The essentials of sepsis study - Cultivative or lost 40 years'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16987.html
-    info: '2024.03.29
-
-      The roles and features of microglia in the brain: the expected and unexpected'
-    person: ''
-    time: ''
-    title: '2024.03.29
-
-      The roles and features of microglia in the brain: the expected and unexpected'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16938.html
-    info: '2024.03.01
-
-      超级疫苗--理论假说与研究实践'
-    person: ''
-    time: ''
-    title: '2024.03.01
-
-      超级疫苗--理论假说与研究实践'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16888.html
-    info: '2023.12.22
-
-      Translational Chemical Biology'
-    person: ''
-    time: ''
-    title: '2023.12.22
-
-      Translational Chemical Biology'
-  - address: ''
-    href: https://www.bio.pku.edu.cn/homes/Index/news_cont/29/16875.html
-    info: '2023.12.15
-
-      阿尔茨海默病发病机制和药物研发进展'
-    person: ''
-    time: ''
-    title: '2023.12.15
-
-      阿尔茨海默病发病机制和药物研发进展'
-  page_title: 北京大学生命科学学院
-  page_url: http://www.bio.pku.edu.cn/homes/Index/news_jz/29/29.html
 - page_info:
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/161444.htm
@@ -1974,8 +1769,26 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3644.htm
-    info: '25
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: '学术活动
+
+      讲座报告
+
+      学术会议
+
+      合作交流
+
+      讲座报告
+
+      首页 / 学术活动 / 讲座报告
+
+      25
 
       Sep
 
@@ -1983,13 +1796,9 @@
 
       报告人：邬家臻  副教授 南方科技大学
 
-      报告时间：2024年9月25号（星期三）15:00-16:00'
-    person: ''
-    time: ''
-    title: 金属间电子化物的结构调控与催化应用研究
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3634.htm
-    info: '25
+      报告时间：2024年9月25号（星期三）15:00-16:00
+
+      25
 
       Sep
 
@@ -1997,13 +1806,9 @@
 
       报告人：Prof. Yoji Kobayashi
 
-      报告时间：2024年 9月25号（星期三）14:00-15:00'
-    person: ''
-    time: ''
-    title: Managing anions and electrons in solids for reactivity and catalysis
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3564.htm
-    info: '19
+      报告时间：2024年 9月25号（星期三）14:00-15:00
+
+      19
 
       Sep
 
@@ -2011,13 +1816,9 @@
 
       报告人：Prof. Hideki Yorimitsu
 
-      报告时间：2024年9月19日 15:30-17:00'
-    person: ''
-    time: ''
-    title: Reductive Dimetalation of Unsaturated Bonds
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3554.htm
-    info: '10
+      报告时间：2024年9月19日 15:30-17:00
+
+      10
 
       Sep
 
@@ -2025,13 +1826,9 @@
 
       报告人：Leow Wan Ru 教授
 
-      报告时间：2024年9月10号 16:00-17:30'
-    person: ''
-    time: ''
-    title: 可再生能源驱动的部分氧化反应
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3534.htm
-    info: '9
+      报告时间：2024年9月10号 16:00-17:30
+
+      9
 
       Sep
 
@@ -2039,13 +1836,9 @@
 
       报告人：王旭斌 博士
 
-      报告时间：2024年9月9日15:00-16:30'
-    person: ''
-    time: ''
-    title: Publishing in Nature Communications
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3484.htm
-    info: '6
+      报告时间：2024年9月9日15:00-16:30
+
+      6
 
       Sep
 
@@ -2053,13 +1846,9 @@
 
       报告人：余达刚  教授
 
-      报告时间：2024年9月6日 16:00-17:30'
-    person: ''
-    time: ''
-    title: 二氧化碳参与的有机合成化学
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3524.htm
-    info: '6
+      报告时间：2024年9月6日 16:00-17:30
+
+      6
 
       Sep
 
@@ -2067,13 +1856,9 @@
 
       报告时间：徐海超 教授
 
-      报告时间：2024年9月6日 14:30-16:00'
-    person: ''
-    time: ''
-    title: 有机电合成方法与技术
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3494.htm
-    info: '5
+      报告时间：2024年9月6日 14:30-16:00
+
+      5
 
       Sep
 
@@ -2081,13 +1866,9 @@
 
       报告人：刘劼 教授
 
-      报告时间：2024年9月5日 16:15-17:30'
-    person: ''
-    time: ''
-    title: 丰产金属电催化氢转移反应
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3504.htm
-    info: '5
+      报告时间：2024年9月5日 16:15-17:30
+
+      5
 
       Sep
 
@@ -2095,13 +1876,9 @@
 
       报告人：唐从辉  研究员
 
-      报告时间：2024年9月5日15:00-16:15'
-    person: ''
-    time: ''
-    title: 均多相融合催化可持续合成
-  - address: ''
-    href: https://fsctm.sjtu.edu.cn/info/1046/3394.htm
-    info: '27
+      报告时间：2024年9月5日15:00-16:15
+
+      27
 
       Aug
 
@@ -2109,30 +1886,57 @@
 
       报告人：王兆彬 特聘研究员
 
-      报告时间：8月27日（星期二）15:30-17:00'
+      报告时间：8月27日（星期二）15:30-17:00
+
+      首页上页12345...13下页尾页'
     person: ''
     time: ''
-    title: 前过渡金属催化的羰基类化合物选择性转化
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
   - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: ''
+    href: https://shcam.sjtu.edu.cn/
+    info: '首页
+
+      中心简介
+
+      中心人员
+
+      学术活动
+
+      中心新闻
+
+      上海国家应用数学中心'
     person: ''
     time: ''
     title: ''
   - address: ''
-    href: https://shcam.sjtu.edu.cn/seminars
+    href: https://shcam.sjtu.edu.cn/news
     info: '近期学术活动
 
-      查看更多'
-    person: ''
-    time: ''
-    title: 查看更多
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: 'Covariance Operator Estimation in the Small Lengthscale Regime
+      查看更多
+
+      Covariance Operator Estimation in the Small Lengthscale Regime
 
       Jiaheng Chen
 
@@ -2180,515 +1984,211 @@
 
       中南大学
 
-      2024-06-25 15:30, 3 months ago'
-    person: ''
-    time: ''
-    title: 'Covariance Operator Estimation in the Small Lengthscale Regime
+      2024-06-25 15:30, 3 months ago
 
-      Jiaheng Chen
+      近期新闻
 
-      University of Chicago
+      查看更多
 
-      2024-09-01 14:00, a month ago
+      Yao Zhou and Collaborators predict that stellarator fusion experiment can operate
+      stably at higher-than-designed performance上海交通大学周尧及其合作者预测仿星器聚变实验能以高于设计上限的性能平稳运行
 
-      Language AI for Viruses, Vaccines, and Drugs
+      近日，上海交通大学自然科学研究院、物理与天文学院的周尧副教授及其合作者通过大规模数值模拟发现W7-X仿星器在越过设计的等离子体比压上限时，激发的不稳定性会在低水平上饱和，不阻碍装置的平稳运行。该研究成果以“Benign
+      Saturation of Ideal Ballooning Instability in a High-Performance Stellarator”为题，于2024年9月27日在Physical
+      Review Letters上发表。受控核聚变有望成为终极能源，而仿星器是未来聚变堆最具前景的方案之一。W7-X装置是目前世界上最先进的仿星器，此前使用有限的加热功率即打破了仿星
 
-      Liang Huang
+      2024-09-29
 
-      Oregon State University
+      上海交大自然科学研究院喜讯！
 
-      2024-08-20 14:00, a month ago
+      上海交通大学2024年“教书育人、科研创新”表彰大会在闵行校区陈瑞球楼顺利召开自然科学研究院金石、李磊、徐振礼荣获 “科研成果奖”二等奖；张镭荣获 “教书育人奖”三等奖。祝贺以上获奖老师！自然科学研究院/数学科学学院金石教授、李磊副教授和数学科学学院徐振礼教授的科研项目“粒子系统与分子动力学的随机快速算法及应用”荣获“科研成果奖”二等奖。自然科学研究院教授张镭荣获
+      “教书育人奖”三等奖。张镭，上海交通大学自然科学研究院教授、博士生导师、国家级青年人才。北京大学学士(1999)，中国科学院计算数学研究所硕士(2002)，加州理工学院计算数学博士(2002)。Max-Planck研究所(2007-
 
-      Optimal stochastic approximation under general norms with applications to reinforcement
-      learning
+      2024-09-26
 
-      牟文龙
+      Liang Hong''s group published research on using a graph diffusion model to generate
+      sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
 
-      University of Toronto
+      近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院/药学院洪亮团队周冰心研究员设计了一种扩散概率模型框架（CPDiffusion），成功设计并生成了具有增强活性的人工程序化内切核酸酶序列。这项突破性研究展示了深度学习在蛋白质工程领域的强大潜力，为蛋白质工程、生物技术、分子诊断等领域带来了新的应用前景。和现有的序列设计方法相比，该方法以极低的模型训练和数据成本学习蛋白质序列、结构和功能之间的隐含映射规则，生成多样化的蛋白质序列，并以极高的成功率通过湿实验验证，最终在两款超长的多结构域复杂功能蛋白（Kurthia
+      massiliensis Ago和Pyrococcus furiosu
 
-      2024-07-16 14:00, 2 months ago
+      2024-09-10
 
-      A Graph-Based Semantic Segmentation Algorithm for Hyperspectral Fluorescence
-      Microscopy Imaging Data
+      Jakob Ulmschneider’s research group and collaborators published their latest
+      work on membrane poration by peptides in Nature Communications上海交通大学Jakob Ulmschneider团队及合作者在《自然·通讯》上发表关于膜通透性肽在细胞膜上穿孔的最新研究
 
-      You Liang
+      近日，Jakob Ulmschneider教授（上海交通大学自然科学研究院/物理与天文学院）领导的研究团队及其合作者在膜活性肽穿透脂质双层的研究中取得了重要进展。对于膜通透性肽：alamethicin和melittin，作者通过分子模拟展示了如何区分平衡和瞬时泄漏过程，并预测了详细的孔结构和穿透机制。这项题为《Melittin通过大型瞬时孔道使膜通透》的研究已发表在《自然·通讯》上。原文链接：https://www.nature.com/articles/s41467-024-51691-1研究背景膜通透性肽在所有生命形式中都很常见，几十年来一直是众多研究的焦点，目标是为制药或生物技术应用进行
 
-      Toronto Metropolitan University
+      2024-08-25
 
-      2024-07-09 10:00, 3 months ago
+      Jie Zhang''s group published their latest work on "Cluster Motion of Nonpolar
+      Brownian Particles" in "Nature Communications," which has been highlighted as
+      an Editor''s Choice article上海交通大学张洁课题组最新研究成果被《自然·通讯》选为编辑推荐文章：非极性布朗运动颗粒的集群运动
 
-      Modeling of Impacts of Intraocular Pressure on Ocular Oxygenation
+      近日，上海交通大学自然科学研究院/物理与天文学院张洁课题组在非极性的布朗运动颗粒的集群行为研究中取得了重大进展。该成果被《自然·通讯》选为编辑推荐文章。《自然·通讯》期刊推荐其为Applied
+      Physics and Mathematics方向最佳50篇论文之一。该工作由研究团队博士生陈杨锐与导师张洁共同完成。他们通过研究均匀驱动的准二维颗粒物质，发现了非极性颗粒在某些堆积分数时自发产生了大规模的集群行为，并确定了四种不同的相态：颗粒流体相、集群流体相、多晶相和晶体相。研究背景颗粒物质的集体动力学是软物质物理学研究中的重要课题。传统观点认为，集群运动需要颗粒个体之间的极性对齐机制。在以往的实验
 
-      陆渊凯
+      2024-07-18
 
-      匹兹堡大学
+      Liang Hong''s group and collaborators published their latest work on FSFP: A
+      Few-Shot Learning Method for Protein Function Prediction with Limited Samples上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
 
-      2024-06-28 14:00, 3 months ago
+      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
+      the efficiency of protein language models with minimal wet-lab data through
+      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Natu
 
-      Optimization with learning-informed differential equations: algorithms and applications
-
-      董国志
-
-      中南大学
-
-      2024-06-25 15:30, 3 months ago'
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/news
-    info: '近期新闻
-
-      查看更多'
+      2024-07-03'
     person: ''
     time: ''
     title: 查看更多
-  - address: ''
-    href: https://shcam.sjtu.edu.cn/#/seminars
-    info: '上海交大自然科学研究院喜讯！
-
-      上海交通大学2024年“教书育人、科研创新”表彰大会在闵行校区陈瑞球楼顺利召开自然科学研究院金石、李磊、徐振礼荣获 “科研成果奖”二等奖；张镭荣获 “教书育人奖”三等奖。祝贺以上获奖老师！自然科学研究院/数学科学学院金石教授、李磊副教授和数学科学学院徐振礼教授的科研项目“粒子系统与分子动力学的随机快速算法及应用”荣获“科研成果奖”二等奖。自然科学研究院教授张镭荣获
-      “教书育人奖”三等奖。张镭，上海交通大学自然科学研究院教授、博士生导师、国家级青年人才。北京大学学士(1999)，中国科学院计算数学研究所硕士(2002)，加州理工学院计算数学博士(2002)。Max-Planck研究所(2007-
-
-      2024-09-26
-
-      Liang Hong''s group published research on using a graph diffusion model to generate
-      sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
-
-      近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院/药学院洪亮团队周冰心研究员设计了一种扩散概率模型框架（CPDiffusion），成功设计并生成了具有增强活性的人工程序化内切核酸酶序列。这项突破性研究展示了深度学习在蛋白质工程领域的强大潜力，为蛋白质工程、生物技术、分子诊断等领域带来了新的应用前景。和现有的序列设计方法相比，该方法以极低的模型训练和数据成本学习蛋白质序列、结构和功能之间的隐含映射规则，生成多样化的蛋白质序列，并以极高的成功率通过湿实验验证，最终在两款超长的多结构域复杂功能蛋白（Kurthia
-      massiliensis Ago和Pyrococcus furiosu
-
-      2024-09-10
-
-      Jakob Ulmschneider’s research group and collaborators published their latest
-      work on membrane poration by peptides in Nature Communications上海交通大学Jakob Ulmschneider团队及合作者在《自然·通讯》上发表关于膜通透性肽在细胞膜上穿孔的最新研究
-
-      近日，Jakob Ulmschneider教授（上海交通大学自然科学研究院/物理与天文学院）领导的研究团队及其合作者在膜活性肽穿透脂质双层的研究中取得了重要进展。对于膜通透性肽：alamethicin和melittin，作者通过分子模拟展示了如何区分平衡和瞬时泄漏过程，并预测了详细的孔结构和穿透机制。这项题为《Melittin通过大型瞬时孔道使膜通透》的研究已发表在《自然·通讯》上。原文链接：https://www.nature.com/articles/s41467-024-51691-1研究背景膜通透性肽在所有生命形式中都很常见，几十年来一直是众多研究的焦点，目标是为制药或生物技术应用进行
-
-      2024-08-25
-
-      Jie Zhang''s group published their latest work on "Cluster Motion of Nonpolar
-      Brownian Particles" in "Nature Communications," which has been highlighted as
-      an Editor''s Choice article上海交通大学张洁课题组最新研究成果被《自然·通讯》选为编辑推荐文章：非极性布朗运动颗粒的集群运动
-
-      近日，上海交通大学自然科学研究院/物理与天文学院张洁课题组在非极性的布朗运动颗粒的集群行为研究中取得了重大进展。该成果被《自然·通讯》选为编辑推荐文章。《自然·通讯》期刊推荐其为Applied
-      Physics and Mathematics方向最佳50篇论文之一。该工作由研究团队博士生陈杨锐与导师张洁共同完成。他们通过研究均匀驱动的准二维颗粒物质，发现了非极性颗粒在某些堆积分数时自发产生了大规模的集群行为，并确定了四种不同的相态：颗粒流体相、集群流体相、多晶相和晶体相。研究背景颗粒物质的集体动力学是软物质物理学研究中的重要课题。传统观点认为，集群运动需要颗粒个体之间的极性对齐机制。在以往的实验
-
-      2024-07-18
-
-      Liang Hong''s group and collaborators published their latest work on FSFP: A
-      Few-Shot Learning Method for Protein Function Prediction with Limited Samples上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
-
-      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
-      the efficiency of protein language models with minimal wet-lab data through
-      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Natu
-
-      2024-07-03
-
-      第十九届国际双曲问题大会在上海交大召开
-
-      7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
-      Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
-      Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，
-
-      2024-07-02'
-    person: ''
-    time: ''
-    title: '上海交大自然科学研究院喜讯！
-
-      上海交通大学2024年“教书育人、科研创新”表彰大会在闵行校区陈瑞球楼顺利召开自然科学研究院金石、李磊、徐振礼荣获 “科研成果奖”二等奖；张镭荣获 “教书育人奖”三等奖。祝贺以上获奖老师！自然科学研究院/数学科学学院金石教授、李磊副教授和数学科学学院徐振礼教授的科研项目“粒子系统与分子动力学的随机快速算法及应用”荣获“科研成果奖”二等奖。自然科学研究院教授张镭荣获
-      “教书育人奖”三等奖。张镭，上海交通大学自然科学研究院教授、博士生导师、国家级青年人才。北京大学学士(1999)，中国科学院计算数学研究所硕士(2002)，加州理工学院计算数学博士(2002)。Max-Planck研究所(2007-
-
-      2024-09-26
-
-      Liang Hong''s group published research on using a graph diffusion model to generate
-      sequences of multi-domain proteins with enhanced activity and thermostability上海交通大学洪亮团队发表基于图扩散概率模型生成活性高，体积大，结构复杂蛋白质全新序列的研究
-
-      近日，上海交通大学自然科学研究院/物理与天文学院/张江高等研究院/药学院洪亮团队周冰心研究员设计了一种扩散概率模型框架（CPDiffusion），成功设计并生成了具有增强活性的人工程序化内切核酸酶序列。这项突破性研究展示了深度学习在蛋白质工程领域的强大潜力，为蛋白质工程、生物技术、分子诊断等领域带来了新的应用前景。和现有的序列设计方法相比，该方法以极低的模型训练和数据成本学习蛋白质序列、结构和功能之间的隐含映射规则，生成多样化的蛋白质序列，并以极高的成功率通过湿实验验证，最终在两款超长的多结构域复杂功能蛋白（Kurthia
-      massiliensis Ago和Pyrococcus furiosu
-
-      2024-09-10
-
-      Jakob Ulmschneider’s research group and collaborators published their latest
-      work on membrane poration by peptides in Nature Communications上海交通大学Jakob Ulmschneider团队及合作者在《自然·通讯》上发表关于膜通透性肽在细胞膜上穿孔的最新研究
-
-      近日，Jakob Ulmschneider教授（上海交通大学自然科学研究院/物理与天文学院）领导的研究团队及其合作者在膜活性肽穿透脂质双层的研究中取得了重要进展。对于膜通透性肽：alamethicin和melittin，作者通过分子模拟展示了如何区分平衡和瞬时泄漏过程，并预测了详细的孔结构和穿透机制。这项题为《Melittin通过大型瞬时孔道使膜通透》的研究已发表在《自然·通讯》上。原文链接：https://www.nature.com/articles/s41467-024-51691-1研究背景膜通透性肽在所有生命形式中都很常见，几十年来一直是众多研究的焦点，目标是为制药或生物技术应用进行
-
-      2024-08-25
-
-      Jie Zhang''s group published their latest work on "Cluster Motion of Nonpolar
-      Brownian Particles" in "Nature Communications," which has been highlighted as
-      an Editor''s Choice article上海交通大学张洁课题组最新研究成果被《自然·通讯》选为编辑推荐文章：非极性布朗运动颗粒的集群运动
-
-      近日，上海交通大学自然科学研究院/物理与天文学院张洁课题组在非极性的布朗运动颗粒的集群行为研究中取得了重大进展。该成果被《自然·通讯》选为编辑推荐文章。《自然·通讯》期刊推荐其为Applied
-      Physics and Mathematics方向最佳50篇论文之一。该工作由研究团队博士生陈杨锐与导师张洁共同完成。他们通过研究均匀驱动的准二维颗粒物质，发现了非极性颗粒在某些堆积分数时自发产生了大规模的集群行为，并确定了四种不同的相态：颗粒流体相、集群流体相、多晶相和晶体相。研究背景颗粒物质的集体动力学是软物质物理学研究中的重要课题。传统观点认为，集群运动需要颗粒个体之间的极性对齐机制。在以往的实验
-
-      2024-07-18
-
-      Liang Hong''s group and collaborators published their latest work on FSFP: A
-      Few-Shot Learning Method for Protein Function Prediction with Limited Samples上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
-
-      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
-      the efficiency of protein language models with minimal wet-lab data through
-      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Natu
-
-      2024-07-03
-
-      第十九届国际双曲问题大会在上海交大召开
-
-      7月1日，第十九届国际双曲问题大会在闵行校区陈瑞球楼100号开幕，上海交通大学校长丁奎岭，数学科学学院院长楼元、学院党委书记洪梅，自然科学研究院院长金石，大会学术委员会成员中的中国科学院院士、复旦大学陈恕行，牛津大学陈贵强、Jose
-      Carillo，苏黎世大学Remi Abgrall，宾州州立大学 Alberto Bressan，的里雅思特国际高等研究院Stefano Bianchini，维尔茨堡大学Christian
-      Klingenberg教授等，以及来自全球20多个国家和地区110余所高校和研究机构的300多位偏微分方程的专家学者出席了开幕式。此次大会是国际双曲问题系列会议的第十九届会议，
-
-      2024-07-02'
   page_title: 上海应用数学中心(上海交通大学分中心)
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5080.html
-    info: '眼用生物材料的构建及其在眼科疾病模型由的应用
+    href: https://life.sjtu.edu.cn/Data/List/xxzx
+    info: '当前位置：首页) 新闻中心) 学术报告
 
-      2024-09-15'
+      9月27日（周五）9:30-11:00 生物药学楼树华报告厅
+
+      Bringing fluorine into the (essential) chemistry of bacteria
+
+      9月25日（周三）14:00-15:30 生物药学楼树华报告厅
+
+      Engineered yeast cell factories for more sustainable food production
+
+      4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
+
+      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）
+
+      4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
+
+      结直肠癌的性别差异与营养干预
+
+      3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
+
+      微生物组与病毒组技术前沿
+
+      3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
+
+      致病耐药菌新型转录调控机制解析
+
+      3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
+
+      RNA-RNA互作组揭示微生物非编码RNA功能与机制
+
+      11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health
+
+      10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
+
+      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era
+
+      10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
+
+      消化性溃疡
+
+      9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
+
+      Mass spec-based metabolomics of head and neck cancer and nanotoxicity
+
+      9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
+
+      人源类器官模拟发育与疾病
+
+      9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
+
+      从酿造到智造：高效酵母细胞工厂构建
+
+      5月17日（周三）9:30-11:00 生物药学楼2-116会议室
+
+      利用机器学习技术来加速生物医学知识发现
+
+      4月21日（周五）14:00 闵行校区生命药学楼树华多功能厅
+
+      求真讲坛第27期 从细菌信号感知到细菌-微生物相互作用
+
+      首页(12345678910...)尾页'
     person: ''
     time: ''
-    title: 眼用生物材料的构建及其在眼科疾病模型由的应用
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5077.html
-    info: 'CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
-
-      2024-09-13'
-    person: ''
-    time: ''
-    title: CO/NO/H2S多功能递送系统与炎症性/感染性疾病的高效调控
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5061.html
-    info: 'Enhancing Rare Disease Treatment:The UK Platform for Nucleic Acid Therapies
-
-      2024-08-28'
-    person: ''
-    time: ''
-    title: Enhancing Rare Disease Treatment:The UK Platform for Nucleic Acid Therapies
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5053.html
-    info: 'Catalysis-Enabled Non-obvious Transformations for Structural Modification
-
-      2024-08-08'
-    person: ''
-    time: ''
-    title: Catalysis-Enabled Non-obvious Transformations for Structural Modification
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5052.html
-    info: 'Development and Application of Mutexa for Functiona)Protein Discovery
-
-      2024-08-08'
-    person: ''
-    time: ''
-    title: Development and Application of Mutexa for Functiona)Protein Discovery
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5044.html
-    info: 'Meet withEditors of Pharmacological Research andPubishers at Esevier
-
-      2024-07-12'
-    person: ''
-    time: ''
-    title: Meet withEditors of Pharmacological Research andPubishers at Esevier
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5032.html
-    info: 'Membrane Association of IntrinsicallyDisordered Proteins
-
-      2024-06-27'
-    person: ''
-    time: ''
-    title: Membrane Association of IntrinsicallyDisordered Proteins
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5030.html
-    info: '吲哚甲醇平各分子参与的催化不对称反应
-
-      2024-06-25'
-    person: ''
-    time: ''
-    title: 吲哚甲醇平各分子参与的催化不对称反应
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/5008.html
-    info: '三进科研无人区，探索细胞死亡的秘密
-
-      2024-06-08'
-    person: ''
-    time: ''
-    title: 三进科研无人区，探索细胞死亡的秘密
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4984.html
-    info: '创新药究竟从哪里来
-
-      2024-05-27'
-    person: ''
-    time: ''
-    title: 创新药究竟从哪里来
-  - address: ''
-    href: https://pharm.sjtu.edu.cn/report/4958.html
-    info: '基因编辑与创新性细胞治疗:从基础到临床转化研究
-
-      2024-05-20'
-    person: ''
-    time: ''
-    title: 基因编辑与创新性细胞治疗:从基础到临床转化研究
-  page_title: 上海交通大学药学院
-  page_url: https://pharm.sjtu.edu.cn/report.html
-- page_info:
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/8138
-    info: '9月27日（周五）9:30-11:00 生物药学楼树华报告厅
-
-      Bringing fluorine into the (essential) chemistry of bacteria'
-    person: ''
-    time: ''
-    title: '9月27日（周五）9:30-11:00 生物药学楼树华报告厅
-
-      Bringing fluorine into the (essential) chemistry of bacteria'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/8137
-    info: '9月25日（周三）14:00-15:30 生物药学楼树华报告厅
-
-      Engineered yeast cell factories for more sustainable food production'
-    person: ''
-    time: ''
-    title: '9月25日（周三）14:00-15:30 生物药学楼树华报告厅
-
-      Engineered yeast cell factories for more sustainable food production'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7993
-    info: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
-
-      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
-    person: ''
-    time: ''
-    title: '4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
-
-      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7985
-    info: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
-
-      结直肠癌的性别差异与营养干预'
-    person: ''
-    time: ''
-    title: '4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
-
-      结直肠癌的性别差异与营养干预'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7974
-    info: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
-
-      微生物组与病毒组技术前沿'
-    person: ''
-    time: ''
-    title: '3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
-
-      微生物组与病毒组技术前沿'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7970
-    info: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
-
-      致病耐药菌新型转录调控机制解析'
-    person: ''
-    time: ''
-    title: '3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
-
-      致病耐药菌新型转录调控机制解析'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7969
-    info: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
-
-      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
-    person: ''
-    time: ''
-    title: '3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
-
-      RNA-RNA互作组揭示微生物非编码RNA功能与机制'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7857
-    info: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
-    person: ''
-    time: ''
-    title: '11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7832
-    info: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
-    person: ''
-    time: ''
-    title: '10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7829
-    info: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
-
-      消化性溃疡'
-    person: ''
-    time: ''
-    title: '10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
-
-      消化性溃疡'
-  - address: ''
-    href: https://life.sjtu.edu.cn/Data/View/7795
-    info: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
-
-      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
-    person: ''
-    time: ''
-    title: '9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
-
-      Mass spec-based metabolomics of head and neck cancer and nanotoxicity'
+    title: 新闻中心
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4120.html
-    info: '15
-
-      2024-10
-
-      【学术报告】活泼亚甲基衍生物的不对称转化'
-    person: ''
-    time: ''
-    title: '15
-
-      2024-10
-
-      【学术报告】活泼亚甲基衍生物的不对称转化'
-  - address: ''
     href: https://scce.sjtu.edu.cn/index_xsrl/4123.html
-    info: '10
+    info: '学术日历
+
+      15
 
       2024-10
 
-      【学术报告】基于转换反应的锌离子电池正极材料'
-    person: ''
-    time: ''
-    title: '10
+      【学术报告】活泼亚甲基衍生物的不对称转化
+
+      10
 
       2024-10
 
-      【学术报告】基于转换反应的锌离子电池正极材料'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4119.html
-    info: '10
+      【学术报告】基于转换反应的锌离子电池正极材料
+
+      10
 
       2024-10
 
-      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions'
-    person: ''
-    time: ''
-    title: '10
+      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions
+
+      10
 
       2024-10
 
-      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4111.html
-    info: '10
+      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions
 
-      2024-10
-
-      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions'
-    person: ''
-    time: ''
-    title: '10
-
-      2024-10
-
-      【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4122.html
-    info: '09
+      09
 
       2024-10
 
       【学术报告】Turning Hay to Gold: Catalytic conversion of non-edible renewable resources
-      towards value-added products'
+      towards value-added products
+
+      27
+
+      2024-09
+
+      【学术报告】mine CANs: from lignin derived building blocks to covalent adaptable networks
+      and recyclable materials
+
+      23
+
+      2024-09
+
+      【学术报告】硫族钙钛矿功能材料的理论与实验研究
+
+      19
+
+      2024-09
+
+      【学术报告】Monte Carlo Design for Polymer Circularity
+
+      18
+
+      2024-09
+
+      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化
+
+      18
+
+      2024-09
+
+      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控
+
+      12345下一页最后一页'
     person: ''
     time: ''
-    title: '09
+    title: '10
 
       2024-10
 
-      【学术报告】Turning Hay to Gold: Catalytic conversion of non-edible renewable resources
-      towards value-added products'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4121.html
-    info: '27
-
-      2024-09
-
-      【学术报告】mine CANs: from lignin derived building blocks to covalent adaptable networks
-      and recyclable materials'
-    person: ''
-    time: ''
-    title: '27
-
-      2024-09
-
-      【学术报告】mine CANs: from lignin derived building blocks to covalent adaptable networks
-      and recyclable materials'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4109.html
-    info: '23
-
-      2024-09
-
-      【学术报告】硫族钙钛矿功能材料的理论与实验研究'
-    person: ''
-    time: ''
-    title: '23
-
-      2024-09
-
-      【学术报告】硫族钙钛矿功能材料的理论与实验研究'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4102.html
-    info: '19
-
-      2024-09
-
-      【学术报告】Monte Carlo Design for Polymer Circularity'
-    person: ''
-    time: ''
-    title: '19
-
-      2024-09
-
-      【学术报告】Monte Carlo Design for Polymer Circularity'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4103.html
-    info: '18
-
-      2024-09
-
-      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-09
-
-      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化'
-  - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4101.html
-    info: '18
-
-      2024-09
-
-      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
-    person: ''
-    time: ''
-    title: '18
-
-      2024-09
-
-      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控'
+      【学术报告】基于转换反应的锌离子电池正极材料'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -2877,58 +2377,86 @@
 
       10:00 — 11:30'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuF2qF2
-    info: '[动力系统与数学物理] PROFESSOR ANDY HONE
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFtKF2
+    info: '[动力系统与数学物理] 常向科
 
-      HERON TRIANGLES AND THE HUNT FOR UNICORNS
+      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
 
-      2024-09-26
+      2024-09-29
 
-      10:00 — 12:00'
+      14:00 — 15:00'
     person: ''
     time: ''
-    title: '[动力系统与数学物理] PROFESSOR ANDY HONE
+    title: '[动力系统与数学物理] 常向科
 
-      HERON TRIANGLES AND THE HUNT FOR UNICORNS
+      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
 
-      2024-09-26
+      2024-09-29
 
-      10:00 — 12:00'
+      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: null
-    info: 物理学院盛政明学术报告的通知（School of Physics Colloquium）
+    href: https://www.zju.edu.cn/xxgk1/list.htm
+    info: ''
     person: ''
     time: ''
-    title: 物理学院盛政明学术报告的通知（School of Physics Colloquium）
+    title: ''
   - address: ''
-    href: null
-    info: 【化学系】启真化学大讲堂：李灿院士（中国科学院大连化学物理研究所）
+    href: http://www.news.zju.edu.cn/
+    info: ''
     person: ''
     time: ''
-    title: 【化学系】启真化学大讲堂：李灿院士（中国科学院大连化学物理研究所）
+    title: ''
   - address: ''
-    href: null
-    info: 【化学系】启真化学论坛：谭元植教授（厦门大学）
+    href: https://zhfw.zju.edu.cn/
+    info: ''
     person: ''
     time: ''
-    title: 【化学系】启真化学论坛：谭元植教授（厦门大学）
+    title: ''
   - address: ''
-    href: null
-    info: 【双脑中心大师讲堂】Cellular Memories in Active Neuronal Ensembles——Yingxi Lin
+    href: https://www.zju.edu.cn/xxjg_76687/list.htm
+    info: ''
     person: ''
     time: ''
-    title: '【双脑中心大师讲堂】Cellular Memories in  Active Neuronal Ensembles——Yingxi Lin '
+    title: ''
   - address: ''
-    href: null
-    info: '【双脑中心大师讲堂】A Behind-the-Scenes Look at the Peer-Review process: Publishing
-      with Neuron and Cell Press——Zirlinger, Mariela'
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
     person: ''
     time: ''
-    title: '【双脑中心大师讲堂】A Behind-the-Scenes Look at the  Peer-Review process:  Publishing
-      with Neuron and Cell Press——Zirlinger, Mariela'
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/xs/list.htm#
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://www.zju.edu.cn/zjzd/list.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
@@ -3220,94 +2748,3 @@
       查看详情+'
   page_title: 活动预告
   page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
-- page_info:
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0924/c51065a2966123/page.htm
-    info: '关于澳大利亚UTS张健教授（Andrew Zhang）学术报告的通知
-
-      2024-09-24'
-    person: ''
-    time: ''
-    title: 关于澳大利亚UTS张健教授（Andrew Zhang）学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0805/c51065a2951610/page.htm
-    info: '关于Tony Q. S. Quek学术报告的通知
-
-      2024-08-05'
-    person: ''
-    time: ''
-    title: 关于Tony Q. S. Quek学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0804/c51065a2951216/page.htm
-    info: '关于Prof. Yang Hao学术报告的通知
-
-      2024-08-04'
-    person: ''
-    time: ''
-    title: 关于Prof. Yang Hao学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0804/c51065a2951214/page.htm
-    info: '关于陆亿泷教授学术报告的通知
-
-      2024-08-04'
-    person: ''
-    time: ''
-    title: 关于陆亿泷教授学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0804/c51065a2951213/page.htm
-    info: '关于Prof. Ke Wu学术报告的通知
-
-      2024-08-04'
-    person: ''
-    time: ''
-    title: 关于Prof. Ke Wu学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0802/c51065a2951042/page.htm
-    info: '关于北京航空航天大学周琳副研究员学术报告的通知
-
-      2024-08-02'
-    person: ''
-    time: ''
-    title: '关于北京航空航天大学周琳副研究员学术报告的通知        '
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0802/c51065a2951039/page.htm
-    info: '关于Zilong LIU (School of CSEE, University of Essex)学术报告的通知
-
-      2024-08-02'
-    person: ''
-    time: ''
-    title: 关于Zilong LIU (School of CSEE, University of Essex)学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0802/c51065a2951037/page.htm
-    info: '关于电子科技大学（深圳）高等研究院韩永祥博士学术报告的通知
-
-      2024-08-02'
-    person: ''
-    time: ''
-    title: 关于电子科技大学（深圳）高等研究院韩永祥博士学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0720/c51065a2948596/page.htm
-    info: '关于香港科技大学杨旸教授等系列学术报告的通知
-
-      2024-07-20'
-    person: ''
-    time: ''
-    title: 关于香港科技大学杨旸教授等系列学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0717/c51065a2947383/page.htm
-    info: '关于Prof. Xi Long（Eindhoven University of Technology）学术报告的通知
-
-      2024-07-17'
-    person: ''
-    time: ''
-    title: 关于Prof. Xi Long（Eindhoven University of Technology）学术报告的通知
-  - address: ''
-    href: http://www.isee.zju.edu.cn/2024/0714/c51065a2946025/page.htm
-    info: '关于北京航空航天大学王琼华教授学术报告的通知
-
-      2024-07-14'
-    person: ''
-    time: ''
-    title: 关于北京航空航天大学王琼华教授学术报告的通知
-  page_title: 学术报告
-  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
