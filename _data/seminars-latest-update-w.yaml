@@ -1,5 +1,44 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFyqF2
+    info: '[文俊讲坛] 夏志宏
+
+      流荡行星入侵太阳系
+
+      2024-10-11
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] 夏志宏
+
+      流荡行星入侵太阳系
+
+      2024-10-11
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFtKF2
+    info: '[动力系统与数学物理] 常向科
+
+      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
+
+      2024-09-29
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[动力系统与数学物理] 常向科
+
+      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
+
+      2024-09-29
+
+      14:00 — 15:00'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
+- page_info:
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161505.htm
     info: '09
 
@@ -32,15 +71,6 @@
     person: ''
     time: ''
     title: 【有机化学OPSS学术报告】基于自由基调控的碳氢键精准转化
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161444.htm
-    info: '2024-09-24
-
-      【兴大报告670】From Rust to Riches: Exploring the Extreme Oxidation States of Iron '
-    person: ''
-    time: ''
-    title: '【兴大报告670】From Rust to Riches: Exploring the Extreme Oxidation States of
-      Iron '
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -559,24 +589,3 @@
     title: 新闻中心
   page_title: 学术报告 - 上海交通大学生命科学技术学院
   page_url: https://life.sjtu.edu.cn/Data/List/bg
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFtKF2
-    info: '[动力系统与数学物理] 常向科
-
-      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
-
-      2024-09-29
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[动力系统与数学物理] 常向科
-
-      ELLIPTIC CURVES, CONTINUED FRACTIONS AND SOMOS RECURRENCES
-
-      2024-09-29
-
-      14:00 — 15:00'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
