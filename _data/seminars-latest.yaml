@@ -360,7 +360,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7106190
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7109713
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -434,6 +434,16 @@
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6390.htm
+    info: '07
+
+      十月
+
+      Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs'
+    person: ''
+    time: ''
+    title: Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs
   - address: ''
     href: https://www.cs.tsinghua.edu.cn/info/1089/6365.htm
     info: '09
@@ -529,16 +539,6 @@
     person: ''
     time: ''
     title: ' Understanding the Training and Inference of Reinforcement Learning'
-  - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6151.htm
-    info: '11
-
-      六月
-
-      Designing Serverless Cloud Systems for Large-Scale Generative AI'
-    person: ''
-    time: ''
-    title: Designing Serverless Cloud Systems for Large-Scale Generative AI
   page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
@@ -551,6 +551,22 @@
   page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/1e17cffef5b941f58681d3b6bed4981b.htm
+    info: '2024.10.07
+
+      Development of Novel Synthetic Methodologies'
+    person: ''
+    time: ''
+    title: Development of Novel Synthetic Methodologies
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/6076bf3e807744cd8173b117f1a15ec2.htm
+    info: '2024.10.07
+
+      科技创新与中药研发底层核心技术构建'
+    person: ''
+    time: ''
+    title: 科技创新与中药研发底层核心技术构建
   - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/16849812d26e45c4b7adb76884002160.htm
     info: '2024.09.25
@@ -627,22 +643,6 @@
     time: ''
     title: Polymer mechanochemistry enables controlling the activity of drugs, proteins
       and nucleic acids by ultrasound
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/b436f57dbc7b4b74b13416bf00e00e24.htm
-    info: '2024.08.13
-
-      疫苗真实世界有效性研究中的准实验与安慰剂检验'
-    person: ''
-    time: ''
-    title: 疫苗真实世界有效性研究中的准实验与安慰剂检验
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/14f8c892236840bb82a3d72d6ce3adca.htm
-    info: '2024.08.07
-
-      Total Syntheses of Natural Products with Bridged Ring Systems'
-    person: ''
-    time: ''
-    title: Total Syntheses of Natural Products with Bridged Ring Systems
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -705,7 +705,7 @@
 
       Oct.10
 
-      Others  |  Upcoming
+      Others  |  Recent
 
       A statistical framework for powerful multi-trait rare variant analysis in large-scale
       whole-genome sequencing ...
@@ -2192,6 +2192,26 @@
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyGyqF2
+    info: '[几何与分析] FRANK KUTZSCHEBAUCH
+
+      THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
+      - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
+
+      2024-10-22
+
+      13:00 — 14:30'
+    person: ''
+    time: ''
+    title: '[几何与分析] FRANK KUTZSCHEBAUCH
+
+      THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
+      - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
+
+      2024-10-22
+
+      13:00 — 14:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuHpKF2
     info: '[机器学习] 蔡占锐
 
@@ -2228,15 +2248,15 @@
 
       15:00 — 16:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmFyqF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyHpKF2
     info: '[偏微分方程] 李梦妮
 
       ZERO-VISCOSITY LIMIT FOR BOUSSINESQ EQUATIONS WITH VERTICAL VISCOSITY AND NAVIER
       BOUNDARY IN THE HALF PLANE
 
-      2024-10-10
+      2024-10-11
 
-      16:00 — 17:00'
+      11:00 — 12:00'
     person: ''
     time: ''
     title: '[偏微分方程] 李梦妮
@@ -2244,9 +2264,9 @@
       ZERO-VISCOSITY LIMIT FOR BOUSSINESQ EQUATIONS WITH VERTICAL VISCOSITY AND NAVIER
       BOUNDARY IN THE HALF PLANE
 
-      2024-10-10
+      2024-10-11
 
-      16:00 — 17:00'
+      11:00 — 12:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFpKF2
     info: '[几何与分析] 周杰
@@ -2375,24 +2395,6 @@
       2024-09-29
 
       10:30 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuHtKF2
-    info: '[动力系统与数学物理] JAUME LLIBRE 院士
-
-      HOPF BIFURCATION OF LIMIT CYCLES SURROUNDING A NODE
-
-      2024-09-29
-
-      10:00 — 11:30'
-    person: ''
-    time: ''
-    title: '[动力系统与数学物理] JAUME LLIBRE 院士
-
-      HOPF BIFURCATION OF LIMIT CYCLES SURROUNDING A NODE
-
-      2024-09-29
-
-      10:00 — 11:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2400,19 +2402,18 @@
     href: null
     info: '学术
 
+      【数学学院】路江华：Poisson structures and cluster algebras
+
+      【数学学院】夏志宏：A new algorithm for machine learning and artificial intelligence
+
       “杏林·学者论坛”—陈心春 教授报告会
 
       【化学系】启真化学大讲堂：Prof. Wonwoo Nam（Ewha Womans University）
 
-      【化学系】启真化学论坛：崔刚龙教授（北京师范大学）
-
-      【信电学院】Prof. Yong Liang GUAN（Nanyang Technological University ）学术报告
-
-      【心理系】陈立心理科学前沿讲坛 | What do quantum cognition, quantum consciousness, and quantum
-      brains have to do with each other?'
+      【化学系】启真化学论坛：崔刚龙教授（北京师范大学）'
     person: ''
     time: ''
-    title: “杏林·学者论坛”—陈心春 教授报告会
+    title: 【数学学院】路江华：Poisson structures and cluster algebras
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
