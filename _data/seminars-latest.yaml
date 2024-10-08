@@ -360,7 +360,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7109713
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7114075
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -685,6 +685,16 @@
 
       Oct.15
 
+      Colloquium  |  Upcoming
+
+      Elliptic Equations in Conductivity Problems
+
+      Speakers : Hongjie Dong (Brown University)
+
+      2024
+
+      Oct.15
+
       Symplectic Geometry and Mathematical Physics  |  Upcoming
 
       Non-commutative resolutions and periods of singular Calabi-Yau
@@ -695,7 +705,7 @@
 
       Oct.10
 
-      Analysis Research Interaction Team  |  Upcoming
+      Analysis Research Interaction Team  |  Recent
 
       From a Kac Particle System to the Homogeneous Boltzmann Equation for Hard Potentials
 
@@ -741,16 +751,6 @@
       On the prismatization of a p-adic formal scheme beyond the Hodge-Tate locus
 
       Speakers : Zeyu Liu (Berkeley)
-
-      2024
-
-      Oct.02
-
-      Dynamical Systems
-
-      Thermodynamic Formalism at Zero Temperature
-
-      Speakers : Jairo Mengue (University Federal do Rio Grande do Sul)
 
       Pre12345678910Next
 
@@ -1277,6 +1277,22 @@
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161524.htm
+    info: '2024-10-08
+
+      【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory'
+    person: ''
+    time: ''
+    title: 【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161518.htm
+    info: '2024-10-08
+
+      【兴大报告671】Role of conical intersections in photophysics and photochemistry'
+    person: ''
+    time: ''
+    title: 【兴大报告671】Role of conical intersections in photophysics and photochemistry
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/161501.htm
     info: '2024-10-03
 
@@ -1355,26 +1371,57 @@
     person: ''
     time: ''
     title: 【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160994.htm
-    info: '2024-09-12
-
-      【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent Materials'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent
-      Materials
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/160993.htm
-    info: '2024-09-12
-
-      【北京大学无机化学学术报告】Why do we need a single-molecule qubit?'
-    person: ''
-    time: ''
-    title: 【北京大学无机化学学术报告】Why do we need a single-molecule qubit?
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161536.htm
+    info: '09
+
+      Oct
+
+      Stable Minimal Hypersurfaces in
+
+      R5
+
+      时间：2024-10-09 09:00-10:00
+
+      报告人: Douglas Stryker (Princeton University)'
+    person: ''
+    time: ''
+    title: '09
+
+      Oct
+
+      Stable Minimal Hypersurfaces in
+
+      R5
+
+      时间：2024-10-09 09:00-10:00
+
+      报告人: Douglas Stryker (Princeton University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161519.htm
+    info: '14
+
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+    person: ''
+    time: ''
+    title: '14
+
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161505.htm
     info: '09
@@ -1407,7 +1454,7 @@
 
       时间：2024-10-10 15:00-16:00
 
-      报告人: Fan Li, Duke University'
+      报告人: 李凡（ Duke University）'
     person: ''
     time: ''
     title: '10
@@ -1418,7 +1465,17 @@
 
       时间：2024-10-10 15:00-16:00
 
-      报告人: Fan Li, Duke University'
+      报告人: 李凡（ Duke University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/161526.htm
+    info: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
+      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
+      \ of Bologna）"
+    person: ''
+    time: ''
+    title: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
+      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
+      \ of Bologna）"
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161308.htm
     info: '14
@@ -1441,6 +1498,14 @@
       时间：2024-10-14 14:00-15:00
 
       报告人: Dr. Guillaume Baverez (Humboldt University of Berlin)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161531.htm
+    info: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
+      报告人: Hermann Thorisson（University of Iceland）"
+    person: ''
+    time: ''
+    title: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
+      报告人: Hermann Thorisson（University of Iceland）"
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161311.htm
     info: '16
@@ -1533,94 +1598,6 @@
       时间：2024-09-30 13:30-14:30
 
       报告人: 张红莲（上海大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/161418.htm
-    info: '30
-
-      Sep
-
-      Geometry and Topology Seminar——Entropy versus volume via Heegaard diagrams
-
-      时间：2024-09-30 15:10-17:00
-
-      报告人: 刘毅（北京大学）'
-    person: ''
-    time: ''
-    title: '30
-
-      Sep
-
-      Geometry and Topology Seminar——Entropy versus volume via Heegaard diagrams
-
-      时间：2024-09-30 15:10-17:00
-
-      报告人: 刘毅（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/other/160907.htm
-    info: '27
-
-      Sep
-
-      公众报告——蔡天新：从看见到发现——第三种智慧
-
-      时间：2024-09-27 10:00-11:00
-
-      报告人: 蔡天新（浙江大学）'
-    person: ''
-    time: ''
-    title: '27
-
-      Sep
-
-      公众报告——蔡天新：从看见到发现——第三种智慧
-
-      时间：2024-09-27 10:00-11:00
-
-      报告人: 蔡天新（浙江大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161183.htm
-    info: '26
-
-      Sep
-
-      A priori interior estimates for special Lagrangian curvature equations
-
-      时间：2024-09-26 14:00-15:00
-
-      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '26
-
-      Sep
-
-      A priori interior estimates for special Lagrangian curvature equations
-
-      时间：2024-09-26 14:00-15:00
-
-      报告人: 邱国寰（中国科学院数学与系统科学研究院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/161188.htm
-    info: '26
-
-      Sep
-
-      Duality for de Rham-Witt sheaves with ramification
-
-      时间：2024-09-26 09:00-11:00
-
-      报告人: 任飞 （University of Wuppertal）'
-    person: ''
-    time: ''
-    title: '26
-
-      Sep
-
-      Duality for de Rham-Witt sheaves with ramification
-
-      时间：2024-09-26 09:00-11:00
-
-      报告人: 任飞 （University of Wuppertal）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1766,6 +1743,150 @@
       报告人：汪思佳'
   page_title: 上海交通大学人工智能研究院
   page_url: https://ai.sjtu.edu.cn/info/academic
+- page_info:
+  - address: ''
+    href: http://www.bio-x.cn/Web/News/9
+    info: '新闻中心
+
+      通知公告
+
+      新闻动态
+
+      学术报告
+
+      首页 / 学术报告 / 新闻中心
+
+      21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室
+
+      24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室
+
+      11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00
+
+      01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室
+
+      28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242
+
+      28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座
+
+      04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究
+
+      20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》
+
+      09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。
+
+      25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动
+
+      22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室
+
+      06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点
+
+      首页
+
+      上页
+
+      1
+
+      2
+
+      3
+
+      4
+
+      5
+
+      6
+
+      7
+
+      8
+
+      9
+
+      10
+
+      ...
+
+      下页
+
+      尾页'
+    person: ''
+    time: ''
+    title: 新闻动态
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
@@ -1989,6 +2110,15 @@
 
       查看更多
 
+      Hepeng Zhang’s Group and Collaborators observed Robust Edge Flows in Swarming
+      Bacterial Colonies 张何朋课题组及其合作者在细菌菌落中观察到鲁棒边界流
+
+      近日，上海交通大学自然科学研究院和物理与天文学院张何朋课题组及其合作者，在细菌菌落中首次观察到鲁棒的手性边界流，并通过数值模型成功揭示了其形成机制。该研究成果以“Robust
+      Edge Flows in Swarming Bacterial Colonies”为题，于2024年10月7日在Physical Review X上发表。
+      众所周知，许多生物分子，如蛋白质和DNA，都具有“手性”这一重要特性，即它们可以以两种互为镜像的形式存在。然而，自然界通常只选择其中一种形式。手性如何在不同尺度上传递，并进而影响更大尺度的生物系统，仍是一个未解之谜。为探索这一问题，张何朋课题组及其合作者通过系统的实
+
+      2024-10-08
+
       Yao Zhou and Collaborators predict that stellarator fusion experiment can operate
       stably at higher-than-designed performance上海交通大学周尧及其合作者预测仿星器聚变实验能以高于设计上限的性能平稳运行
 
@@ -2027,16 +2157,7 @@
       近日，上海交通大学自然科学研究院/物理与天文学院张洁课题组在非极性的布朗运动颗粒的集群行为研究中取得了重大进展。该成果被《自然·通讯》选为编辑推荐文章。《自然·通讯》期刊推荐其为Applied
       Physics and Mathematics方向最佳50篇论文之一。该工作由研究团队博士生陈杨锐与导师张洁共同完成。他们通过研究均匀驱动的准二维颗粒物质，发现了非极性颗粒在某些堆积分数时自发产生了大规模的集群行为，并确定了四种不同的相态：颗粒流体相、集群流体相、多晶相和晶体相。研究背景颗粒物质的集体动力学是软物质物理学研究中的重要课题。传统观点认为，集群运动需要颗粒个体之间的极性对齐机制。在以往的实验
 
-      2024-07-18
-
-      Liang Hong''s group and collaborators published their latest work on FSFP: A
-      Few-Shot Learning Method for Protein Function Prediction with Limited Samples上海交通大学洪亮课题组联合上海人工智能实验室青年研究员谈攀发布关于FSFP：基于语言模型的蛋白质功能小样本预测方法
-
-      近日，上海交通大学自然科学研究院/物理天文学院/张江高研院/药学院洪亮教授课题组联合上海人工智能实验室青年研究员谈攀，在蛋白质突变-性质预测上取得重要突破。该工作采用全新的训练策略，在使用极少湿实验数据的情况下，极大地提高了传统蛋白质预训练大模型在突变-性质预测的效果。该研究成果以《Enhancing
-      the efficiency of protein language models with minimal wet-lab data through
-      few-shot learning》为题，发表在Springer Nature集团旗下《Nature Communications》上。Natu
-
-      2024-07-03'
+      2024-07-18'
     person: ''
     time: ''
     title: 查看更多
@@ -2115,14 +2236,26 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4123.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/4120.html
     info: '学术日历
+
+      16
+
+      2024-10
+
+      【学术报告】Intrinsically Chiral and Multimodal Click Chemistry
 
       15
 
       2024-10
 
       【学术报告】活泼亚甲基衍生物的不对称转化
+
+      11
+
+      2024-10
+
+      【学术报告】高效圆偏振电致发光材料与器件
 
       10
 
@@ -2146,6 +2279,12 @@
 
       2024-10
 
+      【学术报告】Chirality-dependent electron transport and its  impact on spin chemistry
+
+      09
+
+      2024-10
+
       【学术报告】Turning Hay to Gold: Catalytic conversion of non-edible renewable resources
       towards value-added products
 
@@ -2162,43 +2301,25 @@
 
       【学术报告】硫族钙钛矿功能材料的理论与实验研究
 
-      19
-
-      2024-09
-
-      【学术报告】Monte Carlo Design for Polymer Circularity
-
-      18
-
-      2024-09
-
-      【学术报告】合成化学前沿论坛-1可见光不对称氢键催化
-
-      18
-
-      2024-09
-
-      【学术报告】宏观螺旋结构手性配位聚合物的组装与旋向调控
-
       12345下一页最后一页'
     person: ''
     time: ''
-    title: '10
+    title: '15
 
       2024-10
 
-      【学术报告】基于转换反应的锌离子电池正极材料'
+      【学术报告】活泼亚甲基衍生物的不对称转化'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyGyqF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FpKF2
     info: '[几何与分析] FRANK KUTZSCHEBAUCH
 
       THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
       - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
 
-      2024-10-22
+      2024-10-23
 
       13:00 — 14:30'
     person: ''
@@ -2208,7 +2329,7 @@
       THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
       - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
 
-      2024-10-22
+      2024-10-23
 
       13:00 — 14:30'
   - address: ''
@@ -2402,21 +2523,153 @@
     href: null
     info: '学术
 
+      “求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
+      Evidence-based practice and future research directions
+
       【数学学院】路江华：Poisson structures and cluster algebras
 
       【数学学院】夏志宏：A new algorithm for machine learning and artificial intelligence
 
       “杏林·学者论坛”—陈心春 教授报告会
 
-      【化学系】启真化学大讲堂：Prof. Wonwoo Nam（Ewha Womans University）
-
-      【化学系】启真化学论坛：崔刚龙教授（北京师范大学）'
+      【化学系】启真化学大讲堂：Prof. Wonwoo Nam（Ewha Womans University）'
     person: ''
     time: ''
-    title: 【数学学院】路江华：Poisson structures and cluster algebras
+    title: '“求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
+      Evidence-based practice and future research directions'
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970599/page.htm
+    info: '生涯启航 | 圣湘生物2025校园招聘宣讲会
+
+      【主讲人：谭德勇博士】
+
+      时间：15:00
+
+      地点：生科学院245报告厅
+
+      2024-10-10
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生涯启航 | 圣湘生物2025校园招聘宣讲会
+
+      【主讲人：谭德勇博士】
+
+      时间：15:00
+
+      地点：生科学院245报告厅
+
+      2024-10-10
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970413/page.htm
+    info: '生命科学启真讲坛--Belinda E. Medlyn教授学术报告
+
+      【主讲人：Belinda E. Medlyn】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-10-14
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--Belinda E. Medlyn教授学术报告
+
+      【主讲人：Belinda E. Medlyn】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-10-14
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970393/page.htm
+    info: '生命科学启真讲坛--王存教授学术报告
+
+      【主讲人：王存】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--王存教授学术报告
+
+      【主讲人：王存】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970392/page.htm
+    info: '生命科学启真讲坛--吴双教授学术报告
+
+      【主讲人：吴双】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--吴双教授学术报告
+
+      【主讲人：吴双】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970389/page.htm
+    info: '生命科学启真讲坛--丁兆军教授学术报告
+
+      【主讲人：丁兆军】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--丁兆军教授学术报告
+
+      【主讲人：丁兆军】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/0926/c26342a2967757/page.htm
     info: '学业领航 | 境外升学指导专场
@@ -2571,136 +2824,6 @@
       地点：生命科学学院245报告厅
 
       2024-07-19
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0708/c26342a2944195/page.htm
-    info: '生命科学启真讲坛--张蕴斌博士学术报告
-
-      【主讲人：张蕴斌】
-
-      时间：16:30
-
-      地点：生命科学学院123会议室
-
-      2024-07-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛--张蕴斌博士学术报告
-
-      【主讲人：张蕴斌】
-
-      时间：16:30
-
-      地点：生命科学学院123会议室
-
-      2024-07-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0705/c26342a2943380/page.htm
-    info: '生命科学启真讲坛--薛愿超研究员学术报告
-
-      【主讲人：薛愿超】
-
-      时间：16:00
-
-      地点：生命科学学院123会议室
-
-      2024-07-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛--薛愿超研究员学术报告
-
-      【主讲人：薛愿超】
-
-      时间：16:00
-
-      地点：生命科学学院123会议室
-
-      2024-07-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0625/c26342a2939050/page.htm
-    info: '生命科学启真讲坛--周焕祥教授学术报告
-
-      【主讲人：周焕祥】
-
-      时间：15:00
-
-      地点：生命科学学院245报告厅
-
-      2024-07-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛--周焕祥教授学术报告
-
-      【主讲人：周焕祥】
-
-      时间：15:00
-
-      地点：生命科学学院245报告厅
-
-      2024-07-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0617/c26342a2934356/page.htm
-    info: '生命科学启真讲坛--屈良鹄教授学术报告
-
-      【主讲人：屈良鹄】
-
-      时间：16:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-20
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛--屈良鹄教授学术报告
-
-      【主讲人：屈良鹄】
-
-      时间：16:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-20
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/0608/c26342a2931150/page.htm
-    info: '生命科学学院系列学术讲座--须健教授学术报告
-
-      【主讲人：须健】
-
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-15
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学学院系列学术讲座--须健教授学术报告
-
-      【主讲人：须健】
-
-      时间：10:00
-
-      地点：生命科学学院245报告厅
-
-      2024-06-15
 
       查看详情+'
   page_title: 活动预告
