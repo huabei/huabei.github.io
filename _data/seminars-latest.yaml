@@ -242,8 +242,14 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/6181.htm
+    href: https://life.tsinghua.edu.cn/info/1132/6213.htm
     info: '学术报告
+
+      09
+
+      OCT
+
+      显花植物S-核酸酶类自交不亲和性：降解、相变和演化
 
       25
 
@@ -299,17 +305,10 @@
 
       Lysosomal quality control in health and disease
 
-      10
-
-      MAY
-
-      Molecular Genetic Basis of Congenital Disorders of the Immune System Yields
-      Pr…
-
-      共32条 上页1234下页'
+      共33条 上页1234下页'
     person: ''
     time: ''
-    title: The emerging paradigm of membrane atg8ylation
+    title: 显花植物S-核酸酶类自交不亲和性：降解、相变和演化
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -360,7 +359,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7114075
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7118126
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -683,6 +682,16 @@
 
       2024
 
+      Oct.16
+
+      Geometric Analysis  |  Upcoming
+
+      The $\mu$-bubble Construction of Capillary Surfaces
+
+      Speakers : Yujie Wu (Stanford University)
+
+      2024
+
       Oct.15
 
       Colloquium  |  Upcoming
@@ -726,7 +735,7 @@
 
       Oct.09
 
-      Algebraic Geometry  |  Recent
+      Algebraic Geometry
 
       The Cycle Class of the Supersingular Locus
 
@@ -736,21 +745,11 @@
 
       Oct.09
 
-      Others  |  Recent
+      Others
 
       Foundations of globally valued fields
 
       Speakers : Michal Szachniewicz(University of Oxford)
-
-      2024
-
-      Oct.09
-
-      Number Theory  |  Recent
-
-      On the prismatization of a p-adic formal scheme beyond the Hodge-Tate locus
-
-      Speakers : Zeyu Liu (Berkeley)
 
       Pre12345678910Next
 
@@ -1179,6 +1178,12 @@
 
       当前位置: 学院首页 ) 讲座信息
 
+      09
+
+      2024-10
+
+      知存讲座第二十六期：AI时代原住民的成长之路
+
       25
 
       2024-09
@@ -1263,12 +1268,6 @@
 
       信科“E席谈”青年学术沙龙（第十六期）——群智感知与城市计算
 
-      13
-
-      2024-03
-
-      信科“E席谈”青年学术沙龙（第十五期）——我如何走上图形学的研究道路
-
       首页上页12345...12下页尾页'
     person: ''
     time: ''
@@ -1276,14 +1275,6 @@
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161524.htm
-    info: '2024-10-08
-
-      【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory'
-    person: ''
-    time: ''
-    title: 【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/161518.htm
     info: '2024-10-08
@@ -1371,6 +1362,15 @@
     person: ''
     time: ''
     title: 【北京大学应化系学术报告】多尺度模拟计算在核燃料与材料辐照性能仿真中的应用
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/160994.htm
+    info: '2024-09-12
+
+      【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent Materials'
+    person: ''
+    time: ''
+    title: 【Soft Matter Lecture151】Dynamic Networks as a Route toAccess Pluripotent
+      Materials
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
@@ -1401,27 +1401,27 @@
 
       报告人: Douglas Stryker (Princeton University)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161519.htm
-    info: '14
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161617.htm
+    info: '21
 
       Oct
 
-      Mini-course on Automata and Transducers (8 hours)
+      Stopping times in dynamics
 
-      时间：2024年10月14日-17日 15:00-17:00
+      时间：2024-10-21 13:30-14:30
 
-      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+      报告人: Natalia Jurga（ The University of St Andrews）'
     person: ''
     time: ''
-    title: '14
+    title: '21
 
       Oct
 
-      Mini-course on Automata and Transducers (8 hours)
+      Stopping times in dynamics
 
-      时间：2024年10月14日-17日 15:00-17:00
+      时间：2024-10-21 13:30-14:30
 
-      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+      报告人: Natalia Jurga（ The University of St Andrews）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161505.htm
     info: '09
@@ -1477,6 +1477,28 @@
       \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
       \ of Bologna）"
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/161611.htm
+    info: '11
+
+      Oct
+
+      A new oncolytic virotherapy model
+
+      时间：2024-10-11 10:00-11:00
+
+      报告人: 陶雪妍 (中国海洋大学)'
+    person: ''
+    time: ''
+    title: '11
+
+      Oct
+
+      A new oncolytic virotherapy model
+
+      时间：2024-10-11 10:00-11:00
+
+      报告人: 陶雪妍 (中国海洋大学)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161308.htm
     info: '14
 
@@ -1499,6 +1521,74 @@
 
       报告人: Dr. Guillaume Baverez (Humboldt University of Berlin)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/161585.htm
+    info: '14
+
+      Oct
+
+      Geometry and Topology Seminar——On the Euler class for flat S^1-bundles, C^\infty
+      vs C^\omega
+
+      时间：2024-10-14 15:10-16:00
+
+      报告人: Teruaki Kitano（Soka University）'
+    person: ''
+    time: ''
+    title: '14
+
+      Oct
+
+      Geometry and Topology Seminar——On the Euler class for flat S^1-bundles, C^\infty
+      vs C^\omega
+
+      时间：2024-10-14 15:10-16:00
+
+      报告人: Teruaki Kitano（Soka University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/161590.htm
+    info: '14
+
+      Oct
+
+      Geometry and Topology Seminar——The natural flow and the critical exponent
+
+      时间：2024-10-14 16:10-17:00
+
+      报告人: 汪湜（上海科技大学）'
+    person: ''
+    time: ''
+    title: '14
+
+      Oct
+
+      Geometry and Topology Seminar——The natural flow and the critical exponent
+
+      时间：2024-10-14 16:10-17:00
+
+      报告人: 汪湜（上海科技大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161519.htm
+    info: '14
+
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+    person: ''
+    time: ''
+    title: '14
+
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161531.htm
     info: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
       报告人: Hermann Thorisson（University of Iceland）"
@@ -1506,98 +1596,6 @@
     time: ''
     title: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
       报告人: Hermann Thorisson（University of Iceland）"
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161311.htm
-    info: '16
-
-      Oct
-
-      Applied Mathematics Seminar——Proof of Proof offers Universal Verifiable Computing
-      by Correct-by-Construction ZKP Generation for All Programming Languages
-
-      时间：2024-10-16 10:00-12:00
-
-      报告人: Xiaohong Chen (Pi Squared Inc.)'
-    person: ''
-    time: ''
-    title: '16
-
-      Oct
-
-      Applied Mathematics Seminar——Proof of Proof offers Universal Verifiable Computing
-      by Correct-by-Construction ZKP Generation for All Programming Languages
-
-      时间：2024-10-16 10:00-12:00
-
-      报告人: Xiaohong Chen (Pi Squared Inc.)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/161291.htm
-    info: '28
-
-      Oct
-
-      Steady Contiguous Vortex-Patch Dipole Solutions of the 2D Incompressible Euler
-      Equation
-
-      时间：2024-10-28 16:00-17:00
-
-      报告人: 童嘉骏 （北京大学）'
-    person: ''
-    time: ''
-    title: '28
-
-      Oct
-
-      Steady Contiguous Vortex-Patch Dipole Solutions of the 2D Incompressible Euler
-      Equation
-
-      时间：2024-10-28 16:00-17:00
-
-      报告人: 童嘉骏 （北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/160978.htm
-    info: '05
-
-      Oct
-
-      Deformation limit and invariance of plurigenera of Moishezon manifolds
-
-      时间：2024-10-05 09:00-11:00
-
-      报告人: 饶胜（武汉大学）'
-    person: ''
-    time: ''
-    title: '05
-
-      Oct
-
-      Deformation limit and invariance of plurigenera of Moishezon manifolds
-
-      时间：2024-10-05 09:00-11:00
-
-      报告人: 饶胜（武汉大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/161385.htm
-    info: '30
-
-      Sep
-
-      Quantum affine superalgebra for type $\mathfrak{osp}(2m+1|2n)$
-
-      时间：2024-09-30 13:30-14:30
-
-      报告人: 张红莲（上海大学）'
-    person: ''
-    time: ''
-    title: '30
-
-      Sep
-
-      Quantum affine superalgebra for type $\mathfrak{osp}(2m+1|2n)$
-
-      时间：2024-09-30 13:30-14:30
-
-      报告人: 张红莲（上海大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2236,7 +2234,7 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4120.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/4144.html
     info: '学术日历
 
       16
@@ -2244,6 +2242,12 @@
       2024-10
 
       【学术报告】Intrinsically Chiral and Multimodal Click Chemistry
+
+      15
+
+      2024-10
+
+      【学术日历】Advancing Simple Photochemical Methods For C-C and C-X Bond Formation
 
       15
 
@@ -2295,12 +2299,6 @@
       【学术报告】mine CANs: from lignin derived building blocks to covalent adaptable networks
       and recyclable materials
 
-      23
-
-      2024-09
-
-      【学术报告】硫族钙钛矿功能材料的理论与实验研究
-
       12345下一页最后一页'
     person: ''
     time: ''
@@ -2308,10 +2306,28 @@
 
       2024-10
 
-      【学术报告】活泼亚甲基衍生物的不对称转化'
+      【学术日历】Advancing Simple Photochemical Methods For C-C and C-X Bond Formation'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2F2qF2
+    info: '[几何与分析] 周正一
+
+      KAHLER COMPACTIFICATION OF C^N AND REEB DYNAMICS
+
+      2024-10-28
+
+      14:00 — 15:00'
+    person: ''
+    time: ''
+    title: '[几何与分析] 周正一
+
+      KAHLER COMPACTIFICATION OF C^N AND REEB DYNAMICS
+
+      2024-10-28
+
+      14:00 — 15:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FpKF2
     info: '[几何与分析] FRANK KUTZSCHEBAUCH
@@ -2332,6 +2348,42 @@
       2024-10-23
 
       13:00 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FtKF2
+    info: '[动力系统与数学物理] JAUME LLIBRE
+
+      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
+
+      2024-10-19
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[动力系统与数学物理] JAUME LLIBRE
+
+      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
+
+      2024-10-19
+
+      10:00 — 11:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2GpKF2
+    info: '[应用与计算] HANCHENG MIN
+
+      LEARNING DYNAMICS, IMPLICIT BIAS, AND ROBUSTNESS OF SHALLOW RELU NETWORKS
+
+      2024-10-18
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[应用与计算] HANCHENG MIN
+
+      LEARNING DYNAMICS, IMPLICIT BIAS, AND ROBUSTNESS OF SHALLOW RELU NETWORKS
+
+      2024-10-18
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuHpKF2
     info: '[机器学习] 蔡占锐
@@ -2462,60 +2514,6 @@
       2024-10-05
 
       17:00 — 18:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGuipmHtKF2
-    info: '[偏微分方程] PETER J. OLVER
-
-      FRACTALIZATION, QUANTIZATION, AND REVIVALS IN DISPERSIVE SYSTEMS
-
-      2024-09-30
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] PETER J. OLVER
-
-      FRACTALIZATION, QUANTIZATION, AND REVIVALS IN DISPERSIVE SYSTEMS
-
-      2024-09-30
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuG2qF2
-    info: '[文俊讲坛] 辛周平 教授
-
-      THEORY OF SHOCK WAVES AND ITS CHALLENGES
-
-      2024-09-30
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '[文俊讲坛] 辛周平 教授
-
-      THEORY OF SHOCK WAVES AND ITS CHALLENGES
-
-      2024-09-30
-
-      16:00 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNuGpKF2
-    info: '[机器学习] 曹钦翔
-
-      AI FOR FORMAL MATH AND FORMAL VERIFICATION
-
-      2024-09-29
-
-      10:30 — 12:00'
-    person: ''
-    time: ''
-    title: '[机器学习] 曹钦翔
-
-      AI FOR FORMAL MATH AND FORMAL VERIFICATION
-
-      2024-09-29
-
-      10:30 — 12:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2523,20 +2521,19 @@
     href: null
     info: '学术
 
-      “求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
+      基础交叉沙龙第9期：室温超导的探索：梦想、现实与展望
+
+      【教育学院】“求是教育论坛”第99期丨顾明远先生专题讲座：教育家精神与教育强国建设
+
+      【教育学院】“求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
       Evidence-based practice and future research directions
 
       【数学学院】路江华：Poisson structures and cluster algebras
 
-      【数学学院】夏志宏：A new algorithm for machine learning and artificial intelligence
-
-      “杏林·学者论坛”—陈心春 教授报告会
-
-      【化学系】启真化学大讲堂：Prof. Wonwoo Nam（Ewha Womans University）'
+      【数学学院】夏志宏：A new algorithm for machine learning and artificial intelligence'
     person: ''
     time: ''
-    title: '“求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
-      Evidence-based practice and future research directions'
+    title: 基础交叉沙龙第9期：室温超导的探索：梦想、现实与展望
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:

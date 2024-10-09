@@ -1,36 +1,142 @@
 ﻿- page_info:
   - address: ''
-    href: https://www.cs.tsinghua.edu.cn/info/1089/6390.htm
-    info: '07
+    href: https://www.chem.pku.edu.cn/xzjz/161524.htm
+    info: '2024-10-08
 
-      十月
-
-      Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs'
+      【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory'
     person: ''
     time: ''
-    title: Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs
-  page_title: 学术报告-清华大学计算机科学与技术系
-  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+    title: 【兴大报告672】The Strong Correlation Challenge in Electronic Structure Theory
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161518.htm
+    info: '2024-10-08
+
+      【兴大报告671】Role of conical intersections in photophysics and photochemistry'
+    person: ''
+    time: ''
+    title: 【兴大报告671】Role of conical intersections in photophysics and photochemistry
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161501.htm
+    info: '2024-10-03
+
+      【有机化学OPSS学术报告】基于自由基调控的碳氢键精准转化'
+    person: ''
+    time: ''
+    title: 【有机化学OPSS学术报告】基于自由基调控的碳氢键精准转化
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/1e17cffef5b941f58681d3b6bed4981b.htm
-    info: '2024.10.07
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161536.htm
+    info: '09
 
-      Development of Novel Synthetic Methodologies'
+      Oct
+
+      Stable Minimal Hypersurfaces in
+
+      R5
+
+      时间：2024-10-09 09:00-10:00
+
+      报告人: Douglas Stryker (Princeton University)'
     person: ''
     time: ''
-    title: Development of Novel Synthetic Methodologies
+    title: '09
+
+      Oct
+
+      Stable Minimal Hypersurfaces in
+
+      R5
+
+      时间：2024-10-09 09:00-10:00
+
+      报告人: Douglas Stryker (Princeton University)'
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/6076bf3e807744cd8173b117f1a15ec2.htm
-    info: '2024.10.07
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/161519.htm
+    info: '14
 
-      科技创新与中药研发底层核心技术构建'
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
     person: ''
     time: ''
-    title: 科技创新与中药研发底层核心技术构建
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
+    title: '14
+
+      Oct
+
+      Mini-course on Automata and Transducers (8 hours)
+
+      时间：2024年10月14日-17日 15:00-17:00
+
+      报告人: Professor Mikolaj Bojanczyk (Warsaw University)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/161526.htm
+    info: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
+      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
+      \ of Bologna）"
+    person: ''
+    time: ''
+    title: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
+      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
+      \ of Bologna）"
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161531.htm
+    info: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
+      报告人: Hermann Thorisson（University of Iceland）"
+    person: ''
+    time: ''
+    title: "14\nOct\nEmbeddings into Brownian motion \n时间：2024-10-14 15:30-16:30\n\
+      报告人: Hermann Thorisson（University of Iceland）"
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161505.htm
+    info: '09
+
+      Oct
+
+      应用数学青年讨论班（午餐会）—— p-Multigrid method for elliptic problem
+
+      时间：2024-10-09 11:45-13:00
+
+      报告人: 张东航（中国科学院数学与系统科学研究院基础软件研究中心）'
+    person: ''
+    time: ''
+    title: '09
+
+      Oct
+
+      应用数学青年讨论班（午餐会）—— p-Multigrid method for elliptic problem
+
+      时间：2024-10-09 11:45-13:00
+
+      报告人: 张东航（中国科学院数学与系统科学研究院基础软件研究中心）'
+  page_title: 北京大学数学学院
+  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FpKF2
+    info: '[几何与分析] FRANK KUTZSCHEBAUCH
+
+      THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
+      - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
+
+      2024-10-23
+
+      13:00 — 14:30'
+    person: ''
+    time: ''
+    title: '[几何与分析] FRANK KUTZSCHEBAUCH
+
+      THE DENSITY PROPERTY FOR COMPLEX MANIFOLDS - A STRONG FORM OF HOLOMORPHIC SYMMETRY
+      - AN INTRODUCTION TO ANDERSEN-LEMPERT THEORY
+
+      2024-10-23
+
+      13:00 — 14:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyGyqF2
     info: '[几何与分析] FRANK KUTZSCHEBAUCH
@@ -93,37 +199,166 @@
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161505.htm
-    info: '09
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970599/page.htm
+    info: '生涯启航 | 圣湘生物2025校园招聘宣讲会
 
-      Oct
+      【主讲人：谭德勇博士】
 
-      应用数学青年讨论班（午餐会）—— p-Multigrid method for elliptic problem
+      时间：15:00
 
-      时间：2024-10-09 11:45-13:00
+      地点：生科学院245报告厅
 
-      报告人: 张东航（中国科学院数学与系统科学研究院基础软件研究中心）'
+      2024-10-10
+
+      查看详情+'
     person: ''
     time: ''
-    title: '09
+    title: '生涯启航 | 圣湘生物2025校园招聘宣讲会
 
-      Oct
+      【主讲人：谭德勇博士】
 
-      应用数学青年讨论班（午餐会）—— p-Multigrid method for elliptic problem
+      时间：15:00
 
-      时间：2024-10-09 11:45-13:00
+      地点：生科学院245报告厅
 
-      报告人: 张东航（中国科学院数学与系统科学研究院基础软件研究中心）'
-  page_title: 北京大学数学学院
-  page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+      2024-10-10
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970413/page.htm
+    info: '生命科学启真讲坛--Belinda E. Medlyn教授学术报告
+
+      【主讲人：Belinda E. Medlyn】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-10-14
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--Belinda E. Medlyn教授学术报告
+
+      【主讲人：Belinda E. Medlyn】
+
+      时间：13:00
+
+      地点：生命科学学院245报告厅
+
+      2024-10-14
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970393/page.htm
+    info: '生命科学启真讲坛--王存教授学术报告
+
+      【主讲人：王存】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--王存教授学术报告
+
+      【主讲人：王存】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970392/page.htm
+    info: '生命科学启真讲坛--吴双教授学术报告
+
+      【主讲人：吴双】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--吴双教授学术报告
+
+      【主讲人：吴双】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1008/c26342a2970389/page.htm
+    info: '生命科学启真讲坛--丁兆军教授学术报告
+
+      【主讲人：丁兆军】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '生命科学启真讲坛--丁兆军教授学术报告
+
+      【主讲人：丁兆军】
+
+      时间：14:00
+
+      地点：生命科学学院245会议室
+
+      2024-10-11
+
+      查看详情+'
+  page_title: 活动预告
+  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
 - page_info:
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/161501.htm
-    info: '2024-10-03
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6390.htm
+    info: '07
 
-      【有机化学OPSS学术报告】基于自由基调控的碳氢键精准转化'
+      十月
+
+      Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs'
     person: ''
     time: ''
-    title: 【有机化学OPSS学术报告】基于自由基调控的碳氢键精准转化
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+    title: Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs
+  page_title: 学术报告-清华大学计算机科学与技术系
+  page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
+- page_info:
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/1e17cffef5b941f58681d3b6bed4981b.htm
+    info: '2024.10.07
+
+      Development of Novel Synthetic Methodologies'
+    person: ''
+    time: ''
+    title: Development of Novel Synthetic Methodologies
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/6076bf3e807744cd8173b117f1a15ec2.htm
+    info: '2024.10.07
+
+      科技创新与中药研发底层核心技术构建'
+    person: ''
+    time: ''
+    title: 科技创新与中药研发底层核心技术构建
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
