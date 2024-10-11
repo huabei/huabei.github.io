@@ -1,5 +1,13 @@
 ﻿- page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9886.htm
+    info: '天津大学胡清华教授学术报告
+
+      2024-10-11'
+    person: ''
+    time: ''
+    title: 天津大学胡清华教授学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/9846.htm
     info: '清华大学李建教授学术报告
 
@@ -79,14 +87,6 @@
     person: ''
     time: ''
     title: 上海财经大学陆品燕教授学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9641.htm
-    info: '“边缘智能技术论坛”名家系列讲座
-
-      2024-06-14'
-    person: ''
-    time: ''
-    title: “边缘智能技术论坛”名家系列讲座
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -359,7 +359,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7123887
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7128473
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -551,6 +551,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/d6ea969b37f6428690590f602387f742.htm
+    info: '2024.10.11
+
+      我们能看到病么—分子影像研究分享'
+    person: ''
+    time: ''
+    title: 我们能看到病么—分子影像研究分享
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/1e17cffef5b941f58681d3b6bed4981b.htm
     info: '2024.10.07
 
@@ -632,16 +640,6 @@
     person: ''
     time: ''
     title: 中药创新研发的思路与挑战
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/6a2197653b2a4ee6bce65a5bf36248c5.htm
-    info: '2024.08.13
-
-      Polymer mechanochemistry enables controlling the activity of drugs, proteins
-      and nucleic acids by ultrasound'
-    person: ''
-    time: ''
-    title: Polymer mechanochemistry enables controlling the activity of drugs, proteins
-      and nucleic acids by ultrasound
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -679,6 +677,26 @@
       A Quantum H*(T)-module via Quasimap Invariants
 
       Speakers : Jae Hwang Lee (BICMR)
+
+      2024
+
+      Oct.17
+
+      Dynamical Systems  |  Upcoming
+
+      Perturbations of Non-Recurrent Exponential Maps and Applications
+
+      Speakers : Weiwei Cui (Shandong University, China)
+
+      2024
+
+      Oct.17
+
+      Dynamical Systems  |  Upcoming
+
+      Sobolev Spaces on Metric Spaces, Recent Developments
+
+      Speakers : Jun Kigami (Kyoto University, Japan)
 
       2024
 
@@ -724,32 +742,11 @@
 
       Oct.10
 
-      Analysis Research Interaction Team  |  Recent
+      Analysis Research Interaction Team
 
       From a Kac Particle System to the Homogeneous Boltzmann Equation for Hard Potentials
 
       Speakers : Chenguang Liu (Technische Universiteit Delft, Netherlands)
-
-      2024
-
-      Oct.10
-
-      Others
-
-      A statistical framework for powerful multi-trait rare variant analysis in large-scale
-      whole-genome sequencing ...
-
-      Speakers : Zilin Li(Northeast Normal University)
-
-      2024
-
-      Oct.09
-
-      Algebraic Geometry
-
-      The Cycle Class of the Supersingular Locus
-
-      Speakers : Gerard van der Geer (University of Amsterdam)
 
       Pre12345678910Next
 
@@ -1376,38 +1373,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/161257.htm
-    info: '10
-
-      Oct
-
-      Covariate adjustment in randomized experiments with missing outcomes and covariates
-
-      时间：2024-10-10 15:00-16:00
-
-      报告人: 李凡（ Duke University）'
-    person: ''
-    time: ''
-    title: '10
-
-      Oct
-
-      Covariate adjustment in randomized experiments with missing outcomes and covariates
-
-      时间：2024-10-10 15:00-16:00
-
-      报告人: 李凡（ Duke University）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/161526.htm
-    info: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
-      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
-      \ of Bologna）"
-    person: ''
-    time: ''
-    title: "10\nOct\nReinforcement learning for optimal execution: time-varying liquidity\
-      \ and multiple-player games \n时间：2024-10-10 17：00-18：00\n报告人: Fabrizio Lillo（University\
-      \ of Bologna）"
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/161611.htm
     info: '11
 
@@ -1574,6 +1539,30 @@
 
       报告人: Xiaohong Chen (Pi Squared Inc.)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161746.htm
+    info: '16
+
+      Oct
+
+      应用数学青年讨论班（午餐会）—— Multi-scale Self-similar Finite-time Blowups of Some 1D Models
+      for the 3D Incompressible Euler Equations
+
+      时间：2024-10-16 11:45-13:00
+
+      报告人: 王修远（北京大学数学科学学院）'
+    person: ''
+    time: ''
+    title: '16
+
+      Oct
+
+      应用数学青年讨论班（午餐会）—— Multi-scale Self-similar Finite-time Blowups of Some 1D Models
+      for the 3D Incompressible Euler Equations
+
+      时间：2024-10-16 11:45-13:00
+
+      报告人: 王修远（北京大学数学科学学院）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/161627.htm
     info: '16
 
@@ -1595,6 +1584,28 @@
       时间：2024-10-16 09:00-10:00
 
       报告人: 吴玉洁（斯坦福大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/161634.htm
+    info: '16
+
+      Oct
+
+      Topics in geometric tomography
+
+      时间：2024-10-16 14:00-15:00
+
+      报告人: 张宁(华中科技大学)'
+    person: ''
+    time: ''
+    title: '16
+
+      Oct
+
+      Topics in geometric tomography
+
+      时间：2024-10-16 14:00-15:00
+
+      报告人: 张宁(华中科技大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -2295,7 +2306,7 @@
 
       11:00 — 12:00'
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2GtKF2
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2GyqF2
     info: '[偏微分方程] 曾梓镕
 
       SHARP NON-UNIQUENESS OF WEAK SOLUTIONS TO 3D HYPERDISSIPATIVE NAVIER-STOKES
@@ -2303,7 +2314,7 @@
 
       2024-10-11
 
-      16:00 — 17:00'
+      10:00 — 11:00'
     person: ''
     time: ''
     title: '[偏微分方程] 曾梓镕
@@ -2313,7 +2324,7 @@
 
       2024-10-11
 
-      16:00 — 17:00'
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFpKF2
     info: '[几何与分析] 周杰
@@ -2377,19 +2388,18 @@
     href: null
     info: '学术
 
+      【药学院】明德弘药论坛（第311期）：杜克大学黄俊教授学术报告
+
+      【数学学院】Mohammed Abouzaid：Morse theory at 100 years
+
       “杏林·学者论坛”—罗敏敏 教授报告会
 
       物理学院林潮学术报告的通知（School of Physics Colloquium）
 
-      基础交叉沙龙第9期：室温超导的探索：梦想、现实与展望
-
-      【教育学院】“求是教育论坛”第99期丨顾明远先生专题讲座：教育家精神与教育强国建设
-
-      【教育学院】“求是教育论坛”第98期丨Addressing student disengagement in blended learning activities:
-      Evidence-based practice and future research directions'
+      基础交叉沙龙第9期：室温超导的探索：梦想、现实与展望'
     person: ''
     time: ''
-    title: “杏林·学者论坛”—罗敏敏 教授报告会
+    title: 【药学院】明德弘药论坛（第311期）：杜克大学黄俊教授学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
