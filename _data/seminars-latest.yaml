@@ -242,8 +242,14 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/6213.htm
+    href: https://life.tsinghua.edu.cn/info/1132/6243.htm
     info: '学术报告
+
+      14
+
+      OCT
+
+      Building Human Embryo and Placenta Models from Naive Stem Cells
 
       09
 
@@ -299,16 +305,10 @@
 
       Lysosomal dynamics: Regulation and Function
 
-      22
-
-      MAY
-
-      Lysosomal quality control in health and disease
-
-      共33条 上页1234下页'
+      共34条 上页1234下页'
     person: ''
     time: ''
-    title: 显花植物S-核酸酶类自交不亲和性：降解、相变和演化
+    title: Building Human Embryo and Placenta Models from Naive Stem Cells
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -359,7 +359,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7136469
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7140027
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -551,6 +551,22 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/e96b017fb0244b54abddcdc0d5da9b20.htm
+    info: '2024.10.14
+
+      应对光学成像挑战，助力生物医学研究'
+    person: ''
+    time: ''
+    title: 应对光学成像挑战，助力生物医学研究
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/384f91a58b0c48848e98b115154afbbe.htm
+    info: '2024.10.14
+
+      Exploring Ring Dynamics: Opening, Formation, and Swapping of Cyclic Structures'
+    person: ''
+    time: ''
+    title: 'Exploring Ring Dynamics: Opening, Formation, and Swapping of Cyclic Structures'
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/d6ea969b37f6428690590f602387f742.htm
     info: '2024.10.11
 
@@ -624,28 +640,23 @@
     person: ''
     time: ''
     title: Natural Products Discovery and NMR-guided metabolomics supported by AI
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/75eb9a16bdb64caf8af82c245c3f0b09.htm
-    info: '2024.09.09
-
-      以WHO 抗菌药物AWaRe分类和手册为指引优化全球抗菌药物合理使用'
-    person: ''
-    time: ''
-    title: 以WHO 抗菌药物AWaRe分类和手册为指引优化全球抗菌药物合理使用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c42d204411424dcdbeb9037a1c67e7be.htm
-    info: '2024.09.08
-
-      中药创新研发的思路与挑战'
-    person: ''
-    time: ''
-    title: 中药创新研发的思路与挑战
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://bicmr.pku.edu.cn/content/show/18-3434.html?catid=KiQhKyYs
+    href: https://bicmr.pku.edu.cn/content/show/18-3456.html?catid=KiQhKyYs
     info: 'Seminars and Colloquium
+
+      2024
+
+      Dec.03
+
+      Colloquium  |  Upcoming
+
+      Recent Advances in Sphere Packing Problems
+
+      Speakers : Enkhbat Rentsen(Institute of Mathematics and Digital Technology,
+      Mongolian Academy of Sciences)
 
       2024
 
@@ -680,9 +691,20 @@
 
       2024
 
+      Oct.18
+
+      Symplectic Geometry and Mathematical Physics  |  Upcoming
+
+      One Day Workshop on Poisson Geometry
+
+      Speakers : Yanpeng Li (Sichuan University)、Shizhuo Yu (Nankai University)、Chenchang
+      Zhu (University of Goettingen)
+
+      2024
+
       Oct.17
 
-      Dynamical Systems  |  Upcoming
+      Dynamical Systems  |  Recent
 
       Perturbations of Non-Recurrent Exponential Maps and Applications
 
@@ -692,7 +714,7 @@
 
       Oct.17
 
-      Dynamical Systems  |  Upcoming
+      Dynamical Systems  |  Recent
 
       Sobolev Spaces on Metric Spaces, Recent Developments
 
@@ -727,26 +749,6 @@
       Elliptic Equations in Conductivity Problems
 
       Speakers : Hongjie Dong (Brown University)
-
-      2024
-
-      Oct.15
-
-      Symplectic Geometry and Mathematical Physics  |  Recent
-
-      Non-commutative resolutions and periods of singular Calabi-Yau
-
-      Speakers : Leonardo Santilli (YMSC)
-
-      2024
-
-      Oct.10
-
-      Analysis Research Interaction Team
-
-      From a Kac Particle System to the Homogeneous Boltzmann Equation for Hard Potentials
-
-      Speakers : Chenguang Liu (Technische Universiteit Delft, Netherlands)
 
       Pre12345678910Next
 
@@ -872,6 +874,54 @@
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/3d8e3dc2d21344a3b3fa4588c4318c29.htm
+    info: '讲座主题
+
+      数据驱动的基因编辑技术开发
+
+      王皓毅
+
+      主讲人研究员
+
+      2024年10月15日（星期二） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      数据驱动的基因编辑技术开发
+
+      王皓毅
+
+      主讲人研究员
+
+      2024年10月15日（星期二） 下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/2774eb6436c14654895d8d71cc43c23d.htm
+    info: '讲座主题
+
+      “脑肠轴”调控油脂吸收
+
+      主讲人研究员
+
+      2024年10月22日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      “脑肠轴”调控油脂吸收
+
+      主讲人研究员
+
+      2024年10月22日（星期二）下午4:00-5:00
+
+      北京大学综合科研二号楼B117会议室'
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/46e8ca5eaaf049c39c6591303bc6ebdf.htm
     info: '讲座主题
@@ -1104,58 +1154,6 @@
       主讲人PhD.
 
       2024年5月27日（星期一） 下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/f2b1391f85674b249100401766c05d81.htm
-    info: '讲座主题
-
-      Decoding the transcription circuitry when the life...
-
-      颉伟
-
-      主讲人教授
-
-      2024年5月21日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Decoding the transcription circuitry when the life...
-
-      颉伟
-
-      主讲人教授
-
-      2024年5月21日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/dc1e7588f9ee4b7b896ca91ea320d047.htm
-    info: '讲座主题
-
-      Gut-liver axis calibrates intestinal stem cell fit...
-
-      Chuan Wu
-
-      主讲人MD, PhD
-
-      2024年5月16日（星期四） 下午4:00-5:00
-
-      北京大学综合科研二号楼B117会议室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Gut-liver axis calibrates intestinal stem cell fit...
-
-      Chuan Wu
-
-      主讲人MD, PhD
-
-      2024年5月16日（星期四） 下午4:00-5:00
 
       北京大学综合科研二号楼B117会议室'
   page_title: 北京大学未来技术学院
@@ -1755,6 +1753,150 @@
   page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
+    href: http://www.bio-x.cn/Web/News/9
+    info: '新闻中心
+
+      通知公告
+
+      新闻动态
+
+      学术报告
+
+      首页 / 学术报告 / 新闻中心
+
+      21
+
+      2023-11
+
+      夏波研究员的学术报告
+
+      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室
+
+      24
+
+      2023-05
+
+      盛能印研究员的学术报告
+
+      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室
+
+      11
+
+      2023-04
+
+      刘苗博士的学术报告
+
+      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00
+
+      01
+
+      2023-03
+
+      Margit Burmeister教授的学术报告
+
+      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室
+
+      28
+
+      2022-11
+
+      张强锋研究员的学术报告
+
+      会议时间：2022年11月30日 9：30am腾讯会议：638904242
+
+      28
+
+      2022-09
+
+      Bio-X胥川老师的学术报告
+
+      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
+      adaptive or not？的讲座
+
+      04
+
+      2022-07
+
+      张曼菲博士的学术报告
+
+      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究
+
+      20
+
+      2022-05
+
+      张泉峰博士的学术报告
+
+      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》
+
+      09
+
+      2022-05
+
+      毛亚飞博士的学术报告
+
+      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。
+
+      25
+
+      2021-10
+
+      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
+
+      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动
+
+      22
+
+      2021-09
+
+      学术研讨会|Mini-Symposium 神经系统的蛋白质组装与信号转导
+
+      日期：2021年9月23日，星期四时间：9:30-10:30 唐逸泉教授 10:30-11:30 冯喆教授 11:30-12:00 研究生吴绍轩地点：徐汇小白楼201A会议室
+
+      06
+
+      2020-01
+
+      解码讲坛第三十六期讲座通知
+
+      主讲人:彭鲁英 教授时间:2020年01月07号（周二）上午9:00地点:基因组学楼二楼会议室主讲内容:自然科学基金申报要点
+
+      首页
+
+      上页
+
+      1
+
+      2
+
+      3
+
+      4
+
+      5
+
+      6
+
+      7
+
+      8
+
+      9
+
+      10
+
+      ...
+
+      下页
+
+      尾页'
+    person: ''
+    time: ''
+    title: 新闻动态
+  page_title: 上海交通大学BIO-X研究院
+  page_url: http://www.bio-x.cn/Web/List/10
+- page_info:
+  - address: ''
     href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
     info: ''
     person: ''
@@ -1977,6 +2119,15 @@
 
       查看更多
 
+      Jingwei Liang and His Collaborators'' Paper is Highlighted in SIAM High Impact
+      Article Collection梁经纬及其合作者的文章入选SIAM高影响力论文集
+
+      近日，上海交通大学自然科学研究院和数学科学学院的梁经纬副教授及其合作者于2017年发表在SIAM Journal on Optimization的文章Activity
+      Identification and Local Linear Convergence of Forward--Backward-type Methods入选SIAM高影响力论文集过去二十余年，得益于压缩感知、图像处理以及大数据等领域的驱动，非光滑优化经历了一段快速发展。尤其是2010年前后，发展了大量的一阶优化算法，其中的典型代表有向前向后分裂方法及其加速算法Fast
+      Iterative Shrinkage-Threshold
+
+      2024-10-14
+
       Hepeng Zhang’s Group and Collaborators observed Robust Edge Flows in Swarming
       Bacterial Colonies 张何朋课题组及其合作者在细菌菌落中观察到鲁棒边界流
 
@@ -2015,16 +2166,7 @@
 
       近日，Jakob Ulmschneider教授（上海交通大学自然科学研究院/物理与天文学院）领导的研究团队及其合作者在膜活性肽穿透脂质双层的研究中取得了重要进展。对于膜通透性肽：alamethicin和melittin，作者通过分子模拟展示了如何区分平衡和瞬时泄漏过程，并预测了详细的孔结构和穿透机制。这项题为《Melittin通过大型瞬时孔道使膜通透》的研究已发表在《自然·通讯》上。原文链接：https://www.nature.com/articles/s41467-024-51691-1研究背景膜通透性肽在所有生命形式中都很常见，几十年来一直是众多研究的焦点，目标是为制药或生物技术应用进行
 
-      2024-08-25
-
-      Jie Zhang''s group published their latest work on "Cluster Motion of Nonpolar
-      Brownian Particles" in "Nature Communications," which has been highlighted as
-      an Editor''s Choice article上海交通大学张洁课题组最新研究成果被《自然·通讯》选为编辑推荐文章：非极性布朗运动颗粒的集群运动
-
-      近日，上海交通大学自然科学研究院/物理与天文学院张洁课题组在非极性的布朗运动颗粒的集群行为研究中取得了重大进展。该成果被《自然·通讯》选为编辑推荐文章。《自然·通讯》期刊推荐其为Applied
-      Physics and Mathematics方向最佳50篇论文之一。该工作由研究团队博士生陈杨锐与导师张洁共同完成。他们通过研究均匀驱动的准二维颗粒物质，发现了非极性颗粒在某些堆积分数时自发产生了大规模的集群行为，并确定了四种不同的相态：颗粒流体相、集群流体相、多晶相和晶体相。研究背景颗粒物质的集体动力学是软物质物理学研究中的重要课题。传统观点认为，集群运动需要颗粒个体之间的极性对齐机制。在以往的实验
-
-      2024-07-18'
+      2024-08-25'
     person: ''
     time: ''
     title: 查看更多
@@ -2103,8 +2245,14 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4145.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/4148.html
     info: '学术日历
+
+      29
+
+      2024-10
+
+      【学术报告】连续波电子顺磁共振谱学基本原理及常见应用案例浅析
 
       17
 
@@ -2161,12 +2309,6 @@
 
       【学术报告】Boranes and Frustrated Lewis Pairs: Searching for New Reactions
 
-      09
-
-      2024-10
-
-      【学术报告】Chirality-dependent electron transport and its  impact on spin chemistry
-
       12345下一页最后一页'
     person: ''
     time: ''
@@ -2174,7 +2316,8 @@
 
       2024-10
 
-      【学术报告】Implantable Aptamer-based Biosensors for Drug Real-Time Measurement in Live Animal'
+      【学术报告】Implantable Aptamer-based Biosensors for Drug Real-Time Measurement in
+      Live Animal'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -2215,6 +2358,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2HtKF2
+    info: '[文俊讲坛] 冯克勤 教授
+
+      离散型数学在信息科学中的某些应用
+
+      2024-10-24
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] 冯克勤 教授
+
+      离散型数学在信息科学中的某些应用
+
+      2024-10-24
+
+      16:00 — 17:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FpKF2
     info: '[几何与分析] FRANK KUTZSCHEBAUCH
 
@@ -2234,6 +2395,26 @@
       2024-10-23
 
       13:00 — 14:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FpKF2
+    info: '[文俊讲坛] PROF. YUVAL PERES
+
+      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
+      REGIMES
+
+      2024-10-21
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] PROF. YUVAL PERES
+
+      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
+      REGIMES
+
+      2024-10-21
+
+      16:00 — 17:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2FtKF2
     info: '[动力系统与数学物理] JAUME LLIBRE
@@ -2344,107 +2525,25 @@
       2024-10-11
 
       11:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2GyqF2
-    info: '[偏微分方程] 曾梓镕
-
-      SHARP NON-UNIQUENESS OF WEAK SOLUTIONS TO 3D HYPERDISSIPATIVE NAVIER-STOKES
-      EQUATIONS
-
-      2024-10-11
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] 曾梓镕
-
-      SHARP NON-UNIQUENESS OF WEAK SOLUTIONS TO 3D HYPERDISSIPATIVE NAVIER-STOKES
-      EQUATIONS
-
-      2024-10-11
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulNyFpKF2
-    info: '[几何与分析] 周杰
-
-      REGULARIZED INTEGRALS ON RIEMANN SURFACES AND THEIR APPLICATIONS
-
-      2024-10-10
-
-      15:30 — 16:30'
-    person: ''
-    time: ''
-    title: '[几何与分析] 周杰
-
-      REGULARIZED INTEGRALS ON RIEMANN SURFACES AND THEIR APPLICATIONS
-
-      2024-10-10
-
-      15:30 — 16:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: https://www.zju.edu.cn/xxgk1/list.htm
-    info: ''
+    href: null
+    info: '学术
+
+      “杏林·名师名家论坛”—Ian David Hickson 院士报告会
+
+      “杏林·名师名家论坛”—于君 院士报告会
+
+      【能源学院】学术报告-Stephen W.Tsai
+
+      【教育学院】“求是教育论坛”第100期：What is the Future of Higher Education？
+
+      【化学系】启真化学论坛：雷爱文教授（武汉大学）'
     person: ''
     time: ''
-    title: ''
-  - address: ''
-    href: http://www.news.zju.edu.cn/
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://zhfw.zju.edu.cn/
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xxjg_76687/list.htm
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/xs/list.htm#
-    info: ''
-    person: ''
-    time: ''
-    title: ''
-  - address: ''
-    href: https://www.zju.edu.cn/zjzd/list.htm
-    info: ''
-    person: ''
-    time: ''
-    title: ''
+    title: “杏林·名师名家论坛”—Ian David Hickson  院士报告会
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
