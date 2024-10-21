@@ -1,5 +1,13 @@
 ﻿- page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/161844.htm
+    info: '2024-10-16
+
+      【兴大报告673】Dynamic Crystals – A New Class Of Smart Engineering Materials'
+    person: ''
+    time: ''
+    title: 【兴大报告673】Dynamic Crystals – A New Class Of Smart Engineering Materials
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/161916.htm
     info: '2024-10-19
 
@@ -85,6 +93,209 @@
       Chemical Processes
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
+- page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJSFyqF2
+    info: '[应用与计算] 黄学海
+
+      DECOUPLED FINITE ELEMENT METHODS FOR A FOURTH-ORDER EXTERIOR DIFFERENTIAL EQUATION
+
+      2024-10-24
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[应用与计算] 黄学海
+
+      DECOUPLED FINITE ELEMENT METHODS FOR A FOURTH-ORDER EXTERIOR DIFFERENTIAL EQUATION
+
+      2024-10-24
+
+      10:00 — 11:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6HpKF2
+    info: '[代数与数论] 祝天擎
+
+      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
+
+      2024-11-06
+
+      15:30 — 17:00'
+    person: ''
+    time: ''
+    title: '[代数与数论] 祝天擎
+
+      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
+
+      2024-11-06
+
+      15:30 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6HtKF2
+    info: '[代数几何与拓扑] 胡飞
+
+      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
+
+      2024-10-21
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[代数几何与拓扑] 胡飞
+
+      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
+
+      2024-10-21
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6GyqF2
+    info: '[动力系统与数学物理] 杨延涛
+
+      DYNAMICS OF A SLOW-FAST LESLIE-GOWER PREDATOR-PREY MODEL WITH PREY HARVESTING
+
+      2024-10-31
+
+      08:30 — 11:00'
+    person: ''
+    time: ''
+    title: '[动力系统与数学物理] 杨延涛
+
+      DYNAMICS OF A SLOW-FAST LESLIE-GOWER PREDATOR-PREY MODEL WITH PREY HARVESTING
+
+      2024-10-31
+
+      08:30 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6G2qF2
+    info: '[应用与计算] JUNFENG YANG
+
+      TIGHT COMPLEXITY BOUNDS OF THE (RELAXED) PROXIMAL POINT ALGORITHM
+
+      2024-10-27
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[应用与计算] JUNFENG YANG
+
+      TIGHT COMPLEXITY BOUNDS OF THE (RELAXED) PROXIMAL POINT ALGORITHM
+
+      2024-10-27
+
+      10:00 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6GtKF2
+    info: '[代数与数论] 祝天擎
+
+      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
+
+      2024-11-06
+
+      15:30 — 16:30'
+    person: ''
+    time: ''
+    title: '[代数与数论] 祝天擎
+
+      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
+
+      2024-11-06
+
+      15:30 — 16:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FyqF2
+    info: '[动力系统与数学物理] JAUME LLIBRE
+
+      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
+
+      2024-10-21
+
+      09:45 — 11:00'
+    person: ''
+    time: ''
+    title: '[动力系统与数学物理] JAUME LLIBRE
+
+      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
+
+      2024-10-21
+
+      09:45 — 11:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6F2qF2
+    info: '[代数几何与拓扑] 胡飞
+
+      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
+
+      2024-10-21
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[代数几何与拓扑] 胡飞
+
+      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
+
+      2024-10-21
+
+      15:00 — 16:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FtKF2
+    info: '[偏微分方程] 黄飞敏
+
+      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
+
+      2024-10-21
+
+      11:00 — 12:00'
+    person: ''
+    time: ''
+    title: '[偏微分方程] 黄飞敏
+
+      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
+
+      2024-10-21
+
+      11:00 — 12:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2HtKF2
+    info: '[文俊讲坛] 冯克勤 教授
+
+      离散型数学在信息科学中的某些应用
+
+      2024-10-24
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] 冯克勤 教授
+
+      离散型数学在信息科学中的某些应用
+
+      2024-10-24
+
+      16:00 — 17:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FpKF2
+    info: '[文俊讲坛] PROF. YUVAL PERES
+
+      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
+      REGIMES
+
+      2024-10-21
+
+      16:00 — 17:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] PROF. YUVAL PERES
+
+      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
+      REGIMES
+
+      2024-10-21
+
+      16:00 — 17:30'
+  page_title: 上海交通大学数学科学学院
+  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/161906.htm
@@ -334,191 +545,6 @@
       报告人: 邱彦奇（国科大杭州高等研究院）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
-- page_info:
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6HpKF2
-    info: '[代数与数论] 祝天擎
-
-      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
-
-      2024-11-06
-
-      15:30 — 17:00'
-    person: ''
-    time: ''
-    title: '[代数与数论] 祝天擎
-
-      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
-
-      2024-11-06
-
-      15:30 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6HtKF2
-    info: '[代数几何与拓扑] 胡飞
-
-      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
-
-      2024-10-21
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] 胡飞
-
-      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
-
-      2024-10-21
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6GyqF2
-    info: '[动力系统与数学物理] 杨延涛
-
-      DYNAMICS OF A SLOW-FAST LESLIE-GOWER PREDATOR-PREY MODEL WITH PREY HARVESTING
-
-      2024-10-31
-
-      08:30 — 11:00'
-    person: ''
-    time: ''
-    title: '[动力系统与数学物理] 杨延涛
-
-      DYNAMICS OF A SLOW-FAST LESLIE-GOWER PREDATOR-PREY MODEL WITH PREY HARVESTING
-
-      2024-10-31
-
-      08:30 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6G2qF2
-    info: '[应用与计算] JUNFENG YANG
-
-      TIGHT COMPLEXITY BOUNDS OF THE (RELAXED) PROXIMAL POINT ALGORITHM
-
-      2024-10-27
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[应用与计算] JUNFENG YANG
-
-      TIGHT COMPLEXITY BOUNDS OF THE (RELAXED) PROXIMAL POINT ALGORITHM
-
-      2024-10-27
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6GtKF2
-    info: '[代数与数论] 祝天擎
-
-      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
-
-      2024-11-06
-
-      15:30 — 16:30'
-    person: ''
-    time: ''
-    title: '[代数与数论] 祝天擎
-
-      QUANTUM DIFFERENCE EQUATIONS, QKZ EQUATIONS AND SHUFFLE ALGEBRAS
-
-      2024-11-06
-
-      15:30 — 16:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FyqF2
-    info: '[动力系统与数学物理] JAUME LLIBRE
-
-      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
-
-      2024-10-21
-
-      09:45 — 11:00'
-    person: ''
-    time: ''
-    title: '[动力系统与数学物理] JAUME LLIBRE
-
-      LIMIT CYCLES AND CHAOS IN PLANAR HYBRID SYSTEMS
-
-      2024-10-21
-
-      09:45 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6F2qF2
-    info: '[代数几何与拓扑] 胡飞
-
-      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
-
-      2024-10-21
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] 胡飞
-
-      DYNAMICAL DEGREES OF SELF-MAPS ON ABELIAN VARIETIES
-
-      2024-10-21
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FtKF2
-    info: '[偏微分方程] 黄飞敏
-
-      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
-
-      2024-10-21
-
-      11:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] 黄飞敏
-
-      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
-
-      2024-10-21
-
-      11:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN2HtKF2
-    info: '[文俊讲坛] 冯克勤 教授
-
-      离散型数学在信息科学中的某些应用
-
-      2024-10-24
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '[文俊讲坛] 冯克勤 教授
-
-      离散型数学在信息科学中的某些应用
-
-      2024-10-24
-
-      16:00 — 17:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulN6FpKF2
-    info: '[文俊讲坛] PROF. YUVAL PERES
-
-      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
-      REGIMES
-
-      2024-10-21
-
-      16:00 — 17:30'
-    person: ''
-    time: ''
-    title: '[文俊讲坛] PROF. YUVAL PERES
-
-      RANDOM WALK ON DYNAMICAL PERCOLATION: SEPARATING CRITICAL AND SUPERCRITICAL
-      REGIMES
-
-      2024-10-21
-
-      16:00 — 17:30'
-  page_title: 上海交通大学数学科学学院
-  page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: http://www.cls.zju.edu.cn/clscn/2024/1018/c26342a2976374/page.htm
