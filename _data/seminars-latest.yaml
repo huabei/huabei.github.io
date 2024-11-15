@@ -104,6 +104,10 @@
 
       Caucher Birkar
 
+      Convexity → Concentration → Data Science
+
+      Jinshuo Dong
+
       An introduction to p-adic period domains
 
       Heng Du
@@ -360,7 +364,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7255966
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7259706
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -570,6 +574,14 @@
     time: ''
     title: 面向临床的分子成像新探针与新技术
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/c3eb872c7e4441d7b95db702bbaf864a.htm
+    info: '2024.11.11
+
+      Recent advances in applying the logic of heterocyclic chemistry to peptides'
+    person: ''
+    time: ''
+    title: Recent advances in applying the logic of heterocyclic chemistry to peptides
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/7790fa929df34f279c9351f1e0957e52.htm
     info: '2024.11.11
 
@@ -633,15 +645,6 @@
     person: ''
     time: ''
     title: 创新人才培养论坛--名师课堂（第一期）| 脂质纳米颗粒赋能的mRNA疗法
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/4fd4160030d14856bc6d30ca9e644dcd.htm
-    info: '2024.10.23
-
-      Cellular adaptive response to oxidative, nitrosative, and inflammatory stress'
-    person: ''
-    time: ''
-    title: Cellular adaptive response to oxidative, nitrosative, and inflammatory
-      stress
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
@@ -1373,28 +1376,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/162564.htm
-    info: '14
-
-      Nov
-
-      机器学习与数据科学博士生系列论坛（第七十九期）—— A Practical Guide to Large Language Model Training
-
-      时间：2024-11-14 16:00-17:00
-
-      报告人: 杨潇博 (北京大学)'
-    person: ''
-    time: ''
-    title: '14
-
-      Nov
-
-      机器学习与数据科学博士生系列论坛（第七十九期）—— A Practical Guide to Large Language Model Training
-
-      时间：2024-11-14 16:00-17:00
-
-      报告人: 杨潇博 (北京大学)'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/162262.htm
     info: '15
 
@@ -1465,6 +1446,28 @@
 
       报告人: 黄红（北京师范大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162759.htm
+    info: '18
+
+      Nov
+
+      Model-Free Statistical Inference on High-Dimensional Data
+
+      时间：2024-11-18 14:00-15:00
+
+      报告人: Runze Li,（Pennsylvania State University)'
+    person: ''
+    time: ''
+    title: '18
+
+      Nov
+
+      Model-Free Statistical Inference on High-Dimensional Data
+
+      时间：2024-11-18 14:00-15:00
+
+      报告人: Runze Li,（Pennsylvania State University)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/162473.htm
     info: '19
 
@@ -1508,6 +1511,52 @@
       时间：2024-11-20 15:00-16:30
 
       报告人: Stavros Garoufalidis (南方科技大学讲席教授)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/162743.htm
+    info: '20
+
+      Nov
+
+      应用数学青年讨论班（午餐会）——Parallel Coordinate Descent Methods for Full Configuration Interaction
+
+      时间：2024-11-20 11:45-13:00
+
+      报告人: 张悦嘉（复旦大学）'
+    person: ''
+    time: ''
+    title: '20
+
+      Nov
+
+      应用数学青年讨论班（午餐会）——Parallel Coordinate Descent Methods for Full Configuration Interaction
+
+      时间：2024-11-20 11:45-13:00
+
+      报告人: 张悦嘉（复旦大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162765.htm
+    info: '21
+
+      Nov
+
+      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
+      and Evidence Synthesis using Networked Data
+
+      时间：2024-11-21 14:00-15:00
+
+      报告人: 陈勇（宾夕法尼亚大学）'
+    person: ''
+    time: ''
+    title: '21
+
+      Nov
+
+      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
+      and Evidence Synthesis using Networked Data
+
+      时间：2024-11-21 14:00-15:00
+
+      报告人: 陈勇（宾夕法尼亚大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/162685.htm
     info: '22
@@ -1553,77 +1602,172 @@
 
       报告人: 刘锦鹏（清华大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/162216.htm
-    info: '09
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162762.htm
+    info: '28
 
-      Dec
+      Nov
 
-      Local regularity and finite-time singularity for a class of generalized SQG
-      patches on the half-plane
+      Learning Graphon Game with Re-Sampling
 
-      时间：2024-12-09 16:00-17:00
+      时间：2024-11-28 9:00
 
-      报告人: 薛留堂（北京师范大学）'
+      报告人: Andreea Minca（Cornell University）'
     person: ''
     time: ''
-    title: '09
-
-      Dec
-
-      Local regularity and finite-time singularity for a class of generalized SQG
-      patches on the half-plane
-
-      时间：2024-12-09 16:00-17:00
-
-      报告人: 薛留堂（北京师范大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162560.htm
-    info: '13
+    title: '28
 
       Nov
 
-      Infinitely Many Constant Mean Curvature Surfaces Splitting a Manifold in Half
+      Learning Graphon Game with Re-Sampling
 
-      时间：2024-11-13 09:00-10:00
+      时间：2024-11-28 9:00
 
-      报告人: Liam Mazurowski（理海大学）'
-    person: ''
-    time: ''
-    title: '13
-
-      Nov
-
-      Infinitely Many Constant Mean Curvature Surfaces Splitting a Manifold in Half
-
-      时间：2024-11-13 09:00-10:00
-
-      报告人: Liam Mazurowski（理海大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/162572.htm
-    info: '13
-
-      Nov
-
-      应用数学青年讨论班（午餐会）——Learning stochastic dynamics from snapshots through regularized
-      unbalanced optimal transport
-
-      时间：2024-11-13 11:45-13:00
-
-      报告人: 张振毅（北京大学）'
-    person: ''
-    time: ''
-    title: '13
-
-      Nov
-
-      应用数学青年讨论班（午餐会）——Learning stochastic dynamics from snapshots through regularized
-      unbalanced optimal transport
-
-      时间：2024-11-13 11:45-13:00
-
-      报告人: 张振毅（北京大学）'
+      报告人: Andreea Minca（Cornell University）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+    person: ''
+    time: ''
+    title: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+    person: ''
+    time: ''
+    title: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+  page_title: 上海交通大学人工智能研究院
+  page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
@@ -1633,7 +1777,8 @@
     title: ''
   - address: ''
     href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
-    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n20\nNov\nIntermolecular\
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n20\nNov\n金属卤化物光电材料结构功能基元的高压调控\n\
+      报告人：吕旭杰  研究员北京高压科学研究中心\n报告时间：2024年11月20日（星期三）10:00-11:30\n20\nNov\nIntermolecular\
       \ HAT through Water Activation and Pyridine Functionalization\n报告人：Prof. Armido\
       \ Studer\n报告时间：2024年11月20日 15:00-16:30\n14\nNov\n电促催化不对称自由基反应\n报告人：郭昌\n报告时间：11月14日14：00−17：00\n\
       14\nNov\n限域电催化：配对氧化还原催化\n报告人：陆庆全\n报告时间：11月14日14：00−17：00\n14\nNov\nC-B键超共轭效应及其应用\n\
@@ -1642,8 +1787,7 @@
       \ 长聘副教授 博士生导师\n报告时间：11 月 13 日（星期三）14：00-15：30\n7\nNov\n【大师讲坛】第235期 | 探秘催化科学\n\
       报告人：Frank Glorius 德意志科学院院士\n报告时间：2024年11月7日 15:00-16:30\n5\nNov\n【大师讲坛】第233期\
       \ | 我的科学一生：论磁共振与生物和医药\n报告人：Kurt Wüthrich 美国国家科学院外籍院士\n报告时间：11月5日14:00-15:30\n\
-      4\nNov\n基于开环聚合反应构建立构规整性高分子\n报告人：朱剑波 教授  四川大学 \n报告时间：11月4日16:10-17:30 \n4\nNov\n\
-      高性能化与可持续化聚烯烃\n报告人：简忠保 研究员 \n报告时间：11月4日14:50-16:10 \n首页上页12345...15下页尾页"
+      4\nNov\n基于开环聚合反应构建立构规整性高分子\n报告人：朱剑波 教授  四川大学 \n报告时间：11月4日16:10-17:30 \n首页上页12345...15下页尾页"
     person: ''
     time: ''
     title: 学术会议
@@ -1697,7 +1841,7 @@
 
       Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
 
-      2024-11-11 15:30, 4 days ago
+      2024-11-11 15:30, 5 days ago
 
       细胞信号转导反应不应期的数学分析及其分子调节机理
 
@@ -1705,7 +1849,7 @@
 
       复旦大学
 
-      2024-10-29 14:00, 17 days ago
+      2024-10-29 14:00, 18 days ago
 
       Generative AI for Molecular simulations
 
@@ -1713,7 +1857,7 @@
 
       Chalmers University of Technology
 
-      2024-10-24 15:00, 22 days ago
+      2024-10-24 15:00, 23 days ago
 
       Quasi-uniform Error Estimates for the Fourth Order Singularly Perturbed Bi-wave
       Problem
@@ -1722,7 +1866,7 @@
 
       烟台大学/郑州大学
 
-      2024-10-21 16:00, 25 days ago
+      2024-10-21 16:00, a month ago
 
       Covariance Operator Estimation in the Small Lengthscale Regime
 
@@ -1988,6 +2132,24 @@
 
       14:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJmG2qF2
+    info: '[应用与计算] SHANDIAN ZHE
+
+      ENHANCED MACHINE LEARNING SOLVERS FOR HIGH-FREQUENCY AND MULTI-SCALE PDES
+
+      2024-11-21
+
+      10:30 — 11:30'
+    person: ''
+    time: ''
+    title: '[应用与计算] SHANDIAN ZHE
+
+      ENHANCED MACHINE LEARNING SOLVERS FOR HIGH-FREQUENCY AND MULTI-SCALE PDES
+
+      2024-11-21
+
+      10:30 — 11:30'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJaGtKF2
     info: '[概率与统计] SHEN WEINING
 
@@ -2133,32 +2295,14 @@
       2024-11-14
 
       14:00 — 15:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJmFyqF2
-    info: '[动力系统与数学物理] YUN TIAN
-
-      LIMIT CYCLES PRODUCED BY HOPF BIFURCATION IN PIECEWISE SMOOTH NEAR-INTEGRABLE
-      SYSTEMS
-
-      2024-11-14
-
-      15:30 — 17:00'
-    person: ''
-    time: ''
-    title: '[动力系统与数学物理] YUN TIAN
-
-      LIMIT CYCLES PRODUCED BY HOPF BIFURCATION IN PIECEWISE SMOOTH NEAR-INTEGRABLE
-      SYSTEMS
-
-      2024-11-14
-
-      15:30 — 17:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
     href: null
     info: '学术
+
+      【教育学院】“求是教育论坛”第103期丨石中英：人类文明的未来与教育的责任
 
       【数学学院】Jian-Guo Liu：Rigidly Breaking Potential Flows and a Countable Alexandrov
       Theorem for Polytopes
@@ -2167,13 +2311,10 @@
 
       【经血管植入器械全国重点实验室】经血管+CNS专场系列学术论坛（第四期）
 
-      【生研院】学术讲座系列：赵方庆研究员（中国科学院动物研究所）学术报告
-
-      【生研院】特邀报告系列：胡荣贵教授（浙江大学）学术报告'
+      【生研院】学术讲座系列：赵方庆研究员（中国科学院动物研究所）学术报告'
     person: ''
     time: ''
-    title: 【数学学院】Jian-Guo Liu：Rigidly Breaking Potential Flows and a Countable Alexandrov
-      Theorem for Polytopes
+    title: 【教育学院】“求是教育论坛”第103期丨石中英：人类文明的未来与教育的责任
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
