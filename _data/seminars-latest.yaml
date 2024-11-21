@@ -363,7 +363,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7278398
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7282638
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -372,6 +372,26 @@
   page_title: 学术报告-清华大学生命科学学院
   page_url: https://life.tsinghua.edu.cn/xsbg.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3516.htm
+    info: 'Alternating Current (AC) Electrolysis toward Organic Syntheses
+
+      Herein we present AC electrolysis strategy aiming at different organic synthesis
+      scenarios.One is AC-promoted metal-catalyzed electrolysis. The long-standing
+      challenge of noble metalcatalyst reducti…
+
+      2024.11.21'
+    person: ''
+    time: ''
+    title: Alternating Current (AC) Electrolysis toward Organic Syntheses
+  - address: ''
+    href: https://www.chem.tsinghua.edu.cn/info/1121/3515.htm
+    info: '优秀学长交流分享会
+
+      2024.11.21'
+    person: ''
+    time: ''
+    title: 优秀学长交流分享会
   - address: ''
     href: https://www.chem.tsinghua.edu.cn/info/1121/3499.htm
     info: '单分子科学的机遇和挑战
@@ -416,26 +436,6 @@
     person: ''
     time: ''
     title: Functional Nanomaterials for Green Hydrogen Production and Storage
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3429.htm
-    info: '表面等离子体纳米粒子的手性效应
-
-      手性决定着生命物质的性质与功能。同时，生命体中手性结构的异常变化也与许多重大疾病直接相关。揭示表面等离子体纳米粒子对生物分子手性光学信号传递放大的机制与规律，是本领域亟需解决的关键科学问题之一。紧紧…
-
-      2024.05.31'
-    person: ''
-    time: ''
-    title: 表面等离子体纳米粒子的手性效应
-  - address: ''
-    href: https://www.chem.tsinghua.edu.cn/info/1121/3424.htm
-    info: '理实交融的机器化学家探索
-
-      量子力学等微观理论已建立百年，应用于真实体系却过于复杂难以求解。实测数据往往珍贵稀疏，理论大数据缺失了现实复杂度，导致理实脱节，科研创新过程常常受限于相对低效的实验试错研究模式。我们研制了数据智能驱…
-
-      2024.05.20'
-    person: ''
-    time: ''
-    title: 理实交融的机器化学家探索
   page_title: 学术讲座-清华大学化学系
   page_url: https://www.chem.tsinghua.edu.cn/xsjz.htm
 - page_info:
@@ -677,6 +677,16 @@
 
       Dec.03
 
+      Symplectic Geometry and Mathematical Physics  |  Upcoming
+
+      Quantized Coulomb branches from quantum Teichmüller theory
+
+      Speakers : Dylan Allegretti (YMSC)
+
+      2024
+
+      Dec.03
+
       Colloquium  |  Upcoming
 
       Recent Advances in Sphere Packing Problems
@@ -696,6 +706,16 @@
 
       2024
 
+      Nov.27
+
+      Geometric Analysis  |  Upcoming
+
+      K-Semistability of Log Fano Cone Singularities
+
+      Speakers : Yueqiao Wu (Johns Hopkins University)
+
+      2024
+
       Nov.21
 
       Analysis Research Interaction Team  |  Recent
@@ -708,7 +728,7 @@
 
       Nov.21
 
-      Postdoc Seminar  |  Recent
+      Postdoc Seminar
 
       Tumor Growth Model and the Free Boundary Limit Model
 
@@ -718,7 +738,7 @@
 
       Nov.21
 
-      Applied & Computational Math  |  Recent
+      Applied & Computational Math
 
       Nonlocal Conservation Laws for Traffic Flow Modeling
 
@@ -728,31 +748,11 @@
 
       Nov.20
 
-      Geometric Analysis  |  Recent
+      Geometric Analysis
 
       On Banach’s Isometric Subspaces Problem
 
       Speakers : Daniil Mamaev (London School of Geometry and Number Theory)
-
-      2024
-
-      Nov.20
-
-      Algebraic Geometry
-
-      Birational Invariants of Volume-preserving Maps
-
-      Speakers : Логинов Константин Валерьевич (Steklov Mathematical Institute)
-
-      2024
-
-      Nov.20
-
-      Others
-
-      Special coheirs and model-theoretic trees
-
-      Speakers : James E. Hanson (Iowa State University)
 
       Pre12345678910Next
 
@@ -1377,96 +1377,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/162477.htm
-    info: '20
-
-      Nov
-
-      The Habiro ring of a number field （II）
-
-      时间：2024-11-20 15:00-16:30
-
-      报告人: Stavros Garoufalidis (南方科技大学讲席教授)'
-    person: ''
-    time: ''
-    title: '20
-
-      Nov
-
-      The Habiro ring of a number field （II）
-
-      时间：2024-11-20 15:00-16:30
-
-      报告人: Stavros Garoufalidis (南方科技大学讲席教授)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/162743.htm
-    info: '20
-
-      Nov
-
-      应用数学青年讨论班（午餐会）——Parallel Coordinate Descent Methods for Full Configuration Interaction
-
-      时间：2024-11-20 11:45-13:00
-
-      报告人: 张悦嘉（复旦大学）'
-    person: ''
-    time: ''
-    title: '20
-
-      Nov
-
-      应用数学青年讨论班（午餐会）——Parallel Coordinate Descent Methods for Full Configuration Interaction
-
-      时间：2024-11-20 11:45-13:00
-
-      报告人: 张悦嘉（复旦大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162839.htm
-    info: '20
-
-      Nov
-
-      Regularity for solutions of Monge-Ampere equations in polygons with Guillemin
-      boundary condition
-
-      时间：2024-11-20 15:00-16:00
-
-      报告人: Reza Seyyedali(Institute for Research in Fundamental Science,Iran)'
-    person: ''
-    time: ''
-    title: '20
-
-      Nov
-
-      Regularity for solutions of Monge-Ampere equations in polygons with Guillemin
-      boundary condition
-
-      时间：2024-11-20 15:00-16:00
-
-      报告人: Reza Seyyedali(Institute for Research in Fundamental Science,Iran)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162797.htm
-    info: '20
-
-      Nov
-
-      On Banach’s Isometric Subspaces Problem
-
-      时间：2024-11-20 16:00-17:00
-
-      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
-    person: ''
-    time: ''
-    title: '20
-
-      Nov
-
-      On Banach’s Isometric Subspaces Problem
-
-      时间：2024-11-20 16:00-17:00
-
-      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162765.htm
     info: '21
 
@@ -1535,6 +1445,30 @@
 
       报告人: 刘锦鹏（清华大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/162885.htm
+    info: '25
+
+      Nov
+
+      Geometry and Topology Seminar——Isotropic points in the Balmer spectrum of stable
+      motivic homotopy categories
+
+      时间：2024-11-25 15:10-17:00
+
+      报告人: 杜鹏（浙江师范大学）'
+    person: ''
+    time: ''
+    title: '25
+
+      Nov
+
+      Geometry and Topology Seminar——Isotropic points in the Balmer spectrum of stable
+      motivic homotopy categories
+
+      时间：2024-11-25 15:10-17:00
+
+      报告人: 杜鹏（浙江师范大学）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/162815.htm
     info: '26
 
@@ -1557,6 +1491,50 @@
 
       报告人: Marius Tucsnak (University of Bordeaux)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162895.htm
+    info: '27
+
+      Nov
+
+      K-Semistability of Log Fano Cone Singularities
+
+      时间：2024-11-27 09:00-10:00
+
+      报告人: 吴越乔（约翰斯·霍普金斯大学）'
+    person: ''
+    time: ''
+    title: '27
+
+      Nov
+
+      K-Semistability of Log Fano Cone Singularities
+
+      时间：2024-11-27 09:00-10:00
+
+      报告人: 吴越乔（约翰斯·霍普金斯大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/162907.htm
+    info: '28
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第八十期）——Bandit with Knapsacks
+
+      时间：2024-11-28 16:00-17:00
+
+      报告人: 孙谌劼 (北京大学)'
+    person: ''
+    time: ''
+    title: '28
+
+      Nov
+
+      机器学习与数据科学博士生系列论坛（第八十期）——Bandit with Knapsacks
+
+      时间：2024-11-28 16:00-17:00
+
+      报告人: 孙谌劼 (北京大学)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162762.htm
     info: '28
 
@@ -1578,6 +1556,28 @@
       时间：2024-11-28 9:00
 
       报告人: Andreea Minca（Cornell University）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/162889.htm
+    info: '29
+
+      Nov
+
+      Distinguished Lecture——低维动力系统研究的若干进展
+
+      时间：2024-11-29 14:00-15:00
+
+      报告人: 沈维孝(复旦大学)'
+    person: ''
+    time: ''
+    title: '29
+
+      Nov
+
+      Distinguished Lecture——低维动力系统研究的若干进展
+
+      时间：2024-11-29 14:00-15:00
+
+      报告人: 沈维孝(复旦大学)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/162216.htm
     info: '09
@@ -1603,27 +1603,27 @@
 
       报告人: 薛留堂（北京师范大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/162473.htm
-    info: '19
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162797.htm
+    info: '20
 
       Nov
 
-      The Habiro ring of a number field （I）
+      On Banach’s Isometric Subspaces Problem
 
-      时间：2024-11-19 15:00-16:30
+      时间：2024-11-20 16:00-17:00
 
-      报告人: Stavros Garoufalidis (南方科技大学讲席教授)'
+      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
     person: ''
     time: ''
-    title: '19
+    title: '20
 
       Nov
 
-      The Habiro ring of a number field （I）
+      On Banach’s Isometric Subspaces Problem
 
-      时间：2024-11-19 15:00-16:30
+      时间：2024-11-20 16:00-17:00
 
-      报告人: Stavros Garoufalidis (南方科技大学讲席教授)'
+      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1776,6 +1776,143 @@
     person: ''
     time: ''
     title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: '学术活动
+
+      讲座报告
+
+      学术会议
+
+      合作交流
+
+      讲座报告
+
+      首页 / 学术活动 / 讲座报告
+
+      20
+
+      Nov
+
+      变革性分子博士生学术论坛（第27期）
+
+      告人：姚志波、董栩冰、余辉
+
+      报告时间：2024年11月20日（星期三）14:00-17:00
+
+      20
+
+      Nov
+
+      金属卤化物光电材料结构功能基元的高压调控
+
+      报告人：吕旭杰  研究员北京高压科学研究中心
+
+      报告时间：2024年11月20日（星期三）10:00-11:30
+
+      20
+
+      Nov
+
+      Intermolecular HAT through Water Activation and Pyridine Functionalization
+
+      报告人：Prof. Armido Studer
+
+      报告时间：2024年11月20日 15:00-16:30
+
+      14
+
+      Nov
+
+      电促催化不对称自由基反应
+
+      报告人：郭昌
+
+      报告时间：11月14日14：00−17：00
+
+      14
+
+      Nov
+
+      限域电催化：配对氧化还原催化
+
+      报告人：陆庆全
+
+      报告时间：11月14日14：00−17：00
+
+      14
+
+      Nov
+
+      C-B键超共轭效应及其应用
+
+      报告人：王洪根
+
+      报告时间：11月14日14：00−17：00
+
+      14
+
+      Nov
+
+      氮杂环卡宾催化的惰性化学键官能团化
+
+      报告人：李俊龙
+
+      报告时间：11月14日14：00−17：00
+
+      13
+
+      Nov
+
+      二维大分子构象与凝聚态结构控制 Conformation and Condensation of 2D Polymers
+
+      报告人：许震 长聘副教授 博士生导师
+
+      报告时间：11 月 13 日（星期三）14：00-15：30
+
+      7
+
+      Nov
+
+      【大师讲坛】第235期 | 探秘催化科学
+
+      报告人：Frank Glorius 德意志科学院院士
+
+      报告时间：2024年11月7日 15:00-16:30
+
+      5
+
+      Nov
+
+      【大师讲坛】第233期 | 我的科学一生：论磁共振与生物和医药
+
+      报告人：Kurt Wüthrich 美国国家科学院外籍院士
+
+      报告时间：11月5日14:00-15:30
+
+      首页上页12345...15下页尾页'
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
@@ -1807,7 +1944,7 @@
 
       Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
 
-      2024-11-11 15:30, 10 days ago
+      2024-11-11 15:30, 11 days ago
 
       细胞信号转导反应不应期的数学分析及其分子调节机理
 
@@ -1815,7 +1952,7 @@
 
       复旦大学
 
-      2024-10-29 14:00, 23 days ago
+      2024-10-29 14:00, 24 days ago
 
       Generative AI for Molecular simulations
 
@@ -1982,7 +2119,7 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4238.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/4242.html
     info: '学术日历
 
       28
@@ -1995,7 +2132,7 @@
 
       2024-11
 
-      【学术报告】聚氨基酸的皮实合成与生物医学应用
+      【学术报告】含氟聚合物结构创新及其基础性能研究
 
       27
 
@@ -2008,6 +2145,18 @@
       2024-11
 
       【学术报告】Puzzles and Research Opportunities in Soft Materials
+
+      23
+
+      2024-11
+
+      【学术报告】稀土无机材料微结构定向创制
+
+      23
+
+      2024-11
+
+      【学术报告】原子尺度精准合成
 
       20
 
@@ -2034,20 +2183,6 @@
 
       【学术报告】Mapping Charge Carrier Dynamics in Solar Materials
 
-      05
-
-      2024-11
-
-      【学术报告】Sustainable Routes to Global Chemicals：in-situ generation of H2O2 for
-      green chemistry
-
-      05
-
-      2024-11
-
-      【学术报告】Catalysis enabled by operando spectroscopy: from fundamental understanding
-      to innovative materials
-
       12345下一页最后一页'
     person: ''
     time: ''
@@ -2055,7 +2190,7 @@
 
       2024-11
 
-      【学术报告】聚氨基酸的皮实合成与生物医学应用'
+      【学术报告】含氟聚合物结构创新及其基础性能研究'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
@@ -2172,6 +2307,44 @@
 
       13:00 — 15:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuG2qF2
+    info: '[概率与统计] 唐斌
+
+      THE MIXING BY TRANSPORT NOISE
+
+      2024-11-24
+
+      09:00 — 10:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 唐斌
+
+      THE MIXING BY TRANSPORT NOISE
+
+      2024-11-24
+
+      09:00 — 10:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuHpKF2
+    info: '[概率与统计] 曾梓镕
+
+      EXISTENCE AND NON-UNIQUENESS OF WEAK SOLUTIONS WITH CONTINUOUS ENERGY TO THE
+      3D DETERMINISTIC AND STOCHASTIC NAVIER-STOKES EQUATIONS
+
+      2024-11-24
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 曾梓镕
+
+      EXISTENCE AND NON-UNIQUENESS OF WEAK SOLUTIONS WITH CONTINUOUS ENERGY TO THE
+      3D DETERMINISTIC AND STOCHASTIC NAVIER-STOKES EQUATIONS
+
+      2024-11-24
+
+      10:00 — 11:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuFyqF2
     info: '[概率与统计] 唐斌
 
@@ -2190,6 +2363,24 @@
 
       15:00 — 16:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuHtKF2
+    info: '[概率与统计] 陈慧萍
+
+      MULTIPLE WIENER-IT\^O INTEGRAL AND ITS PROPERTIES
+
+      2024-11-23
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 陈慧萍
+
+      MULTIPLE WIENER-IT\^O INTEGRAL AND ITS PROPERTIES
+
+      2024-11-23
+
+      16:00 — 17:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJWHtKF2
     info: '[代数几何与拓扑] 张俊
 
@@ -2207,62 +2398,6 @@
       2024-11-21
 
       14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJmG2qF2
-    info: '[应用与计算] SHANDIAN ZHE
-
-      ENHANCED MACHINE LEARNING SOLVERS FOR HIGH-FREQUENCY AND MULTI-SCALE PDES
-
-      2024-11-21
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[应用与计算] SHANDIAN ZHE
-
-      ENHANCED MACHINE LEARNING SOLVERS FOR HIGH-FREQUENCY AND MULTI-SCALE PDES
-
-      2024-11-21
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJaGtKF2
-    info: '[概率与统计] SHEN WEINING
-
-      CAUSAL DISCOVERY AND LARGE LANGUAGE MODELS IN SPORTS ANALYTICS
-
-      2024-11-18
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] SHEN WEINING
-
-      CAUSAL DISCOVERY AND LARGE LANGUAGE MODELS IN SPORTS ANALYTICS
-
-      2024-11-18
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJaGyqF2
-    info: '[概率与统计] 沈娟
-
-      COVARIATE-ELABORATED ROBUST PARTIAL INFORMATION TRANSFER WITH CONDITIONAL SPIKE-AND-SLAB
-      PRIOR
-
-      2024-11-18
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 沈娟
-
-      COVARIATE-ELABORATED ROBUST PARTIAL INFORMATION TRANSFER WITH CONDITIONAL SPIKE-AND-SLAB
-      PRIOR
-
-      2024-11-18
-
-      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2270,18 +2405,18 @@
     href: null
     info: '学术
 
+      求是海洋学术论坛2024年20期（总59期）——英国南安普敦大学专场
+
       【化学系】启真化学论坛：张杰鹏教授（中山大学）
 
       物理学院胡江平学术报告的通知（School of Physics Colloquium）
 
       求是海洋名家论坛——SEG与中国：地球物理学创新合作的实践与展望
 
-      基础交叉大师课——Photonic Neuromorphic Computing（光神经神态计算）
-
-      【数学学院】席南华：几何表示论'
+      基础交叉大师课——Photonic Neuromorphic Computing（光神经神态计算）'
     person: ''
     time: ''
-    title: 【化学系】启真化学论坛：张杰鹏教授（中山大学）
+    title: 求是海洋学术论坛2024年20期（总59期）——英国南安普敦大学专场
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
