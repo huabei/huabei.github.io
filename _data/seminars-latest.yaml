@@ -1,5 +1,13 @@
 ﻿- page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10023.htm
+    info: '华中科技大学黄胜友教授与复旦大学朱山风研究员学术报告
+
+      2024-11-22'
+    person: ''
+    time: ''
+    title: 华中科技大学黄胜友教授与复旦大学朱山风研究员学术报告
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/9982.htm
     info: '万物相联万物生
 
@@ -79,14 +87,6 @@
     person: ''
     time: ''
     title: AIGC大模型赋能生物医药
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9728.htm
-    info: '香港科技大学陈凯教授和中国科学院陈恺研究员学术报告
-
-      2024-08-23'
-    person: ''
-    time: ''
-    title: 香港科技大学陈凯教授和中国科学院陈恺研究员学术报告
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -246,8 +246,20 @@
     time: ''
     title: 首页
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/6351.htm
+    href: https://life.tsinghua.edu.cn/info/1132/6384.htm
     info: '学术报告
+
+      22
+
+      NOV
+
+      走近芭蕾
+
+      22
+
+      NOV
+
+      昆虫寄主适应性的遗传机制
 
       18
 
@@ -297,22 +309,10 @@
 
       显花植物S-核酸酶类自交不亲和性：降解、相变和演化
 
-      25
-
-      SEP
-
-      The emerging paradigm of membrane atg8ylation
-
-      12
-
-      SEP
-
-      光调控的植物发育可塑性
-
-      共40条 上页1234下页'
+      共42条 上页12345下页'
     person: ''
     time: ''
-    title: 'miRNA剂量调控的理论和应用  '
+    title: 走近芭蕾
   - address: ''
     href: https://life.tsinghua.edu.cn/rczp/bshzp.htm
     info: '欢迎关注清华生命学院公众号
@@ -363,7 +363,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7282638
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7286656
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -718,7 +718,7 @@
 
       Nov.21
 
-      Analysis Research Interaction Team  |  Recent
+      Analysis Research Interaction Team
 
       A Schauder Type Estimate and Its Application to Quasilinear Evolution Equations
 
@@ -1377,30 +1377,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162765.htm
-    info: '21
-
-      Nov
-
-      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
-      and Evidence Synthesis using Networked Data
-
-      时间：2024-11-21 14:00-15:00
-
-      报告人: 陈勇（宾夕法尼亚大学）'
-    person: ''
-    time: ''
-    title: '21
-
-      Nov
-
-      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
-      and Evidence Synthesis using Networked Data
-
-      时间：2024-11-21 14:00-15:00
-
-      报告人: 陈勇（宾夕法尼亚大学）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/162685.htm
     info: '22
 
@@ -1490,6 +1466,28 @@
       时间：2024-11-26 16:00-20:30(Beijing Time)
 
       报告人: Marius Tucsnak (University of Bordeaux)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/162948.htm
+    info: '27
+
+      Nov
+
+      应用数学青年讨论班（午餐会）——图形学中保结构的流体求解：对偶矢量、流映射与余伴随轨道
+
+      时间：2024-11-27 11:45-13:00
+
+      报告人: 朱岳宸（北京大学）'
+    person: ''
+    time: ''
+    title: '27
+
+      Nov
+
+      应用数学青年讨论班（午餐会）——图形学中保结构的流体求解：对偶矢量、流映射与余伴随轨道
+
+      时间：2024-11-27 11:45-13:00
+
+      报告人: 朱岳宸（北京大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162895.htm
     info: '27
@@ -1603,27 +1601,29 @@
 
       报告人: 薛留堂（北京师范大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/162797.htm
-    info: '20
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162765.htm
+    info: '21
 
       Nov
 
-      On Banach’s Isometric Subspaces Problem
+      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
+      and Evidence Synthesis using Networked Data
 
-      时间：2024-11-20 16:00-17:00
+      时间：2024-11-21 14:00-15:00
 
-      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
+      报告人: 陈勇（宾夕法尼亚大学）'
     person: ''
     time: ''
-    title: '20
+    title: '21
 
       Nov
 
-      On Banach’s Isometric Subspaces Problem
+      PDA: Privacy-preserving Distributed Algorithms for Clinical Evidence Generation
+      and Evidence Synthesis using Networked Data
 
-      时间：2024-11-20 16:00-17:00
+      时间：2024-11-21 14:00-15:00
 
-      报告人: Daniil Mamaev（London School of Geometry and Number Theory）'
+      报告人: 陈勇（宾夕法尼亚大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1790,6 +1790,36 @@
 
       首页 / 学术活动 / 讲座报告
 
+      27
+
+      Nov
+
+      催化不对称还原加成反应
+
+      报告人：陈宜峰教授 华东理工大学
+
+      报告时间：2024 年 11 月 27 日 15:30-17:00
+
+      26
+
+      Nov
+
+      芳胺不对称芳香亲电反应构建 多样化分子手性
+
+      报告人：杨晓瑜研究员 上海科技大学物质科学与技术学院
+
+      报告时间：2024年11月26日15:30-17:00
+
+      25
+
+      Nov
+
+      PDF方法及新进展介绍
+
+      报告人：林鹤副研究员 中国科学院上海高等研究院/上海光源
+
+      报告时间：2024年11月25日（星期一）10:00-11:30
+
       20
 
       Nov
@@ -1860,36 +1890,6 @@
 
       报告时间：11月14日14：00−17：00
 
-      13
-
-      Nov
-
-      二维大分子构象与凝聚态结构控制 Conformation and Condensation of 2D Polymers
-
-      报告人：许震 长聘副教授 博士生导师
-
-      报告时间：11 月 13 日（星期三）14：00-15：30
-
-      7
-
-      Nov
-
-      【大师讲坛】第235期 | 探秘催化科学
-
-      报告人：Frank Glorius 德意志科学院院士
-
-      报告时间：2024年11月7日 15:00-16:30
-
-      5
-
-      Nov
-
-      【大师讲坛】第233期 | 我的科学一生：论磁共振与生物和医药
-
-      报告人：Kurt Wüthrich 美国国家科学院外籍院士
-
-      报告时间：11月5日14:00-15:30
-
       首页上页12345...15下页尾页'
     person: ''
     time: ''
@@ -1944,7 +1944,7 @@
 
       Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
 
-      2024-11-11 15:30, 11 days ago
+      2024-11-11 15:30, 12 days ago
 
       细胞信号转导反应不应期的数学分析及其分子调节机理
 
@@ -1952,7 +1952,7 @@
 
       复旦大学
 
-      2024-10-29 14:00, 24 days ago
+      2024-10-29 14:00, 25 days ago
 
       Generative AI for Molecular simulations
 
@@ -1990,6 +1990,12 @@
       近期新闻
 
       查看更多
+
+      校领导调研自然科学研究院
+
+      11月20日上午，上海交通大学党委书记杨振斌来到自然科学研究院调研，深入了解研究院发展状况和科研工作。自然科学研究院院领导班子、教职工代表，学校党政办相关负责同志参加调研活动。研究院院长金石作工作汇报，介绍研究院在基础研究、人才培养、应用研究、科研成果转化、国际合作与交流、科普教育等方面的工作进展和取得的成果，并对未来发展进行了展望。与会人员围绕研究院发展目标、学科交叉特色、科研平台建设规划等方面，深入探讨研究院发展面临的实际问题和挑战，并提出了建设性意见和建议。杨振斌认真听取各位教师的发言，对大家关心的问题作出回应并总结讲话。他充分肯定研究院取得的成绩，对研究院未来发展提出殷切期望。杨振斌强
+
+      2024-11-22
 
       Springer journal “Acta Applicandae Mathematicae” publishes special issue in
       honor of Prof.Shi Jin’s birthday 施普林格期刊Acta Applicandae Mathematicae出版金石教授生日专辑
@@ -2031,16 +2037,7 @@
       Identification and Local Linear Convergence of Forward--Backward-type Methods入选SIAM高影响力论文集。SIAM（Society
       for Industrial and Applied Mathematics，工业与应用数学学会）是一个国际性的专业组织，致力于推动数学在工业、科学和工程领域的应用。SIAM出版了一系列高质量的学术期刊，涵盖了应用数学的广泛
 
-      2024-10-14
-
-      Hepeng Zhang’s Group and Collaborators observed Robust Edge Flows in Swarming
-      Bacterial Colonies 张何朋课题组及其合作者在细菌菌落中观察到鲁棒边界流
-
-      近日，上海交通大学自然科学研究院和物理与天文学院张何朋课题组及其合作者，在细菌菌落中首次观察到鲁棒的手性边界流，并通过数值模型成功揭示了其形成机制。该研究成果以“Robust
-      Edge Flows in Swarming Bacterial Colonies”为题，于2024年10月7日在Physical Review X上发表。
-      众所周知，许多生物分子，如蛋白质和DNA，都具有“手性”这一重要特性，即它们可以以两种互为镜像的形式存在。然而，自然界通常只选择其中一种形式。手性如何在不同尺度上传递，并进而影响更大尺度的生物系统，仍是一个未解之谜。为探索这一问题，张何朋课题组及其合作者通过系统的实
-
-      2024-10-08'
+      2024-10-14'
     person: ''
     time: ''
     title: 查看更多
@@ -2194,6 +2191,26 @@
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyFpKF2
+    info: '[文俊讲坛] 吕克宁
+
+      TURBULENCE, LYAPUNOV EXPONENTS, AND SRB MEASURES IN INFINITE-DIMENSIONAL DYNAMICAL
+      SYSTEMS
+
+      2024-12-05
+
+      14:00 — 15:30'
+    person: ''
+    time: ''
+    title: '[文俊讲坛] 吕克宁
+
+      TURBULENCE, LYAPUNOV EXPONENTS, AND SRB MEASURES IN INFINITE-DIMENSIONAL DYNAMICAL
+      SYSTEMS
+
+      2024-12-05
+
+      14:00 — 15:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuF2qF2
     info: '[代数几何与拓扑] WONG KWOK KIN
@@ -2370,7 +2387,7 @@
 
       2024-11-23
 
-      16:00 — 17:00'
+      15:00 — 16:00'
     person: ''
     time: ''
     title: '[概率与统计] 陈慧萍
@@ -2379,25 +2396,7 @@
 
       2024-11-23
 
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJWHtKF2
-    info: '[代数几何与拓扑] 张俊
-
-      SPECTRAL CAPACITIES OF SUBMANIFOLDS
-
-      2024-11-21
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] 张俊
-
-      SPECTRAL CAPACITIES OF SUBMANIFOLDS
-
-      2024-11-21
-
-      14:00 — 15:00'
+      15:00 — 16:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
