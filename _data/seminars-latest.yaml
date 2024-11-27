@@ -1,5 +1,13 @@
 ﻿- page_info:
   - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10038.htm
+    info: '中南大学计算机学院第六届研究生学术年会
+
+      2024-11-27'
+    person: ''
+    time: ''
+    title: 中南大学计算机学院第六届研究生学术年会
+  - address: ''
     href: https://cse.csu.edu.cn/info/1041/10027.htm
     info: 'Privacy Implications of Utilizing Wi-Fi Signals in IoT Environments
 
@@ -79,14 +87,6 @@
     person: ''
     time: ''
     title: Dr Yimin Chen学术报告
-  - address: ''
-    href: https://cse.csu.edu.cn/info/1041/9759.htm
-    info: '生物启发的交互感知计算
-
-      2024-09-08'
-    person: ''
-    time: ''
-    title: 生物启发的交互感知计算
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -363,7 +363,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7301440
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7305041
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -687,6 +687,16 @@
 
       Dec.04
 
+      Geometric Analysis  |  Upcoming
+
+      A non-Archimedean approach to the Yau–Tian–Donaldson Conjecture
+
+      Speakers : Pietro Mesquita-Piccione (Sorbonne Université)
+
+      2024
+
+      Dec.04
+
       Algebraic Geometry  |  Upcoming
 
       Minimal Currents and the Abundance Conjecture
@@ -738,21 +748,11 @@
 
       Nov.27
 
-      Algebraic Geometry  |  Recent
+      Algebraic Geometry
 
       Toric Fano Foliations
 
       Speakers : Yen-An Chen (National Taiwan University)
-
-      2024
-
-      Nov.27
-
-      Geometric Analysis  |  Recent
-
-      K-Semistability of Log Fano Cone Singularities
-
-      Speakers : Yueqiao Wu (Johns Hopkins University)
 
       Pre12345678910Next
 
@@ -1179,6 +1179,12 @@
 
       当前位置: 学院首页 ) 讲座信息
 
+      27
+
+      2024-11
+
+      知存讲座第三十三期：AIGC：内容无界
+
       19
 
       2024-11
@@ -1263,12 +1269,6 @@
 
       信科“E席谈”青年学术沙龙（第二十二期）——面向通用任务的智能网络
 
-      08
-
-      2024-05
-
-      信科“E席谈”青年学术沙龙（第二十一期）——既然是梦想，干脆做大点的！
-
       首页上页12345...12下页尾页'
     person: ''
     time: ''
@@ -1276,6 +1276,16 @@
   page_title: 讲座信息-北京大学信息科学技术学院
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/163048.htm
+    info: '2024-11-27
+
+      【有机化学OPSS学术报告】Discovery of New Enzyme Reactions during Natural Product Biosynthesis
+      in Cyanobacteria'
+    person: ''
+    time: ''
+    title: 【有机化学OPSS学术报告】Discovery of New Enzyme Reactions during Natural Product
+      Biosynthesis in Cyanobacteria
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/163002.htm
     info: '2024-11-25
@@ -1361,39 +1371,9 @@
     time: ''
     title: '【Soft Matter Lecture 160】Olefin Metathesis as the Efficient Method for
       Precision Synthesis of Functional Polymers '
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/162600.htm
-    info: '2024-11-07
-
-      【Soft Matter Lecture 159】高分子四价铂类药物及肿瘤进化靶向研究新方向'
-    person: ''
-    time: ''
-    title: 【Soft Matter Lecture 159】高分子四价铂类药物及肿瘤进化靶向研究新方向
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/162815.htm
-    info: '26
-
-      Nov
-
-      MiniCourse — Time and norm optimal controls for linear systems
-
-      时间：2024-11-26 16:00-20:30(Beijing Time)
-
-      报告人: Marius Tucsnak (University of Bordeaux)'
-    person: ''
-    time: ''
-    title: '26
-
-      Nov
-
-      MiniCourse — Time and norm optimal controls for linear systems
-
-      时间：2024-11-26 16:00-20:30(Beijing Time)
-
-      报告人: Marius Tucsnak (University of Bordeaux)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/162948.htm
     info: '27
@@ -1461,12 +1441,12 @@
 
       报告人: 孙谌劼 (北京大学)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/162762.htm
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/financialmath/163023.htm
     info: '28
 
       Nov
 
-      Learning Graphon Game with Re-Sampling
+      Homogenous approximations of Semi-Markov Life insurance models
 
       时间：2024-11-28 9:00
 
@@ -1477,7 +1457,7 @@
 
       Nov
 
-      Learning Graphon Game with Re-Sampling
+      Homogenous approximations of Semi-Markov Life insurance models
 
       时间：2024-11-28 9:00
 
@@ -1549,75 +1529,95 @@
 
       报告人: 吴云辉（清华大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/162216.htm
-    info: '09
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163019.htm
+    info: '02
 
       Dec
 
-      Local regularity and finite-time singularity for a class of generalized SQG
-      patches on the half-plane
+      Geometry and Topology Seminar——Minimal model in rational homotopy theory
 
-      时间：2024-12-09 16:00-17:00
+      时间：2024-12-02 15:10-17:00
 
-      报告人: 薛留堂（北京师范大学）'
+      报告人: 潘建中（中国科学院数学与系统科学研究院）'
     person: ''
     time: ''
-    title: '09
+    title: '02
 
       Dec
 
-      Local regularity and finite-time singularity for a class of generalized SQG
-      patches on the half-plane
+      Geometry and Topology Seminar——Minimal model in rational homotopy theory
 
-      时间：2024-12-09 16:00-17:00
+      时间：2024-12-02 15:10-17:00
 
-      报告人: 薛留堂（北京师范大学）'
+      报告人: 潘建中（中国科学院数学与系统科学研究院）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/162885.htm
-    info: '25
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/163044.htm
+    info: '02
 
-      Nov
+      Dec
 
-      Geometry and Topology Seminar——Isotropic points in the Balmer spectrum of stable
-      motivic homotopy categories
+      Distinguished Lecture——Douady''s plan for researching areas of Julia sets of
+      complex dynamical systems
 
-      时间：2024-11-25 15:10-17:00
+      时间：2024-12-02 14:30-15:30
 
-      报告人: 杜鹏（浙江师范大学）'
+      报告人: 乔建永 (北京邮电大学)'
     person: ''
     time: ''
-    title: '25
+    title: '02
 
-      Nov
+      Dec
 
-      Geometry and Topology Seminar——Isotropic points in the Balmer spectrum of stable
-      motivic homotopy categories
+      Distinguished Lecture——Douady''s plan for researching areas of Julia sets of
+      complex dynamical systems
 
-      时间：2024-11-25 15:10-17:00
+      时间：2024-12-02 14:30-15:30
 
-      报告人: 杜鹏（浙江师范大学）'
+      报告人: 乔建永 (北京邮电大学)'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/162685.htm
-    info: '22
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163030.htm
+    info: '02
 
-      Nov
+      Dec
 
-      School Colloquium——Geometric representation of Hecke categories
+      Riesz transform and its fractional version, functional spaces and applications
 
-      时间：2024-11-22 15:30-16:30
+      时间：2024-12-02 16:00-17:00
 
-      报告人: 李鹏辉 (清华大学)'
+      报告人: 蒋仁进（首都师范大学）'
     person: ''
     time: ''
-    title: '22
+    title: '02
 
-      Nov
+      Dec
 
-      School Colloquium——Geometric representation of Hecke categories
+      Riesz transform and its fractional version, functional spaces and applications
 
-      时间：2024-11-22 15:30-16:30
+      时间：2024-12-02 16:00-17:00
 
-      报告人: 李鹏辉 (清华大学)'
+      报告人: 蒋仁进（首都师范大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163040.htm
+    info: '02
+
+      Dec
+
+      Incompressible limit of ideal MHD with a perfectly conducting boundary
+
+      时间：2024-12-02 15:00-16:00
+
+      报告人: 章俊彦（新加坡国立大学）'
+    person: ''
+    time: ''
+    title: '02
+
+      Dec
+
+      Incompressible limit of ideal MHD with a perfectly conducting boundary
+
+      时间：2024-12-02 15:00-16:00
+
+      报告人: 章俊彦（新加坡国立大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1784,6 +1784,16 @@
 
       首页 / 学术活动 / 讲座报告
 
+      17
+
+      Dec
+
+      手性有机硅化学
+
+      报告人：王鹏 研究员上海有机化学研究所
+
+      报告时间：2024年12月17日15:30-17:00
+
       4
 
       Dec
@@ -1793,6 +1803,16 @@
       报告人：李纳川、郑斯嘉、唐姗姗
 
       报告时间：2024年12月4日（星期三）14：00-17：00
+
+      2
+
+      Dec
+
+      光酶催化不对称合成
+
+      报告人：黄小强 研究员南京大学
+
+      报告时间：2024 年 12 月 02 日 15:00-17:00
 
       27
 
@@ -1864,27 +1884,7 @@
 
       报告时间：2024年11月20日（星期三）10:00-11:30
 
-      20
-
-      Nov
-
-      Intermolecular HAT through Water Activation and Pyridine Functionalization
-
-      报告人：Prof. Armido Studer
-
-      报告时间：2024年11月20日 15:00-16:30
-
-      14
-
-      Nov
-
-      电促催化不对称自由基反应
-
-      报告人：郭昌教授 中国科学技术大学
-
-      报告时间：11月14日（星期四）14:00−17:00
-
-      首页上页12345...15下页尾页'
+      首页上页12345...16下页尾页'
     person: ''
     time: ''
     title: 学术会议
@@ -1938,7 +1938,7 @@
 
       Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
 
-      2024-11-11 15:30, 16 days ago
+      2024-11-11 15:30, 17 days ago
 
       细胞信号转导反应不应期的数学分析及其分子调节机理
 
@@ -2110,14 +2110,26 @@
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4228.html
+    href: https://scce.sjtu.edu.cn/index_xsrl/4250.html
     info: '学术日历
+
+      09
+
+      2024-12
+
+      【学术报告】Heterocyclic Compounds: An Inspiration for New Methodology
 
       29
 
       2024-11
 
       【学术报告】高性能有机热电材料和器件
+
+      28
+
+      2024-11
+
+      【学术报告】液态金属器件
 
       28
 
@@ -2162,29 +2174,35 @@
       【学术报告】Ion-Binding Catenanes: Coordination Features, Host-Guest hemistry and
       Catalysis
 
-      14
-
-      2024-11
-
-      【学术报告】Arene Hydrogenation
-
-      08
-
-      2024-11
-
-      【学术报告】Recent Progress in X-ray Imaging: Bridging the Gap from Research to Commercialization
-
       12345下一页最后一页'
     person: ''
     time: ''
-    title: '28
+    title: '29
 
       2024-11
 
-      【学术报告】反应自动搜索与均相催化人工智能设计'
+      【学术报告】高性能有机热电材料和器件'
   page_title: 学术日历-上海交通大学化学化工学院
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyFtKF2
+    info: '[概率与统计] 孙晓斌
+
+      ASYMPTOTIC BEHAVIORS OF TIME-INHOMOGENEOUS MULTI-SCALE SDES
+
+      2024-12-10
+
+      10:00 — 11:00'
+    person: ''
+    time: ''
+    title: '[概率与统计] 孙晓斌
+
+      ASYMPTOTIC BEHAVIORS OF TIME-INHOMOGENEOUS MULTI-SCALE SDES
+
+      2024-12-10
+
+      10:00 — 11:00'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyFpKF2
     info: '[文俊讲坛] 吕克宁
@@ -2205,6 +2223,44 @@
       2024-12-05
 
       14:00 — 15:30'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyFyqF2
+    info: '[偏微分方程] JOHANNES LANKEIT
+
+      CHEMOTAXIS-CONSUMPTION SYSTEMS WITH NONZERO BOUNDARY CONDITIONS
+
+      2024-12-03
+
+      16:00 — 17:00'
+    person: ''
+    time: ''
+    title: '[偏微分方程] JOHANNES LANKEIT
+
+      CHEMOTAXIS-CONSUMPTION SYSTEMS WITH NONZERO BOUNDARY CONDITIONS
+
+      2024-12-03
+
+      16:00 — 17:00'
+  - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyGpKF2
+    info: '[特邀报告] PROF. LILI JU
+
+      DYNAMICALLY REGULARIZED LAGRANGE MULTIPLIER SCHEMES WITH ENERGY DISSIPATION
+      FOR THE INCOMPRESSIBLE NAVIER-STOKES EQUATIONS
+
+      2024-12-02
+
+      10:00 — 11:30'
+    person: ''
+    time: ''
+    title: '[特邀报告] PROF. LILI JU
+
+      DYNAMICALLY REGULARIZED LAGRANGE MULTIPLIER SCHEMES WITH ENERGY DISSIPATION
+      FOR THE INCOMPRESSIBLE NAVIER-STOKES EQUATIONS
+
+      2024-12-02
+
+      10:00 — 11:30'
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuF2qF2
     info: '[代数几何与拓扑] WONG KWOK KIN
@@ -2262,6 +2318,24 @@
 
       10:30 — 12:00'
   - address: ''
+    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNyF2qF2
+    info: '[偏微分方程] 许灵达博士
+
+      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
+
+      2024-11-27
+
+      15:00 — 16:00'
+    person: ''
+    time: ''
+    title: '[偏微分方程] 许灵达博士
+
+      NONLINEAR STABILITY THRESHOLD FOR COMPRESSIBLE COUETTE FLOW
+
+      2024-11-27
+
+      15:00 — 16:00'
+  - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJmF2qF2
     info: '[特邀报告] 尹景学 教授
 
@@ -2317,80 +2391,6 @@
       2024-11-24
 
       09:00 — 10:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuHpKF2
-    info: '[概率与统计] 曾梓镕
-
-      EXISTENCE AND NON-UNIQUENESS OF WEAK SOLUTIONS WITH CONTINUOUS ENERGY TO THE
-      3D DETERMINISTIC AND STOCHASTIC NAVIER-STOKES EQUATIONS
-
-      2024-11-24
-
-      10:00 — 11:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 曾梓镕
-
-      EXISTENCE AND NON-UNIQUENESS OF WEAK SOLUTIONS WITH CONTINUOUS ENERGY TO THE
-      3D DETERMINISTIC AND STOCHASTIC NAVIER-STOKES EQUATIONS
-
-      2024-11-24
-
-      10:00 — 11:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuFyqF2
-    info: '[概率与统计] 唐斌
-
-      THE MIXING BY TRANSPORT NOISE
-
-      2024-11-23
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 唐斌
-
-      THE MIXING BY TRANSPORT NOISE
-
-      2024-11-23
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumNuHtKF2
-    info: '[概率与统计] 陈慧萍
-
-      MULTIPLE WIENER-IT\^O INTEGRAL AND ITS PROPERTIES
-
-      2024-11-23
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[概率与统计] 陈慧萍
-
-      MULTIPLE WIENER-IT\^O INTEGRAL AND ITS PROPERTIES
-
-      2024-11-23
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGulJWHtKF2
-    info: '[代数几何与拓扑] 张俊
-
-      SPECTRAL CAPACITIES OF SUBMANIFOLDS
-
-      2024-11-21
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] 张俊
-
-      SPECTRAL CAPACITIES OF SUBMANIFOLDS
-
-      2024-11-21
-
-      14:00 — 15:00'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
@@ -2398,18 +2398,18 @@
     href: null
     info: '学术
 
-      【药学院】明德弘药论坛（第321期）：Cell Press旗下Cell Reports期刊科学编辑任庆仲博士学术报告
+      【生研院】杰出学者系列：张宏院士（中国科学院生物物理研究所）学术报告
+
+      物理学院徐宁学术报告的通知（School of Physics Colloquium）
+
+      【药学院】明德弘药论坛（第322期）：Cell Press旗下Cell Reports期刊科学编辑任庆仲博士学术报告
 
       【药学院】明德弘药论坛（第321期）：理化学研究所综合医学科学中心副主任Hiroshi Ohno教授学术报告
 
-      【药学院】明德弘药论坛（第320期）：理化学研究所可持续资源科学中心药物发现化学库单位课题组组长Hiroyuki Osada教授学术报告
-
-      【药学院】明德弘药论坛（第319期）：北京大学教授雷晓光教授学术报告
-
-      【药学院】明德弘药论坛（第318期）：中国科学院上海分院院长胡金波教授学术报告'
+      【药学院】明德弘药论坛（第320期）：理化学研究所可持续资源科学中心药物发现化学库单位课题组组长Hiroyuki Osada教授学术报告'
     person: ''
     time: ''
-    title: 【药学院】明德弘药论坛（第321期）：Cell Press旗下Cell Reports期刊科学编辑任庆仲博士学术报告
+    title: 【生研院】杰出学者系列：张宏院士（中国科学院生物物理研究所）学术报告
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
