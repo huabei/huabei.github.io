@@ -365,7 +365,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7330648
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7334365
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -560,6 +560,14 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/4f86807849824c46ab4ba66341f2ab0f.htm
+    info: '2024.12.05
+
+      Membrane fusion: from viral infection to fertilization'
+    person: ''
+    time: ''
+    title: 'Membrane fusion: from viral infection to fertilization'
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/c74ac7fd74f54c60b1916860e2f2e6eb.htm
     info: '2024.12.04
 
@@ -642,20 +650,22 @@
     time: ''
     title: Emerging Strategies and Technologies in Evolving Natural Products Drug
       Discovery
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c3eb872c7e4441d7b95db702bbaf864a.htm
-    info: '2024.11.11
-
-      Recent advances in applying the logic of heterocyclic chemistry to peptides'
-    person: ''
-    time: ''
-    title: Recent advances in applying the logic of heterocyclic chemistry to peptides
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://bicmr.pku.edu.cn/content/show/18-3513.html?catid=KiQhKyYs
+    href: https://bicmr.pku.edu.cn/content/show/49-3515.html?catid=KiQhKyYs
     info: 'Seminars and Colloquium
+
+      2024
+
+      Dec.18
+
+      Symplectic Geometry and Mathematical Physics  |  Upcoming
+
+      Parahoric reduction theory of formal connections
+
+      Speakers : Pengfei Huang(Max Planck Institute)
 
       2024
 
@@ -713,7 +723,7 @@
 
       Dec.05
 
-      Postdoc Seminar  |  Recent
+      Postdoc Seminar
 
       The Stability and Energy Identity for Yang-Mills Functional
 
@@ -723,7 +733,7 @@
 
       Dec.04
 
-      Bio-Math Seminar  |  Recent
+      Bio-Math Seminar
 
       Age-structured Models with Diffusion
 
@@ -733,7 +743,7 @@
 
       Dec.04
 
-      Geometric Analysis  |  Recent
+      Geometric Analysis
 
       A non-Archimedean approach to the Yau–Tian–Donaldson Conjecture
 
@@ -748,16 +758,6 @@
       Minimal Currents and the Abundance Conjecture
 
       Speakers : Vladimir Lazić (Universität des Saarlandes)
-
-      2024
-
-      Dec.03
-
-      Symplectic Geometry and Mathematical Physics
-
-      Quantized Coulomb branches from quantum Teichmüller theory
-
-      Speakers : Dylan Allegretti (YMSC)
 
       Pre12345678910Next
 
@@ -812,7 +812,7 @@
       Others'
     person: ''
     time: ''
-    title: Colloquium
+    title: Symplectic Geometry and Mathematical Physics
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
@@ -885,6 +885,32 @@
   page_title: 学术讲座-北京大学前沿交叉学科研究院
   page_url: http://www.aais.pku.edu.cn/yanjiu/news.php?class2=149
 - page_info:
+  - address: ''
+    href: https://future.pku.edu.cn/xwyjz/jz/d39dc90687a24f229e7285b3349cc958.htm
+    info: '讲座主题
+
+      结构解析疑难杂症浅谈
+
+      范成鹏
+
+      主讲人教授
+
+      2024年12月5日（星期四）下午3:30-4:30
+
+      北京大学吕志和楼B101会议室'
+    person: ''
+    time: ''
+    title: '讲座主题
+
+      结构解析疑难杂症浅谈
+
+      范成鹏
+
+      主讲人教授
+
+      2024年12月5日（星期四）下午3:30-4:30
+
+      北京大学吕志和楼B101会议室'
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/f77111ed2315476c97124256d3983b6f.htm
     info: '讲座主题
@@ -1141,32 +1167,6 @@
       2024年9月22日 15:00-16:00
 
       吕志和楼B101室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/74616dc6185a4f9a80aa9c39be8223a1.htm
-    info: '讲座主题
-
-      生物医用光学传感器件
-
-      衣路英
-
-      主讲人研究员
-
-      2024年9月13日 13:30-15:00
-
-      科研二号楼B117'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      生物医用光学传感器件
-
-      衣路英
-
-      主讲人研究员
-
-      2024年9月13日 13:30-15:00
-
-      科研二号楼B117'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
@@ -1380,74 +1380,6 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/163139.htm
-    info: '04
-
-      Dec
-
-      Minimal currents and the Abundance conjecture
-
-      时间：2024-12-04 15:00-16:15
-
-      报告人: Vladimir Lazić (Universität des Saarlandes)'
-    person: ''
-    time: ''
-    title: '04
-
-      Dec
-
-      Minimal currents and the Abundance conjecture
-
-      时间：2024-12-04 15:00-16:15
-
-      报告人: Vladimir Lazić (Universität des Saarlandes)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/163208.htm
-    info: '04
-
-      Dec
-
-      应用数学青年讨论班（午餐会）——Symplectic Discretization Approach for Developing New Proximal
-      Point Algorithm
-
-      时间：2024-12-4 11:45-13:00
-
-      报告人: 张亦（中国科学院数学与系统科学研究院）'
-    person: ''
-    time: ''
-    title: '04
-
-      Dec
-
-      应用数学青年讨论班（午餐会）——Symplectic Discretization Approach for Developing New Proximal
-      Point Algorithm
-
-      时间：2024-12-4 11:45-13:00
-
-      报告人: 张亦（中国科学院数学与系统科学研究院）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/163121.htm
-    info: '04
-
-      Dec
-
-      A non-Archimedean approach to the Yau–Tian–Donaldson Conjecture
-
-      时间：2024-12-04 16:00-17:00
-
-      报告人: Pietro Mesquita-Piccione（法国索邦大学朱西厄数学研究所）'
-    person: ''
-    time: ''
-    title: '04
-
-      Dec
-
-      A non-Archimedean approach to the Yau–Tian–Donaldson Conjecture
-
-      时间：2024-12-04 16:00-17:00
-
-      报告人: Pietro Mesquita-Piccione（法国索邦大学朱西厄数学研究所）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163236.htm
     info: '09
 
@@ -1539,6 +1471,50 @@
       时间：2024-12-12 13:30-14:30
 
       报告人: 郑泽宇(加州大学伯克利分校)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163337.htm
+    info: '12
+
+      Dec
+
+      Optimal shape and location of sensors or actuators in PDE models
+
+      时间：2024-12-12 14:00-15:00
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
+    person: ''
+    time: ''
+    title: '12
+
+      Dec
+
+      Optimal shape and location of sensors or actuators in PDE models
+
+      时间：2024-12-12 14:00-15:00
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163341.htm
+    info: '12
+
+      Dec
+
+      Spectral analysis of sub-Riemannian Laplacians and Weyl measure
+
+      时间：2024-12-12 15:30-16:30
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
+    person: ''
+    time: ''
+    title: '12
+
+      Dec
+
+      Spectral analysis of sub-Riemannian Laplacians and Weyl measure
+
+      时间：2024-12-12 15:30-16:30
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/distingguishtalk/163279.htm
     info: '13
@@ -1633,6 +1609,28 @@
       时间：2024-12-18 09:00-11:30
 
       报告人: Matsumura Shin-ichi（日本东北大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163333.htm
+    info: '18
+
+      Dec
+
+      Geometric optimal control and applications to aerospace
+
+      时间：2024-12-18 15:00-16:00
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
+    person: ''
+    time: ''
+    title: '18
+
+      Dec
+
+      Geometric optimal control and applications to aerospace
+
+      时间：2024-12-18 15:00-16:00
+
+      报告人: Emmanuel Trélat (法国索邦大学)'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1996,7 +1994,7 @@
 
       Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
 
-      2024-11-11 15:30, 24 days ago
+      2024-11-11 15:30, 25 days ago
 
       细胞信号转导反应不应期的数学分析及其分子调节机理
 
@@ -2037,11 +2035,20 @@
 
       Oregon State University
 
-      2024-08-20 14:00, 3 months ago
+      2024-08-20 14:00, 4 months ago
 
       近期新闻
 
       查看更多
+
+      Shi Jin and Nana Liu publish research on “Schrodingerization” — a quantum simulation
+      method for partial differential equations金石和Nana Liu 教授发表偏微分方程“薛定谔化”量子算法研究成果
+
+      近日， 上海交通大学自然科学研究院和数学科学学院金石教授， 上海交通大学自然科学研究院和密西根学院副教授Nana Liu 于杂志Physical Review
+      Letters 在线发表了“ Quantum simulation of partial differential equations via Schrodingerisation”的论文。论文链接：https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.230602
+      (该论文的预印本于2022年12月投放于arXiv:2212.13969)。偏微分方程是科学与工程计算
+
+      2024-12-05
 
       Science Advances Publishes Shanghai Jiao Tong University''s Breakthrough in
       the Technology of General Artificial Intelligence for Protein Engineering上海交通大学洪亮教授组织的联合团队在Science子刊发表蛋白质工程通用人工智能技术
@@ -2080,14 +2087,7 @@
       Flat Mode and Vibrational Anomaly in Active Brownian Vibrators Induced by String-like
       Dynamical Defec
 
-      2024-10-30
-
-      The Team of Jin Shi from Shanghai Jiao Tong University Won the First Prize in
-      Shanghai Natural Science Award 突破计算瓶颈，助力药物设计和新材料开发！上海交大金石团队获上海市自然科学一等奖
-
-      10月23日上午，2024年度上海市科学技术奖励大学会举行。上海交通大学金石、李磊、徐振礼的研究项目《粒子系统与分子动力学的随机快速算法及应用》获上海市自然科学一等奖。多体粒子系统是微观尺度和多尺度物理领域的基本问题，在药物设计、新材料研发、天体物理、群体智能和大规模群体行为等领域具有广泛应用。由于粒子数通常都很大，经典计算机上的模拟和抽样算法往往受到严重挑战，在分布式计算上的并行效率也受到限制。动理学方程是从微观的多体粒子描述转变为介观的对概率密度分布描述的约化模型，在航天、聚变相关的等离子物理、反应堆和医学图像及放疗设计等领域有重要应用。如何突破多体粒子系统计算瓶颈？如何设计高效的分子动力
-
-      2024-10-24'
+      2024-10-30'
     person: ''
     time: ''
     title: 查看更多
@@ -2452,18 +2452,18 @@
     href: null
     info: '学术
 
+      【化学系】启真化学论坛：杨启华教授（浙江师范大学）
+
+      求是海洋学术论坛2024年22期（总61期）——昆虫和其肠道微生物生物对塑料的生物降解: 历史、进展与展望
+
       【生研院】学术讲座系列：刘强教授（中山大学）学术报告
 
       【教育学院】Ronnel B. King：Publishing in SSCI journals:A Journey Not A Destination
 
-      “杏林·名师名家论坛”—Manfred Dietel 院士报告会
-
-      【数学学院】程晋：人工智能与数学--基于机理和数据的学习理论与算法
-
-      物理学院郑志刚学术报告的通知（School of Physics Colloquium）'
+      “杏林·名师名家论坛”—Manfred Dietel 院士报告会'
     person: ''
     time: ''
-    title: ​【生研院】学术讲座系列：刘强教授（中山大学）学术报告
+    title: 【化学系】启真化学论坛：杨启华教授（浙江师范大学）
   page_title: 列表页
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
