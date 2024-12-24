@@ -367,7 +367,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7396064
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7399761
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -562,6 +562,22 @@
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/6cc2844619e64b48b364872b87cd2daf.htm
+    info: '2024.12.24
+
+      2024年药学创新交叉研讨会'
+    person: ''
+    time: ''
+    title: 2024年药学创新交叉研讨会
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/e196b8926c924a6e900cbd8d1d7524e1.htm
+    info: '2024.12.24
+
+      分子结构进化与基因编辑工具开发'
+    person: ''
+    time: ''
+    title: 分子结构进化与基因编辑工具开发
+  - address: ''
     href: https://sps.bjmu.edu.cn/xsbg/046326d1ac4049c08303526d080a3b42.htm
     info: '2024.12.16
 
@@ -635,28 +651,32 @@
     person: ''
     time: ''
     title: 手性光谱学在立体结构解析中的应用
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/c74ac7fd74f54c60b1916860e2f2e6eb.htm
-    info: '2024.12.04
-
-      皮肤影像AI与淋巴瘤诊疗新视界'
-    person: ''
-    time: ''
-    title: 皮肤影像AI与淋巴瘤诊疗新视界
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/d26fa0619e2545c8bd856d4b0a17f814.htm
-    info: '2024.12.04
-
-      基于深度学习的罕见病药物重定位研究'
-    person: ''
-    time: ''
-    title: 基于深度学习的罕见病药物重定位研究
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://bicmr.pku.edu.cn/content/show/45-3526.html?catid=KiQhKyYs
+    href: https://bicmr.pku.edu.cn/content/show/46-3534.html?catid=KiQhKyYs
     info: 'Seminars and Colloquium
+
+      2024
+
+      Dec.30
+
+      PDE/Analysis  |  Upcoming
+
+      Local Enhancement of the Mean-field Approximation for Bosons
+
+      Speakers : Jingxuan Zhang(Tsinghua University)
+
+      2024
+
+      Dec.26
+
+      Postdoc Seminar  |  Recent
+
+      A Refinement of the Coherence Conjecture of Pappas-Rapoport
+
+      Speakers : Huanhuan Yu(BICMR)
 
       2024
 
@@ -702,7 +722,7 @@
 
       Dec.24
 
-      Algebraic Geometry  |  Recent
+      Algebraic Geometry
 
       Immersed Surfaces in Closed Hyperbolic 4-Manifolds
 
@@ -712,7 +732,7 @@
 
       Dec.24
 
-      Symplectic Geometry and Mathematical Physics  |  Recent
+      Symplectic Geometry and Mathematical Physics
 
       Quantum Groups as Global Symmetries
 
@@ -738,26 +758,6 @@
       ABP Method and Geometric Inequalities
 
       Speakers : The Doanh Pham(BICMR)
-
-      2024
-
-      Dec.18
-
-      Others
-
-      Inner ultrahomogeneous groups
-
-      Speakers : Tomasz Rzepecki (University of Wroclaw)
-
-      2024
-
-      Dec.18
-
-      Symplectic Geometry and Mathematical Physics
-
-      Parahoric reduction theory of formal connections
-
-      Speakers : Pengfei Huang(Max Planck Institute)
 
       Pre12345678910Next
 
@@ -814,7 +814,7 @@
       Others'
     person: ''
     time: ''
-    title: Operations Research
+    title: PDE/Analysis
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
@@ -1383,6 +1383,190 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/163674.htm
+    info: '25
+
+      Dec
+
+      应用数学青年讨论班（午餐会）——Investigating Accelerated Gradient Methods with Inexact Oracles
+      via Performance Estimation Problem
+
+      时间：2024-12-25 12:15-13:30
+
+      报告人: 刘茵（北京大学）'
+    person: ''
+    time: ''
+    title: '25
+
+      Dec
+
+      应用数学青年讨论班（午餐会）——Investigating Accelerated Gradient Methods with Inexact Oracles
+      via Performance Estimation Problem
+
+      时间：2024-12-25 12:15-13:30
+
+      报告人: 刘茵（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163620.htm
+    info: '26
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 忻宇辰（北京大学）'
+    person: ''
+    time: ''
+    title: '26
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 忻宇辰（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163551.htm
+    info: '26
+
+      Dec
+
+      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
+      modeling, numerics, data-driven applications
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 綦昆仑 (明尼苏达大学)'
+    person: ''
+    time: ''
+    title: '26
+
+      Dec
+
+      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
+      modeling, numerics, data-driven applications
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 綦昆仑 (明尼苏达大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163681.htm
+    info: '30
+
+      Dec
+
+      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
+      Euclidean spaces
+
+      时间：2024-12-30 15:10-16:00
+
+      报告人: 王晁（华东师范大学）'
+    person: ''
+    time: ''
+    title: '30
+
+      Dec
+
+      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
+      Euclidean spaces
+
+      时间：2024-12-30 15:10-16:00
+
+      报告人: 王晁（华东师范大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163685.htm
+    info: '30
+
+      Dec
+
+      Geometry and Topology Seminar——On stability type theorems for positive scalar
+      curvature obstruction.
+
+      时间：2024-12-30 16:10-17:00
+
+      报告人: 何世航（北京大学）'
+    person: ''
+    time: ''
+    title: '30
+
+      Dec
+
+      Geometry and Topology Seminar——On stability type theorems for positive scalar
+      curvature obstruction.
+
+      时间：2024-12-30 16:10-17:00
+
+      报告人: 何世航（北京大学）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163707.htm
+    info: '30
+
+      Dec
+
+      Local enhancement of the mean-field approximation for bosons
+
+      时间：2024-12-30 16:00-17:00
+
+      报告人: 张景宣 (清华大学)'
+    person: ''
+    time: ''
+    title: '30
+
+      Dec
+
+      Local enhancement of the mean-field approximation for bosons
+
+      时间：2024-12-30 16:00-17:00
+
+      报告人: 张景宣 (清华大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163665.htm
+    info: '08
+
+      Jan
+
+      Bifurcation of periodic patterns of the compressible Navier- Stokes equations
+
+      时间：2025-01-08 16:00-17:00
+
+      报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
+    person: ''
+    time: ''
+    title: '08
+
+      Jan
+
+      Bifurcation of periodic patterns of the compressible Navier- Stokes equations
+
+      时间：2025-01-08 16:00-17:00
+
+      报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163588.htm
+    info: '23
+
+      Dec
+
+      Well-posedness for the dispersion-generalized Benjamin-Ono equation
+
+      时间：2024-12-23 16:00-17:00
+
+      报告人: Albert AI (北京大学)'
+    person: ''
+    time: ''
+    title: '23
+
+      Dec
+
+      Well-posedness for the dispersion-generalized Benjamin-Ono equation
+
+      时间：2024-12-23 16:00-17:00
+
+      报告人: Albert AI (北京大学)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163564.htm
     info: '23
 
@@ -1450,188 +1634,6 @@
       时间：2024-12-23 15:30-16:30
 
       报告人: 耿曦（University of Melbourne）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/probabilityandstatistics/163580.htm
-    info: '23
-
-      Dec
-
-      Bulk deviations and disconnection in correlated percolation models
-
-      时间：2024-12-23 14:00-15:00
-
-      报告人: Maximilian Nitzschner（Hong Kong University of Science and Technology）'
-    person: ''
-    time: ''
-    title: '23
-
-      Dec
-
-      Bulk deviations and disconnection in correlated percolation models
-
-      时间：2024-12-23 14:00-15:00
-
-      报告人: Maximilian Nitzschner（Hong Kong University of Science and Technology）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163588.htm
-    info: '23
-
-      Dec
-
-      Well-posedness for the dispersion-generalized Benjamin-Ono equation
-
-      时间：2024-12-23 16:00-17:00
-
-      报告人: Albert AI (北京大学)'
-    person: ''
-    time: ''
-    title: '23
-
-      Dec
-
-      Well-posedness for the dispersion-generalized Benjamin-Ono equation
-
-      时间：2024-12-23 16:00-17:00
-
-      报告人: Albert AI (北京大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163620.htm
-    info: '26
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 忻宇辰（北京大学）'
-    person: ''
-    time: ''
-    title: '26
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 忻宇辰（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163551.htm
-    info: '26
-
-      Dec
-
-      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
-      modeling, numerics, data-driven applications
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 綦昆仑 (明尼苏达大学)'
-    person: ''
-    time: ''
-    title: '26
-
-      Dec
-
-      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
-      modeling, numerics, data-driven applications
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 綦昆仑 (明尼苏达大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163665.htm
-    info: '08
-
-      Jan
-
-      Bifurcation of periodic patterns of the compressible Navier- Stokes equations
-
-      时间：2025-01-08 16:00-17:00
-
-      报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
-    person: ''
-    time: ''
-    title: '08
-
-      Jan
-
-      Bifurcation of periodic patterns of the compressible Navier- Stokes equations
-
-      时间：2025-01-08 16:00-17:00
-
-      报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/163480.htm
-    info: '20
-
-      Dec
-
-      School Colloquium——Representation and Tensor Category of Affine Lie Algebras
-      at Positive Rational Levels
-
-      时间：2024-12-20 15:30-16:30
-
-      报告人: 杨进伟 (上海交通大学)'
-    person: ''
-    time: ''
-    title: '20
-
-      Dec
-
-      School Colloquium——Representation and Tensor Category of Affine Lie Algebras
-      at Positive Rational Levels
-
-      时间：2024-12-20 15:30-16:30
-
-      报告人: 杨进伟 (上海交通大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometricanalysis/163201.htm
-    info: '19
-
-      Dec
-
-      Analytic positivity of direct image sheaves of adjoint bundles and applications
-      to algebraic geometry — 4
-
-      时间：2024-12-19 09:00-11:30
-
-      报告人: Matsumura Shin-ichi（日本东北大学）'
-    person: ''
-    time: ''
-    title: '19
-
-      Dec
-
-      Analytic positivity of direct image sheaves of adjoint bundles and applications
-      to algebraic geometry — 4
-
-      时间：2024-12-19 09:00-11:30
-
-      报告人: Matsumura Shin-ichi（日本东北大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163526.htm
-    info: '19
-
-      Dec
-
-      Exponential mixing of Anosov flow (II)
-
-      时间：2024-12-19 19:00-21:00(北京时间)
-
-      报告人: 张智元 (Imperial College London）'
-    person: ''
-    time: ''
-    title: '19
-
-      Dec
-
-      Exponential mixing of Anosov flow (II)
-
-      时间：2024-12-19 19:00-21:00(北京时间)
-
-      报告人: 张智元 (Imperial College London）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
@@ -1851,7 +1853,7 @@
 
       The Chinese University of Hong Kong（Shenzhen）
 
-      2024-12-27 10:00, in 3 days
+      2024-12-27 10:00, in 2 days
 
       Data-efficient causal estimation: tackling new challenges through non-asymptotic
       lens
@@ -1860,7 +1862,7 @@
 
       Department of Statistical Sciences, University of Toronto
 
-      2024-12-18 10:00, 6 days ago
+      2024-12-18 10:00, 7 days ago
 
       Learning Neural Free-Energy Functionals for Classical Many-Body Systems
 
