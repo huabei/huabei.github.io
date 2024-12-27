@@ -1,22 +1,94 @@
 ﻿- page_info:
   - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
+    href: https://cse.csu.edu.cn/info/1041/10134.htm
+    info: '联邦学习的安全与隐私保护探索
+
+      2024-12-25'
     person: ''
     time: ''
-    title: ''
+    title: 联邦学习的安全与隐私保护探索
   - address: ''
-    href: javascript:$('.nav li a').first()[0].click()
-    info: ''
+    href: https://cse.csu.edu.cn/info/1041/10056.htm
+    info: '大模型驱动的推荐前沿进展
+
+      2024-12-06'
     person: ''
     time: ''
-    title: ''
+    title: 大模型驱动的推荐前沿进展
   - address: ''
-    href: https://cse.csu.edu.cn/index/xsxx.htm
-    info: ''
+    href: https://cse.csu.edu.cn/info/1041/10055.htm
+    info: 'Industrial Intelligence: Faster, Scalable, Safer Model Inference
+
+      2024-12-06'
     person: ''
     time: ''
-    title: ''
+    title: 'Industrial Intelligence: Faster, Scalable, Safer Model Inference'
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10048.htm
+    info: 'Empowering Deep Modeling of 3D Geometry Data: From Representation, Learning
+      Process, to Loss Function
+
+      2024-12-04'
+    person: ''
+    time: ''
+    title: 'Empowering Deep Modeling of 3D Geometry Data: From Representation, Learning
+      Process, to Loss Function'
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10038.htm
+    info: '中南大学计算机学院第六届研究生学术年会
+
+      2024-11-27'
+    person: ''
+    time: ''
+    title: 中南大学计算机学院第六届研究生学术年会
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10027.htm
+    info: 'Privacy Implications of Utilizing Wi-Fi Signals in IoT Environments
+
+      2024-11-25'
+    person: ''
+    time: ''
+    title: Privacy Implications of Utilizing Wi-Fi Signals in IoT Environments
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10023.htm
+    info: '华中科技大学黄胜友教授与复旦大学朱山风研究员学术报告
+
+      2024-11-22'
+    person: ''
+    time: ''
+    title: 华中科技大学黄胜友教授与复旦大学朱山风研究员学术报告
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9982.htm
+    info: '万物相联万物生
+
+      2024-11-11'
+    person: ''
+    time: ''
+    title: 万物相联万物生
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9970.htm
+    info: '大数据安全关键技术、高效的隐私保护多方多数据排序
+
+      2024-11-07'
+    person: ''
+    time: ''
+    title: 大数据安全关键技术、高效的隐私保护多方多数据排序
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9964.htm
+    info: '发现合成致死抗癌药物新靶点的人工智能技术
+
+      2024-11-05'
+    person: ''
+    time: ''
+    title: 发现合成致死抗癌药物新靶点的人工智能技术
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/9927.htm
+    info: '基于多模态表示学习的药物发现
+
+      2024-10-23'
+    person: ''
+    time: ''
+    title: 基于多模态表示学习的药物发现
   page_title: 学术信息-中南大学计算机学院
   page_url: https://cse.csu.edu.cn/index/xsxx.htm
 - page_info:
@@ -294,7 +366,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7407787
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7410665
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -480,110 +552,297 @@
   page_url: https://www.cs.tsinghua.edu.cn/index/xsbg.htm
 - page_info:
   - address: ''
-    href: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
-    info: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6390.htm
+    info: '07
+
+      十月
+
+      Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs'
     person: ''
     time: ''
-    title: ''
-  page_title: 学术讲座-北京大学深圳研究生院化学生物学与生物技术学院
+    title: Efficiently Running AI Workloads Using Long SIMD and Matrix ISAs
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6365.htm
+    info: '09
+
+      九月
+
+      Bring the order to the chaos, Order-preserving IO stack'
+    person: ''
+    time: ''
+    title: Bring the order to the chaos, Order-preserving IO stack
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6339.htm
+    info: '29
+
+      八月
+
+      TOWARDS AI-CENTRIC NETWORKINGOPPORTUNITIES AND CHALLENGES'
+    person: ''
+    time: ''
+    title: TOWARDS AI-CENTRIC NETWORKINGOPPORTUNITIES AND CHALLENGES
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6325.htm
+    info: '27
+
+      八月
+
+      Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
+      Optimization'
+    person: ''
+    time: ''
+    title: Adaptive Solution Prediction via Machine Learning for Large-Scale Combinatorial
+      Optimization
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6295.htm
+    info: '21
+
+      八月
+
+      Software-Based Networks and Networking for the Cloud Optimizations and Challenges'
+    person: ''
+    time: ''
+    title: Software-Based Networks and Networking for the Cloud Optimizations and
+      Challenges
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6182.htm
+    info: '28
+
+      六月
+
+      Introduction to Verified NN4Sys: the What, Why, and How'
+    person: ''
+    time: ''
+    title: 'Introduction to Verified NN4Sys: the What, Why, and How'
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6172.htm
+    info: '24
+
+      六月
+
+      Empowering Large Language Models with Faithful Reasoning'
+    person: ''
+    time: ''
+    title: Empowering Large Language Models with Faithful Reasoning
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6170.htm
+    info: '24
+
+      六月
+
+      Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
+      Decision Making'
+    person: ''
+    time: ''
+    title: 'Towards Human-centered AI: How to Generate Useful Explanations for Human-AI
+      Decision Making'
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6153.htm
+    info: '13
+
+      六月
+
+      Revisiting Scalarization in Multi-Task Learning'
+    person: ''
+    time: ''
+    title: Revisiting Scalarization in Multi-Task Learning
+  - address: ''
+    href: https://www.cs.tsinghua.edu.cn/info/1089/6152.htm
+    info: '12
+
+      六月
+
+      Understanding the Training and Inference of Reinforcement Learning'
+    person: ''
+    time: ''
+    title: ' Understanding the Training and Inference of Reinforcement Learning'
+  page_title: 学术报告-清华大学计算机科学与技术系
   page_url: https://scbb.pkusz.edu.cn/jxgl/xsjz.htm
 - page_info:
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/6cc2844619e64b48b364872b87cd2daf.htm
-    info: '2024.12.24
-
-      2024年药学创新交叉研讨会'
+    href: https://sps.bjmu.edu.cn/index.htm
+    info: 首页
     person: ''
     time: ''
-    title: 2024年药学创新交叉研讨会
+    title: 首页
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/e196b8926c924a6e900cbd8d1d7524e1.htm
-    info: '2024.12.24
+    href: javascript:void(0)
+    info: '学院概况+
 
-      分子结构进化与基因编辑工具开发'
+      学院介绍
+
+      现任领导
+
+      历任领导
+
+      大事记
+
+      机构设置
+
+      学院委员会
+
+      奖励荣誉'
     person: ''
     time: ''
-    title: 分子结构进化与基因编辑工具开发
+    title: 学院概况+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/046326d1ac4049c08303526d080a3b42.htm
-    info: '2024.12.16
+    href: javascript:void(0)
+    info: '师资队伍+
 
-      精准合成导向的天然产物全合成: 从基础研究到产业应用'
+      杰出人才
+
+      创新团队
+
+      博士生导师
+
+      硕士生导师
+
+      在职教师
+
+      退休教师'
     person: ''
     time: ''
-    title: '精准合成导向的天然产物全合成: 从基础研究到产业应用'
+    title: 师资队伍+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/a533db47f1174e20a9b6e43e0bb9cf20.htm
-    info: '2024.12.13
+    href: https://sps.bjmu.edu.cn/rcpy/bksjy/index.htm
+    info: '人才培养+
 
-      Accurate pathogen sensors for fast detection of SARS-CoV-2 in the aerosol in
-      seconds for a breathalyzer platform'
+      本科生教育
+
+      研究生教育
+
+      继续教育
+
+      教学成果'
     person: ''
     time: ''
-    title: Accurate pathogen sensors for fast detection of SARS-CoV-2 in the aerosol
-      in seconds for a breathalyzer platform
+    title: 本科生教育
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/4348fffbfd7541688d277d4349746f96.htm
-    info: '2024.12.13
+    href: javascript:void(0)
+    info: '科学研究+
 
-      The diverse roles of ribosomal frameshifting by codon usage in humans'
+      科学研究
+
+      重点实验室
+
+      仪器平台
+
+      科研获奖
+
+      代表性论文
+
+      专利
+
+      科研项目'
     person: ''
     time: ''
-    title: The diverse roles of ribosomal frameshifting by codon usage in humans
+    title: 科学研究+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/1289da53d5bd44db99e7867499e80ca2.htm
-    info: '2024.12.13
+    href: javascript:void(0)
+    info: '党建工会+
 
-      Integrator & Transcription'
+      党委工作
+
+      工会工作
+
+      老干部工作'
     person: ''
     time: ''
-    title: Integrator & Transcription
+    title: 党建工会+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/4f86807849824c46ab4ba66341f2ab0f.htm
-    info: '2024.12.05
+    href: javascript:void(0)
+    info: '学生园地+
 
-      Membrane fusion: from viral infection to fertilization'
+      学生党建
+
+      学生事务
+
+      团委
+
+      学生会
+
+      研究生会
+
+      班级风采
+
+      常用通知下载'
     person: ''
     time: ''
-    title: 'Membrane fusion: from viral infection to fertilization'
+    title: 学生园地+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/ae08df91f68f4f62b7fbaf42afcc6ac4.htm
-    info: '2024.12.05
+    href: http://www.pku.org.cn/
+    info: '校友之家+
 
-      单链核酸的环化及应用——拓扑限制法制备稳定左螺旋核酸'
+      北大校友会
+
+      医学部校友会
+
+      杰出校友
+
+      优秀校友
+
+      校友动态'
     person: ''
     time: ''
-    title: 单链核酸的环化及应用——拓扑限制法制备稳定左螺旋核酸
+    title: 北大校友会
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/7743843167e74336a28e60a2292fd35e.htm
-    info: '2024.12.04
+    href: https://www.gotopku.cn/
+    info: '招生招聘+
 
-      融合实验电子密度的AI分子生成模型支持小分子药物设计'
+      北大招生网
+
+      北医研究生招生网
+
+      北医本科生招生网
+
+      招聘信息
+
+      招生信息'
     person: ''
     time: ''
-    title: 融合实验电子密度的AI分子生成模型支持小分子药物设计
+    title: 北大招生网
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/4f5ad58b361b435abfb75a36468f977c.htm
-    info: '2024.12.04
+    href: javascript:void(0)
+    info: '院内信息+
 
-      创新人才培养论坛--名师课堂（第三期）| 化学生物学推动新药发现'
+      院内通知
+
+      公示
+
+      文件下载
+
+      安全信息
+
+      实验室安全准入
+
+      制度建设
+
+      会议室预约'
     person: ''
     time: ''
-    title: 创新人才培养论坛--名师课堂（第三期）| 化学生物学推动新药发现
+    title: 院内信息+
   - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/5c290420e208475a9dc130791a6dc99e.htm
-    info: '2024.12.04
-
-      手性光谱学在立体结构解析中的应用'
+    href: https://sps.bjmu.edu.cn/mtyx/index.htm
+    info: 媒体药学
     person: ''
     time: ''
-    title: 手性光谱学在立体结构解析中的应用
+    title: 媒体药学
   page_title: 北京大学药学院
   page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://bicmr.pku.edu.cn/content/show/44-3536.html?catid=KiQhKyYs
+    href: https://bicmr.pku.edu.cn/content/show/93-3537.html?catid=KiQhKyYs
     info: 'Seminars and Colloquium
+
+      2025
+
+      Jan.02
+
+      Logic  |  Upcoming
+
+      Lang-Weil type estimates in finite difference fields
+
+      Speakers : Jinhe (Vincent) Ye (University of Oxford)
 
       2025
 
@@ -675,17 +934,6 @@
 
       Speakers : Jiaxin Qiao (EPFL)
 
-      2024
-
-      Dec.23
-
-      Dynamical Systems
-
-      Spectrum and Lifshitz Tails for the Anderson Model on the Sierpinski Gasket
-      Graph
-
-      Speakers : Shiwen Zhang (University of Massachusetts Lowell)
-
       Pre12345678910Next
 
       EVENTS
@@ -741,7 +989,7 @@
       Others'
     person: ''
     time: ''
-    title: Number Theory
+    title: Logic
   page_title: 北京国际数学研究中心
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
@@ -1310,51 +1558,29 @@
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163620.htm
-    info: '26
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163681.htm
+    info: '30
 
       Dec
 
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
+      Euclidean spaces
 
-      时间：2024-12-26 16:00-17:00
+      时间：2024-12-30 15:10-16:00
 
-      报告人: 忻宇辰（北京大学）'
+      报告人: 王晁（华东师范大学）'
     person: ''
     time: ''
-    title: '26
+    title: '30
 
       Dec
 
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
+      Euclidean spaces
 
-      时间：2024-12-26 16:00-17:00
+      时间：2024-12-30 15:10-16:00
 
-      报告人: 忻宇辰（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163551.htm
-    info: '26
-
-      Dec
-
-      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
-      modeling, numerics, data-driven applications
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 綦昆仑 (明尼苏达大学)'
-    person: ''
-    time: ''
-    title: '26
-
-      Dec
-
-      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
-      modeling, numerics, data-driven applications
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 綦昆仑 (明尼苏达大学)'
+      报告人: 王晁（华东师范大学）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/163724.htm
     info: '27
@@ -1380,30 +1606,6 @@
 
       报告人: 胡凯博（爱丁堡大学）'
   - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163681.htm
-    info: '30
-
-      Dec
-
-      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
-      Euclidean spaces
-
-      时间：2024-12-30 15:10-16:00
-
-      报告人: 王晁（华东师范大学）'
-    person: ''
-    time: ''
-    title: '30
-
-      Dec
-
-      Geometry and Topology Seminar——Equivariant embeddings of Riemann surfaces in
-      Euclidean spaces
-
-      时间：2024-12-30 15:10-16:00
-
-      报告人: 王晁（华东师范大学）'
-  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163685.htm
     info: '30
 
@@ -1428,6 +1630,30 @@
 
       报告人: 何世航（北京大学）'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/163772.htm
+    info: '30
+
+      Dec
+
+      A countable partition for singular flows based on filtration structure: construction
+      and application
+
+      时间：2024-12-30 15:10-17:00
+
+      报告人: 杨佳刚 (Universidade Federal Fluminense)'
+    person: ''
+    time: ''
+    title: '30
+
+      Dec
+
+      A countable partition for singular flows based on filtration structure: construction
+      and application
+
+      时间：2024-12-30 15:10-17:00
+
+      报告人: 杨佳刚 (Universidade Federal Fluminense)'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163707.htm
     info: '30
 
@@ -1449,6 +1675,30 @@
       时间：2024-12-30 16:00-17:00
 
       报告人: 张景宣 (清华大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/163766.htm
+    info: '06
+
+      Jan
+
+      School Colloquium——Restriction Estimates Using Decoupling Theorems and Incidence
+      Estimates for Tubes
+
+      时间：2025-01-06 14:00-15:00
+
+      报告人: 王虹 (纽约大学柯朗数学科学研究所)'
+    person: ''
+    time: ''
+    title: '06
+
+      Jan
+
+      School Colloquium——Restriction Estimates Using Decoupling Theorems and Incidence
+      Estimates for Tubes
+
+      时间：2025-01-06 14:00-15:00
+
+      报告人: 王虹 (纽约大学柯朗数学科学研究所)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/163737.htm
     info: '07
@@ -1494,6 +1744,52 @@
 
       报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
   - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163551.htm
+    info: '26
+
+      Dec
+
+      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
+      modeling, numerics, data-driven applications
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 綦昆仑 (明尼苏达大学)'
+    person: ''
+    time: ''
+    title: '26
+
+      Dec
+
+      On the Kinetic Description of Objective Molecular Dynamics (OMD): multiscale
+      modeling, numerics, data-driven applications
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 綦昆仑 (明尼苏达大学)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163620.htm
+    info: '26
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 忻宇辰（北京大学）'
+    person: ''
+    time: ''
+    title: '26
+
+      Dec
+
+      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
+
+      时间：2024-12-26 16:00-17:00
+
+      报告人: 忻宇辰（北京大学）'
+  - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/163674.htm
     info: '25
 
@@ -1517,196 +1813,151 @@
       时间：2024-12-25 12:15-13:30
 
       报告人: 刘茵（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163588.htm
-    info: '23
-
-      Dec
-
-      Well-posedness for the dispersion-generalized Benjamin-Ono equation
-
-      时间：2024-12-23 16:00-17:00
-
-      报告人: Albert AI (北京大学)'
-    person: ''
-    time: ''
-    title: '23
-
-      Dec
-
-      Well-posedness for the dispersion-generalized Benjamin-Ono equation
-
-      时间：2024-12-23 16:00-17:00
-
-      报告人: Albert AI (北京大学)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163564.htm
-    info: '23
-
-      Dec
-
-      Geometry and Topology Seminar——A dimension inequality between Heegaard Floer
-      knot homology and instanton knot homology
-
-      时间：2024-12-23 15:10-16:00
-
-      报告人: 叶帆（Harvard University）'
-    person: ''
-    time: ''
-    title: '23
-
-      Dec
-
-      Geometry and Topology Seminar——A dimension inequality between Heegaard Floer
-      knot homology and instanton knot homology
-
-      时间：2024-12-23 15:10-16:00
-
-      报告人: 叶帆（Harvard University）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
 - page_info:
   - address: ''
-    href: http://www.bio-x.cn/Web/News/9
-    info: '新闻中心
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年12月9日
 
-      通知公告
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
 
-      新闻动态
-
-      学术报告
-
-      首页 / 学术报告 / 新闻中心
-
-      29
-
-      2024-11
-
-      孙怡迪研究员的学术报告
-
-      08
-
-      2024-11
-
-      范成鹏教授的学术报告
-
-      主讲人：范成鹏 武汉大学基础医学院邀请人：陆 青 上海交大Bio-X研究院时 间：11月9日（周六）10:00地 点：闵行校区大红楼105会议室
-
-      21
-
-      2023-11
-
-      夏波研究员的学术报告
-
-      报告人：夏 波 研究员邀请人：毛亚飞副教授时 间：12月1日（周五）15:00—16:00地 点：徐汇校区小白楼201A会议室
-
-      24
-
-      2023-05
-
-      盛能印研究员的学术报告
-
-      报告人：盛能印 研究员（中国科学院昆明动物研究所）邀请人：朱金伟研究员时间：5月30日（周二）13:30—16:00地点：徐汇校区小白楼201A会议室
-
-      11
-
-      2023-04
-
-      刘苗博士的学术报告
-
-      报告人:刘苗报告主持:毛亚飞时间:4月12日(周三)11:00--12:00
-
-      01
-
-      2023-03
-
-      Margit Burmeister教授的学术报告
-
-      报告人：Margit Burmeister邀请人：李卫东教授时间：2023年3月2日（周四）10:00-11:00地点：Bio-X研究院闵行校区生物药学1号楼105会议室
-
-      28
-
-      2022-11
-
-      张强锋研究员的学术报告
-
-      会议时间：2022年11月30日 9：30am腾讯会议：638904242
-
-      28
-
-      2022-09
-
-      Bio-X胥川老师的学术报告
-
-      Bio-X研究院将于9月30日19:00开展云端相聚系列讲座活动，本次邀请长聘教轨副教授胥川老师为我们带来题目为Gene product diversity:
-      adaptive or not？的讲座
-
-      04
-
-      2022-07
-
-      张曼菲博士的学术报告
-
-      2022年7月4日19:00腾讯会议张曼菲博士主讲东亚人群外貌特证的遗传学研究
-
-      20
-
-      2022-05
-
-      张泉峰博士的学术报告
-
-      2022年5月20日19:00腾讯会议，张老师主讲《单囊泡神经递质的量子化分泌检测及其可塑性调控研究》
-
-      09
-
-      2022-05
-
-      毛亚飞博士的学术报告
-
-      2022年5月10日19:00，Bio-X研究院邀请毛亚飞博士为我院师生带来了一场题为“结构变异和基因树不一致性在灵长类演化和疾病中的机制”的精彩学术报告。
-
-      25
-
-      2021-10
-
-      上海交通大学交叉学科创新人才实践培养基地 --罕见病精准防治教学实践培养基地开放日活动
-
-      2021年10月28日14：00-18：00在上海交通大学Bio-X研究院（华山路1954号上海交通大学徐汇校区）举办开放日活动
-
-      首页
-
-      上页
-
-      1
-
-      2
-
-      3
-
-      4
-
-      5
-
-      6
-
-      7
-
-      8
-
-      9
-
-      10
-
-      ...
-
-      下页
-
-      尾页'
+      人工智能前沿应用系列讲座'
     person: ''
     time: ''
-    title: 新闻动态
-  page_title: 上海交通大学BIO-X研究院
-  page_url: http://www.bio-x.cn/Web/List/10
+    title: '2021年12月9日
+
+      讲座预告 | 视觉编辑生成技术(AIGC)：前沿研究与应用
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月30日
+
+      讲座预告 | 人工智能在金融领域的应用探索
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月23日
+
+      讲座预告 | 人工智能在医疗中的应用及发展前景
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月15日
+
+      讲座预告 | 自动驾驶技术进展与量产实践
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月9日
+
+      讲座预告 | 元宇宙与数字孪生
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年11月2日
+
+      讲座预告 | AI芯片的产业需求和发展
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月26日
+
+      讲座预告 | 大模型，小语种，会话式RPA
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+    person: ''
+    time: ''
+    title: '2021年10月12日
+
+      讲座预告 | AR中的计算机视觉
+
+      人工智能前沿应用系列讲座'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+    person: ''
+    time: ''
+    title: '2021年9月2日
+
+      学术报告会 | 深度学习的基础理论
+
+      报告人：陶大程'
+  - address: ''
+    href: https://ai.sjtu.edu.cn/info/academic
+    info: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+    person: ''
+    time: ''
+    title: '2021年1月6日
+
+      学术报告会 | 人体外貌特征与人类表型组研究
+
+      报告人：汪思佳'
+  page_title: 上海交通大学人工智能研究院
+  page_url: https://ai.sjtu.edu.cn/info/academic
 - page_info:
   - address: ''
     href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
@@ -1714,791 +1965,401 @@
     person: ''
     time: ''
     title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
   page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
 - page_info:
   - address: ''
-    href: https://shcam.sjtu.edu.cn/
-    info: '首页
-
-      中心简介
-
-      中心人员
-
-      学术活动
-
-      中心新闻
-
-      上海国家应用数学中心'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
     title: ''
   - address: ''
-    href: https://shcam.sjtu.edu.cn/news
-    info: '近期学术活动
-
-      查看更多
-
-      A Partition Function Estimator
-
-      Ying-Chih Chiang
-
-      The Chinese University of Hong Kong（Shenzhen）
-
-      2024-12-27 10:00, in 3 hours
-
-      Data-efficient causal estimation: tackling new challenges through non-asymptotic
-      lens
-
-      Wenlong Mou
-
-      Department of Statistical Sciences, University of Toronto
-
-      2024-12-18 10:00, 9 days ago
-
-      Learning Neural Free-Energy Functionals for Classical Many-Body Systems
-
-      Jacobus Dijkman
-
-      Van''t Hoff Institute for Molecular Sciences, University of Amsterdam
-
-      2024-11-11 15:30, 2 months ago
-
-      细胞信号转导反应不应期的数学分析及其分子调节机理
-
-      宋卓异
-
-      复旦大学
-
-      2024-10-29 10:00, 2 months ago
-
-      Generative AI for Molecular simulations
-
-      Simon Olsson
-
-      Chalmers University of Technology
-
-      2024-10-24 15:00, 2 months ago
-
-      Quasi-uniform Error Estimates for the Fourth Order Singularly Perturbed Bi-wave
-      Problem
-
-      石东洋
-
-      烟台大学/郑州大学
-
-      2024-10-21 16:00, 2 months ago
-
-      近期新闻
-
-      查看更多
-
-      【青春足迹】李磊：从乡村少年到学术先锋
-
-      李磊，上海交通大学自然科学研究院及数学科学学院长聘教轨副教授，2010年在清华大学数理基础科学专业获得学士学位，随后在2015年于美国威斯康星大学麦迪逊分校荣获数学博士学位，在攻读博士学位期间，他还修读了计算机科学硕士学位。李磊的研究领域广泛，主要集中在科学计算和应用分析，包括统计物理和数据科学中的随机算法，以及交互粒子系统和开放物理系统的分析等课题。作为国家级青年人才项目的入选者，李磊主持了多项国家级科研项目，并在国际学术期刊上发表了50余篇高水平的学术论文。他积极参与学术服务工作，担任多个学术期刊的审稿人，为推动学术界的进步贡献自己的力量。李磊的工作也获得了广泛认可，其中包括荣获上海市自然
-
-      2024-12-25
-
-      聚焦交叉创新研究，打造国际前沿高地！交大焕发新质生产力澎湃动能
-
-      首创通用AI模型破译蛋白质功能密码、“薛定谔化”解锁量子计算瓶颈、随机分批算法率先克服分子动力学可扩展性难题……上海交大面向世界科技前沿领域和国家战略发展需求，前瞻布局未来产业，注重科技成果创新转化，着力推动完善基础学科、新兴学科、交叉学科建设和拔尖人才培养，大力推进以自然科学研究院为代表的交叉学科研究新型平台建设，不断推动新质生产力加速发展。近年来，自然科学研究院在量子计算、分子动力学模拟、计算神经科学、软物质物理、人工智能等多个前沿领域，取得了一系列国际领先的重要研究成果，并培育了一批杰出学者和创新人才。向“新”而行，向“质”而进，自然科学研究院在上海交通大学的支持下，正拔节生长、聚能成势
-
-      2024-12-19
-
-      Shi Jin and Nana Liu publish research on “Schrodingerization” — a quantum simulation
-      method for partial differential equations金石和Nana Liu 教授发表偏微分方程“薛定谔化”量子算法研究成果
-
-      近日， 上海交通大学自然科学研究院和数学科学学院金石教授， 上海交通大学自然科学研究院和密西根学院副教授Nana Liu 于杂志Physical Review
-      Letters 在线发表了“ Quantum simulation of partial differential equations via Schrodingerisation”的论文。论文链接：https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.230602
-      (该论文的预印本于2022年12月投放于arXiv:2212.13969)。偏微分方程是科学与工程计算
-
-      2024-12-05
-
-      Science Advances Publishes Shanghai Jiao Tong University''s Breakthrough in
-      the Technology of General Artificial Intelligence for Protein Engineering上海交通大学洪亮教授组织的联合团队在Science子刊发表蛋白质工程通用人工智能技术
-
-      1.研究背景2024年的诺贝尔化学奖奖励给了DeepMind，由于DeepMind团队开发的AlphaFold2解决了生物学上长达大半个世纪的难题，蛋白质序列到三维结构的预测。后Alphafold时代，蛋白质科学的关键问题是什么？一定是蛋白质功能，因为只有具备好的功能（高活性，高选择性，高稳定性）才能成为商业化的蛋白产品。然而蛋白质功能预测非常困难。一个常识是：一条蛋白质序列只要改变1%，获得的新蛋白95%活性大幅降低甚至完全没有生物功能，而用AlphaFold2去预测这些序列的结构基本没有变化。这表明蛋白质结构不等于功能，结构是功能的必要非充分条件，而且非常不充分。为了解决蛋白质功能预测。上
-
-      2024-11-28
-
-      校领导调研自然科学研究院
-
-      11月20日上午，上海交通大学党委书记杨振斌来到自然科学研究院调研，深入了解研究院发展状况和科研工作。自然科学研究院院领导班子、教职工代表，学校党政办相关负责同志参加调研活动。研究院院长金石作工作汇报，介绍研究院在基础研究、人才培养、应用研究、科研成果转化、国际合作与交流、科普教育等方面的工作进展和取得的成果，并对未来发展进行了展望。与会人员围绕研究院发展目标、学科交叉特色、科研平台建设规划等方面，深入探讨研究院发展面临的实际问题和挑战，并提出了建设性意见和建议。杨振斌认真听取各位教师的发言，对大家关心的问题作出回应并总结讲话。他充分肯定研究院取得的成绩，对研究院未来发展提出殷切期望。杨振斌强
-
-      2024-11-22
-
-      Springer journal “Acta Applicandae Mathematicae” publishes special issue in
-      honor of Prof.Shi Jin’s birthday 施普林格期刊Acta Applicandae Mathematicae出版金石教授生日专辑
-
-      Springer 杂志Acta Applicandae Mathematicae近期为上海交通大学自然科学院院长、数学科学学院讲席教授金石出版他的60岁生日专辑(https://link.springer.com/collections/gdagejcchj),
-      以认可他对应用数学和科学计算领域做出的杰出贡献(“in recognition of his outstanding contributions to
-      applied mathematics and scientific computing”)。专辑引言提到金石教授的重要学术贡献包括：双曲型守恒律的松弛格式，动理学和量子方程的渐近保持
-
-      2024-11-18'
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
     person: ''
     time: ''
-    title: 查看更多
-  page_title: 上海应用数学中心(上海交通大学分中心)
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://shcam.sjtu.edu.cn/#/seminars
 - page_info:
   - address: ''
-    href: https://life.sjtu.edu.cn/Data/List/xxzx
-    info: '当前位置：首页) 新闻中心) 学术报告
-
-      9月27日（周五）9:30-11:00 生物药学楼树华报告厅
-
-      Bringing fluorine into the (essential) chemistry of bacteria
-
-      9月25日（周三）14:00-15:30 生物药学楼树华报告厅
-
-      Engineered yeast cell factories for more sustainable food production
-
-      4月25日（周四）14:00 闵行校区生物药学楼树华多功能厅
-
-      Understanding the Pathogen and Environmental Impact of Water Relations in Plants（求真讲坛第39期）
-
-      4月12日 (周五）9:30-11:00 闵行校区叶杰全楼200会议室
-
-      结直肠癌的性别差异与营养干预
-
-      3月27日（周三）15:00-17:00 生物药学楼树华多功能厅
-
-      微生物组与病毒组技术前沿
-
-      3月28日（周四）15:00-16:00 生物药学楼树华多功能厅
-
-      致病耐药菌新型转录调控机制解析
-
-      3月28日（周四）14:00-15:00 生物药学楼树华多功能厅
-
-      RNA-RNA互作组揭示微生物非编码RNA功能与机制
-
-      11月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十三讲：Systems metabolic engineering for sustainability and health
-
-      10月16日（周一）15:00-16:15 闵行校区生命药学楼树华多功能厅
-
-      启智讲坛第三十二讲：Synthetic Biology 2.0: the Dawn of a New Era
-
-      10月8日（周日）15:00-16:00 闵行校区生物药学楼3-405会议室
-
-      消化性溃疡
-
-      9月12日（周二）14:00-16:00 闵行校区生命药学楼3-105会议室
-
-      Mass spec-based metabolomics of head and neck cancer and nanotoxicity
-
-      9月27日（周三）14:30-16:00 闵行校区生命药学楼树华多功能厅
-
-      人源类器官模拟发育与疾病
-
-      9月8日（周五）15:30-17:00 闵行校区生命药学楼树华多功能厅
-
-      从酿造到智造：高效酵母细胞工厂构建
-
-      5月17日（周三）9:30-11:00 生物药学楼2-116会议室
-
-      利用机器学习技术来加速生物医学知识发现
-
-      4月21日（周五）14:00 闵行校区生命药学楼树华多功能厅
-
-      求真讲坛第27期 从细菌信号感知到细菌-微生物相互作用
-
-      首页(12345678910...)尾页'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
-    title: 新闻中心
-  page_title: 学术报告 - 上海交通大学生命科学技术学院
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: https://pharm.sjtu.edu.cn/report.html
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://life.sjtu.edu.cn/Data/List/bg
 - page_info:
   - address: ''
-    href: https://scce.sjtu.edu.cn/index_xsrl/4293.html
-    info: '学术日历
-
-      28
-
-      2024-12
-
-      【学术报告】药物分子结构导向的合成化学
-
-      19
-
-      2024-12
-
-      【学术报告】从编辑的角度谈Chemical Science论文发表与写作
-
-      18
-
-      2024-12
-
-      【学术报告】Chemoselectivity Change in Catalytic Transformations–Cleavage of Less
-      Reactive Chemical Bonds
-
-      18
-
-      2024-12
-
-      【学术报告】Sensing and Drug Delivery Based on Gold Nanoparticles and Nucleic Acid
-      Aptamers
-
-      16
-
-      2024-12
-
-      【学术报告】Exploiting new electrochemistry and photochemistry: from bipolar hydrogenation
-      to two-photon absorption
-
-      13
-
-      2024-12
-
-      【学术报告】荧光探针与成像仪器创制
-
-      09
-
-      2024-12
-
-      【学术报告】Polarization-Modulation Pump-and-Probe Femtosecond Spectroscopy of Biomolecules
-
-      09
-
-      2024-12
-
-      【学术报告】Heterocyclic Compounds: An Inspiration for New Methodology
-
-      06
-
-      2024-12
-
-      【霞光论坛】浅谈研究生的生活、学习和科研创新
-
-      02
-
-      2024-12
-
-      【学术报告】有机碱催化开环聚合制备聚酯和聚硅氧烷
-
-      12345下一页最后一页'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
-    title: '19
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
 
-      2024-12
+      邮编：200240
 
-      【学术报告】从编辑的角度谈Chemical Science论文发表与写作'
-  page_title: 学术日历-上海交通大学化学化工学院
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://scce.sjtu.edu.cn/index_xsrl.html
 - page_info:
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaFyqF2
-    info: '[几何与分析] 李星哲
-
-      EMBEDDED MINIMAL TORI IN THE THREE SPHERE
-
-      2025-01-03
-
-      14:00 — 15:00'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
-    title: '[几何与分析] 李星哲
-
-      EMBEDDED MINIMAL TORI IN THE THREE SPHERE
-
-      2025-01-03
-
-      14:00 — 15:00'
+    title: ''
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWG2qF2
-    info: '[偏微分方程] 黄佳习
-
-      ON THE WELL-POSEDNESS OF SKEW MEAN CURVATURE FLOW
-
-      2024-12-28
-
-      10:00 — 11:00'
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
     person: ''
     time: ''
-    title: '[偏微分方程] 黄佳习
-
-      ON THE WELL-POSEDNESS OF SKEW MEAN CURVATURE FLOW
-
-      2024-12-28
-
-      10:00 — 11:00'
+    title: 学术会议
   - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJSGyqF2
-    info: '[吴文俊数学中心综合报告] PROF. VYACHESLAV FUTORNY
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
 
-      WAKIMOTO REALIZATION OF RELAXED HIGHEST WEIGHT MODULES FOR AFFINE LIE ALGEBRAS
+      邮编：200240
 
-      2024-12-27
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
 
-      16:00 — 17:00'
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
     person: ''
     time: ''
-    title: '[吴文俊数学中心综合报告] PROF. VYACHESLAV FUTORNY
-
-      WAKIMOTO REALIZATION OF RELAXED HIGHEST WEIGHT MODULES FOR AFFINE LIE ALGEBRAS
-
-      2024-12-27
-
-      16:00 — 17:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWFtKF2
-    info: '[代数与数论] IRYNA KASHUBA
-
-      ON ONE-SIDED REPRESENTATIONS OF JORDAN ALGEBRAS
-
-      2024-12-27
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[代数与数论] IRYNA KASHUBA
-
-      ON ONE-SIDED REPRESENTATIONS OF JORDAN ALGEBRAS
-
-      2024-12-27
-
-      15:00 — 16:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWFyqF2
-    info: '[COLLOQUIUM] YUXIN GE
-
-      Σ_K SCALAR CURVATURE AND RELATED SOBOLEV INEQUALITY
-
-      2024-12-27
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[COLLOQUIUM] YUXIN GE
-
-      Σ_K SCALAR CURVATURE AND RELATED SOBOLEV INEQUALITY
-
-      2024-12-27
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWHpKF2
-    info: '[应用与计算] HUAZHEN FANG
-
-      POWERING THE FUTURE: ADVANCING BATTERY SYSTEMS AND ELECTRIFICATION THROUGH CONTROL
-      AND LEARNING
-
-      2024-12-27
-
-      11:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[应用与计算] HUAZHEN FANG
-
-      POWERING THE FUTURE: ADVANCING BATTERY SYSTEMS AND ELECTRIFICATION THROUGH CONTROL
-      AND LEARNING
-
-      2024-12-27
-
-      11:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaF2qF2
-    info: '[偏微分方程] HISAO FUJITA YASHIMA
-
-      输运-扩散方程及其向输运方程的收敛性
-
-      2024-12-27
-
-      10:30 — 11:30'
-    person: ''
-    time: ''
-    title: '[偏微分方程] HISAO FUJITA YASHIMA
-
-      输运-扩散方程及其向输运方程的收敛性
-
-      2024-12-27
-
-      10:30 — 11:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaGyqF2
-    info: '[特邀报告] THOMAS KARAM
-
-      WHAT ARE RANKS OF TENSORS AND LATTICE COVERING NUMBERS?
-
-      2024-12-27
-
-      15:30 — 16:30'
-    person: ''
-    time: ''
-    title: '[特邀报告] THOMAS KARAM
-
-      WHAT ARE RANKS OF TENSORS AND LATTICE COVERING NUMBERS?
-
-      2024-12-27
-
-      15:30 — 16:30'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaGpKF2
-    info: '[代数几何与拓扑] ZHONGTAO WU
-
-      CLOCK THEORMS FOR GRAPHS
-
-      2024-12-26
-
-      14:00 — 15:00'
-    person: ''
-    time: ''
-    title: '[代数几何与拓扑] ZHONGTAO WU
-
-      CLOCK THEORMS FOR GRAPHS
-
-      2024-12-26
-
-      14:00 — 15:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaGtKF2
-    info: '[偏微分方程] 李圣鑫
-
-      STRUCTURAL STABILITY OF SUBSONIC BOUNDARY LAYERS
-
-      2024-12-26
-
-      10:00 — 12:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] 李圣鑫
-
-      STRUCTURAL STABILITY OF SUBSONIC BOUNDARY LAYERS
-
-      2024-12-26
-
-      10:00 — 12:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWHtKF2
-    info: '[偏微分方程] ZHOU YULONG
-
-      ON SEMI-CLASSICAL LIMIT OF SPATIALLY HOMOGENEOUS QUANTUM BOLTZMANN EQUATION:
-      ASYMPTOTIC EXPANSION
-
-      2024-12-25
-
-      15:00 — 16:00'
-    person: ''
-    time: ''
-    title: '[偏微分方程] ZHOU YULONG
-
-      ON SEMI-CLASSICAL LIMIT OF SPATIALLY HOMOGENEOUS QUANTUM BOLTZMANN EQUATION:
-      ASYMPTOTIC EXPANSION
-
-      2024-12-25
-
-      15:00 — 16:00'
-  page_title: 上海交通大学数学科学学院
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
 - page_info:
   - address: ''
-    href: null
-    info: '学术
-
-      物理学院马仁敏学术报告的通知（School of Physics Colloquium）
-
-      【化学系】启真化学论坛：周鸣飞教授（复旦大学）
-
-      【教育学院】“求是教育论坛”第104期丨周国强：STEM教育和教师教育
-
-      【生研院】杰出学者系列：洪明奇院士（中国医药大学）学术报告
-
-      【化学系】启真化学论坛：刘磊教授（清华大学）'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
-    title: 物理学院马仁敏学术报告的通知（School of Physics Colloquium）
-  page_title: 列表页
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: https://www.zju.edu.cn/xs/list.htm
 - page_info:
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1226/c26342a3007215/page.htm
-    info: '学业领航 | 在创业和投资的路上如何发现与创造价值观
-
-      【主讲人：王进】
-
-      时间：19:00
-
-      地点：生命科学学院123会议室
-
-      2024-12-28
-
-      查看详情+'
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
     person: ''
     time: ''
-    title: '学业领航 | 在创业和投资的路上如何发现与创造价值观
-
-      【主讲人：王进】
-
-      时间：19:00
-
-      地点：生命科学学院123会议室
-
-      2024-12-28
-
-      查看详情+'
+    title: ''
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1212/c26342a3002860/page.htm
-    info: '生命科学启真讲坛-- 魏馨竹博士学术报告
-
-      【主讲人：魏馨竹】
-
-      时间：15:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-26
-
-      查看详情+'
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
     person: ''
     time: ''
-    title: '生命科学启真讲坛-- 魏馨竹博士学术报告
-
-      【主讲人：魏馨竹】
-
-      时间：15:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-26
-
-      查看详情+'
+    title: 学术会议
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1209/c26342a3000835/page.htm
-    info: '生命科学启真讲坛-- 施蕴渝院士学术报告
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
 
-      【主讲人：施蕴渝】
+      邮编：200240
 
-      时间：16:00
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
 
-      地点：生命科学学院245报告厅
 
-      2024-12-22
+      教职工登陆
 
-      查看详情+'
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
     person: ''
     time: ''
-    title: '生命科学启真讲坛-- 施蕴渝院士学术报告
-
-      【主讲人：施蕴渝】
-
-      时间：16:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-22
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1129/c26342a2997498/page.htm
-    info: '生命科学启真讲坛-- 钦鹏教授学术报告
-
-      【主讲人：钦鹏】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 钦鹏教授学术报告
-
-      【主讲人：钦鹏】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1129/c26342a2997494/page.htm
-    info: '生命科学启真讲坛-- 杨文强研究员学术报告
-
-      【主讲人：杨文强】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 杨文强研究员学术报告
-
-      【主讲人：杨文强】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1129/c26342a2997488/page.htm
-    info: '生命科学启真讲坛-- 孔凡江教授学术报告
-
-      【主讲人：孔凡江】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 孔凡江教授学术报告
-
-      【主讲人：孔凡江】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1129/c26342a2997482/page.htm
-    info: '生命科学启真讲坛-- 李继刚教授学术报告
-
-      【主讲人：李继刚】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 李继刚教授学术报告
-
-      【主讲人：李继刚】
-
-      时间：14:00
-
-      地点：生命科学学院245报告厅
-
-      2024-12-08
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1125/c26342a2993245/page.htm
-    info: '生命科学启真讲坛-- 赵斌教授学术报告
-
-      【主讲人：赵斌】
-
-      时间：10:20
-
-      地点：生命科学学院245报告厅
-
-      2024-11-29
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 赵斌教授学术报告
-
-      【主讲人：赵斌】
-
-      时间：10:20
-
-      地点：生命科学学院245报告厅
-
-      2024-11-29
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1125/c26342a2993201/page.htm
-    info: '生命科学启真讲坛-- 沈星星研究员学术报告
-
-      【主讲人：沈星星】
-
-      时间：10:20
-
-      地点：生命科学学院245报告厅
-
-      2024-11-28
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '生命科学启真讲坛-- 沈星星研究员学术报告
-
-      【主讲人：沈星星】
-
-      时间：10:20
-
-      地点：生命科学学院245报告厅
-
-      2024-11-28
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1118/c26342a2988969/page.htm
-    info: '学业领航 | 生命科学学院本科生深造（考研）系列活动
-
-      【主讲人：相关系所】
-
-      时间：14:00
-
-      地点：生命科学学院123会议室
-
-      2024-11-22
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '学业领航 | 生命科学学院本科生深造（考研）系列活动
-
-      【主讲人：相关系所】
-
-      时间：14:00
-
-      地点：生命科学学院123会议室
-
-      2024-11-22
-
-      查看详情+'
-  - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1114/c26342a2987631/page.htm
-    info: '关于举办第四期生命科学学院宣传思想工作队伍能力提升工作坊的通知
-
-      【主讲人：刘利光】
-
-      时间：18:30
-
-      地点：生命科学学院234室
-
-      2024-11-21
-
-      查看详情+'
-    person: ''
-    time: ''
-    title: '关于举办第四期生命科学学院宣传思想工作队伍能力提升工作坊的通知
-
-      【主讲人：刘利光】
-
-      时间：18:30
-
-      地点：生命科学学院234室
-
-      2024-11-21
-
-      查看详情+'
-  page_title: 活动预告
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
   page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
+- page_info:
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/jzbg.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://fsctm.sjtu.edu.cn/xshd1/xshy.htm
+    info: "学术活动\n讲座报告\n学术会议\n合作交流\n讲座报告\n首页 / 学术活动 / 讲座报告\n10\nJan\nODI-(5+2)环化反应促进的天然产物合成\n\
+      报告人：丁寒锋  教授 浙江大学化学系\n报告时间：2025年1月10日 10:15-11:15\n25\nDec\n变革性分子博士生学术论坛（第31期）\n\
+      报告人：傅汉鑫、王佳琪、田广政\n报告时间： 2024年12月25日 14:00-17:00\n20\nDec\nWiley科学期刊论文写作与发表\n\
+      报告人：王欢  主编  Wiley出版社\n报告时间：2024年12月20日（星期五）15:00-16:00 \n18\nDec\n手性有机硅化学\n\
+      报告人：王鹏 研究员上海有机化学研究所\n报告时间：2024年12月17日15:30-17:00\n11\nDec\n变革性分子博士生学术论坛（第30期）\n\
+      报告人：罗杨文、杨国强、顾成宇\n报告时间：2024年12月11日（星期三）14:00-17:00\n5\nDec\nNew concepts in DNA\
+      \ catalysis and RNA medicine\n报告人：Prof. Ruyi Zhu (朱如意) \n报告时间：2024年12月05日 16:00-17:30\
+      \   \n4\nDec\n变革性分子博士生学术论坛（第29期）\n报告人：李纳川、郑斯嘉、唐姗姗\n报告时间：2024年12月4日（星期三）14：00-17：00\n\
+      2\nDec\n光酶催化不对称合成\n报告人：黄小强 研究员南京大学\n报告时间：2024 年 12 月 02 日 15:00-17:00\n27\n\
+      Nov\n基于维生素 B6的仿生不对称催化\n报告人：赵宝国 教授 上海师范大学\n报告时间：2024 年 11 月 27 日 14:00-15:30\n\
+      27\nNov\n催化不对称还原加成反应\n报告人：陈宜峰教授 华东理工大学\n报告时间：2024年11月27日（星期三） 15:30-17:00\n\
+      首页上页12345...16下页尾页"
+    person: ''
+    time: ''
+    title: 学术会议
+  - address: ''
+    href: https://beian.miit.gov.cn/#/Integrated/index
+    info: '地址：上海市浦东新区张衡路429号
+
+      邮编：200240
+
+      沪ICP备20210169号 沪举报中心  版权所有©上海交通大学
+
+
+      教职工登陆
+
+      交通指南
+
+      实验室安全管理系统
+
+      中心微信号'
+    person: ''
+    time: ''
+    title: 沪ICP备20210169号
+  page_title: 讲座报告-变革性分子前沿科学中心
+  page_url: http://www.isee.zju.edu.cn/xsbg/list.htm
