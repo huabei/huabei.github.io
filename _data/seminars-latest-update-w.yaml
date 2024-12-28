@@ -1,163 +1,351 @@
 ﻿- page_info:
   - address: ''
-    href: https://cse.csu.edu.cn/index/xsxx.htm
-    info: ''
+    href: https://sps.bjmu.edu.cn/index.htm
+    info: 首页
     person: ''
     time: ''
-    title: ''
+    title: 首页
   - address: ''
-    href: https://cse.csu.edu.cn/info/1041/10134.htm
-    info: '联邦学习的安全与隐私保护探索
+    href: javascript:void(0)
+    info: '学院概况+
 
-      2024-12-25'
+      学院介绍
+
+      现任领导
+
+      历任领导
+
+      大事记
+
+      机构设置
+
+      学院委员会
+
+      奖励荣誉'
     person: ''
     time: ''
-    title: 联邦学习的安全与隐私保护探索
-  page_title: 学术信息-中南大学计算机学院
-  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+    title: 学院概况+
+  - address: ''
+    href: javascript:void(0)
+    info: '师资队伍+
+
+      杰出人才
+
+      创新团队
+
+      博士生导师
+
+      硕士生导师
+
+      在职教师
+
+      退休教师'
+    person: ''
+    time: ''
+    title: 师资队伍+
+  - address: ''
+    href: https://sps.bjmu.edu.cn/rcpy/bksjy/index.htm
+    info: '人才培养+
+
+      本科生教育
+
+      研究生教育
+
+      继续教育
+
+      教学成果'
+    person: ''
+    time: ''
+    title: 本科生教育
+  - address: ''
+    href: javascript:void(0)
+    info: '科学研究+
+
+      科学研究
+
+      重点实验室
+
+      仪器平台
+
+      科研获奖
+
+      代表性论文
+
+      专利
+
+      科研项目'
+    person: ''
+    time: ''
+    title: 科学研究+
+  - address: ''
+    href: javascript:void(0)
+    info: '党建工会+
+
+      党委工作
+
+      工会工作
+
+      老干部工作'
+    person: ''
+    time: ''
+    title: 党建工会+
+  - address: ''
+    href: javascript:void(0)
+    info: '学生园地+
+
+      学生党建
+
+      学生事务
+
+      团委
+
+      学生会
+
+      研究生会
+
+      班级风采
+
+      常用通知下载'
+    person: ''
+    time: ''
+    title: 学生园地+
+  - address: ''
+    href: http://www.pku.org.cn/
+    info: '校友之家+
+
+      北大校友会
+
+      医学部校友会
+
+      杰出校友
+
+      优秀校友
+
+      校友动态'
+    person: ''
+    time: ''
+    title: 北大校友会
+  - address: ''
+    href: https://www.gotopku.cn/
+    info: '招生招聘+
+
+      北大招生网
+
+      北医研究生招生网
+
+      北医本科生招生网
+
+      招聘信息
+
+      招生信息'
+    person: ''
+    time: ''
+    title: 北大招生网
+  - address: ''
+    href: javascript:void(0)
+    info: '院内信息+
+
+      院内通知
+
+      公示
+
+      文件下载
+
+      安全信息
+
+      实验室安全准入
+
+      制度建设
+
+      会议室预约'
+    person: ''
+    time: ''
+    title: 院内信息+
+  - address: ''
+    href: https://sps.bjmu.edu.cn/mtyx/index.htm
+    info: 媒体药学
+    person: ''
+    time: ''
+    title: 媒体药学
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/6cc2844619e64b48b364872b87cd2daf.htm
+    info: '2024.12.24
+
+      2024年药学创新交叉研讨会'
+    person: ''
+    time: ''
+    title: 2024年药学创新交叉研讨会
+  - address: ''
+    href: https://sps.bjmu.edu.cn/xsbg/e196b8926c924a6e900cbd8d1d7524e1.htm
+    info: '2024.12.24
+
+      分子结构进化与基因编辑工具开发'
+    person: ''
+    time: ''
+    title: 分子结构进化与基因编辑工具开发
+  page_title: 北京大学药学院
+  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/6413.htm
-    info: '学术报告
+    href: https://bicmr.pku.edu.cn/content/show/93-3537.html?catid=KiQhKyYs
+    info: 'Seminars and Colloquium
 
-      26
+      2025
 
-      DEC
+      Jan.02
 
-      Regulation of trafficking amidst change
+      Logic  |  Upcoming
 
-      18
+      Lang-Weil type estimates in finite difference fields
 
-      DEC
+      Speakers : Jinhe (Vincent) Ye (University of Oxford)
 
-      Lighting the Path to Discovery and Therapeutics: Optogenetics for Organelle
-      Me…
+      2025
 
-      18
+      Jan.02
 
-      DEC
+      Number Theory  |  Upcoming
 
-      Mini-Symposium
+      On Singularities and Ramification of Arthur Packets
 
-      29
+      Speakers : Emile Okada(National University of Singapore)
 
-      NOV
+      2024
 
-      Modeling the Function of Structural Variants in Human Cancer
+      Dec.30
 
-      28
+      PDE/Analysis  |  Upcoming
 
-      NOV
+      Local Enhancement of the Mean-field Approximation for Bosons
 
-      The Late Stages of Autophagy
+      Speakers : Jingxuan Zhang(Tsinghua University)
 
-      28
+      2024
 
-      NOV
+      Dec.26
 
-      空间解析免疫微环境：从组织到肿瘤
+      Postdoc Seminar
 
-      22
+      A Refinement of the Coherence Conjecture of Pappas-Rapoport
 
-      NOV
+      Speakers : Huanhuan Yu(BICMR)
 
-      走近芭蕾
+      2024
 
-      22
+      Dec.25
 
-      NOV
+      Operations Research
 
-      昆虫寄主适应性的遗传机制
+      A Mathematical Explanation of Unet
 
-      18
+      Speakers : Prof. Tai Xuecheng, Norwegian Research Center (NORCE), Bergen, Norway
 
-      NOV
+      2024
 
-      miRNA剂量调控的理论和应用
+      Dec.25
 
-      11
+      Number Theory
 
-      NOV
+      Nonabelian Fourier Kernels on SL_2 and GL_2
 
-      Coping with mechanical stress: tissue dynamics during development, homeostasis…
+      Speakers : Zhilin Luo (University of Chicago)
 
-      共48条 上页12345下页'
+      2024
+
+      Dec.25
+
+      Algebra
+
+      Rhombic Tableaux and Schubert Polynomials
+
+      Speakers : Wenze Zhang (The University of Minnesota)
+
+      2024
+
+      Dec.24
+
+      Colloquium
+
+      Decomposition of F-bundles and New Birational Invariants
+
+      Speakers : Tony Yue Yu (California Institute of Technology)
+
+      2024
+
+      Dec.24
+
+      Algebraic Geometry
+
+      Immersed Surfaces in Closed Hyperbolic 4-Manifolds
+
+      Speakers : Zhenghao Rao (Rutgers University-New Brunswick)
+
+      2024
+
+      Dec.24
+
+      Symplectic Geometry and Mathematical Physics
+
+      Quantum Groups as Global Symmetries
+
+      Speakers : Jiaxin Qiao (EPFL)
+
+      Pre12345678910Next
+
+      EVENTS
+
+      Conference
+
+      Mini-Course
+
+      Colloquium
+
+      Seminars
+
+      Algebra
+
+      Analysis Research Interaction Team
+
+      Algebraic Geometry
+
+      Applied & Computational Math
+
+      Bio-Math Seminar
+
+      Biostatistics
+
+      Computational Method
+
+      Dynamical Systems
+
+      Eastern Hemisphere Colloquium on Geometry and Physics
+
+      Geometric Analysis
+
+      Logic
+
+      Mathematical Imaging Science
+
+      Number Theory
+
+      Operations Research
+
+      PDE/Analysis
+
+      Postdoc Seminar
+
+      Probability and Stochastic Process
+
+      Representation Theory and Quantum Math
+
+      Symplectic Geometry and Mathematical Physics
+
+      Topology
+
+      Others'
     person: ''
     time: ''
-    title: Regulation of trafficking amidst change
-  - address: ''
-    href: https://life.tsinghua.edu.cn/info/1132/6404.htm
-    info: '学术报告
-
-      18
-
-      DEC
-
-      Lighting the Path to Discovery and Therapeutics: Optogenetics for Organelle
-      Me…
-
-      18
-
-      DEC
-
-      Mini-Symposium
-
-      29
-
-      NOV
-
-      Modeling the Function of Structural Variants in Human Cancer
-
-      28
-
-      NOV
-
-      The Late Stages of Autophagy
-
-      28
-
-      NOV
-
-      空间解析免疫微环境：从组织到肿瘤
-
-      22
-
-      NOV
-
-      走近芭蕾
-
-      22
-
-      NOV
-
-      昆虫寄主适应性的遗传机制
-
-      18
-
-      NOV
-
-      miRNA剂量调控的理论和应用
-
-      11
-
-      NOV
-
-      Coping with mechanical stress: tissue dynamics during development, homeostasis…
-
-      07
-
-      NOV
-
-      Deciphering Human Disease through Tandem Repeats and Epigenetic Liquid Biopsie…
-
-      共47条 上页12345下页'
-    person: ''
-    time: ''
-    title: 'Lighting the Path to Discovery and Therapeutics: Optogenetics for Organelle
-      Mechanobiology and Neuroprotection'
-  page_title: 学术报告-清华大学生命科学学院
-  page_url: https://life.tsinghua.edu.cn/xsbg.htm
-- page_info:
+    title: Logic
   - address: ''
     href: https://bicmr.pku.edu.cn/content/show/44-3536.html?catid=KiQhKyYs
     info: 'Seminars and Colloquium
@@ -484,63 +672,53 @@
   page_url: https://bicmr.pku.edu.cn/index/events2.html
 - page_info:
   - address: ''
-    href: http://www.cls.zju.edu.cn/clscn/2024/1226/c26342a3007215/page.htm
-    info: '学业领航 | 在创业和投资的路上如何发现与创造价值观
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/dynamicsystems/163772.htm
+    info: '30
 
-      【主讲人：王进】
+      Dec
 
-      时间：19:00
+      A countable partition for singular flows based on filtration structure: construction
+      and application
 
-      地点：生命科学学院123会议室
+      时间：2024-12-30 15:10-17:00
 
-      2024-12-28
-
-      查看详情+'
+      报告人: 杨佳刚 (Universidade Federal Fluminense)'
     person: ''
     time: ''
-    title: '学业领航 | 在创业和投资的路上如何发现与创造价值观
+    title: '30
 
-      【主讲人：王进】
+      Dec
 
-      时间：19:00
+      A countable partition for singular flows based on filtration structure: construction
+      and application
 
-      地点：生命科学学院123会议室
+      时间：2024-12-30 15:10-17:00
 
-      2024-12-28
-
-      查看详情+'
-  page_title: 活动预告
-  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
-- page_info:
+      报告人: 杨佳刚 (Universidade Federal Fluminense)'
   - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/163746.htm
-    info: '2024-12-25
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/zwbg/school/163766.htm
+    info: '06
 
-      【北京大学物理化学学术报告】凝聚态体系中的激发态动力学第一性原理计算研究'
+      Jan
+
+      School Colloquium——Restriction Estimates Using Decoupling Theorems and Incidence
+      Estimates for Tubes
+
+      时间：2025-01-06 14:00-15:00
+
+      报告人: 王虹 (纽约大学柯朗数学科学研究所)'
     person: ''
     time: ''
-    title: 【北京大学物理化学学术报告】凝聚态体系中的激发态动力学第一性原理计算研究
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/163745.htm
-    info: '2024-12-25
+    title: '06
 
-      【北京大学无机化学学术报告】AI Integration in Surface-Enhanced Raman Scattering for Predictive
-      Uses'
-    person: ''
-    time: ''
-    title: 【北京大学无机化学学术报告】AI Integration in Surface-Enhanced Raman Scattering for Predictive
-      Uses
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/163612.htm
-    info: '2024-12-20
+      Jan
 
-      【化学测量学前沿讲座】Advancing Proteomics with DNA Probes'
-    person: ''
-    time: ''
-    title: 【化学测量学前沿讲座】Advancing Proteomics with DNA Probes
-  page_title: 学术讲座_北京大学化学与分子工程学院
-  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
-- page_info:
+      School Colloquium——Restriction Estimates Using Decoupling Theorems and Incidence
+      Estimates for Tubes
+
+      时间：2025-01-06 14:00-15:00
+
+      报告人: 王虹 (纽约大学柯朗数学科学研究所)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/computationaandappliedmath/163724.htm
     info: '27
@@ -703,30 +881,147 @@
       时间：2025-01-08 16:00-17:00
 
       报告人: Yoshiyuki Kagei (Institute of Science Tokyo)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163620.htm
-    info: '26
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 忻宇辰（北京大学）'
-    person: ''
-    time: ''
-    title: '26
-
-      Dec
-
-      机器学习与数据科学博士生系列论坛（第八十二期）—— Lower Bounds for Log-concave Sampling
-
-      时间：2024-12-26 16:00-17:00
-
-      报告人: 忻宇辰（北京大学）'
   page_title: 北京大学数学学院
   page_url: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/index.htm
+- page_info:
+  - address: ''
+    href: https://cse.csu.edu.cn/index/xsxx.htm
+    info: ''
+    person: ''
+    time: ''
+    title: ''
+  - address: ''
+    href: https://cse.csu.edu.cn/info/1041/10134.htm
+    info: '联邦学习的安全与隐私保护探索
+
+      2024-12-25'
+    person: ''
+    time: ''
+    title: 联邦学习的安全与隐私保护探索
+  page_title: 学术信息-中南大学计算机学院
+  page_url: https://cse.csu.edu.cn/index/xsxx.htm
+- page_info:
+  - address: ''
+    href: https://life.tsinghua.edu.cn/info/1132/6413.htm
+    info: '学术报告
+
+      26
+
+      DEC
+
+      Regulation of trafficking amidst change
+
+      18
+
+      DEC
+
+      Lighting the Path to Discovery and Therapeutics: Optogenetics for Organelle
+      Me…
+
+      18
+
+      DEC
+
+      Mini-Symposium
+
+      29
+
+      NOV
+
+      Modeling the Function of Structural Variants in Human Cancer
+
+      28
+
+      NOV
+
+      The Late Stages of Autophagy
+
+      28
+
+      NOV
+
+      空间解析免疫微环境：从组织到肿瘤
+
+      22
+
+      NOV
+
+      走近芭蕾
+
+      22
+
+      NOV
+
+      昆虫寄主适应性的遗传机制
+
+      18
+
+      NOV
+
+      miRNA剂量调控的理论和应用
+
+      11
+
+      NOV
+
+      Coping with mechanical stress: tissue dynamics during development, homeostasis…
+
+      共48条 上页12345下页'
+    person: ''
+    time: ''
+    title: Regulation of trafficking amidst change
+  page_title: 学术报告-清华大学生命科学学院
+  page_url: https://life.tsinghua.edu.cn/xsbg.htm
+- page_info:
+  - address: ''
+    href: http://www.cls.zju.edu.cn/clscn/2024/1226/c26342a3007215/page.htm
+    info: '学业领航 | 在创业和投资的路上如何发现与创造价值观
+
+      【主讲人：王进】
+
+      时间：19:00
+
+      地点：生命科学学院123会议室
+
+      2024-12-28
+
+      查看详情+'
+    person: ''
+    time: ''
+    title: '学业领航 | 在创业和投资的路上如何发现与创造价值观
+
+      【主讲人：王进】
+
+      时间：19:00
+
+      地点：生命科学学院123会议室
+
+      2024-12-28
+
+      查看详情+'
+  page_title: 活动预告
+  page_url: http://www.cls.zju.edu.cn/clscn/26342/list.htm
+- page_info:
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/163746.htm
+    info: '2024-12-25
+
+      【北京大学物理化学学术报告】凝聚态体系中的激发态动力学第一性原理计算研究'
+    person: ''
+    time: ''
+    title: 【北京大学物理化学学术报告】凝聚态体系中的激发态动力学第一性原理计算研究
+  - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/163745.htm
+    info: '2024-12-25
+
+      【北京大学无机化学学术报告】AI Integration in Surface-Enhanced Raman Scattering for Predictive
+      Uses'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】AI Integration in Surface-Enhanced Raman Scattering for Predictive
+      Uses
+  page_title: 学术讲座_北京大学化学与分子工程学院
+  page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
   - address: ''
     href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJaF2qF2
@@ -912,45 +1207,8 @@
       2024-12-23
 
       13:00 — 14:00'
-  - address: ''
-    href: https://www.math.sjtu.edu.cn/Default/seminarshow/tags/MDAwMDAwMDAwMLGumJWGtKF2
-    info: '[偏微分方程] ZHOU ZHANG
-
-      LOW REGULARITY LIMIT OF KAHLER-RICCI FLOW
-
-      2024-12-23
-
-      15:30 — 16:30'
-    person: ''
-    time: ''
-    title: '[偏微分方程] ZHOU ZHANG
-
-      LOW REGULARITY LIMIT OF KAHLER-RICCI FLOW
-
-      2024-12-23
-
-      15:30 — 16:30'
   page_title: 上海交通大学数学科学学院
   page_url: https://www.math.sjtu.edu.cn/Default/seminar/
-- page_info:
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/6cc2844619e64b48b364872b87cd2daf.htm
-    info: '2024.12.24
-
-      2024年药学创新交叉研讨会'
-    person: ''
-    time: ''
-    title: 2024年药学创新交叉研讨会
-  - address: ''
-    href: https://sps.bjmu.edu.cn/xsbg/e196b8926c924a6e900cbd8d1d7524e1.htm
-    info: '2024.12.24
-
-      分子结构进化与基因编辑工具开发'
-    person: ''
-    time: ''
-    title: 分子结构进化与基因编辑工具开发
-  page_title: 北京大学药学院
-  page_url: https://sps.bjmu.edu.cn/xsbg/index.htm
 - page_info:
   - address: ''
     href: https://future.pku.edu.cn/xwyjz/jz/683aceaa92be4b87a5941e550332634c.htm
@@ -1056,58 +1314,6 @@
       2024年12月25日（星期三）9:00
 
       综合科研二号楼B117会议室'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/560569fa404b490a8817251a3d5388d5.htm
-    info: '讲座主题
-
-      声/光诊疗药物的基础和临床转化研究
-
-      刘仁发
-
-      主讲人博士
-
-      2024年12月27日 14:00-15:30
-
-      北京大学综合科研二号楼B117'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      声/光诊疗药物的基础和临床转化研究
-
-      刘仁发
-
-      主讲人博士
-
-      2024年12月27日 14:00-15:30
-
-      北京大学综合科研二号楼B117'
-  - address: ''
-    href: https://future.pku.edu.cn/xwyjz/jz/1cb54706d8e741e19c7779f26faf4c59.htm
-    info: '讲座主题
-
-      Genetically encoded fluorescent reporters for visu...
-
-      曹鹏
-
-      主讲人研究员
-
-      2024年12月31日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
-    person: ''
-    time: ''
-    title: '讲座主题
-
-      Genetically encoded fluorescent reporters for visu...
-
-      曹鹏
-
-      主讲人研究员
-
-      2024年12月31日（星期二）下午4:00-5:00
-
-      北京大学综合科研二号楼B117室'
   page_title: 北京大学未来技术学院
   page_url: https://future.pku.edu.cn/xwyjz/jz/index.htm
 - page_info:
