@@ -368,7 +368,7 @@
 
       电话：+86-10-62788604          地址：北京市海淀区清华大学生命学院
 
-      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7451896
+      电子邮箱：admin-life@tsinghua.edu.cn 总浏览数： 7456035
 
       版权所有©清华大学生命科学学院'
     person: ''
@@ -1289,15 +1289,23 @@
   page_url: https://eecs.pku.edu.cn/index/jzxx.htm
 - page_info:
   - address: ''
+    href: https://www.chem.pku.edu.cn/xzjz/164019.htm
+    info: '2025-01-10
+
+      【北京大学无机化学学术报告】Learning from Nature How to Make Solar Fuel'
+    person: ''
+    time: ''
+    title: 【北京大学无机化学学术报告】Learning from Nature How to Make Solar Fuel
+  - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/163947.htm
     info: '2025-01-07
 
-      【物理化学学术报告 】 Synthesis planning, mechanistic analysis and discovery of new reaction
-      classes in the age of computers'
+      【北京大学物理化学学术报告】 Synthesis planning, mechanistic analysis and discovery of new
+      reaction classes in the age of computers'
     person: ''
     time: ''
-    title: 【物理化学学术报告 】 Synthesis planning, mechanistic analysis and discovery of new
-      reaction classes in the age of computers
+    title: 【北京大学物理化学学术报告】 Synthesis planning, mechanistic analysis and discovery of
+      new reaction classes in the age of computers
   - address: ''
     href: https://www.chem.pku.edu.cn/xzjz/163797.htm
     info: '2024-12-30
@@ -1374,17 +1382,77 @@
     person: ''
     time: ''
     title: 【兴大报告679】三氟甲基化和五氟硫基化反应
-  - address: ''
-    href: https://www.chem.pku.edu.cn/xzjz/163407.htm
-    info: '2024-12-09
-
-      【北京大学物理化学学术报告】Mini-Workshop for Quantum Molecular Dynamics'
-    person: ''
-    time: ''
-    title: 【北京大学物理化学学术报告】Mini-Workshop for Quantum Molecular Dynamics
   page_title: 学术讲座_北京大学化学与分子工程学院
   page_url: https://www.chem.pku.edu.cn/xzjz/index.htm
 - page_info:
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163955.htm
+    info: '10
+
+      Jan
+
+      Minicourse——Mapping class groups and homeomorphism groups
+
+      时间：2025-01-10 15:10-17:00
+
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
+    person: ''
+    time: ''
+    title: '10
+
+      Jan
+
+      Minicourse——Mapping class groups and homeomorphism groups
+
+      时间：2025-01-10 15:10-17:00
+
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/163985.htm
+    info: '10
+
+      Jan
+
+      Geometry and Topology Seminar —— On the Lawson-Osserman conjecture on the minimal
+      surfaces system
+
+      时间：2025-01-10 09:30-10:30
+
+      报告人: Jonas Hirsch(University of Leipzig)'
+    person: ''
+    time: ''
+    title: '10
+
+      Jan
+
+      Geometry and Topology Seminar —— On the Lawson-Osserman conjecture on the minimal
+      surfaces system
+
+      时间：2025-01-10 09:30-10:30
+
+      报告人: Jonas Hirsch(University of Leipzig)'
+  - address: ''
+    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/163989.htm
+    info: '10
+
+      Jan
+
+      Geometry and Topology Seminar —— Rigidity and Flexibility of Isometric Embeddings
+
+      时间：2025-01-10 10:40-11:40
+
+      报告人: Dominik Inauen(University of Leipzig)'
+    person: ''
+    time: ''
+    title: '10
+
+      Jan
+
+      Geometry and Topology Seminar —— Rigidity and Flexibility of Isometric Embeddings
+
+      时间：2025-01-10 10:40-11:40
+
+      报告人: Dominik Inauen(University of Leipzig)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163951.htm
     info: '09
@@ -1395,7 +1463,7 @@
 
       时间：2025-01-09 15:10-17:00
 
-      报告人: 陈蕾（中科院数学所）'
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
     person: ''
     time: ''
     title: '09
@@ -1406,7 +1474,7 @@
 
       时间：2025-01-09 15:10-17:00
 
-      报告人: 陈蕾（中科院数学所）'
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/informationsciences/163825.htm
     info: '09
@@ -1431,72 +1499,6 @@
       时间：2025-01-09 16:00-17:00
 
       报告人: 王迩东（北京大学）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/topology/163955.htm
-    info: '10
-
-      Jan
-
-      Minicourse——Mapping class groups and homeomorphism groups
-
-      时间：2025-01-10 15:10-17:00
-
-      报告人: 陈蕾（中科院数学所）'
-    person: ''
-    time: ''
-    title: '10
-
-      Jan
-
-      Minicourse——Mapping class groups and homeomorphism groups
-
-      时间：2025-01-10 15:10-17:00
-
-      报告人: 陈蕾（中科院数学所）'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/163985.htm
-    info: '10
-
-      Jan
-
-      On the Lawson-Osserman conjecture on the minimal surfaces system
-
-      时间：2025-01-10 09:30-10:30
-
-      报告人: Jonas Hirsch(University of Leipzig)'
-    person: ''
-    time: ''
-    title: '10
-
-      Jan
-
-      On the Lawson-Osserman conjecture on the minimal surfaces system
-
-      时间：2025-01-10 09:30-10:30
-
-      报告人: Jonas Hirsch(University of Leipzig)'
-  - address: ''
-    href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/geometry/163989.htm
-    info: '10
-
-      Jan
-
-      Rigidity and Flexibility of Isometric Embeddings
-
-      时间：2025-01-10 10:40-11:40
-
-      报告人: Dominik Inauen(University of Leipzig)'
-    person: ''
-    time: ''
-    title: '10
-
-      Jan
-
-      Rigidity and Flexibility of Isometric Embeddings
-
-      时间：2025-01-10 10:40-11:40
-
-      报告人: Dominik Inauen(University of Leipzig)'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/163665.htm
     info: '08
@@ -1529,7 +1531,7 @@
 
       时间：2025-01-08 15:10-17:00
 
-      报告人: 陈蕾（中科院数学所）'
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
     person: ''
     time: ''
     title: '08
@@ -1540,7 +1542,7 @@
 
       时间：2025-01-08 15:10-17:00
 
-      报告人: 陈蕾（中科院数学所）'
+      报告人: 陈蕾（中国科学院数学与系统科学研究院数学研究所）'
   - address: ''
     href: https://www.math.pku.edu.cn/kxyj/xsbg/tlb/algebra/163737.htm
     info: '07
@@ -1852,7 +1854,7 @@
 
       The University of Sydney
 
-      2025-01-13 10:30, in 3 days
+      2025-01-13 10:30, in 2 days
 
       Theoretical Analysis of Neural Networks: Undetermined vs. Predetermined Weights
 
@@ -1860,7 +1862,7 @@
 
       阿卜杜拉国王科技大学(KAUST)
 
-      2025-01-03 10:30, 7 days ago
+      2025-01-03 10:30, 8 days ago
 
       A Partition Function Estimator
 
@@ -1868,7 +1870,7 @@
 
       The Chinese University of Hong Kong（Shenzhen）
 
-      2024-12-27 10:00, 14 days ago
+      2024-12-27 10:00, 15 days ago
 
       Data-efficient causal estimation: tackling new challenges through non-asymptotic
       lens
@@ -1877,7 +1879,7 @@
 
       Department of Statistical Sciences, University of Toronto
 
-      2024-12-18 10:00, 23 days ago
+      2024-12-18 10:00, 24 days ago
 
       Learning Neural Free-Energy Functionals for Classical Many-Body Systems
 
@@ -1898,6 +1900,13 @@
       近期新闻
 
       查看更多
+
+      Associate Professor Lin Yiwen was selected for the 9th "Future Female Scientist
+      Program".上海交通大学林怡雯副教授入选第九届“未来女科学家计划”
+
+      第九届未来女科学家计划拟表彰（支持）对象名单近日公示，上海交通大学林怡雯副教授入选，成为本届计划的拟支持对象之一。2024年10月，林怡雯已正式加入上海交通大学数学科学学院，任长聘教轨副教授。图片来自官方网站：中国科学技术协会（https://www.cast.org.cn/xw/tzgg/ZZRC/art/2025/art_8731007aa2cc48c492b6c2e204042aa3.html）“未来女科学家计划”由中国科协于2015年设立，是联合国教科文组织设立的“世界最具潜力女科学家奖”在中国的发展和延伸。该计划主要致力发现和培养从事基础科学、生命科学或计算机与信息等领域研究工作，表
+
+      2025-01-10
 
       Masaki Sano’s Group Discover Hidden Antisymmetric Forces in Active Nematics
       Through Integer Topological Defects 佐野雅己课题组通过整数拓扑缺陷发现活性向列系统中隐藏的反对称力
@@ -1933,13 +1942,7 @@
 
       1.研究背景2024年的诺贝尔化学奖奖励给了DeepMind，由于DeepMind团队开发的AlphaFold2解决了生物学上长达大半个世纪的难题，蛋白质序列到三维结构的预测。后Alphafold时代，蛋白质科学的关键问题是什么？一定是蛋白质功能，因为只有具备好的功能（高活性，高选择性，高稳定性）才能成为商业化的蛋白产品。然而蛋白质功能预测非常困难。一个常识是：一条蛋白质序列只要改变1%，获得的新蛋白95%活性大幅降低甚至完全没有生物功能，而用AlphaFold2去预测这些序列的结构基本没有变化。这表明蛋白质结构不等于功能，结构是功能的必要非充分条件，而且非常不充分。为了解决蛋白质功能预测。上
 
-      2024-11-28
-
-      校领导调研自然科学研究院
-
-      11月20日上午，上海交通大学党委书记杨振斌来到自然科学研究院调研，深入了解研究院发展状况和科研工作。自然科学研究院院领导班子、教职工代表，学校党政办相关负责同志参加调研活动。研究院院长金石作工作汇报，介绍研究院在基础研究、人才培养、应用研究、科研成果转化、国际合作与交流、科普教育等方面的工作进展和取得的成果，并对未来发展进行了展望。与会人员围绕研究院发展目标、学科交叉特色、科研平台建设规划等方面，深入探讨研究院发展面临的实际问题和挑战，并提出了建设性意见和建议。杨振斌认真听取各位教师的发言，对大家关心的问题作出回应并总结讲话。他充分肯定研究院取得的成绩，对研究院未来发展提出殷切期望。杨振斌强
-
-      2024-11-22'
+      2024-11-28'
     person: ''
     time: ''
     title: 查看更多
